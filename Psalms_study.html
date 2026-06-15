@@ -8,7 +8,7 @@
 
 <div class="retro-container" style="width: 100%; max-width: 1000px; margin: auto;">
 
-  <div style="font-size: 16px; margin-bottom: -5px; font-family: monospace;">
+  <div style="font-size: 16px; margin-bottom: 8px; font-family: monospace;">
     Introduction
   </div>
 
@@ -140,16 +140,14 @@
     statusText.innerText = v.label;
     
     // Update Content Window
-    const genreBar = (v.genre || v.parallelism) ? `<div style="font-size: 11px; font-family: monospace; color: #606060; margin-bottom: 6px;">${v.genre ? `<span class="tooltip" style="cursor:default;">${v.genre}<span class="tooltiptext">${genreTooltips[v.genre] || ''}</span></span>` : ''}${v.genre && v.parallelism ? ' &nbsp;&#183;&nbsp; ' : ''}${v.parallelism ? `<span class="tooltip" style="cursor:default;">${v.parallelism}<span class="tooltiptext">${parallelismTooltips[v.parallelism] || ''}</span></span>` : ''}</div>` : '';
+    const genreBar = (v.genre || v.parallelism) ? `<div class="genre-bar">${v.genre ? `<span class="tooltip" style="cursor:default;">${v.genre}<span class="tooltiptext">${genreTooltips[v.genre] || ''}</span></span>` : ''}${v.genre && v.parallelism ? ' &nbsp;&#183;&nbsp; ' : ''}${v.parallelism ? `<span class="tooltip" style="cursor:default;">${v.parallelism}<span class="tooltiptext">${parallelismTooltips[v.parallelism] || ''}</span></span>` : ''}</div>` : '';
     display.innerHTML = `
       <div style="display: flex; justify-content: space-between; align-items: flex-end">
-        <div>
-          <h2 style="margin-top: 0; font-family: 'EB Garamond', serif; line-height: 1; margin-bottom: 10px;">
-            ${v.title}
-          </h2>
-          ${genreBar}
-        </div>
-        ${v.image ? `<img src="${v.image}" height="70">` : ''}
+        <h2 style="margin: 0 0 8px 0; font-family: 'EB Garamond', serif; line-height: 1;">
+          ${v.title}
+        </h2>
+        ${genreBar}
+        ${v.image ? `<img src="${v.image}" height="70">` : '<div></div>'}
       </div>
       <hr class="retro-hr">
       <div style="font-size: 15px; line-height: 1.6; font-family: 'EB Garamond', serif;">

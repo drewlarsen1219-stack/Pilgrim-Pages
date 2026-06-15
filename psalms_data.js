@@ -46,7 +46,7 @@ The Lutheran lens is used here because it holds all three layers of the Psalms t
 <hr>
 <p><small><em>The Luther Rose &#8212; Martin Luther&#8217;s Personal Seal</em></small></p>
 <div style="display: flex; gap: 1.5em; align-items: center; margin-top: 0.75em;">
-  <img src="pics/new_seal.png" alt="The Luther Rose &#8212; Martin Luther&#8217;s personal seal" height="260" width="auto" style="flex-shrink: 0; mix-blend-mode: multiply; filter: drop-shadow(0 0 0.75px #000000) drop-shadow(0 0 0.75px #000000);" />
+  <img src="pics/new_seal.png" alt="The Luther Rose &#8212; Martin Luther&#8217;s personal seal" height="260" width="260" style="flex-shrink: 0; mix-blend-mode: multiply; border-radius: 50%; outline: 2px solid black; outline-offset: -7px; display: block;" />
   <div>
     <p>In 1530, Martin Luther explained the meaning of his seal in a letter to Lazarus Spengler. Every element carries doctrinal weight &#8212; it is not decoration but a compressed confession of the faith.</p>
     <p><strong>The black cross on the red heart</strong> &#8212; Faith in the Crucified saves us. The cross is black because it mortifies and brings pain &#8212; but the heart retains its natural color, because the cross does not destroy nature; it keeps alive. <em>&#8220;The just shall live by faith.&#8221;</em> <small>Romans 1:17</small></p>
@@ -64,6 +64,11 @@ The Lutheran lens is used here because it holds all three layers of the Psalms t
 <p><strong>Translation switcher</strong> &#8212; On verse study pages, a switcher lets you view the psalm text in ESV, KJV, NASB, or NIV. Comparing translations is one of the simplest ways to see where a word or phrase carries interpretive weight.</p>
 <p><strong>Cross-references</strong> &#8212; Underlined links within the pages jump to related sections. These connect verses, themes, or terms that bear on each other across the study.</p>
 <p><strong>Illustrations</strong> &#8212; Images appear throughout to make events, themes, and contexts from Scripture concrete. Each image is labeled and accompanied by explanatory text connecting it to the passage or concept being studied.</p>
+<hr>
+<p><strong>Study Progress</strong></p>
+<p>
+This study is a work in progress. Verse entries are complete through <strong>Psalm 6</strong>. Navigation beyond that point will find no content yet. New entries are added as the study advances. The introduction and all reference sections are complete and available in full.
+</p>
 </details>
 <details class="study-section">
 <summary>Luther's Preface to the Psalms</summary>
@@ -152,6 +157,25 @@ Within this structure the psalms are grouped by author, catchword, genre, and li
 <p>
 The result is a prayer book that transcends any single life. Because the psalms are not locked to a biographical sequence, they are available to every generation in every circumstance. A believer today can pray Psalm 6 in the same crisis David prayed it &#8212; because the psalm is not about David&#8217;s particular Tuesday. It is about the shape of the soul before God.
 </p>
+<hr>
+<p><strong>A Note on Psalm Numbering</strong></p>
+<p>
+This study follows the <span class="tooltip">Hebrew numbering<span class="tooltiptext">The numbering of the Psalms as they appear in the <em>Masoretic Text</em> &#8212; the authoritative Hebrew Bible established by Jewish scholars between the 6th and 10th centuries AD. Protestant Bibles (ESV, KJV, NASB, NIV, Luther Bible) all follow this numbering. It is the system used in academic biblical scholarship.</span></span>, which is the numbering found in all standard Protestant and Lutheran Bibles. The <span class="tooltip">Greek Septuagint<span class="tooltiptext">The Greek translation of the Hebrew Old Testament, produced in Alexandria between the 3rd and 1st centuries BC. Abbreviated LXX. The Septuagint was the Bible of the early Church and the Old Testament quoted most often by the New Testament authors. Its psalm numbering follows a different division of certain psalms than the Hebrew text.</span></span> and the Latin <span class="tooltip">Vulgate<span class="tooltiptext">The Latin translation of the Bible completed by Jerome around 405 AD, commissioned by Pope Damasus I. It became the standard Bible of the Western (Roman Catholic) Church for over a thousand years. Its psalm numbering follows the Septuagint rather than the Hebrew text.</span></span> number the Psalms differently &#8212; and Catholic and Eastern Orthodox Bibles follow that tradition.
+</p>
+<p>
+The difference arises from how two pairs of psalms are divided:
+</p>
+<ul>
+<li>Hebrew Psalms 9&#8211;10 are combined into a single psalm in the LXX (Psalm 9). This pushes every psalm from Psalm 10 onward one number lower in the LXX than in the Hebrew.</li>
+<li>Hebrew Psalm 147 is split into two psalms in the LXX (Psalms 146&#8211;147), which closes the gap at the end.</li>
+</ul>
+<p>
+The practical result: <strong>for most of the Psalter &#8212; roughly Psalms 10 through 146 &#8212; the Catholic or Orthodox number is one lower than the Protestant number.</strong> Psalm 23 in a Protestant Bible is Psalm 22 in a Catholic Bible. Psalm 51 is Psalm 50. Psalm 110 is Psalm 109.
+</p>
+<p>
+When reading a Church Father, a Catholic commentary, or an Eastern Orthodox source, the reader should expect this offset. It is not a different psalm &#8212; only a different counting convention. The content is the same.
+</p>
+<p><small>Quick reference: Hebrew 1&#8211;8 = LXX 1&#8211;8 &#183; Hebrew 9&#8211;10 = LXX 9 &#183; Hebrew 11&#8211;113 = LXX 10&#8211;112 &#183; Hebrew 114&#8211;115 = LXX 113 &#183; Hebrew 116 = LXX 114&#8211;115 &#183; Hebrew 117&#8211;146 = LXX 116&#8211;145 &#183; Hebrew 147 = LXX 146&#8211;147 &#183; Hebrew 148&#8211;150 = LXX 148&#8211;150</small></p>
 </details>
 <details class="study-section">
 <summary>Psalm Genres</summary>
@@ -200,6 +224,37 @@ Psalms of confession &#8212; the soul before God owning its sin, receiving judgm
 Psalms 120&#8211;134 form a distinct collection titled <span class="tooltip"><em>Shir HaMa&#8216;alot</em><span class="tooltiptext">&#x05E9;&#x05C1;&#x05B4;&#x05D9;&#x05E8; &#x05D4;&#x05DE;&#x05B7;&#x05BC;&#x05E2;&#x05B2;&#x05DC;&#x05D5;&#x05B9;&#x05EA; &#8212; literally &#8220;Song of the Goings-Up&#8221; or &#8220;Song of Ascents.&#8221; The most natural reading is that these were pilgrimage psalms, sung on the journey up to Jerusalem for the three annual festivals: Passover, Weeks, and Booths. The approach to Jerusalem required literal climbing &#8212; the city sits in the Judean highlands.</span></span> &#8212; Song of Ascents. These fifteen short psalms were sung by pilgrims traveling to Jerusalem for the three major festivals. They are poems of homecoming, of longing, of trust on the road, of arrival at the house of God. Together they trace the journey of a soul moving toward worship.
 </p>
 <p><small>Psalms 120&#8211;134. Psalm 121 (&#8220;I lift up my eyes to the hills&#8221;) and Psalm 130 (&#8220;Out of the depths I cry to you&#8221;) are among the most beloved in this collection.</small></p>
+<hr>
+<p><strong>Imprecatory</strong></p>
+<p>
+Psalms that call on God to judge, punish, or destroy the wicked. The word comes from the Latin <em>imprecari</em> &#8212; to invoke evil upon. These are the most theologically jarring passages in the Psalter. They include specific, graphic petitions: broken teeth, shattered nations, children dashed against rock. Modern readers often want to soften them, skip them, or dismiss them as sub-Christian. None of those responses is adequate.
+</p>
+<blockquote>
+<em>&#8220;O God, break the teeth in their mouths;<br>
+tear out the fangs of the young lions, O LORD!&#8221;</em><br>
+<small>Psalm 58:6</small>
+</blockquote>
+<blockquote>
+<em>&#8220;Blessed shall he be who takes your little ones<br>
+and dashes them against the rock!&#8221;</em><br>
+<small>Psalm 137:9</small>
+</blockquote>
+<p>
+Three things give these psalms their proper frame.
+</p>
+<p>
+<strong>First, they are prayers, not actions.</strong> The psalmist is not taking vengeance &#8212; he is handing judgment to God. The very act of crying out to God rather than acting is an acknowledgment that justice belongs to God alone. Paul quotes Deuteronomy 32:35 &#8212; &#8220;Vengeance is mine, I will repay, says the Lord&#8221; &#8212; precisely to forbid personal retaliation and redirect justice to God. <small>Romans 12:19</small> The imprecatory psalms do exactly this: they place the unbearable weight of unpunished evil in God&#8217;s hands. That is not the opposite of faith. It is faith.
+</p>
+<p>
+<strong>Second, they are cries for justice, not personal spite.</strong> Psalm 137 was written in Babylon. The Babylonians had not merely defeated Israel &#8212; they had slaughtered children, burned the Temple, and deported a people from the land God gave them. The psalmist does not pick up a sword. He prays. He asks that Babylon receive what Babylon gave. That is not cruelty &#8212; it is the demand that God be just, that wickedness not stand forever, that the powerful not devour the weak without consequence.
+</p>
+<p>
+<strong>Third, the New Testament does not abandon these psalms &#8212; it uses them.</strong> Psalm 69 is one of the most <span class="tooltip">messianically applied<span class="tooltiptext">Cited or interpreted in the New Testament as finding their fulfillment in Christ. Psalm 69 is quoted more frequently in the New Testament than any other psalm except Psalm 22 and Psalm 110.</span></span> psalms in the New Testament.<span id="cite-intro-5"><sup class="ref"><a href="#ref-intro-5">[5]</a></sup></span> Jesus quotes it from the cross: &#8220;I thirst&#8221; fulfills Psalm 69:21. John 2:17 applies Psalm 69:9 to Christ&#8217;s cleansing of the Temple. Peter quotes the imprecatory verse of Psalm 109 &#8212; &#8220;May his office another take&#8221; &#8212; to justify choosing a replacement for Judas. <small>Acts 1:20</small> The apostles did not edit out the judgment portions. They recognized them as part of the same Spirit-breathed text that promises mercy.
+</p>
+<p>
+<span id="cite-intro-6"><span class="tooltip">Luther<span class="tooltiptext">In his lectures on the Psalms (<em>Dictata super Psalterium</em>, 1513&#8211;1515) and later writings, Luther interpreted the imprecatory psalms as the voice of the Church under persecution, crying out for God&#8217;s vindication. He did not read them as the personal malice of the individual psalmist but as the just complaint of the people of God against sin, death, and the devil.</span></span> read the imprecatory psalms as the voice of the Church under persecution crying out for God&#8217;s judgment on evil itself &#8212; sin, death, the devil, and their instruments in history. They are not the expression of a private grudge. They are the prayer of the oppressed that God would be what He has declared Himself to be: a God of justice. The final answer to these prayers is not an army &#8212; it is the Last Day, when God will judge the living and the dead and all things will be made right.<sup class="ref"><a href="#ref-intro-6">[6]</a></sup></span>
+</p>
+<p><small>Principal imprecatory psalms: 35, 58, 69, 83, 109, 137, 140. Elements of imprecation appear throughout the Psalter in psalms otherwise classified under other genres.</small></p>
 </details>
 <details class="study-section">
 <summary>Hebrew Poetry</summary>
@@ -349,6 +404,8 @@ Several superscriptions specify the instruments that accompanied a psalm. <em>Ne
     <li id="ref-intro-2"><a href="#cite-intro-2" class="ref-back">&#x21A9;</a> Westminster Confession of Faith, Chapter VII: &#8220;Of God&#8217;s Covenant with Man&#8221; (1647) &#8212; the defining statement of Reformed covenant theology. It distinguishes the Covenant of Works (made with Adam, requiring perfect obedience) from the Covenant of Grace (administered through Christ, requiring faith). This framework organizes the entire biblical narrative under covenant categories; a psalm is read by asking which covenant it belongs to, rather than whether it kills or gives life in the Lutheran Law-Gospel sense. The Presbyterian, Dutch Reformed, and many Baptist confessions follow this structure.</li>
     <li id="ref-intro-3"><a href="#cite-intro-3" class="ref-back">&#x21A9;</a> Rashi (Rabbi Shlomo Yitzchaki, 1040&#8211;1105), <em>Commentary on Psalms</em> &#8212; the most influential medieval Jewish commentator on the Hebrew Bible. Rashi consistently reads the royal and suffering psalms as referring to David&#8217;s historical circumstances or to the nation of Israel collectively. Extreme suffering language (Psalm 22&#8217;s piercing imagery, Psalm 16&#8217;s deliverance from Sheol) is read as the heightened register of lament poetry or as representing Israel&#8217;s corporate experience in exile. See also Abraham ibn Ezra (1089&#8211;1167), whose Psalms commentary similarly anchors the language to the historical author and context rather than to messianic fulfillment.</li>
     <li id="ref-intro-4"><a href="#cite-intro-4" class="ref-back">&#x21A9;</a> <em>Dei Verbum</em> (Dogmatic Constitution on Divine Revelation), Vatican II, 1965, §9&#8211;10 &#8212; <em>&#8220;Sacred Tradition and Sacred Scripture form one sacred deposit of the word of God&#8230; The task of authentically interpreting the word of God, whether written or handed on, has been entrusted exclusively to the living teaching office of the Church.&#8221;</em> See also <em>Catechism of the Roman Catholic Church</em>, §80&#8211;83. The Roman Catholic position holds that Scripture and Tradition constitute a single source of revelation, and that the Magisterium alone has binding authority to interpret both. This differs from the Eastern Orthodox position, which also holds Tradition alongside Scripture but locates authority in Patristic consensus and Ecumenical Councils rather than in the office of Rome.</li>
+    <li id="ref-intro-5"><a href="#cite-intro-5" class="ref-back">&#x21A9;</a> New Testament citations of Psalm 69: John 2:17 (Ps 69:9 &#8212; zeal for the Temple); John 15:25 (Ps 69:4 &#8212; hated without cause); John 19:28&#8211;29 (Ps 69:21 &#8212; vinegar given to drink); Romans 11:9&#8211;10 (Ps 69:22&#8211;23 &#8212; table as snare); Romans 15:3 (Ps 69:9 &#8212; insults fell on Christ); Acts 1:20 (Ps 69:25 &#8212; his place made desolate, applied to Judas). Six distinct citations, drawn from both the mercy and the judgment portions of the same psalm. The apostles treated Psalm 69 as a unified prophecy of Christ, not selecting only the comfortable verses.</li>
+    <li id="ref-intro-6"><a href="#cite-intro-6" class="ref-back">&#x21A9;</a> Martin Luther, <em>First Lectures on the Psalms</em> (<em>Dictata super Psalterium</em>, 1513&#8211;1515), in <em>Luther&#8217;s Works</em>, Vol. 10: <em>Psalms 1&#8211;75</em> and Vol. 11: <em>Psalms 76&#8211;126</em> (St. Louis: Concordia, 1974&#8211;1976). See also <em>Operationes in Psalmos</em> (1519&#8211;1521), partially translated in <em>Luther&#8217;s Works</em>, Vol. 14. In both works Luther consistently interprets the imprecatory psalms through a Christological frame: the one crying out for judgment is ultimately Christ, in whom the Church prays. The psalms of vengeance are not expressions of personal malice but the just complaint of Christ and His Body against sin, death, and the devil &#8212; a complaint that will be answered on the Last Day.</li>
   </ol>
 </div>
 </details>`

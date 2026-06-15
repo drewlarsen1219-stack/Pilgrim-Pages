@@ -127,9 +127,17 @@ body {
 	align-items: flex-end;
 }
 
+.genre-bar {
+  font-size: 11px;
+  font-family: monospace;
+  color: #606060;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
 .tooltip {
   position: relative;
-  display: inline-block;  
+  display: inline-block;
   border-bottom: 1px dotted black;
   cursor: help;
 }
