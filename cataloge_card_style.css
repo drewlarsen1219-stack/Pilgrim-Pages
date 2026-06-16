@@ -385,3 +385,67 @@ blockquote.church-voice footer {
   direction: ltr;
   margin-top: 3px;
 }
+
+/* ── Verse/insight text blocks (also reading-mode targets) ── */
+.insight-box {
+  font-size: 16px;
+  margin: 0;
+  font-family: 'EB Garamond', serif;
+}
+
+.verse-text-block {
+  font-size: 15px;
+  line-height: 1.6;
+  font-family: 'EB Garamond', serif;
+}
+
+.verse-title {
+  margin: 0 0 8px 0;
+  font-family: 'EB Garamond', serif;
+  line-height: 1;
+}
+
+/* ── Reading Mode ── */
+.reading-mode #display-content,
+.reading-mode fieldset.inset-box {
+  background: #f7f1e3;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 16px;
+  border-radius: 4px;
+}
+
+.reading-mode .insight-box,
+.reading-mode .verse-text-block,
+.reading-mode .verse-title {
+  color: #3a2f25;
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+.reading-mode .insight-box,
+.reading-mode .verse-text-block {
+  font-size: 18px;
+  line-height: 1.9;
+}
+
+.reading-mode .verse-title {
+  font-size: 1.3em;
+}
+
+.reading-mode .verse-content {
+  font-size: 1.3em;
+  line-height: 1.9;
+}
+
+.reading-mode .image-text-row {
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.reading-mode .image-text-row img {
+  align-self: center;
+  width: auto;
+  max-width: 280px;
+  height: auto;
+  margin-bottom: 0.75em;
+}

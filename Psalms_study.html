@@ -29,8 +29,8 @@
 
   <fieldset class="inset-box" style="margin-top: 20px; padding: 10px">
     <legend style="font-size: 12px; padding: 0 5px; font-family: monospace; background: lightgrey">Insights, Notes & Commentary</legend>
-    <p style="font-size: 16px; margin: 0; font-family: 'EB Garamond', serif;">
-	  
+    <p class="insight-box">
+
 	  The Psalters often contain layers of meaning that aren't fully realized until later revelations by other inspired prophets. 
       Because all Scripture is Spirit-inspired and timeless, we can use later prophetic books to illuminate the depth of these ancient songs.
     </p>
@@ -49,7 +49,8 @@
 
     <div style="display: flex; gap: 8px;">
       <button id="prev-btn" class="retro-btn" disabled> Back </button>
-      <button id="next-btn" class="retro-btn" > Next </button> 
+      <button id="next-btn" class="retro-btn" > Next </button>
+      <button id="reading-mode-btn" class="retro-btn">Reading Mode: OFF</button>
     </div>
 
   </div>
@@ -143,14 +144,14 @@
     const genreBar = (v.genre || v.parallelism) ? `<div class="genre-bar">${v.genre ? `<span class="tooltip" style="cursor:default;">${v.genre}<span class="tooltiptext">${genreTooltips[v.genre] || ''}</span></span>` : ''}${v.genre && v.parallelism ? ' &nbsp;&#183;&nbsp; ' : ''}${v.parallelism ? `<span class="tooltip" style="cursor:default;">${v.parallelism}<span class="tooltiptext">${parallelismTooltips[v.parallelism] || ''}</span></span>` : ''}</div>` : '';
     display.innerHTML = `
       <div style="display: flex; justify-content: space-between; align-items: flex-end">
-        <h2 style="margin: 0 0 8px 0; font-family: 'EB Garamond', serif; line-height: 1;">
+        <h2 class="verse-title">
           ${v.title}
         </h2>
         ${genreBar}
         ${v.image ? `<img src="${v.image}" height="70">` : '<div></div>'}
       </div>
       <hr class="retro-hr">
-      <div style="font-size: 15px; line-height: 1.6; font-family: 'EB Garamond', serif;">
+      <div class="verse-text-block">
         ${v.text}
       </div>
     `;
@@ -194,9 +195,24 @@
     }
   });
 
+  /* READING MODE TOGGLE */
+  const readingModeBtn = document.getElementById('reading-mode-btn');
+  const retroContainer = document.querySelector('.retro-container');
+
+  function applyReadingMode(on) {
+    retroContainer.classList.toggle('reading-mode', on);
+    readingModeBtn.textContent = on ? 'Reading Mode: ON' : 'Reading Mode: OFF';
+    localStorage.setItem('pp_reading_mode', on ? 'on' : 'off');
+  }
+
+  readingModeBtn.addEventListener('click', () => {
+    applyReadingMode(!retroContainer.classList.contains('reading-mode'));
+  });
+
   // START EVERYTHING
   initNavigation();
   renderVerse();
+  applyReadingMode(localStorage.getItem('pp_reading_mode') === 'on');
 </script>
 
 </body>
