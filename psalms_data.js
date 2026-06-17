@@ -62,7 +62,7 @@ The Lutheran lens is used here because it holds all three layers of the Psalms t
 <p><strong>Tooltips</strong> &#8212; Terms with a dotted underline can be hovered (or tapped on mobile) to reveal a definition or explanation. Tooltips on Hebrew and Greek words include the original text, root form, transliteration, and grammatical notes. You do not need to know any Hebrew or Greek &#8212; the tooltip gives you what you need.</p>
 <p><strong>Scripture references</strong> &#8212; Inline citations appear in small text after a claim or quotation. These are not decorative &#8212; they mark the specific passage the point depends on. Look them up.</p>
 <p><strong>Translation switcher</strong> &#8212; On verse study pages, a switcher lets you view the psalm text in ESV, KJV, NASB, or NIV. Comparing translations is one of the simplest ways to see where a word or phrase carries interpretive weight.</p>
-<p><strong>Cross-references</strong> &#8212; Underlined links within the pages jump to related sections. These connect verses, themes, or terms that bear on each other across the study.</p>
+<p><strong>Footnotes</strong> &#8212; Numbered markers (e.g. <sup>[1]</sup>) within the text link to source citations at the bottom of the section. The &#x21A9; arrow in the references list links back to the passage that cited it.</p>
 <p><strong>Illustrations</strong> &#8212; Images appear throughout to make events, themes, and contexts from Scripture concrete. Each image is labeled and accompanied by explanatory text connecting it to the passage or concept being studied.</p>
 <hr>
 <p><strong>Study Progress</strong></p>
@@ -123,7 +123,7 @@ The Psalter often contains layers of meaning that aren&#8217;t fully realized un
 <hr>
 <p><small><em>Illustration &#8212; Mortal Author, Enduring Word</em></small></p>
 <div class="image-text-row" style="display: flex; gap: 1.5em; align-items: flex-start; margin-top: 0.75em;">
-  <img src="pics/Caravaggio_—_The_Martyrdom_of_Saint_Matthew.jpg" alt="The Martyrdom of Saint Matthew &#8212; Caravaggio" height="500" width="auto" style="border: 1px solid #888888; flex-shrink: 0;" />
+  <img src="pics/Caravaggio_—_The_Martyrdom_of_Saint_Matthew.jpg" alt="The Martyrdom of Saint Matthew &#8212; Caravaggio" height="500" width="auto" class="painting-large" style="border: 1px solid #888888; flex-shrink: 0;" />
   <div>
     <p>Caravaggio, <em>The Martyrdom of Saint Matthew</em>, 1599&#8211;1600.<br><br>An executioner strikes Matthew down as an angel descends with a palm frond &#8212; the symbol of martyrdom. Matthew reaches upward even in death. The Word he proclaimed and recorded outlasted the sword raised against him.</p>
     <p>Matthew lived and died in a specific moment in history. So did David. So did Moses, Asaph, and every other biblical author. Each one was a mortal person bound to their own time, circumstance, and language &#8212; yet the Holy Spirit worked through all of them, across centuries and vastly different conditions, to breathe out one living Word. The sword in this painting silenced Matthew the man. It could not silence what the Spirit had spoken through him. That is what it means for Scripture to be God-breathed &#8212; not that the authors floated above their humanity, but that the Holy Spirit moved through their humanity, and what He produced through them endures when they are gone.</p>
@@ -197,9 +197,24 @@ Most individual laments follow a recognizable structure: <strong>address</strong
 <hr>
 <p><strong>Hymn (Praise)</strong></p>
 <p>
-A direct, sustained address of praise to God &#8212; not for a specific deliverance (that is thanksgiving) but for who God is: His character, His power, His work in creation and history. The hymn typically opens with a call to praise, gives the reason for praise (introduced by &#8220;for&#8221; or &#8220;because&#8221;), and often closes by returning to the opening call. The reasons given are theological, not circumstantial &#8212; God is praised not because things are going well, but because He is God.
+A direct, sustained address of praise to God &#8212; not for a specific deliverance (see <strong>Thanksgiving</strong> below) but for who God is: His character, His power, His work in creation and history. The hymn typically opens with a call to praise, gives the reason for praise (introduced by &#8220;for&#8221; or &#8220;because&#8221;), and often closes by returning to the opening call. The reasons given are theological, not circumstantial &#8212; God is praised not because things are going well, but because He is God.
 </p>
 <p><small>Psalms 8, 19, 29, 33, 100, 104, 145&#8211;150</small></p>
+<hr>
+<p><strong>Thanksgiving</strong></p>
+<p>
+A psalm of gratitude for a specific, remembered act of God&#8217;s deliverance. Thanksgiving psalms are distinct from hymns: a hymn praises God for who He is in general &#8212; His character and power across all of history. A thanksgiving psalm praises God for what He did <em>here</em>, in this crisis, for this person. The difference is between stepping back to admire the whole canvas and pointing to one moment and saying: <em>that one saved me.</em>
+</p>
+<p>
+The Hebrew word is <span class="tooltip">todah<span class="tooltiptext"><span class="hebrew-text" dir="rtl">תּוֹדָה</span> (<em>todah</em>) &#8212; from the root <em>yadah</em>, to confess or acknowledge publicly. The <em>todah</em> offering (Leviticus 7:12&#8211;15) was accompanied by spoken testimony before the congregation &#8212; naming the crisis, the prayer, and the deliverance &#8212; so that others could hear and trust.</span></span> &#8212; public acknowledgment of what God has done. In Israel&#8217;s worship, the thanksgiving offering was not a silent transaction. It required spoken testimony before the gathered community, so that others could hear and trust.
+</p>
+<p>
+Thanksgiving psalms follow a recognizable movement: the <strong>crisis recalled</strong>, the <strong>cry that was prayed</strong>, the <strong>deliverance received</strong>, and the <strong>praise that follows</strong>. This movement is the inverse of lament &#8212; lament prays into an unresolved crisis looking forward; thanksgiving looks back at a resolved one. The psalmist has come through and now turns to name what God did. Psalm 30 is the clearest example: David passes from near-death to healing, from God&#8217;s hidden face to His restored favor &#8212; and then turns to tell the congregation. Psalm 116 follows the same arc: &#8220;I was brought low, and he saved me&#8221; &#8212; and now, publicly, before all His people, he lifts the cup of salvation and calls on the name of the LORD.
+</p>
+<p>
+The New Testament carries this tradition forward explicitly. Hebrews 13:15 calls for &#8220;a sacrifice of praise &#8212; the fruit of lips that acknowledge his name&#8221; &#8212; naming the Christian life itself as the fulfillment of the <em>todah</em> offering. And Christ&#8217;s institution of the Lord&#8217;s Supper, followed by singing a hymn (Matthew 26:30 &#8212; almost certainly the <span class="tooltip">Hallel<span class="tooltiptext">Psalms 113&#8211;118, sung at the Passover meal. <em>Hallel</em> means praise. These psalms move from Israel&#8217;s deliverance in Egypt (Ps 113&#8211;114) through trust in God (Ps 115&#8211;116) to universal praise (Ps 117&#8211;118). They end with Psalm 118: &#8220;The stone the builders rejected has become the cornerstone&#8221; &#8212; which Christ applies to Himself in Matthew 21:42.</span></span>, Psalms 113&#8211;118), places the Church&#8217;s central act of worship squarely in this tradition. The word <em>Eucharist</em> comes from the Greek <em>eucharistia</em> &#8212; thanksgiving.
+</p>
+<p><small>Psalms 30, 34, 41, 66, 92, 107, 116, 118, 138</small></p>
 <hr>
 <p><strong>Royal</strong></p>
 <p>
@@ -462,6 +477,30 @@ The Psalms return to the same handful of words again and again &#8212; not becau
 </ul>
 <hr>
 <p><small><strong>Selah</strong> is also one of the Psalter&#8217;s most frequently asked-about words &#8212; see <strong>Musical Terms and Superscriptions</strong> above for its full treatment.</small></p>
+</details>
+<details class="study-section">
+<summary>Further Reading</summary>
+<p>
+The resources below extend the study beyond what these pages cover. Each one is listed with a short note on what it gives you, so you can pick what fits where you are.
+</p>
+<hr>
+<p><strong>Verse-by-verse commentary</strong></p>
+<ul style="display:flex;flex-direction:column;gap:0.6em;">
+<li><strong>Derek Kidner</strong>, <em>Psalms</em> (Tyndale Old Testament Commentaries, 2 vols., 1973&#8211;1975) &#8212; The most useful single-author commentary for a serious lay reader. Compact, precise, and Christologically honest without forcing the text. Reads well alongside this study.</li>
+<li><strong>Martin Luther</strong>, <em>First Lectures on the Psalms</em> (<em>Dictata super Psalterium</em>, 1513&#8211;1515), in <em>Luther&#8217;s Works</em>, Vols. 10&#8211;11 &#8212; Luther&#8217;s own verse-by-verse engagement with the Psalms, foundational for the reading approach used here. Dense but rewarding. Start with Psalm 1 and follow him through it.</li>
+</ul>
+<hr>
+<p><strong>Prayer and devotion</strong></p>
+<ul style="display:flex;flex-direction:column;gap:0.6em;">
+<li><strong>Dietrich Bonhoeffer</strong>, <em>Psalms: The Prayer Book of the Bible</em> (1940, ~80 pages) &#8212; The best short book on how to actually pray the Psalms rather than just read about them. Written from a Lutheran perspective. Covers lament, praise, and the imprecatory psalms with unusual clarity. Read it in one sitting.</li>
+<li><strong>C.S. Lewis</strong>, <em>Reflections on the Psalms</em> (1958) &#8212; Not a commentary. Lewis works through the parts of the Psalter that trouble modern readers: the cursings, the apparent self-righteousness, the rawness of the laments. He is not a Lutheran &#8212; but he is honest, and the difficulties he raises are real ones worth wrestling with.</li>
+</ul>
+<hr>
+<p><strong>Hebrew poetry and literary structure</strong></p>
+<ul style="display:flex;flex-direction:column;gap:0.6em;">
+<li><strong>Robert Alter</strong>, <em>The Book of Psalms: A Translation with Commentary</em> (2007) &#8212; Already noted in the Hebrew Poetry section above. The most precise English-language treatment of how Hebrew verse works. His translation preserves the line structure of the Hebrew more faithfully than most English versions. Use it alongside your primary Bible.</li>
+<li><strong>Tremper Longman III</strong>, <em>How to Read the Psalms</em> (1988) &#8212; A short, readable guide to genre, structure, and interpretive method. Good starting point if the Hebrew Poetry section above opened questions you want to follow further.</li>
+</ul>
 </details>
 <details class="study-section">
 <summary>References</summary>

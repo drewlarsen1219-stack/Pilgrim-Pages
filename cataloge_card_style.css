@@ -245,11 +245,7 @@ sup.ref a:hover {
 /* ── References list at bottom of insight ── */
 .ref-list {
   background: #d0d0d0;
-  border-top: 1px solid #606060;
-  border-left: 1px solid #606060;
-  border-bottom: 1px solid #ffffff;
-  border-right: 1px solid #ffffff;
-  box-shadow: inset 1px 1px 3px rgba(0,0,0,0.18);
+  border: 1px solid #808080;
   padding: 8px 12px;
   margin-top: 15px;
   font-size: 0.88em;
@@ -448,4 +444,22 @@ blockquote.church-voice footer {
   max-width: 280px;
   height: auto;
   margin-bottom: 0.75em;
+}
+
+.reading-mode img.painting-large {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+}
+
+.reading-mode .ref-back {
+  color: #6b5840;
+}
+
+.reading-mode .ref-back:hover {
+  color: #3a2f25;
+}
+
+.reading-mode .ref-list li:target .ref-back {
+  color: #5a4a35;
 }
