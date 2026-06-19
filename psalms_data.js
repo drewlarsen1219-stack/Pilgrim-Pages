@@ -8,11 +8,9 @@
       title: "The Prayer Book of God's People",
 	  image: "lyre.png",
       text: `
-        <p>An anthology of hymns, laments, and songs of praise spanning many authors and centuries &#8212; the prayer book of God&#8217;s people. The Hebrew title, <span class="tooltip">Tehillim<span class="tooltiptext"><span style="font-size:1.4em;">תְּהִלִּים</span> &#8212; meaning &#8220;Praises.&#8221; Though lament dominates much of the interior, the collection ends in pure doxology &#8212; the title names the destination, not the journey.</span></span>, means &#8220;Praises.&#8221;</p>
+        <p>The Psalms are the prayer book of God&#8217;s people &#8212; 150 songs, laments, and hymns spanning many authors and centuries, gathered into the Hebrew Bible as the Psalter. This study examines them verse by verse: original language, theological context, parallel Scripture, and comparison of major translations, read from a confessional Lutheran perspective. Start with the how-to section below, or navigate to any psalm using the selectors above.</p>
         <p style="margin-top: 10px;">In English it is known as the <strong>Psalms</strong>, and also as the <strong>Psalter</strong> &#8212; a name derived from the <span class="tooltip"><em>Greek Psalterion</em><span class="tooltiptext">&#968;&#945;&#955;&#964;&#942;&#961;&#953;&#959;&#957; &#8212; a stringed instrument played by plucking. The Septuagint (Greek OT, c.&#160;250&#8211;100 BC) titled the collection <em>Psalmoi</em> (&#968;&#945;&#955;&#956;&#959;&#943;), meaning &#8220;songs sung to a plucked instrument.&#8221;</span></span> via the <span class="tooltip"><em>Latin Psalterium</em><span class="tooltiptext">The title used in Jerome&#8217;s Latin Vulgate (c.&#160;405 AD), which became standard across Western Christianity and carried directly into Lutheran liturgical use.</span></span>. Both names refer to the same book; <em>Psalter</em> simply carries a more <span class="tooltip">liturgical register<span class="tooltiptext">&#8220;Register&#8221; is a style of language tied to a specific context. A liturgical register is the formal, reverent language of public worship &#8212; prayers, creeds, and Scripture readings. &#8220;Psalter&#8221; belongs to this register; &#8220;Psalms&#8221; is its everyday English counterpart.</span></span>, favored in <span class="tooltip">liturgical<span class="tooltiptext">Relating to formal, ordered public worship &#8212; the rites, prayers, and patterns used in corporate gatherings of the church.</span></span> traditions such as Lutheran, Catholic, and Anglican.</p>
         <hr class="retro-hr" style="margin-top: 12px; margin-bottom: 10px;">
-        <p style="font-size: 11px; font-family: monospace; color: #606060; margin: 0 0 5px; letter-spacing: 0.05em; text-transform: uppercase;">Authors</p>
-        <p style="font-size: 14px; line-height: 1.8; margin: 0 0 14px;">David (73) &nbsp;&#183;&nbsp; Asaph (12) &nbsp;&#183;&nbsp; Sons of Korah (11) &nbsp;&#183;&nbsp; Solomon (2) &nbsp;&#183;&nbsp; Moses (1) &nbsp;&#183;&nbsp; Anonymous (~50)</p>
         <p style="font-size: 11px; font-family: monospace; color: #606060; margin: 0 0 6px; letter-spacing: 0.05em; text-transform: uppercase;">The Five Books</p>
         <table style="font-size: 13px; border-collapse: collapse; width: 100%; margin-bottom: 4px;">
           <tr style="border-bottom: 1px solid #c8c8c8;"><td style="padding: 4px 10px 4px 0; font-weight: bold; white-space: nowrap; color: #444;">Book I</td><td style="padding: 4px 10px; color: #666; white-space: nowrap;">Pss 1&#8211;41</td><td style="padding: 4px 0; line-height: 1.5;">Personal trust and lament; ends with doxology (41:13)</td></tr>
@@ -23,9 +21,27 @@
         </table>
       `,
       ref: "Selah Amen",
-      insight: `<p>The Psalms are the prayer book of God&#8217;s people &#8212; 150 songs, laments, and hymns spanning many authors and centuries, gathered into the Hebrew Bible as the Psalter. This study examines them verse by verse: original language, theological context, parallel Scripture, and comparison of major translations, read from a confessional Lutheran perspective. Start with the how-to section below, or navigate to any psalm using the selectors above.</p>
+      insight: `<details open class="study-section">
+<summary>How to Use These Pages</summary>
+<p><strong>Collapsible sections</strong> &#8212; Each topic is in its own expandable section. Click or tap the section header to open or close it. Sections can be read independently or in order.</p>
+<p><strong>Tooltips</strong> &#8212; Terms with a dotted underline can be hovered (or tapped on mobile) to reveal a definition or explanation. Tooltips on Hebrew and Greek words include the original text, root form, transliteration, and grammatical notes. You do not need to know any Hebrew or Greek &#8212; the tooltip gives you what you need.</p>
+<p><strong>Scripture references</strong> &#8212; Inline citations appear in small text after a claim or quotation. These are not decorative &#8212; they mark the specific passage the point depends on. Look them up.</p>
+<p><strong>Translation switcher</strong> &#8212; On verse study pages, a switcher lets you view the psalm text in ESV, KJV, NASB, or NIV. Comparing translations is one of the simplest ways to see where a word or phrase carries interpretive weight.</p>
+<p><strong>Footnotes</strong> &#8212; Numbered markers (e.g. <sup>[1]</sup>) within the text link to source citations at the bottom of the section. The &#x21A9; arrow in the references list links back to the passage that cited it.</p>
+<p><strong>Illustrations</strong> &#8212; Images appear throughout to make events, themes, and contexts from Scripture concrete. Each image is labeled and accompanied by explanatory text connecting it to the passage or concept being studied.</p>
+<hr>
+<p><strong>Study Progress</strong></p>
+<p>
+This study is a work in progress. Verse entries are complete through <strong>Psalm 6</strong>. Navigation beyond that point will find no content yet. New entries are added as the study advances. The introduction and all reference sections are complete and available in full.
+</p>
+</details>
 <details class="study-section">
 <summary>About This Study</summary>
+<p>An anthology of hymns, laments, and songs of praise spanning many authors and centuries &#8212; the prayer book of God&#8217;s people. The Hebrew title, <span class="tooltip">Tehillim<span class="tooltiptext"><span style="font-size:1.4em;">תְּהִלִּים</span> &#8212; meaning &#8220;Praises.&#8221; Though lament dominates much of the interior, the collection ends in pure doxology &#8212; the title names the destination, not the journey.</span></span>, means &#8220;Praises.&#8221;</p>
+<hr class="retro-hr" style="margin-top: 12px; margin-bottom: 10px;">
+<p style="font-size: 11px; font-family: monospace; color: #606060; margin: 0 0 5px; letter-spacing: 0.05em; text-transform: uppercase;">Authors</p>
+<p style="font-size: 14px; line-height: 1.8; margin: 0 0 14px;">David (73) &nbsp;&#183;&nbsp; Asaph (12) &nbsp;&#183;&nbsp; Sons of Korah (11) &nbsp;&#183;&nbsp; Solomon (2) &nbsp;&#183;&nbsp; Moses (1) &nbsp;&#183;&nbsp; Anonymous (~50)</p>
+<hr>
 <p>
 These pages are a verse-by-verse <span class="tooltip">exegetical<span class="tooltiptext">From exegesis &#8212; drawing the meaning out of the text itself through careful analysis of the original language, grammar, and historical context. The opposite of reading a meaning into the text that is not already there.</span></span> study of the Psalms. Each verse is examined word by word: Hebrew text with transliteration and grammatical analysis, covenantal and theological context, parallel passages from across Scripture, and comparison of major English translations. The goal is precision &#8212; to know exactly what is written, what it means, and why it matters.
 </p>
@@ -69,20 +85,6 @@ The Lutheran lens is used here because it holds all three layers of the Psalms t
     <p>This is the lens through which this study reads the Psalms: the cross at the center, the heart kept alive by it, joy in the promise, and hope fixed on what is coming.</p>
   </div>
 </div>
-</details>
-<details open class="study-section">
-<summary>How to Use These Pages</summary>
-<p><strong>Collapsible sections</strong> &#8212; Each topic is in its own expandable section. Click or tap the section header to open or close it. Sections can be read independently or in order.</p>
-<p><strong>Tooltips</strong> &#8212; Terms with a dotted underline can be hovered (or tapped on mobile) to reveal a definition or explanation. Tooltips on Hebrew and Greek words include the original text, root form, transliteration, and grammatical notes. You do not need to know any Hebrew or Greek &#8212; the tooltip gives you what you need.</p>
-<p><strong>Scripture references</strong> &#8212; Inline citations appear in small text after a claim or quotation. These are not decorative &#8212; they mark the specific passage the point depends on. Look them up.</p>
-<p><strong>Translation switcher</strong> &#8212; On verse study pages, a switcher lets you view the psalm text in ESV, KJV, NASB, or NIV. Comparing translations is one of the simplest ways to see where a word or phrase carries interpretive weight.</p>
-<p><strong>Footnotes</strong> &#8212; Numbered markers (e.g. <sup>[1]</sup>) within the text link to source citations at the bottom of the section. The &#x21A9; arrow in the references list links back to the passage that cited it.</p>
-<p><strong>Illustrations</strong> &#8212; Images appear throughout to make events, themes, and contexts from Scripture concrete. Each image is labeled and accompanied by explanatory text connecting it to the passage or concept being studied.</p>
-<hr>
-<p><strong>Study Progress</strong></p>
-<p>
-This study is a work in progress. Verse entries are complete through <strong>Psalm 6</strong>. Navigation beyond that point will find no content yet. New entries are added as the study advances. The introduction and all reference sections are complete and available in full.
-</p>
 </details>
 <details class="study-section">
 <summary>Luther's Preface to the Psalms</summary>
