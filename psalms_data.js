@@ -23,8 +23,9 @@
         </table>
       `,
       ref: "Selah Amen",
-      insight: `<details open class="study-section">
-<summary>About These Pages</summary>
+      insight: `<p>The Psalms are the prayer book of God&#8217;s people &#8212; 150 songs, laments, and hymns spanning many authors and centuries, gathered into the Hebrew Bible as the Psalter. This study examines them verse by verse: original language, theological context, parallel Scripture, and comparison of major translations, read from a confessional Lutheran perspective. Start with the how-to section below, or navigate to any psalm using the selectors above.</p>
+<details class="study-section">
+<summary>About This Study</summary>
 <p>
 These pages are a verse-by-verse <span class="tooltip">exegetical<span class="tooltiptext">From exegesis &#8212; drawing the meaning out of the text itself through careful analysis of the original language, grammar, and historical context. The opposite of reading a meaning into the text that is not already there.</span></span> study of the Psalms. Each verse is examined word by word: Hebrew text with transliteration and grammatical analysis, covenantal and theological context, parallel passages from across Scripture, and comparison of major English translations. The goal is precision &#8212; to know exactly what is written, what it means, and why it matters.
 </p>
@@ -68,8 +69,9 @@ The Lutheran lens is used here because it holds all three layers of the Psalms t
     <p>This is the lens through which this study reads the Psalms: the cross at the center, the heart kept alive by it, joy in the promise, and hope fixed on what is coming.</p>
   </div>
 </div>
-<hr>
-<p><strong>How to use these pages</strong></p>
+</details>
+<details open class="study-section">
+<summary>How to Use These Pages</summary>
 <p><strong>Collapsible sections</strong> &#8212; Each topic is in its own expandable section. Click or tap the section header to open or close it. Sections can be read independently or in order.</p>
 <p><strong>Tooltips</strong> &#8212; Terms with a dotted underline can be hovered (or tapped on mobile) to reveal a definition or explanation. Tooltips on Hebrew and Greek words include the original text, root form, transliteration, and grammatical notes. You do not need to know any Hebrew or Greek &#8212; the tooltip gives you what you need.</p>
 <p><strong>Scripture references</strong> &#8212; Inline citations appear in small text after a claim or quotation. These are not decorative &#8212; they mark the specific passage the point depends on. Look them up.</p>
