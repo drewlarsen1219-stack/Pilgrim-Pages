@@ -20,7 +20,7 @@
   </div>
 
   <fieldset class="inset-box" style="margin-top: 20px; padding: 10px">
-    <legend style="font-size: 12px; padding: 0 5px; font-family: monospace; background: lightgrey">Insights, Notes & Commentary</legend>
+    <legend style="font-size: 12px; padding: 0 5px; font-family: monospace; background: lightgrey">Notes & Commentary</legend>
     <p class="insight-box">
 
 	  The Psalters often contain layers of meaning that aren't fully realized until later revelations by other inspired prophets. 
@@ -28,9 +28,7 @@
     </p>
   </fieldset>
     
-  <hr class="retro-hr">
-
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-top: 12px;">
     
     <div style="display: flex; align-items: center; gap: 8px;">
       <label style="font-size: 12px; font-weight: bold; font-family: monospace;">Jump to:</label>
@@ -134,7 +132,7 @@
     statusText.innerText = v.label;
     
     // Update Content Window
-    const genreBar = (v.genre || v.parallelism) ? `<div class="genre-bar">${v.genre ? `<span class="tooltip" style="cursor:default;">${v.genre}<span class="tooltiptext">${genreTooltips[v.genre] || ''}</span></span>` : ''}${v.genre && v.parallelism ? ' &nbsp;&#183;&nbsp; ' : ''}${v.parallelism ? `<span class="tooltip" style="cursor:default;">${v.parallelism}<span class="tooltiptext">${parallelismTooltips[v.parallelism] || ''}</span></span>` : ''}</div>` : '';
+    const genreBar = (v.genre || v.parallelism) ? `<div class="genre-bar">${v.genre ? `<span class="tooltip tooltip-down" style="cursor:default;">${v.genre}<span class="tooltiptext">${genreTooltips[v.genre] || ''}</span></span>` : ''}${v.genre && v.parallelism ? ' &nbsp;&#183;&nbsp; ' : ''}${v.parallelism ? `<span class="tooltip tooltip-down" style="cursor:default;">${v.parallelism}<span class="tooltiptext">${parallelismTooltips[v.parallelism] || ''}</span></span>` : ''}</div>` : '';
     display.innerHTML = `
       <div style="display: flex; justify-content: space-between; align-items: flex-end">
         <h2 class="verse-title">
@@ -155,6 +153,7 @@
     // Toggle Button Disabled States
     prevBtn.disabled = (currentIndex === 0);
     nextBtn.disabled = (currentIndex === psalmData.length - 1);
+    nextBtn.textContent = (currentIndex === 0) ? 'Psalm 1 >>' : ' Next ';
   }
 
   /* BUTTON EVENT LISTENERS */

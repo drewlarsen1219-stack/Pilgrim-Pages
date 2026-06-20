@@ -28,7 +28,7 @@ hr {
 body {
   background-color: lightgrey; /* Matches your retro-container */
   margin: 0;                   /* Removes the default browser gap */
-  padding: 20px;               /* Optional: gives the window some breathing room */
+  padding: 8px 20px 20px;      /* Optional: gives the window some breathing room */
 
 }
 
@@ -36,7 +36,7 @@ body {
     font-family: "Tahoma", "Geneva", sans-serif;
     color: #000;
     background-color: lightgrey;
-    padding: 20px;
+    padding: 8px 20px 20px;
     /* No outer window border as requested */
   }
 
