@@ -41,52 +41,51 @@ body {
   }
 
 
-  /* Terminal Style Buttons */
+  /* Flat Terminal Buttons */
   .retro-btn {
-    background: #d0d0d0;
-    border-top: 2px solid #ffffff;
-    border-left: 2px solid #ffffff;
-    border-bottom: 2px solid #606060;
-    border-right: 2px solid #606060;
+    background: transparent;
+    border-top: 2px solid #e0e0e0;
+    border-left: 2px solid #e0e0e0;
+    border-bottom: 2px solid #777777;
+    border-right: 2px solid #777777;
     font-family: "Courier New", Courier, monospace;
     font-size: 13px;
     padding: 4px 12px;
     cursor: pointer;
-    color: #000;
+    color: #333;
   }
 
   .retro-btn:hover:not(:disabled) {
-    background: #e0e0e0;
+    color: #000;
     font-weight: bold;
+    border-top-color: #f0f0f0;
+    border-left-color: #f0f0f0;
+    border-bottom-color: #555;
+    border-right-color: #555;
   }
 
   .retro-btn:active:not(:disabled) {
-    border-top: 2px solid #606060;
-    border-left: 2px solid #606060;
-    border-bottom: 2px solid #ffffff;
-    border-right: 2px solid #ffffff;
-    background: #b8b8b8;
+    background: #e0e0e0;
     color: #000;
   }
 
   .retro-btn:disabled {
-    border-top: 2px solid #ffffff;
-    border-left: 2px solid #ffffff;
-    border-bottom: 2px solid #888;
-    border-right: 2px solid #888;
-    color: #888;
-    background: #d8d8d8;
+    border-color: #c0c0c0;
+    color: #aaa;
     cursor: not-allowed;
   }
 
-  /* Inset Style Selects */
+  /* Flat Terminal Selects */
   .retro-select {
-    background: #d8d8d8;
-    border: 2px solid;
-    border-color: #808080 #ffffff #ffffff #808080;
+    background: transparent;
+    border-top: 2px solid #777777;
+    border-left: 2px solid #777777;
+    border-bottom: 2px solid #e0e0e0;
+    border-right: 2px solid #e0e0e0;
     font-family: "Courier New", Courier, monospace;
     font-size: 13px;
-    padding: 2px;
+    padding: 2px 4px;
+    color: #333;
   }
 
   .retro-hr {
@@ -320,7 +319,7 @@ sup.ref a:hover {
 
 /* ── Collapsible study sections ── */
 details.study-section {
-  margin: 6px 0;
+  margin: 5px 0;
 }
 
 details.study-section > summary {
@@ -328,7 +327,7 @@ details.study-section > summary {
   font-size: 11px;
   color: #555;
   cursor: pointer;
-  padding: 3px 0;
+  padding: 4px 0;
   list-style: none;
   user-select: none;
   letter-spacing: 0.05em;
@@ -340,13 +339,123 @@ details.study-section > summary::-webkit-details-marker {
 }
 
 details.study-section > summary::before {
-  content: "▶ ";
-  font-size: 9px;
+  content: "+ ";
 }
 
 details.study-section[open] > summary::before {
-  content: "▼ ";
-  font-size: 9px;
+  content: "- ";
+}
+
+details.study-section > summary:hover {
+  color: #000;
+}
+
+details.study-section[open] > summary {
+  text-decoration: underline;
+}
+
+details.study-section[open] {
+  padding-bottom: 8px;
+  margin-bottom: 6px;
+  border-bottom: 1px solid #c0c0c0;
+}
+
+/* ── Group accordion (wraps groups of sections) ── */
+details.group-accordion {
+  margin: 0 0 8px;
+}
+
+details.group-accordion > summary {
+  font-family: "Courier New", monospace;
+  font-size: 11px;
+  font-weight: bold;
+  color: #333;
+  cursor: pointer;
+  padding: 5px 0 4px;
+  list-style: none;
+  user-select: none;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-bottom: 1px solid #c0c0c0;
+}
+
+details.group-accordion > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.group-accordion > summary::before {
+  content: "+ ";
+}
+
+details.group-accordion[open] > summary::before {
+  content: "- ";
+}
+
+details.group-accordion > summary:hover {
+  color: #000;
+}
+
+details.group-accordion > details.study-section {
+  padding-left: 10px;
+}
+
+.intro-sections {
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+.intro-sections .image-text-row {
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.intro-sections .image-text-row img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+#welcome-info-btn {
+  background: none;
+  border: none;
+  font-family: "Courier New", monospace;
+  font-size: 14px;
+  color: #808080;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 8px;
+}
+
+#welcome-info-btn:hover {
+  color: #333;
+}
+
+#welcome-dismiss-btn {
+  width: 100%;
+  background: transparent;
+  border: none;
+  font-family: "Courier New", monospace;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  padding: 7px 0;
+  cursor: pointer;
+  color: #333;
+}
+
+#welcome-dismiss-btn:hover {
+  color: #000;
+  font-weight: bold;
+}
+
+.section-group-label {
+  font-family: "Courier New", monospace;
+  font-size: 10px;
+  color: #808080;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin: 12px 0 2px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid #c0c0c0;
 }
 
 /* ── Church fathers / reformer quotes ── */

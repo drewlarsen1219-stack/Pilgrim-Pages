@@ -12,7 +12,9 @@
         <p style="margin: 5px 0 0;">Known in English as the <strong>Psalms</strong> and in formal worship as the <strong>Psalter</strong> &#8212; both names refer to the same book. Lutheran, Catholic, and Anglican traditions favor <em>Psalter</em> in their <span class="tooltip">liturgy<span class="tooltiptext">The ordered, formal pattern of public Christian worship &#8212; the prayers, Scripture readings, creeds, hymns, and sacraments that structure corporate gatherings of the Church.</span></span>.</p>
 		`,
       ref: "Selah Amen",
-      insight: `<p style="line-height: 1.4; margin-top: 0;">These pages open the Psalms one verse at a time &#8212; original language, theological context, and the witness of the Church across centuries. Browse the sections below, or press <strong>Psalm 1 &gt;&gt;</strong> to begin.</p>
+      insight: `<div class="intro-sections">
+<details class="group-accordion">
+<summary>Introduction</summary>
 <details class="study-section">
 <summary>How to Use These Pages</summary>
 <p><strong>Collapsible sections</strong> &#8212; Each topic is in its own expandable section. Click or tap the section header to open or close it. Sections can be read independently or in order.</p>
@@ -21,11 +23,6 @@
 <p><strong>Translation switcher</strong> &#8212; On verse study pages, a switcher lets you view the psalm text in ESV, KJV, NASB, or NIV. Comparing translations is one of the simplest ways to see where a word or phrase carries interpretive weight.</p>
 <p><strong>Footnotes</strong> &#8212; Numbered markers (e.g. <sup>[1]</sup>) within the text link to source citations at the bottom of the section. The &#x21A9; arrow in the references list links back to the passage that cited it.</p>
 <p><strong>Illustrations</strong> &#8212; Images appear throughout to make events, themes, and contexts from Scripture concrete. Each image is labeled and accompanied by explanatory text connecting it to the passage or concept being studied.</p>
-<hr>
-<p><strong>Study Progress</strong></p>
-<p>
-This study is a work in progress. Verse entries are complete through <strong>Psalm 6</strong>. Navigation beyond that point will find no content yet. New entries are added as the study advances. The introduction and all reference sections are complete and available in full.
-</p>
 </details>
 <details class="study-section">
 <summary>About This Study</summary>
@@ -41,7 +38,9 @@ The study is written from a <span class="tooltip">confessional<span class="toolt
 <p>
 <strong>Second</strong>, the <span class="tooltip"><strong>Christological</strong><span class="tooltiptext">Relating to Christ. A Christological reading identifies where a text speaks of Christ &#8212; either as prophecy fulfilled in him, or as language that only fits Christ and not its human author.</span></span><strong> reading of the Psalms is treated as the plain meaning of the text</strong>, not as a meaning imported from outside the text. Where David describes suffering he never died &#8212; bones disjointed, garments divided, abandoned by God &#8212; or a reign and resurrection that outstrips anything in his biography, the language is read as written: the Holy Spirit placed those words there about Christ, using David&#8217;s voice to speak of what was not David&#8217;s to bear &#8212; <span id="cite-intro-1">because Christ Himself said so.<sup class="ref"><a href="#ref-intro-1">[1]</a></sup></span>
 </p>
-<hr>
+</details>
+<details class="study-section">
+<summary>Why a Lutheran Reading?</summary>
 <p>
 A <span class="tooltip">Reformed<span class="tooltiptext">The Protestant theological tradition shaped by John Calvin and Huldrych Zwingli in the 16th century. Emphasizes God&#8217;s sovereignty, covenant theology, and election. Also called Calvinist. Major denominations include Presbyterian, Dutch Reformed, and many Baptist and evangelical churches.</span></span> reader would share the <span class="tooltip">grammatical-historical method<span class="tooltiptext">Reading a text according to what the words meant in their original language and historical context &#8212; asking what the author said, to whom, and what it would have meant to the original audience. The standard interpretive method in Protestant biblical scholarship.</span></span> but tends to organize Scripture under covenant categories (covenant of works and grace) rather than Law and Gospel &#8212; a framework that can soften the sharp distinction between what God demands and what God delivers.<span id="cite-intro-2"><sup class="ref"><a href="#ref-intro-2">[2]</a></sup></span>
 </p>
@@ -74,6 +73,9 @@ The Lutheran lens is used here because it holds all three layers of the Psalms t
   </div>
 </div>
 </details>
+</details>
+<details class="group-accordion">
+<summary>Theology</summary>
 <details class="study-section">
 <summary>Luther's Preface to the Psalms</summary>
 <p>
@@ -181,6 +183,9 @@ When reading a Church Father, a Catholic commentary, or an Eastern Orthodox sour
 </p>
 <p><small>Quick reference: Hebrew 1&#8211;8 = LXX 1&#8211;8 &#183; Hebrew 9&#8211;10 = LXX 9 &#183; Hebrew 11&#8211;113 = LXX 10&#8211;112 &#183; Hebrew 114&#8211;115 = LXX 113 &#183; Hebrew 116 = LXX 114&#8211;115 &#183; Hebrew 117&#8211;146 = LXX 116&#8211;145 &#183; Hebrew 147 = LXX 146&#8211;147 &#183; Hebrew 148&#8211;150 = LXX 148&#8211;150</small></p>
 </details>
+</details>
+<details class="group-accordion">
+<summary>Reading Tools</summary>
 <details class="study-section">
 <summary>Psalm Genres</summary>
 <p>
@@ -415,6 +420,9 @@ Appears only in Psalm 7&#8217;s superscription and in Habakkuk 3:1. Likely relat
 Several superscriptions specify the instruments that accompanied a psalm. <em>Neginoth</em> (<span class="hebrew-text" dir="rtl">נְגִינוֹת</span>) &#8212; stringed instruments (Psalms 4, 6, 54, 55, 67, 76). <em>Nehiloth</em> (<span class="hebrew-text" dir="rtl">נְחִילוֹת</span>) &#8212; likely wind instruments or flutes (Psalm 5 only). <em>Gittith</em> (<span class="hebrew-text" dir="rtl">גִּתִּית</span>) &#8212; possibly an instrument associated with the town of Gath, or a vintage melody (Psalms 8, 81, 84). Others specify a named tune: &#8220;The Doe of the Dawn&#8221; (Psalm 22), &#8220;Do Not Destroy&#8221; (Psalms 57&#8211;59, 75), &#8220;The Lily&#8221; (Psalms 45, 69). These were apparently well-known melodies to which psalm texts were set &#8212; the way a modern hymnal carries a tune name alongside the words. The melodies are lost. But the practice confirms that the Psalter was a living musical tradition, not a silent text.
 </p>
 </details>
+</details>
+<details class="group-accordion">
+<summary>Reference</summary>
 <details class="study-section">
 <summary>Key Terms and Phrases</summary>
 <p>
@@ -518,7 +526,9 @@ The resources below extend the study beyond what these pages cover. Each one is 
     <li id="ref-intro-6"><a href="#cite-intro-6" class="ref-back">&#x21A9;</a> Martin Luther, <em>First Lectures on the Psalms</em> (<em>Dictata super Psalterium</em>, 1513&#8211;1515), in <em>Luther&#8217;s Works</em>, Vol. 10: <em>Psalms 1&#8211;75</em> and Vol. 11: <em>Psalms 76&#8211;126</em> (St. Louis: Concordia, 1974&#8211;1976). See also <em>Operationes in Psalmos</em> (1519&#8211;1521), partially translated in <em>Luther&#8217;s Works</em>, Vol. 14. In both works Luther consistently interprets the imprecatory psalms through a Christological frame: the one crying out for judgment is ultimately Christ, in whom the Church prays. The psalms of vengeance are not expressions of personal malice but the just complaint of Christ and His Body against sin, death, and the devil &#8212; a complaint that will be answered on the Last Day.</li>
   </ol>
 </div>
-</details>`
+</details>
+</details>
+</div>`
     },
 
 	/* --- PSALM 1 --- */

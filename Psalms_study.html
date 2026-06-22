@@ -14,24 +14,21 @@
   <div style="font-size: 16px; margin-bottom: 8px; font-family: monospace;" id="status-label">
     Introduction
   </div>
+  <button id="welcome-info-btn" style="display:none;" title="About this study">&#x24D8;</button>
 
-  <div class="inset-box" style="padding: 5px; min-height: auto;">
+  <div id="verse-display-box" class="inset-box" style="padding: 5px; min-height: auto;">
     <div id="display-content"></div>
   </div>
 
-  <fieldset class="inset-box" style="margin-top: 20px; padding: 10px">
+  <fieldset id="insight-fieldset" class="inset-box" style="margin-top: 20px; padding: 10px">
     <legend style="font-size: 12px; padding: 0 5px; font-family: monospace; background: lightgrey">Notes & Commentary</legend>
-    <p class="insight-box">
-
-	  The Psalters often contain layers of meaning that aren't fully realized until later revelations by other inspired prophets. 
-      Because all Scripture is Spirit-inspired and timeless, we can use later prophetic books to illuminate the depth of these ancient songs.
-    </p>
+    <p class="insight-box"></p>
   </fieldset>
-    
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-top: 12px;">
+
+  <div id="nav-row" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-top: 24px;">
     
     <div style="display: flex; align-items: center; gap: 8px;">
-      <label style="font-size: 12px; font-weight: bold; font-family: monospace;">Jump to:</label>
+      <label style="font-size: 12px; font-weight: bold; font-family: monospace; letter-spacing: 0.15em;">Jump to:</label>
 <select id="psalm-select" class="retro-select"><option>Psalm 1</option></select>
 <select id="verse-select" class="retro-select"><option>Verse 1</option></select>
 <button id="go-btn" class="retro-btn" style="padding: 2px 8px;">Go</button>
@@ -45,6 +42,21 @@
 
   </div>
 
+</div>
+
+<div id="welcome-modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.45); z-index:1000; align-items:center; justify-content:center;">
+  <div style="background:#f0f0f0; border:2px solid #808080; padding:20px 24px; max-width:460px; width:90%; font-family:'Courier New',monospace; font-size:13px; position:relative; box-shadow:4px 4px 0 #505050;">
+    <button id="welcome-close-btn" style="position:absolute; top:6px; right:10px; background:none; border:none; font-size:20px; cursor:pointer; font-family:monospace; color:#555; line-height:1;">&#215;</button>
+    <p style="font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:#808080; margin:0 0 10px; padding-bottom:4px; border-bottom:1px solid #c0c0c0;">About This Study</p>
+    <p style="margin:0 0 14px; line-height:1.6;">These pages open the Psalms one verse at a time &#8212; original language, theological context, and the witness of the Church across centuries.</p>
+    <p style="font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:#808080; margin:0 0 3px;">Study Progress</p>
+    <p style="margin:0 0 14px;">Complete through <strong>Psalm 6</strong>. New entries added as the study advances.</p>
+    <p style="font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:#808080; margin:0 0 3px;">Last Updated</p>
+    <p style="margin:0 0 14px;">June 2026</p>
+    <p style="font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:#808080; margin:0 0 3px;">Contact</p>
+    <p style="margin:0 0 18px;"><a href="#" onclick="this.href='mailto:'+atob('ZHJld2xhcnNlbjEyMTlAZ21haWwuY29t');return false;" style="color:#333; text-decoration:underline;">Send a message</a></p>
+    <button id="welcome-dismiss-btn">[ GOT IT ]</button>
+  </div>
 </div>
 
 <script src="psalms_data.js"></script>
@@ -74,6 +86,8 @@
   const display = document.getElementById('display-content');
   const statusText = document.getElementById('status-label');
   const insightText = document.querySelector('fieldset p');
+  const welcomeModal = document.getElementById('welcome-modal');
+  const welcomeInfoBtn = document.getElementById('welcome-info-btn');
 
   /**
    * 1. INITIALIZE NAVIGATION
@@ -130,7 +144,28 @@
     
     // Update Status Label
     statusText.innerText = v.label;
-    
+    statusText.style.display = currentIndex === 0 ? 'none' : '';
+    welcomeInfoBtn.style.display = currentIndex === 0 ? 'inline-block' : 'none';
+
+    const displayBox = document.getElementById('verse-display-box');
+    const insightFieldset = document.getElementById('insight-fieldset');
+    const navRow = document.getElementById('nav-row');
+    if (currentIndex === 0) {
+      displayBox.style.maxWidth = '780px';
+      displayBox.style.margin = '0 auto';
+      insightFieldset.style.maxWidth = '780px';
+      insightFieldset.style.margin = '20px auto 0';
+      navRow.style.maxWidth = '780px';
+      navRow.style.margin = '24px auto 0';
+    } else {
+      displayBox.style.maxWidth = '';
+      displayBox.style.margin = '';
+      insightFieldset.style.maxWidth = '';
+      insightFieldset.style.margin = '';
+      navRow.style.maxWidth = '';
+      navRow.style.margin = '';
+    }
+
     // Update Content Window
     const genreBar = (v.genre || v.parallelism) ? `<div class="genre-bar">${v.genre ? `<span class="tooltip tooltip-down" style="cursor:default;">${v.genre}<span class="tooltiptext">${genreTooltips[v.genre] || ''}</span></span>` : ''}${v.genre && v.parallelism ? ' &nbsp;&#183;&nbsp; ' : ''}${v.parallelism ? `<span class="tooltip tooltip-down" style="cursor:default;">${v.parallelism}<span class="tooltiptext">${parallelismTooltips[v.parallelism] || ''}</span></span>` : ''}</div>` : '';
     display.innerHTML = `
@@ -205,6 +240,24 @@
   initNavigation();
   renderVerse();
   applyReadingMode(localStorage.getItem('pp_reading_mode') === 'on');
+
+  // WELCOME MODAL
+  function showWelcomeModal() { welcomeModal.style.display = 'flex'; }
+  function hideWelcomeModal() { welcomeModal.style.display = 'none'; }
+
+  document.getElementById('welcome-close-btn').addEventListener('click', () => {
+    hideWelcomeModal();
+    localStorage.setItem('pp_welcome_dismissed', 'true');
+  });
+  document.getElementById('welcome-dismiss-btn').addEventListener('click', () => {
+    hideWelcomeModal();
+    localStorage.setItem('pp_welcome_dismissed', 'true');
+  });
+  welcomeInfoBtn.addEventListener('click', showWelcomeModal);
+
+  if (localStorage.getItem('pp_welcome_dismissed') !== 'true') {
+    showWelcomeModal();
+  }
 </script>
 
 </body>
