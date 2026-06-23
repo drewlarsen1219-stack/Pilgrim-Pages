@@ -258,6 +258,24 @@
   if (localStorage.getItem('pp_welcome_dismissed') !== 'true') {
     showWelcomeModal();
   }
+
+  // FOOTNOTE BACK-LINKS — collapse References, scroll target to center, flash highlight
+  document.addEventListener('click', function(e) {
+    const link = e.target.closest('.ref-back');
+    if (!link) return;
+    const targetId = link.getAttribute('href').replace('#', '');
+    const target = document.getElementById(targetId);
+    if (!target) return;
+    e.preventDefault();
+    history.pushState(null, '', '#' + targetId);
+    const refDetails = link.closest('details.study-section');
+    if (refDetails) refDetails.open = false;
+    target.classList.remove('cite-flash-active');
+    void target.offsetWidth;
+    target.classList.add('cite-flash-active');
+    target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    setTimeout(() => target.classList.remove('cite-flash-active'), 3100);
+  });
 </script>
 
 </body>
