@@ -587,3 +587,30 @@ blockquote.church-voice footer {
 .reading-mode .ref-list li:target .ref-back {
   color: #5a4a35;
 }
+
+/* Touch-friendly tooltips: tap to toggle */
+.tooltip.tooltip-active .tooltiptext {
+  visibility: visible;
+}
+
+/* ── Mobile responsive ── */
+@media (max-width: 600px) {
+  body {
+    padding: 4px 8px 12px;
+  }
+  .retro-container {
+    padding: 4px 8px 12px;
+  }
+  .retro-btn {
+    min-height: 36px;
+    padding: 6px 10px;
+  }
+  .card-title-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+  .tooltip .tooltiptext {
+    width: 260px;
+  }
+}

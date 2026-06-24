@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Psalms Study</title>
 <link rel="stylesheet" href="cataloge_card_style.css">
 <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
@@ -27,7 +28,7 @@
 
   <div id="nav-row" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-top: 24px;">
     
-    <div style="display: flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
       <label style="font-size: 12px; font-weight: bold; font-family: monospace; letter-spacing: 0.15em;">Jump to:</label>
 <select id="psalm-select" class="retro-select"><option>Psalm 1</option></select>
 <select id="verse-select" class="retro-select"><option>Verse 1</option></select>
@@ -169,7 +170,7 @@
     // Update Content Window
     const genreBar = (v.genre || v.parallelism) ? `<div class="genre-bar">${v.genre ? `<span class="tooltip tooltip-down" style="cursor:default;">${v.genre}<span class="tooltiptext">${genreTooltips[v.genre] || ''}</span></span>` : ''}${v.genre && v.parallelism ? ' &nbsp;&#183;&nbsp; ' : ''}${v.parallelism ? `<span class="tooltip tooltip-down" style="cursor:default;">${v.parallelism}<span class="tooltiptext">${parallelismTooltips[v.parallelism] || ''}</span></span>` : ''}</div>` : '';
     display.innerHTML = `
-      <div style="display: flex; justify-content: space-between; align-items: flex-end">
+      <div class="card-title-row" style="display: flex; justify-content: space-between; align-items: flex-end">
         <h2 class="verse-title">
           ${v.title}
         </h2>
@@ -275,6 +276,16 @@
     target.classList.add('cite-flash-active');
     target.scrollIntoView({ behavior: 'smooth', block: 'center' });
     setTimeout(() => target.classList.remove('cite-flash-active'), 3100);
+  });
+
+  // Touch-friendly tooltips: tap to toggle, tap outside to close
+  document.addEventListener('click', function(e) {
+    if (e.target.closest('.tooltiptext')) return;
+    const tip = e.target.closest('.tooltip');
+    document.querySelectorAll('.tooltip.tooltip-active').forEach(t => {
+      if (t !== tip) t.classList.remove('tooltip-active');
+    });
+    if (tip) tip.classList.toggle('tooltip-active');
   });
 </script>
 
