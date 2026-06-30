@@ -13,7 +13,8 @@
 		`,
       ref: "Selah Amen",
       insight: `<div class="intro-sections">
-<p style="margin:0 0 5px; font-size:11px; color:#808080; letter-spacing:0.04em;">Click any heading below to expand it &#8212; try the example:</p>
+<button style="font-family:Courier New,monospace;font-size:13px;color:#808080;background:none;border:none;padding:0;cursor:pointer;margin-bottom:8px;" title="Click to see how the sections work" onclick="var d=document.getElementById('accordion-demo');if(d.style.display==='none'){d.style.display='block';}else{d.style.display='none';}">[?]</button>
+<div id="accordion-demo" style="display:none; margin-top:6px; margin-bottom:8px;">
 <details class="group-accordion">
 <summary>This is what a heading looks like &#8212; click to open</summary>
 <details class="study-section">
@@ -21,6 +22,7 @@
 <p style="margin:6px 0 0; font-size:12px;">This is what the content inside a subject looks like. Every heading in this panel works the same way.</p>
 </details>
 </details>
+</div>
 <hr style="border:none; border-top:1px solid #d0d0d0; margin:10px 0 8px;">
 <details class="group-accordion">
 <summary>Introduction</summary>
@@ -96,7 +98,7 @@ Each of these traditions either places an outside authority alongside the text &
 <details class="study-section">
 <summary>Luther's Preface to the Psalms</summary>
 <p>
-In 1528, Martin Luther wrote a preface to the Psalter for his German Bible translation. It is one of the most important short texts in the history of Christian biblical interpretation &#8212; not as academic commentary but as pastoral introduction. What Luther identifies in that preface shapes how this study reads the Psalms.
+In 1528, Martin Luther wrote a preface to the Psalter for his German Bible translation. It is one of the most important short texts in the history of Christian biblical interpretation &#8212; not as academic commentary but as pastoral introduction.
 </p>
 <hr>
 <p><strong>&#8220;A Little Bible&#8221;</strong></p>
@@ -104,7 +106,7 @@ In 1528, Martin Luther wrote a preface to the Psalter for his German Bible trans
 <em>&#8220;I hold the Psalter to be a little Bible and a summary of the Old Testament &#8212; a manual for all Christians. Whoever wants to see the whole of Scripture in a short form may read the Psalms.&#8221;</em>
 </blockquote>
 <p>
-By &#8220;little Bible,&#8221; Luther did not mean an abbreviated Bible. He meant that the Psalms compress the entire movement of Scripture into one book &#8212; creation, fall, covenant, law, promise, lament, trust, praise, and the coming of the Messiah. Every condition the human soul can be in before God is addressed somewhere in the Psalter. The Psalms span from the depths of abandonment (Psalm 22) to pure, unbroken joy (Psalm 150). Nothing of the soul&#8217;s life before God is outside their reach.
+By &#8220;little Bible,&#8221; Luther did not mean an abbreviated Bible. He meant that the Psalms compress the entire movement of Scripture into one book &#8212; creation, fall, covenant, law, promise, lament, trust, praise, and the coming of the Messiah. Every condition of the human soul before God is addressed somewhere in the Psalter. The Psalms span from the depths of abandonment (Psalm 22) to pure, unbroken joy (Psalm 150). Nothing of the soul&#8217;s life before God is outside the Psalter&#8217;s reach.
 </p>
 <hr>
 <p><strong>The Psalter Reveals the Hearts of the Saints</strong></p>
@@ -112,7 +114,7 @@ By &#8220;little Bible,&#8221; Luther did not mean an abbreviated Bible. He mean
 <em>&#8220;Where else do we find such words of joy as in the psalms of praise and thanksgiving? There you look into the hearts of all the saints as into a garden in full bloom &#8212; yes, as into heaven itself. And where do you find deeper, more sorrowful words of sadness than in the psalms of lamentation? There you look into the hearts of the saints as into death, yes, as into hell itself.&#8221;</em>
 </blockquote>
 <p>
-In most of Scripture, Luther observed, we hear <em>about</em> the saints &#8212; what they did, where they went, what happened to them. In the Psalms, we hear the saints speak <em>directly</em>. We enter their inner life. The Psalter does not show us David&#8217;s biography; it shows us David&#8217;s heart. And because the Holy Spirit formed those words to fit every human heart in every condition, a believer today enters the same words and finds that they fit.
+In most of Scripture, Luther observed, we hear <em>about</em> the saints &#8212; what they did, where they went, what happened to them. In the Psalms, we hear the saints speak. We enter their inner life. The Psalter does not show us David&#8217;s biography; it shows us David&#8217;s heart. And because the Holy Spirit formed those words to fit every human heart in every condition, a believer today enters the same words and finds that they fit.
 </p>
 <hr>
 <p><strong>The Psalms Give Us Words</strong></p>
@@ -120,7 +122,7 @@ In most of Scripture, Luther observed, we hear <em>about</em> the saints &#8212;
 Luther&#8217;s most pointed observation was this: the Psalter gives the believer the right words. Human beings left to themselves in prayer tend toward one of two failures &#8212; either they dress their prayers in artificial piety that does not match what they actually feel, or they do not pray at all because they cannot find the words. The Psalms solve both problems. They provide words tested in real suffering, real fear, real joy, and real faith &#8212; words already approved by the Holy Spirit, already proven across generations. A person who does not know how to pray need only open the Psalter and begin. The words will be right, even if the person is not.
 </p>
 <p>
-This is why Luther used the Psalms in personal devotion, in public worship, in catechesis, and in pastoral care. He did not treat them as ancient documents to be studied from a distance &#8212; he prayed them. This study follows that instinct: the notes and analysis exist to sharpen the reader&#8217;s hearing, not to replace the prayer.
+This is why Luther used the Psalms in personal devotion, in public worship, in catechesis, and in pastoral care. He did not treat them as ancient documents to be studied from a distance &#8212; he prayed them.
 </p>
 <hr>
 <p><strong>The Psalter Promises Christ</strong></p>
