@@ -83,7 +83,7 @@ Each of these traditions either places an outside authority alongside the text &
 <div class="image-text-row" style="display: flex; gap: 1.5em; align-items: center; margin-top: 0.75em;">
   <img src="pics/new_seal.png" alt="The Luther Rose &#8212; Martin Luther&#8217;s personal seal" height="260" width="260" style="flex-shrink: 0; mix-blend-mode: multiply; border-radius: 50%; outline: 2px solid black; outline-offset: -7px; display: block;" />
   <div>
-    <p>In 1530, Martin Luther explained the meaning of his seal in a letter to Lazarus Spengler. Every element carries doctrinal weight &#8212; it is not decoration but a compressed confession of the faith.</p>
+    <p>In 1530, <span class="tooltip">Martin Luther<span class="tooltiptext">German Augustinian monk, priest, and professor of theology at the University of Wittenberg (1483&#8211;1546). In 1517, his Ninety-Five Theses challenging the sale of indulgences ignited the Reformation. His central discovery &#8212; that a sinner is justified by grace through faith alone, not by works &#8212; reshaped Western Christianity. He translated the entire Bible into German so ordinary believers could read Scripture for themselves. The confessional Lutheran tradition traces its name and doctrine to his work.</span></span> explained the meaning of his seal in a letter to Lazarus Spengler. Every element carries doctrinal weight &#8212; it is not decoration but a compressed confession of the faith.</p>
     <p><strong>The black cross on the red heart</strong> &#8212; Faith in the Crucified saves us. The cross is black because it mortifies and brings pain &#8212; but the heart retains its natural color, because the cross does not destroy nature; it keeps alive. <em>&#8220;The just shall live by faith.&#8221;</em> <small>Romans 1:17</small></p>
     <p><strong>The white rose</strong> &#8212; Faith gives joy, comfort, and peace. The rose is white, not red, because white is the color of the spirits and angels. This is not the peace the world gives &#8212; it is Christ&#8217;s own peace, which the world cannot take away. <small>John 14:27</small></p>
     <p><strong>The sky-blue field</strong> &#8212; The joy of the Spirit and of faith is already a beginning of the heavenly joy to come. It is real now, grasped in hope, but not yet fully revealed.</p>
@@ -98,7 +98,7 @@ Each of these traditions either places an outside authority alongside the text &
 <details class="study-section">
 <summary>Luther's Preface to the Psalms</summary>
 <p>
-In 1528, Martin Luther wrote a preface to the Psalter for his German Bible translation. It is one of the most important short texts in the history of Christian biblical interpretation &#8212; not as academic commentary but as pastoral introduction.
+In 1528, <span class="tooltip">Martin Luther<span class="tooltiptext">German Augustinian monk, priest, and professor of theology at the University of Wittenberg (1483&#8211;1546). In 1517, his Ninety-Five Theses challenging the sale of indulgences ignited the Reformation. His central discovery &#8212; that a sinner is justified by grace through faith alone, not by works &#8212; reshaped Western Christianity. He translated the entire Bible into German so ordinary believers could read Scripture for themselves. The confessional Lutheran tradition traces its name and doctrine to his work.</span></span> wrote a preface to the Psalter for his German Bible translation. It is one of the most important short texts in the history of Christian biblical interpretation &#8212; not as academic commentary but as pastoral introduction.
 </p>
 <hr>
 <p><strong>&#8220;A Little Bible&#8221;</strong></p>
@@ -114,7 +114,7 @@ By &#8220;little Bible,&#8221; Luther did not mean an abbreviated Bible. He mean
 <em>&#8220;Where else do we find such words of joy as in the psalms of praise and thanksgiving? There you look into the hearts of all the saints as into a garden in full bloom &#8212; yes, as into heaven itself. And where do you find deeper, more sorrowful words of sadness than in the psalms of lamentation? There you look into the hearts of the saints as into death, yes, as into hell itself.&#8221;</em>
 </blockquote>
 <p>
-In most of Scripture, Luther observed, we hear <em>about</em> the saints &#8212; what they did, where they went, what happened to them. In the Psalms, we hear the saints speak. We enter their inner life. The Psalter does not show us David&#8217;s biography; it shows us David&#8217;s heart. And because the Holy Spirit formed those words to fit every human heart in every condition, a believer today enters the same words and finds that they fit.
+In most of Scripture, Luther observed, we hear <em>about</em> the saints &#8212; what they did, where they went, what happened to them. In the Psalms, we hear the saints speak: the Psalter does not show us David&#8217;s biography, it shows us David&#8217;s heart, and shows it at full strength. A psalm of praise carries a joy Luther can only compare to a garden in full bloom, to heaven itself. A psalm of lament carries a sorrow he can only compare to death, to hell itself. Nothing here has passed through a narrator&#8217;s summary &#8212; David speaks that joy or that sorrow himself, rather than someone else describing it for him.
 </p>
 <hr>
 <p><strong>The Psalms Give Us Words</strong></p>
