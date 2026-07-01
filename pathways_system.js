@@ -1528,6 +1528,9 @@ window.renderPathwaysNav = function renderPathwaysNav() {
   const nav = document.querySelector('.sidebar');
   if (!nav) return;
 
+  const sb = document.getElementById('sidebar-status');
+  if (sb) sb.classList.add('pathways-open');
+
   const recommended = getRecommendedPathways().slice(0, 3);
 
   let pathwayItems = '';
@@ -1564,7 +1567,8 @@ window.renderPathwaysNav = function renderPathwaysNav() {
     { label: 'Home',   action: 'vpGoHome()',              desc: 'Return to the landing page.'           },
     { label: 'Skills', action: 'renderSkillTracker()',    desc: 'View all domain scores and progress.'  },
     { label: 'About',  action: "showContent('about')",    desc: 'Information about the site and owner.' },
-    { label: 'Library',action: "showContent('library')",  desc: 'Collection of curated literature.'     }
+    { label: 'Library',action: "showContent('library')",  desc: 'Collection of curated literature.'     },
+    { label: 'General Guidance', action: "showContent('guidance')", desc: 'How to put pathways into a real calendar, with Claude Code as an example tool.' }
   ];
   const resourceItems = resourceDefs.map((item, idx) => {
     const isLast = idx === resourceDefs.length - 1;
@@ -1702,6 +1706,9 @@ window.vpGoHome = function() {
               </li>
               <li class="menu-item" data-desc="Collection of curated literature.">
                 <a href="javascript:void(0)" class="link-button" onclick="showContent('library')">Library</a>
+              </li>
+              <li class="menu-item" data-desc="How to put pathways into a real calendar, with Claude Code as an example tool.">
+                <a href="javascript:void(0)" class="link-button" onclick="showContent('guidance')">General Guidance</a>
               </li>
             </ul>
           </details>

@@ -229,6 +229,17 @@ summary:hover {
   display: none;
 }
 
+/* Once the sidebar has switched to the logged-in Pathways menu, the hint
+   arrow and welcome greeting (already shown in the page heading) are no
+   longer needed — retire them permanently instead of only on hover. */
+#sidebar-status.pathways-open::after {
+  display: none;
+}
+
+#sidebar-status.pathways-open #sidebar-welcome {
+  display: none;
+}
+
 #sidebar-status::after {
   content: "▽";
   position: absolute;

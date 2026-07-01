@@ -769,6 +769,34 @@ window.showContent = function showContent(section) {
         <p><strong>Expositions on Scripture</strong></p>
         <p><a href="Psalms_study.html" style="font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;font-size:1.15em;font-style:italic;letter-spacing:0.04em;">The Book of Psalms</a> &mdash; A verse-by-verse confessional Lutheran exposition of the Psalter by the same author as Pilgrim Pace. Hebrew grammar, covenantal theology, and Christological fulfillment &mdash; studied in order, updated as the work advances.</p>
       </div>`;
+  } else if (section === 'guidance') {
+    pane.innerHTML = `
+      <div class="assessment-container">
+        <p><strong>General Guidance</strong></p>
+        <p>A pathway tells you what to do. It does not hold you to it during the week. That is the job of a calendar &mdash; and most pathway tasks translate directly into a recurring calendar event.</p>
+        <hr>
+        <p><strong>Putting a pathway into Google Calendar</strong></p>
+        <p>Most pathway tasks are already written as a recurring commitment &mdash; "for 14 days," "for 4 weeks," "for 8 weeks." That maps directly onto a weekly recurring Google Calendar event, so build one event per task rather than a running to-do list:</p>
+        <p>&bull; Set it to repeat on the cadence the task names, at a specific time of day &mdash; not "sometime this week."<br>
+        &bull; Paste the pathway's own How To steps into the event description, so the event itself is the checklist and you don't need to reopen Pilgrim Pace mid-week.<br>
+        &bull; Use a popup reminder 10&ndash;15 minutes ahead, not email &mdash; it needs to interrupt you at the moment of action.<br>
+        &bull; If you're running pathways in more than one domain at once, color-code the events by domain so a glance at the week shows whether life is actually balanced or just busy.</p>
+        <hr>
+        <p><strong>Worked example: the Weekly Planning pathway</strong></p>
+        <p>The Time domain's <em>Weekly Planning</em> pathway asks you to "conduct a weekly planning session every Sunday for 4 weeks." In Google Calendar that becomes one recurring event &mdash; <em>Weekly Planning Session</em>, Sunday evening, 30 minutes &mdash; with the pathway's own guidance built into the description:</p>
+        <p>1. Review the previous week briefly &mdash; what did and did not happen?<br>
+        2. Review the coming week: obligations, appointments, deadlines.<br>
+        3. Identify the 3 most important things to accomplish &mdash; across life, not only work.<br>
+        4. Block time for them in the calendar before the week fills up.</p>
+        <p>The pathway's second task &mdash; protecting time for your top 3 priorities &mdash; isn't finished when the planning event ends. It's finished when those 3 priorities each have their own block later in the week. The planning session's whole purpose is to produce those 3 blocks before reactive tasks take the open time.</p>
+        <hr>
+        <p><strong>Using Claude Code alongside Pilgrim Pace</strong></p>
+        <p>Claude Code is a coding assistant that can also read files and talk to Google Calendar directly. A few ways it pairs with this system:</p>
+        <p>&bull; It can read an exported assessment file and work out which domains actually carry the most weight right now &mdash; weighing each domain's importance against its gap from 100, not just picking whichever score is lowest. That calculation is easy to get wrong by eye; a coding assistant runs it exactly, the same way the site itself does when it recommends a pathway.<br>
+        &bull; It can create the recurring calendar events a pathway calls for directly, in a real open slot, instead of you hand-building the recurrence rule and checking for conflicts yourself.<br>
+        &bull; It can remember a pathway's progress across weeks &mdash; what's in motion, what got dropped, what recurring commitments already exist &mdash; so a planning session doesn't start from zero.</p>
+        <p>None of that replaces the discipline a pathway is asking for. It removes the setup friction &mdash; the calendar work, the remembering &mdash; so the actual follow-through stays where it belongs.</p>
+      </div>`;
   }
 };
 
