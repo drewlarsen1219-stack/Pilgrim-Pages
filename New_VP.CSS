@@ -291,15 +291,26 @@ summary:hover {
 
 .seal-arrow,
 .seal-cross {
-  display: block;
-  font-family: "MS Gothic", "MS UI Gothic", monospace;
-  color: darkred;
-  font-size: 32px;
-  line-height: 0.95;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 34px;
 }
 
 .seal-cross {
-  margin-top: 3px;
+  margin-top: 4px;
+}
+
+.glyph-px {
+  display: inline-block;
+  font-family: "MS Gothic", "MS UI Gothic", monospace;
+  color: darkred;
+  font-size: 8px;
+  line-height: 1;
+  transform: scale(4);
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeSpeed;
 }
 
 .seal-label {
