@@ -266,16 +266,40 @@ summary:hover {
   z-index: 10;
 }
 
-#page-seal img {
-  width: 90px;
-  image-rendering: auto;
-  display: block;
+.seal-box {
+  width: fit-content;
+  margin: 0 auto;
+  padding: 4px;
+  background: #d4d0c8;
   border-top: 1px solid #808080;
   border-left: 1px solid #808080;
   border-right: 1px solid #ffffff;
   border-bottom: 1px solid #ffffff;
-  padding: 4px;
-  background: #d4d0c8;
+}
+
+.seal-mark {
+  width: 90px;
+  height: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 2px solid darkred;
+  box-sizing: border-box;
+}
+
+.seal-arrow,
+.seal-cross {
+  display: block;
+  font-family: "MS Gothic", "MS UI Gothic", monospace;
+  color: darkred;
+  font-size: 32px;
+  line-height: 0.95;
+}
+
+.seal-cross {
+  margin-top: 3px;
 }
 
 .seal-label {
