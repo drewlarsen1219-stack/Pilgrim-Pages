@@ -43,6 +43,14 @@
 
   </div>
 
+  <div id="condition-row" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 12px;">
+    <label style="font-size: 12px; font-weight: bold; font-family: monospace; letter-spacing: 0.15em;">Find a psalm for:</label>
+    <select id="condition-select" class="retro-select">
+      <option value="">Select a condition...</option>
+    </select>
+  </div>
+  <ul id="condition-results" class="ref-list" style="display:none; margin-top: 8px;"></ul>
+
 </div>
 
 <div id="welcome-modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.45); z-index:1000; align-items:center; justify-content:center;">
@@ -79,11 +87,14 @@
     "Synthetic": "The second line extends or completes the first — adding a result, a location, or carrying the thought forward.",
   };
   let currentIndex = 0;
+  let currentVersion = 'ESV';
   const nextBtn = document.getElementById('next-btn');
   const prevBtn = document.getElementById('prev-btn');
   const goBtn = document.getElementById('go-btn');
   const psalmSelect = document.getElementById('psalm-select'); // New selection
   const verseSelect = document.getElementById('verse-select');
+  const conditionSelect = document.getElementById('condition-select');
+  const conditionResults = document.getElementById('condition-results');
   const display = document.getElementById('display-content');
   const statusText = document.getElementById('status-label');
   const insightText = document.querySelector('fieldset p');
@@ -106,9 +117,81 @@
 
     // Listen for Psalm changes to update available Verses
     psalmSelect.addEventListener('change', updateVerseOptions);
-    
+
     // Set initial verses for Psalm 1
     updateVerseOptions();
+
+    initConditionFinder();
+  }
+
+  /**
+   * CONDITION FINDER
+   * Builds the "Find a psalm for..." dropdown from every unique tag
+   * in psalmData[].conditions, and renders a picker list on selection
+   * since more than one psalm can share the same condition.
+   */
+  function initConditionFinder() {
+    const allConditions = new Set();
+    psalmData.forEach(v => {
+      if (v.conditions) v.conditions.forEach(c => allConditions.add(c));
+    });
+
+    [...allConditions].sort().forEach(c => {
+      const opt = document.createElement('option');
+      opt.value = c;
+      opt.textContent = c.charAt(0).toUpperCase() + c.slice(1);
+      conditionSelect.appendChild(opt);
+    });
+
+    conditionSelect.addEventListener('change', () => {
+      const chosen = conditionSelect.value;
+      conditionResults.innerHTML = '';
+
+      if (!chosen) {
+        conditionResults.style.display = 'none';
+        return;
+      }
+
+      // One psalm can have several tagged verse entries; only list each psalm once.
+      const seenPsalms = new Set();
+      psalmData.forEach((v, idx) => {
+        if (!v.conditions || !v.conditions.includes(chosen)) return;
+        const psalmLabel = v.label.split(':')[0];
+        if (seenPsalms.has(psalmLabel)) return;
+        seenPsalms.add(psalmLabel);
+
+        const li = document.createElement('li');
+        li.innerHTML = `<a href="#" class="ref-back" style="cursor:pointer;">${psalmLabel}</a> — ${v.conditionAngle || v.title}`;
+        li.querySelector('a').addEventListener('click', (e) => {
+          e.preventDefault();
+          currentIndex = idx;
+          renderVerse();
+          expandPrayerSection();
+          conditionSelect.value = '';
+          conditionResults.style.display = 'none';
+        });
+        conditionResults.appendChild(li);
+      });
+
+      conditionResults.style.display = seenPsalms.size ? 'block' : 'none';
+    });
+  }
+
+  /**
+   * Auto-opens the psalm's "Prayer" accordion section (if it has one) in the
+   * Notes & Commentary box after jumping there via the condition finder.
+   * Most psalms don't have this section built out yet, so this is a no-op
+   * until a given entry's insight includes a details.study-section > summary "Prayer".
+   */
+  function expandPrayerSection() {
+    const sections = insightText.querySelectorAll('details.study-section');
+    sections.forEach(details => {
+      const summary = details.querySelector('summary');
+      if (summary && summary.textContent.trim() === 'Prayer') {
+        details.open = true;
+        details.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    });
   }
 
   /**
@@ -151,6 +234,7 @@
     const displayBox = document.getElementById('verse-display-box');
     const insightFieldset = document.getElementById('insight-fieldset');
     const navRow = document.getElementById('nav-row');
+    const conditionRow = document.getElementById('condition-row');
     if (currentIndex === 0) {
       displayBox.style.maxWidth = '780px';
       displayBox.style.margin = '0 auto';
@@ -158,14 +242,36 @@
       insightFieldset.style.margin = '20px auto 0';
       navRow.style.maxWidth = '780px';
       navRow.style.margin = '24px auto 0';
+      conditionRow.style.maxWidth = '780px';
+      conditionRow.style.margin = '12px auto 0';
+      conditionResults.style.maxWidth = '780px';
+      conditionResults.style.margin = '8px auto 0';
     } else {
       displayBox.style.maxWidth = '';
       displayBox.style.margin = '';
       insightFieldset.style.maxWidth = '';
-      insightFieldset.style.margin = '';
+      insightFieldset.style.margin = '20px 0 0 0';
       navRow.style.maxWidth = '';
-      navRow.style.margin = '';
+      navRow.style.margin = '24px 0 0 0';
+      conditionRow.style.maxWidth = '';
+      conditionRow.style.margin = '12px 0 0 0';
+      conditionResults.style.maxWidth = '';
+      conditionResults.style.margin = '8px 0 0 0';
     }
+
+    // Not every verse has the same set of version keys (e.g. Psalm 5:12 has MT, most others don't).
+    // If the currently selected version isn't offered here, fall back to ESV or the first available key.
+    if (v.versions && !v.versions[currentVersion]) {
+      currentVersion = v.versions['ESV'] ? 'ESV' : Object.keys(v.versions)[0];
+    }
+
+    const versionBar = v.versions ? `
+      <div style="display:flex; justify-content:flex-end; align-items:center; gap:6px; margin-bottom:4px;">
+        <label style="font-size:11px; font-family:monospace; color:#808080;">Version:</label>
+        <select class="retro-select version-select" style="font-size:11px; padding:1px 4px;">
+          ${Object.keys(v.versions).map(k => `<option value="${k}"${k === currentVersion ? ' selected' : ''}>${k}</option>`).join('')}
+        </select>
+      </div>` : '';
 
     // Update Content Window
     const genreBar = (v.genre || v.parallelism) ? `<div class="genre-bar">${v.genre ? `<span class="tooltip tooltip-down" style="cursor:default;">${v.genre}<span class="tooltiptext">${genreTooltips[v.genre] || ''}</span></span>` : ''}${v.genre && v.parallelism ? ' &nbsp;&#183;&nbsp; ' : ''}${v.parallelism ? `<span class="tooltip tooltip-down" style="cursor:default;">${v.parallelism}<span class="tooltiptext">${parallelismTooltips[v.parallelism] || ''}</span></span>` : ''}</div>` : '';
@@ -179,9 +285,19 @@
       </div>
       <hr class="retro-hr">
       <div class="verse-text-block">
+        ${versionBar}
         ${v.text}
       </div>
     `;
+
+    if (v.versions) {
+      display.querySelectorAll('[data-verse-swap]').forEach((div, i) => {
+        div.innerHTML = v.versions[currentVersion][i] || '';
+      });
+      display.querySelector('.version-select').addEventListener('change', function() {
+        switchVersion(this.value);
+      });
+    }
 
     // Update Insight Box
     insightText.innerHTML = v.insight;
@@ -190,6 +306,15 @@
     prevBtn.disabled = (currentIndex === 0);
     nextBtn.disabled = (currentIndex === psalmData.length - 1);
     nextBtn.textContent = (currentIndex === 0) ? 'Psalm 1 >>' : ' Next ';
+  }
+
+  function switchVersion(ver) {
+    currentVersion = ver;
+    const v = psalmData[currentIndex];
+    if (!v.versions || !v.versions[ver]) return;
+    display.querySelectorAll('[data-verse-swap]').forEach((div, i) => {
+      div.innerHTML = v.versions[ver][i] || '';
+    });
   }
 
   /* BUTTON EVENT LISTENERS */

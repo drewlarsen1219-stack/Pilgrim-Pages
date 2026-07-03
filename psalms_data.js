@@ -34,6 +34,7 @@
 <p><strong>Reading mode</strong> &#8212; A toggle button on verse study pages switches the display to a warm parchment background with larger serif text and wider line spacing &#8212; designed for extended reading sessions. Your preference is saved and restored on your next visit.</p>
 <p><strong>Footnotes</strong> &#8212; Numbered markers in the text link to source citations in the References section below. The &#x21A9; arrow links back. Try it: <span id="howto-cite-1" class="cite-anchor">the Psalms have been central to Christian worship since the earliest Church.<sup><a href="#howto-ref-1">[1]</a></sup></span> The citation is in the References section below &#8212; click <sup>[1]</sup> to jump there, then &#x21A9; to return here.</p>
 <p><strong>Illustrations</strong> &#8212; Images appear throughout to make events, themes, and contexts from Scripture concrete. Each image is labeled and accompanied by explanatory text connecting it to the passage or concept being studied.</p>
+<p><strong>Find a psalm for...</strong> &#8212; A dropdown on this page lets you search by condition &#8212; grief, fear, guilt, and others &#8212; rather than by psalm number. Selecting one lists every psalm that addresses it; choosing a result also opens that psalm&#8217;s Prayer section, a short prayer in plain words drawing on the same psalm.</p>
 </details>
 <details class="study-section">
 <summary>About This Study</summary>
@@ -53,18 +54,43 @@ The Law and Gospel distinction asks of every text whether it exposes sin &#8212;
 Psalm 6 moves through every arc. The Law is present from the first line without softening: &#8220;O LORD, rebuke me not in your anger&#8221; &#8212; sin exposed, judgment real, nothing offered in the psalmist&#8217;s defense. The confession comes without any claim: &#8220;Be gracious to me&#8221; &#8212; an appeal to God&#8217;s character alone. Seven verses of lament pass without resolution. Then absolution arrives as announcement, not reward: &#8220;The LORD has heard my plea; the LORD accepts my prayer.&#8221; The anger of verse 1 is not explained away &#8212; it is answered. God&#8217;s hearing of his plea was not earned &#8212; David brought no merit, only need. The Gospel answers in verse 4: God&#8217;s own grace &#8212; His steadfast love, given, not earned. What David confesses in verse 1, God forgives in verse 4.
 </p>
 </details>
+</details>
+<details class="group-accordion">
+<summary>Theology</summary>
+<details class="study-section">
+<summary>Scripture and Layers of Meaning</summary>
+<p>
+The Psalter often contains layers of meaning that aren&#8217;t fully realized until later revelations by other <span class="tooltip">inspired prophets<span class="tooltiptext">Biblical authors who came after David and received further revelation from the Holy Spirit &#8212; later Old Testament prophets and the New Testament apostles &#8212; who showed how earlier Scripture, including the Psalms, pointed toward Christ. Peter&#8217;s Pentecost sermon on Psalm 16 (Acts 2:25&#8211;31) is one example.</span></span>. The psalms are not merely the personal prayers of their human authors &#8212; they are the living Word of God, breathed out by the Holy Spirit and enduring across every generation.<span class="cite-anchor" id="cite-intro-e"><sup class="ref"><a href="#ref-intro-e">[e]</a></sup></span>
+</p>
+<hr>
+<p>The Psalter operates on at least three levels of meaning simultaneously.</p>
+<p><strong>The Historical Layer</strong> &#8212; Each psalm arose from a specific moment in history. David wrote Psalm 3 while fleeing Absalom. Psalm 137 was written in Babylonian captivity. These are real prayers from real people in real circumstances. This layer is the foundation and should not be bypassed in favor of abstract meaning.</p>
+<p><strong>The Typological Layer</strong> &#8212; The Psalms are <span class="tooltip">prophetic texts<span class="tooltiptext">Texts in which the Holy Spirit, working through a human author, embedded meaning that points beyond the author's own time and experience — often toward events or persons the author could not fully see.</span></span>. The Holy Spirit, as the true author behind the human author, often intended more than the human author himself understood.<span class="cite-anchor" id="cite-intro-f"><sup class="ref"><a href="#ref-intro-f">[f]</a></sup></span> The evidence is the gap between what was written and what the human author ever lived through. They are writing about a life that is not their own. David described suffering in Psalm 22 &#8212; <em>&#8220;They have pierced my hands and my feet&#8221;</em> &#8212; yet David was never crucified. David wrote words that described a death he never died. The text does not fit the writer. That gap is not an accident. It is the Holy Spirit writing through David about a suffering that was not David&#8217;s to bear. The typological layer is simply this: recognizing that the words are bigger than their human author.</p>
+<hr>
+<p><small><em>Illustration &#8212; Mortal Author, Enduring Word</em></small></p>
+<div class="image-text-row" style="display: flex; gap: 1.5em; align-items: flex-start; margin-top: 0.75em;">
+  <img src="pics/Caravaggio_—_The_Martyrdom_of_Saint_Matthew.jpg" alt="The Martyrdom of Saint Matthew &#8212; Caravaggio" height="500" width="auto" class="painting-large" style="border: 1px solid #888888; flex-shrink: 0;" />
+  <div>
+    <p>Caravaggio, <em>The Martyrdom of Saint Matthew</em>, 1599&#8211;1600.<br><br>An executioner strikes Matthew down as an angel descends with a palm frond &#8212; the symbol of martyrdom. Matthew reaches upward even in death. The Word he proclaimed and recorded outlasted the sword raised against him.</p>
+    <p>Matthew lived and died in a specific moment in history. So did David. So did Moses, Asaph, and every other biblical author. Each one was a mortal person bound to their own time, circumstance, and language &#8212; yet the Holy Spirit worked through all of them, across centuries and vastly different conditions, to breathe out one living Word. The sword in this painting silenced Matthew the man. It could not silence what the Spirit had spoken through him. That is what it means for Scripture to be God-breathed &#8212; not that the authors floated above their humanity, but that the Holy Spirit moved through their humanity, and what He produced through them endures when they are gone.</p>
+  </div>
+</div>
+<hr>
+<p><strong>The Christological Layer</strong> &#8212; Christ is what the Holy Spirit&#8217;s words in the first two layers point to: His death, His burial, His resurrection, His eternal reign. At <span class="tooltip">Pentecost<span class="tooltiptext">The Jewish harvest festival (Feast of Weeks), celebrated fifty days after Passover. On this day (Acts 2), the Holy Spirit descended on the apostles in Jerusalem, empowering them to preach the gospel publicly for the first time. Peter&#8217;s sermon that day is recorded in Acts 2:14&#8211;41.</span></span>, Peter preaches from Psalm 16: <em>&#8220;You will not abandon my soul to Hades.&#8221;</em> His argument is simple &#8212; David died, was buried, and his own soul did rest in Hades. The psalm cannot be describing David. It is describing the resurrection of Christ.<span class="cite-anchor" id="cite-intro-b"><sup class="ref"><a href="#ref-intro-b">[b]</a></sup></span> Jesus Himself quotes Psalm 22 from the cross, fulfilling in His own body the suffering David wrote of but never experienced.<span class="cite-anchor" id="cite-intro-c"><sup class="ref"><a href="#ref-intro-c">[c]</a></sup></span> The Christological layer is simply this: the One these words were written about has now spoken them Himself. The third layer does not replace the first two; it completes them.</p>
+<p>Christ Himself demonstrated reading the Psalms through all three layers. Luke 24:44&#8211;45 records Him enabling His disciples to understand that the Law, the Prophets, and the Psalms were written about Him. The three-layer reading did not begin with the Church &#8212; Christ taught it, and the apostles received it. Reading the Psalter this way is <span class="tooltip">exegesis<span class="tooltiptext"><em>ek-suh-JEE-sis</em><br>Drawing the meaning out of the text itself through careful analysis of the original language, grammar, and historical context &#8212; the opposite of eisegesis.</span></span>, not <span class="tooltip">eisegesis<span class="tooltiptext"><em>eye-suh-JEE-sis</em><br>Reading a meaning into the text from outside &#8212; importing an interpretation the text itself does not support, rather than drawing out what the text actually says. The opposite of exegesis.</span></span> &#8212; it is reading the Psalms the way Christ taught His disciples to read them.</p>
+</details>
 <details class="study-section">
 <summary>Why a Lutheran Reading?</summary>
 <p>
-The <span class="tooltip">Christological<span class="tooltiptext">Relating to Christ or pointing toward him. A Christological reading treats a passage as speaking of Christ&#8217;s person, work, or offices &#8212; whether or not the human author understood it that way. In the Psalms, passages are Christological when the Holy Spirit wrote through David about what only Christ would experience: crucifixion, resurrection, an eternal reign.</span></span> reading of the Psalms is not unique to the confessional Lutheran tradition &#8212; Orthodox, Catholic, and many evangelical readers also read certain psalms as speaking of Christ. The distinction is not <em>that</em> certain psalms speak of Christ &#8212; but what determines <em>which</em> ones do, and <em>how</em>. That authority is Scripture alone &#8212; no council, tradition, or theological grid alongside it. This is not merely a confessional position &#8212; it is the method Christ himself used: he interpreted the Psalms to his disciples as written about himself, from the text alone &#8212; not from what centuries of commentary had built up around it.</p>
+The <span class="tooltip">Christological<span class="tooltiptext">Relating to Christ or pointing toward him. A Christological reading treats a passage as speaking of Christ&#8217;s person, work, or offices &#8212; whether or not the human author understood it that way. In the Psalms, passages are Christological when the Holy Spirit wrote through David about what only Christ would experience: crucifixion, resurrection, an eternal reign.</span></span> reading of the Psalms is not unique to the confessional Lutheran tradition &#8212; Orthodox, Catholic, and many evangelical readers also read certain psalms as speaking of Christ. The distinction is not that certain psalms speak of Christ &#8212; but <em>what</em> determines which ones do, and <em>how</em>. That authority is Scripture alone &#8212; no council, tradition, or theological grid alongside it. This includes the confessional Lutheran tradition&#8217;s own documents, gathered in the <span class="tooltip">Book of Concord<span class="tooltiptext">The official 1580 collection of Lutheran confessional documents, including the Augsburg Confession (1530), Luther&#8217;s Small and Large Catechisms, and the Formula of Concord. Confessional Lutheran church bodies such as the LCMS formally subscribe to this collection as an accurate summary of what Scripture teaches.</span></span> (1580): they confess what Scripture itself already teaches, rather than adding to its authority. They don&#8217;t decide in advance which layer a given psalm belongs to &#8212; that still takes exegetical work on each passage &#8212; but any conclusion reached is checked against <span class="tooltip">core confessional doctrine<span class="tooltiptext">The specific doctrinal commitments the Book of Concord confesses &#8212; justification by faith alone, the Law and Gospel distinction, and Scripture&#8217;s own testimony that it speaks of Christ throughout. These don&#8217;t pre-decide what any single psalm means, but a reading that contradicted them would be rejected as unconfessional.</span></span>, and pastors are held to it by <span class="tooltip">formal subscription<span class="tooltiptext">The vow a pastor or congregation takes, upon ordination or upon joining a confessional church body such as the LCMS, to teach in agreement with the Book of Concord because it is drawn from Scripture. Synodical oversight &#8212; doctrinal review, ordination examinations &#8212; can identify and correct teaching that departs from it.</span></span>. This is not merely a confessional position &#8212; it is the method Christ Himself used: He interpreted the Psalms to His disciples as written about Himself, from the text alone &#8212; not from what centuries of commentary had built up around it.</p>
 <p>
-A <span class="tooltip">Reformed<span class="tooltiptext">The Protestant theological tradition shaped by John Calvin and Huldrych Zwingli in the 16th century. Emphasizes God&#8217;s sovereignty, covenant theology, and election. Also called Calvinist. Major denominations include Presbyterian, Dutch Reformed, and many Baptist and evangelical churches.</span></span> reader shares the <span class="tooltip">grammatical-historical method<span class="tooltiptext">Reading a text according to what the words meant in their original language and historical context &#8212; asking what the author said, to whom, and what it would have meant to the original audience. The standard interpretive method in Protestant biblical scholarship.</span></span> but organizes Scripture under <span class="tooltip">covenant categories<span class="tooltiptext">The two-covenant framework at the center of Reformed theology.<br><br>The <strong>Covenant of Works</strong>: God&#8217;s arrangement with Adam &#8212; perfect obedience earns life; failure earns death.<br>The <strong>Covenant of Grace</strong>: God&#8217;s arrangement after the fall &#8212; salvation through Christ, received by faith.<br><br>Reformed theology organizes all of Scripture under these two headings.</span></span> rather than Law and Gospel &#8212; a framework that collapses what God requires and what God freely gives in Christ into a single covenant arrangement. In the Psalms, guilt becomes covenant failure within an arrangement God always planned to resolve, rather than real condemnation with no escape. Forgiveness becomes the activation of the Covenant of Grace rather than rescue from a judgment only Christ can satisfy. The Psalms&#8217; movement from guilt to forgiveness no longer requires the rescue that only Christ can give &#8212; it requires only that God activate the next phase of his plan.<span class="cite-anchor" id="cite-intro-2"><sup class="ref"><a href="#ref-intro-2">[2]</a></sup></span><br><small><em>Includes: Presbyterian (PCA, OPC), Dutch Reformed (RCA, CRC), Reformed Baptist</em></small>
+A <span class="tooltip">Reformed<span class="tooltiptext">The Protestant theological tradition shaped by John Calvin and Huldrych Zwingli in the 16th century. Emphasizes God&#8217;s sovereignty, covenant theology, and election. Also called Calvinist. Major denominations include Presbyterian, Dutch Reformed, and many Baptist and evangelical churches.</span></span> reader shares the <span class="tooltip">grammatical-historical method<span class="tooltiptext">Reading a text according to what the words meant in their original language and historical context &#8212; asking what the author said, to whom, and what it would have meant to the original audience. The standard interpretive method in Protestant biblical scholarship.</span></span> but organizes Scripture under <span class="tooltip">covenant categories<span class="tooltiptext">The two-covenant framework at the center of Reformed theology.<br><br>The <strong>Covenant of Works</strong>: God&#8217;s arrangement with Adam &#8212; perfect obedience earns life; failure earns death.<br>The <strong>Covenant of Grace</strong>: God&#8217;s arrangement after the fall &#8212; salvation through Christ, received by faith.<br><br>Reformed theology organizes all of Scripture under these two headings.</span></span> rather than Law and Gospel &#8212; a framework that collapses what God requires and what God freely gives in Christ into a <span class="tooltip">single covenant arrangement<span class="tooltiptext">The Covenant of Works and Covenant of Grace treated as two successive stages of one overarching plan &#8212; humanity moves from one covenant to the next as redemptive history unfolds &#8212; rather than as two realities operating at the same time. This is the specific contrast with Lutheran Law and Gospel, which are not sequential stages but two words God speaks to the same person simultaneously.</span></span>. In the Psalms, guilt becomes covenant failure within an arrangement God always planned to resolve, rather than real condemnation with no escape. Forgiveness becomes the activation of the Covenant of Grace rather than rescue from a judgment only Christ can satisfy. The Psalms&#8217; movement from guilt to forgiveness no longer requires the rescue that only Christ can give &#8212; it requires only that God activate the next phase of his plan.<span class="cite-anchor" id="cite-intro-2"><sup class="ref"><a href="#ref-intro-2">[2]</a></sup></span><br><small><em>Includes: Presbyterian (PCA, OPC), Dutch Reformed (RCA, CRC), Reformed Baptist</em></small>
 </p>
 <p>
-An <span class="tooltip">Eastern Orthodox<span class="tooltiptext">The family of ancient Eastern churches in communion with the Ecumenical Patriarch of Constantinople. Orthodox theology holds Scripture and Holy Tradition &#8212; the writings of the Church Fathers and the decrees of the Ecumenical Councils &#8212; as a unified whole. Biblical interpretation is governed by Patristic consensus, and the Septuagint (Greek Old Testament) is the authoritative Old Testament text. The Christological reading of the Psalms is native to Orthodox tradition; it is governed by the Church Fathers and Councils rather than by the Lutheran confessional documents.</span></span> reading shares the Christological commitment but places Patristic consensus &#8212; the <span class="tooltip">Church Fathers and Ecumenical Councils<span class="tooltiptext"><strong>Church Fathers:</strong> Early Christian theologians and writers (roughly 1st&#8211;8th century) whose works are considered authoritative guides to interpreting Scripture. Key Fathers include Origen, John Chrysostom, Augustine, Athanasius, and John of Damascus.<br><br><strong>Ecumenical Councils:</strong> Official gatherings of bishops from across the universal Church to settle matters of doctrine. The Eastern Orthodox Church recognizes seven such councils (Nicaea I through Nicaea II, 325&#8211;787 AD) as definitively authoritative.</span></span> &#8212; as the authority governing interpretation, rather than the text alone. Where the Fathers read a psalm one way, that reading carries binding authority &#8212; the text does not stand as its own interpreter. Patristic consensus governs all three layers: what a psalm means historically, what it points to typologically, and whether its Christological reading stands. A reading the Fathers did not establish, a claim the Councils did not settle &#8212; neither carries weight, even if the text itself demands them.<span class="cite-anchor" id="cite-intro-3"><sup class="ref"><a href="#ref-intro-3">[3]</a></sup></span><br><small><em>Includes: Greek Orthodox, Russian Orthodox, Antiochian Orthodox, Orthodox Church in America (OCA)</em></small>
+An <span class="tooltip">Eastern Orthodox<span class="tooltiptext">The family of ancient Eastern churches in communion with the Ecumenical Patriarch of Constantinople. Orthodox theology holds Scripture and Holy Tradition &#8212; the writings of the Church Fathers and the decrees of the Ecumenical Councils &#8212; as a unified whole. Biblical interpretation is governed by Patristic consensus, and the Septuagint (Greek Old Testament) is the authoritative Old Testament text. The Christological reading of the Psalms is native to Orthodox tradition; it is governed by the Church Fathers and Councils rather than by the Lutheran confessional documents.</span></span> reading shares the Christological commitment but places Patristic consensus &#8212; the <span class="tooltip">Church Fathers and Ecumenical Councils<span class="tooltiptext"><strong>Church Fathers:</strong> Early Christian theologians and writers (roughly 1st&#8211;8th century) whose works are considered authoritative guides to interpreting Scripture. Key Fathers include Origen, John Chrysostom, Augustine, Athanasius, and John of Damascus.<br><br><strong>Ecumenical Councils:</strong> Official gatherings of bishops from across the universal Church to settle matters of doctrine. The Eastern Orthodox Church recognizes seven such councils (Nicaea I through Nicaea II, 325&#8211;787 AD) as definitively authoritative.</span></span> &#8212; as the authority governing interpretation, rather than the text alone. Where the Fathers read a psalm one way, that reading carries binding authority &#8212; the text does not stand as its own interpreter. <span class="tooltip">Patristic consensus<span class="tooltiptext">From the Latin <em>pater</em>, &#8220;father&#8221; &#8212; general agreement among the Church Fathers on a doctrinal or interpretive question. In Orthodox theology, this agreement carries binding authority for how Scripture is read, distinct from any single Father&#8217;s private opinion.</span></span> governs all three layers: what a psalm means historically, what it points to typologically, and whether its Christological reading stands. A reading the fathers did not establish, a claim the councils did not settle &#8212; neither carries weight, even if the text itself demands them.<span class="cite-anchor" id="cite-intro-3"><sup class="ref"><a href="#ref-intro-3">[3]</a></sup></span><br><small><em>Includes: Greek Orthodox, Russian Orthodox, Antiochian Orthodox, Orthodox Church in America (OCA)</em></small>
 </p>
 <p>
-An <span class="tooltip">Evangelical<span class="tooltiptext">A broadly Protestant tradition emphasizing the authority of Scripture, personal conversion, the centrality of the cross, and active faith. Major streams include Baptist, nondenominational, Pentecostal, and Wesleyan churches.</span></span> reader affirms Scripture&#8217;s authority and uses the grammatical-historical method, but without <span class="tooltip">settled confessional standards drawn from Scripture<span class="tooltiptext">A set of authoritative doctrinal standards &#8212; creeds, catechisms, or confessions &#8212; that a denomination is formally bound to because they are drawn from Scripture, not placed alongside it as a co-authority. For Lutherans this is the Book of Concord (1580); for Presbyterians the Westminster Standards. Without such standards, interpretive decisions must be made case by case without a binding framework.</span></span>, tends to apply Christological readings inconsistently &#8212; sometimes treating the Psalms as <span class="tooltip">devotional literature<span class="tooltiptext">Writing or Scripture read primarily for personal piety, emotional engagement, and encouragement in prayer &#8212; rather than careful exegesis of what a text historically and doctrinally means. Reading the Psalms as devotional literature applies them directly to the individual&#8217;s feelings and relationship with God, often bypassing the historical, typological, and doctrinal layers.</span></span> addressed to the individual believer rather than as royal and prophetic texts requiring careful typological reasoning.<span class="cite-anchor" id="cite-intro-4"><sup class="ref"><a href="#ref-intro-4">[4]</a></sup></span><br><small><em>Includes: Southern Baptist Convention, nondenominational, Assemblies of God, Wesleyan</em></small>
+An <span class="tooltip">Evangelical<span class="tooltiptext">A broadly Protestant tradition emphasizing the authority of Scripture, personal conversion, the centrality of the cross, and active faith. Major streams include Baptist, nondenominational, Pentecostal, and Wesleyan churches.</span></span> reader affirms Scripture&#8217;s authority and uses the grammatical-historical method, but without <span class="tooltip">settled confessional standards drawn from Scripture<span class="tooltiptext">A set of authoritative doctrinal standards &#8212; creeds, catechisms, or confessions &#8212; that a denomination is formally bound to because they are drawn from Scripture, not placed alongside it as a co-authority. For Lutherans this is the Book of Concord (1580); for Presbyterians the Westminster Standards. Without such standards, no core doctrine binds different interpreters&#8217; conclusions together, and no body holds anyone accountable to a shared standard.</span></span>, there is no core doctrine binding one interpreter&#8217;s conclusions to another&#8217;s, and no formal subscription holding either accountable to a shared standard. The same psalm can be read as <span class="tooltip">devotional literature<span class="tooltiptext">Writing or Scripture read primarily for personal piety, emotional engagement, and encouragement in prayer &#8212; rather than careful exegesis of what a text historically and doctrinally means. Reading the Psalms as devotional literature applies them directly to the individual&#8217;s feelings and relationship with God, often bypassing the historical, typological, and doctrinal layers.</span></span> addressed to the individual believer by one interpreter, and as a royal, prophetic text requiring careful typological reasoning by another &#8212; with nothing requiring the two to agree.<span class="cite-anchor" id="cite-intro-4"><sup class="ref"><a href="#ref-intro-4">[4]</a></sup></span><br><small><em>Includes: Southern Baptist Convention, nondenominational, Assemblies of God, Wesleyan</em></small>
 </p>
 <p>
 A Jewish reading engages the historical and literary layers carefully but without recognizing <span class="tooltip">Christological fulfillment<span class="tooltiptext">The completion of what the Old Testament text pointed toward, realized in the person and work of Jesus Christ. Prophecies, types, and patterns in the Hebrew Scriptures find their intended referent in Christ &#8212; not by reading a foreign meaning into the text, but by recognizing what the Holy Spirit embedded there from the beginning.</span></span>, treats David&#8217;s descriptions of suffering he never endured as hyperbole, <span class="tooltip">corporate lament<span class="tooltiptext">A psalm or prayer spoken in the collective voice &#8212; a representative &#8220;I&#8221; praying on behalf of Israel as a whole rather than an individual. In Jewish interpretation, the suffering speaker of psalms like Psalm 22 often represents the nation in distress &#8212; in exile or persecution &#8212; rather than David personally.</span></span>, or <span class="tooltip">liturgical convention<span class="tooltiptext">A standardized prayer form in which expressions of distress, petition, or praise follow established patterns &#8212; not necessarily describing the speaker&#8217;s literal circumstances. Some Jewish interpreters read extreme suffering language in the Psalms as belonging to the grammar of lament prayer rather than as biographical description.</span></span> rather than prophecy pointing beyond him.<span class="cite-anchor" id="cite-intro-5"><sup class="ref"><a href="#ref-intro-5">[5]</a></sup></span><br><small><em>Includes: Orthodox, Conservative, and Reform Judaism</em></small>
@@ -92,13 +118,10 @@ Each of these traditions either places an outside authority alongside the text &
   </div>
 </div>
 </details>
-</details>
-<details class="group-accordion">
-<summary>Theology</summary>
 <details class="study-section">
 <summary>Luther's Preface to the Psalms</summary>
 <p>
-In 1528, <span class="tooltip">Martin Luther<span class="tooltiptext">German Augustinian monk, priest, and professor of theology at the University of Wittenberg (1483&#8211;1546). In 1517, his Ninety-Five Theses challenging the sale of indulgences ignited the Reformation. His central discovery &#8212; that a sinner is justified by grace through faith alone, not by works &#8212; reshaped Western Christianity. He translated the entire Bible into German so ordinary believers could read Scripture for themselves. The confessional Lutheran tradition traces its name and doctrine to his work.</span></span> wrote a preface to the Psalter for his German Bible translation. It is one of the most important short texts in the history of Christian biblical interpretation &#8212; not as academic commentary but as pastoral introduction.
+In 1528, <span class="tooltip">Martin Luther<span class="tooltiptext">German Augustinian monk, priest, and professor of theology at the University of Wittenberg (1483&#8211;1546). In 1517, his Ninety-Five Theses challenging the sale of indulgences ignited the Reformation. His central discovery &#8212; that a sinner is justified by grace through faith alone, not by works &#8212; reshaped Western Christianity. He translated the entire Bible into German so ordinary believers could read Scripture for themselves. The confessional Lutheran tradition traces its name and doctrine to his work.</span></span> wrote a preface to the Psalter for his German Bible translation. It is one of the most important short texts in the history of Christian biblical interpretation &#8212; not as academic commentary but as <span class="tooltip">pastoral<span class="tooltiptext">From the Latin pastor, &#8220;shepherd&#8221; &#8212; the care of souls, the way a shepherd tends a flock. Guiding someone toward prayer and faith, not merely explaining a text to them.</span></span> introduction.
 </p>
 <hr>
 <p><strong>&#8220;A Little Bible&#8221;</strong></p>
@@ -119,10 +142,10 @@ In most of Scripture, Luther observed, we hear <em>about</em> the saints &#8212;
 <hr>
 <p><strong>The Psalms Give Us Words</strong></p>
 <p>
-Luther&#8217;s most pointed observation was this: the Psalter gives the believer the right words. Human beings left to themselves in prayer tend toward one of two failures &#8212; either they dress their prayers in <span class="tooltip">artificial piety<span class="tooltiptext">Prayer language that sounds devout but does not match what the person actually thinks or feels &#8212; reciting expected pious-sounding phrases instead of speaking honestly to God.</span></span> that does not match what they actually feel, or they do not pray at all because they cannot find the words. The Psalms solve both problems. They provide words tested in real suffering, real fear, real joy, and real faith &#8212; words already approved by the Holy Spirit, already proven across generations. A person who does not know how to pray need only open the Psalter and begin. The words will be right, even if the person is not.
+The Psalter also gives the believer the right words for prayer. Human beings left to themselves in prayer tend toward one of two failures &#8212; either they dress their prayers in <span class="tooltip">artificial piety<span class="tooltiptext">Prayer language that sounds devout but does not match what the person actually thinks or feels &#8212; reciting expected pious-sounding phrases instead of speaking honestly to God.</span></span> that does not match what they actually feel, or they do not pray at all because they cannot find the words. The Psalms solve both problems. They provide words tested in real suffering, real fear, real joy, and real faith &#8212; words already approved by the Holy Spirit, already proven across generations. A person who does not know how to pray need only open the Psalter, find the psalm that names his condition, and pray its words as his own. Those words are already right, even when the one praying them does not yet feel what they say. The introduction&#8217;s &#8220;Find a psalm for...&#8221; tool makes that search direct &#8212; select a condition such as grief, fear, or guilt, and it points to the psalm that speaks to it.
 </p>
 <p>
-This is why Luther used the Psalms in personal devotion, in public worship, in catechesis, and in pastoral care. He did not treat them as ancient documents to be studied from a distance &#8212; he prayed them.
+This is why Luther used the Psalms in personal devotion, in public worship, in catechesis, and in <span class="tooltip">pastoral<span class="tooltiptext">From the Latin pastor, &#8220;shepherd&#8221; &#8212; the care of souls, the way a shepherd tends a flock. Guiding someone toward prayer and faith, not merely explaining a text to them.</span></span> care. He did not treat them as ancient documents to be studied from a distance &#8212; he prayed them.
 </p>
 <hr>
 <p><strong>The Psalter Promises Christ</strong></p>
@@ -134,29 +157,6 @@ Luther did not treat the Christological reading of the Psalms as a secondary or 
 </p>
 <hr>
 <p><small>Source: Martin Luther, &#8220;Preface to the Psalter&#8221; (1528), in <em>Luther&#8217;s Works</em>, Vol. 35: <em>Word and Sacrament I</em> (Philadelphia: Fortress Press, 1960), pp. 253&#8211;257. Original German: <em>Vorrede auf den Psalter</em>.</small></p>
-</details>
-<details class="study-section">
-<summary>Scripture and Layers of Meaning</summary>
-<p>
-The Psalter often contains layers of meaning that aren&#8217;t fully realized until later revelations by other <span class="tooltip">inspired prophets<span class="tooltiptext">Biblical authors who came after David and received further revelation from the Holy Spirit &#8212; later Old Testament prophets and the New Testament apostles &#8212; who showed how earlier Scripture, including the Psalms, pointed toward Christ. Peter&#8217;s Pentecost sermon on Psalm 16 (Acts 2:25&#8211;31) is one example.</span></span>. The psalms are not merely the personal prayers of their human authors &#8212; they are the living Word of God, breathed out by the Holy Spirit and enduring across every generation.
-</p>
-<p><small>2 Timothy 3:16&#8211;17 &#8212; 2 Peter 1:20&#8211;21 &#8212; Isaiah 40:8</small></p>
-<hr>
-<p>The Psalter operates on at least three levels of meaning simultaneously.</p>
-<p><strong>The Historical Layer</strong> &#8212; Each psalm arose from a specific moment in history. David wrote Psalm 3 while fleeing Absalom. Psalm 137 was written in Babylonian captivity. These are real prayers from real people in real circumstances. This layer is the foundation and should not be bypassed in favor of abstract meaning.</p>
-<p><strong>The Typological Layer</strong> &#8212; The Psalms are <span class="tooltip">prophetic texts<span class="tooltiptext">Texts in which the Holy Spirit, working through a human author, embedded meaning that points beyond the author's own time and experience — often toward events or persons the author could not fully see.</span></span>. The Holy Spirit, as the true author behind the human author, often intended more than the human author himself understood. The evidence is the gap between what was written and what the human author ever lived through. They are writing about a life that is not their own. David described suffering in Psalm 22 &#8212; <em>&#8220;They have pierced my hands and my feet&#8221;</em> &#8212; yet David was never crucified. David wrote words that described a death he never died. The text does not fit the writer. That gap is not an accident. It is the Holy Spirit writing through David about a suffering that was not David&#8217;s to bear. The typological layer is simply this: recognizing that the words are bigger than their human author. <small>1 Peter 1:10&#8211;12</small></p>
-<hr>
-<p><small><em>Illustration &#8212; Mortal Author, Enduring Word</em></small></p>
-<div class="image-text-row" style="display: flex; gap: 1.5em; align-items: flex-start; margin-top: 0.75em;">
-  <img src="pics/Caravaggio_—_The_Martyrdom_of_Saint_Matthew.jpg" alt="The Martyrdom of Saint Matthew &#8212; Caravaggio" height="500" width="auto" class="painting-large" style="border: 1px solid #888888; flex-shrink: 0;" />
-  <div>
-    <p>Caravaggio, <em>The Martyrdom of Saint Matthew</em>, 1599&#8211;1600.<br><br>An executioner strikes Matthew down as an angel descends with a palm frond &#8212; the symbol of martyrdom. Matthew reaches upward even in death. The Word he proclaimed and recorded outlasted the sword raised against him.</p>
-    <p>Matthew lived and died in a specific moment in history. So did David. So did Moses, Asaph, and every other biblical author. Each one was a mortal person bound to their own time, circumstance, and language &#8212; yet the Holy Spirit worked through all of them, across centuries and vastly different conditions, to breathe out one living Word. The sword in this painting silenced Matthew the man. It could not silence what the Spirit had spoken through him. That is what it means for Scripture to be God-breathed &#8212; not that the authors floated above their humanity, but that the Holy Spirit moved through their humanity, and what He produced through them endures when they are gone.</p>
-  </div>
-</div>
-<hr>
-<p><strong>The Christological Layer</strong> &#8212; Christ is what the Holy Spirit&#8217;s words in the first two layers point to: His death, His burial, His resurrection, His eternal reign. At <span class="tooltip">Pentecost<span class="tooltiptext">The Jewish harvest festival (Feast of Weeks), celebrated fifty days after Passover. On this day (Acts 2), the Holy Spirit descended on the apostles in Jerusalem, empowering them to preach the gospel publicly for the first time. Peter&#8217;s sermon that day is recorded in Acts 2:14&#8211;41.</span></span>, Peter preaches from Psalm 16: <em>&#8220;You will not abandon my soul to Hades.&#8221;</em> His argument is simple &#8212; David died, was buried, and his own soul did rest in Hades. The psalm cannot be describing David. It is describing the resurrection of Christ.<span class="cite-anchor" id="cite-intro-b"><sup class="ref"><a href="#ref-intro-b">[b]</a></sup></span> Jesus Himself quotes Psalm 22 from the cross, fulfilling in His own body the suffering David wrote of but never experienced.<span class="cite-anchor" id="cite-intro-c"><sup class="ref"><a href="#ref-intro-c">[c]</a></sup></span> The Christological layer is simply this: the One these words were written about has now spoken them Himself. The third layer does not replace the first two; it completes them.</p>
-<p>Christ Himself demonstrated reading the Psalms through all three layers. Luke 24:44&#8211;45 records Him enabling His disciples to understand that the Law, the Prophets, and the Psalms were written about Him. The three-layer reading did not begin with the Church &#8212; it was taught by Christ and received by the apostles. Reading the Psalter this way is not <span class="tooltip">eisegesis<span class="tooltiptext"><em>eye-suh-JEE-sis</em><br>Reading a meaning into the text from outside &#8212; importing an interpretation the text itself does not support, rather than drawing out what the text actually says. The opposite of exegesis.</span></span>; it is following where Christ led.</p>
 </details>
 <details class="study-section">
 <summary>How the Psalter Is Arranged</summary>
@@ -549,6 +549,8 @@ The resources below extend the study beyond what these pages cover. Each one is 
     <li id="ref-intro-8"><a href="#cite-intro-8" class="ref-back">&#x21A9;</a> New Testament citations of Psalm 69: John 2:17 (Ps 69:9 &#8212; zeal for the Temple); John 15:25 (Ps 69:4 &#8212; hated without cause); John 19:28&#8211;29 (Ps 69:21 &#8212; vinegar given to drink); Romans 11:9&#8211;10 (Ps 69:22&#8211;23 &#8212; table as snare); Romans 15:3 (Ps 69:9 &#8212; insults fell on Christ); Acts 1:20 (Ps 69:25 &#8212; his place made desolate, applied to Judas). Six distinct citations, drawn from both the mercy and the judgment portions of the same psalm. The apostles treated Psalm 69 as a unified prophecy of Christ, not selecting only the comfortable verses.</li>
     <li id="ref-intro-a"><a href="#cite-intro-a" class="ref-back">&#x21A9;</a> 2 Samuel 7:12&#8211;16 &#8212; God&#8217;s oath to David: &#8220;Your house and your kingdom shall be made sure forever before me. Your throne shall be established forever.&#8221; This covenant does not simply promise a lasting dynasty; it promises a throne with a permanent occupant &#8212; one no mortal son of David could hold. Peter interprets the covenant directly in Acts 2:29&#8211;31: knowing God &#8220;had sworn with an oath to him that he would set one of his descendants on his throne,&#8221; David &#8220;foresaw and spoke about the resurrection of the Christ.&#8221; The Davidic office was always oriented toward Christ, not merely extended to him. <small>See also Psalm 132:11; Luke 1:32&#8211;33; Hebrews 1:5.</small></li>
     <li id="ref-intro-9"><a href="#cite-intro-9" class="ref-back">&#x21A9;</a> Martin Luther, <em>First Lectures on the Psalms</em> (<em>Dictata super Psalterium</em>, 1513&#8211;1515), in <em>Luther&#8217;s Works</em>, Vol. 10: <em>Psalms 1&#8211;75</em> and Vol. 11: <em>Psalms 76&#8211;126</em> (St. Louis: Concordia, 1974&#8211;1976). See also <em>Operationes in Psalmos</em> (1519&#8211;1521), partially translated in <em>Luther&#8217;s Works</em>, Vol. 14. In both works Luther consistently interprets the imprecatory psalms through a Christological frame: the one crying out for judgment is ultimately Christ, in whom the Church prays. The psalms of vengeance are not expressions of personal malice but the just complaint of Christ and His Body against sin, death, and the devil &#8212; a complaint that will be answered on the Last Day.</li>
+    <li id="ref-intro-e"><a href="#cite-intro-e" class="ref-back">&#x21A9;</a> 2 Timothy 3:16&#8211;17 &#8212; &#8220;All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness.&#8221; 2 Peter 1:20&#8211;21 confirms the mechanism behind that claim: &#8220;no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit&#8221; &#8212; the Psalms, as prophetic Scripture, share this same divine origin. <small>See also Isaiah 40:8 &#8212; &#8220;The grass withers, the flower fades, but the word of our God will stand forever&#8221; &#8212; the ground for the claim that the Psalms endure across every generation.</small></li>
+    <li id="ref-intro-f"><a href="#cite-intro-f" class="ref-back">&#x21A9;</a> 1 Peter 1:10&#8211;12 &#8212; &#8220;Concerning this salvation, the prophets who prophesied about the grace that was to be yours searched and inquired carefully, inquiring what person or time the Spirit of Christ in them was indicating when he predicted the sufferings of Christ and the subsequent glories&#8230; It was revealed to them that they were serving not themselves but you.&#8221; Peter states directly that the prophets sometimes wrote of realities beyond their own understanding &#8212; the same gap this layer identifies between what David wrote in Psalm 22 and what David himself lived through.</li>
     <li id="ref-intro-b"><a href="#cite-intro-b" class="ref-back">&#x21A9;</a> Acts 2:25&#8211;31 &#8212; Peter&#8217;s full argument at Pentecost: quoting Psalm 16:8&#8211;11 (&#8220;you will not abandon my soul to Hades, or let your Holy One see corruption&#8221;), he notes that David &#8220;both died and was buried, and his tomb is with us to this day&#8221; &#8212; David&#8217;s own flesh saw corruption. Being a prophet, David &#8220;foresaw and spoke about the resurrection of the Christ, that he was not abandoned to Hades, nor did his flesh see corruption.&#8221;</li>
     <li id="ref-intro-c"><a href="#cite-intro-c" class="ref-back">&#x21A9;</a> Matthew 27:46 &#8212; Jesus quotes Psalm 22:1 directly (&#8220;My God, my God, why have you forsaken me?&#8221;). The Gospel writers record the rest of the crucifixion in the same psalm&#8217;s own language: Matthew 27:35 and John 19:23&#8211;24 (dividing his garments and casting lots, Psalm 22:18); Matthew 27:39&#8211;43 (mocking, &#8220;let God rescue him,&#8221; echoing Psalm 22:7&#8211;8). What David wrote of but never lived, the Gospels record Christ actually enduring.</li>
   </ol>
@@ -563,6 +565,8 @@ The resources below extend the study beyond what these pages cover. Each one is 
       title: "The Way of the Righteous",
     genre: "Wisdom",
     parallelism: "Synonymous",
+    conditions: ["seeking direction"],
+    conditionAngle: "help choosing which path to walk — the righteous or the wicked",
 	  image: "lyre.png",
       text:`
     <div class="verse-row">
@@ -626,8 +630,17 @@ to a Christian or they portray something other than the Word of God it can lead 
 <li>The person desires the Law of the Lord and keeps it in his mind and heart. By doing this the person's body is made alive and able to give life to other people. </li> 
 <li>This state of blessedness is resilient and will not fail. The person will prosper unlike unbelievers/unfaithful people. </li> 
 <li>When God's justice is applied the unfaithful will not be able to defend themselves and will be seperated from the Lord eternally. </li> 
-<li>The faithful and blessed person will be defended, justified and live eternally with God by the saving sacrifice made by Jesus Christ. </li> 
+<li>The faithful and blessed person will be defended, justified and live eternally with God by the saving sacrifice made by Jesus Christ. </li>
 </ul>
+<hr>
+<details class="study-section">
+<summary>Prayer</summary>
+<p><em>This restates the same cry above in plain, contemporary words &#8212; not a replacement for it.</em></p>
+<p>
+Lord, show me which way to walk. Keep me from following the counsel of those who reject You, from joining the path of those who sin against You, and from sitting among those who mock what is right. Christ alone never walked in that counsel, never stood in that way, never sat in that seat &#8212; He is the one truly Blessed Man. Join me to Him, so that His path becomes my path.
+</p>
+<span class="selah-marker"><em>AMEN</em></span>
+</details>
 `
     },
 	
@@ -670,6 +683,8 @@ The people who do trust and follow the instructions of the Lord will be in prope
       title: "David fled from Absalom his son",
     genre: "Individual Lament",
     parallelism: "Synonymous",
+    conditions: ["fear", "betrayal"],
+    conditionAngle: "surrounded by enemies and betrayed by his own son, yet sleeps in peace trusting God's protection",
 	  image: "lyre.png",
 	  text:`
     <div class="verse-row">
@@ -695,16 +710,27 @@ I (David) called to the Lord, and He answered me from Mount Zion. </p>
 I will not be afraid of the thousands who have set their vengeance towards me everywhere.
 Rise up, O Lord! And give me freedom. Striking down the wicked is what You do!
 Saving and possessing is what you do! You bless your people! </p>
+<hr>
+<details class="study-section">
+<summary>Prayer</summary>
+<p><em>This restates the same cry above in plain, contemporary words &#8212; not a replacement for it.</em></p>
+<p>
+Lord, my enemies are many, and the one rising against me is my own son. I am surrounded, and by every human measure I should be afraid. But You are protecting me and keeping me secure, even now. Because You sustain me while I sleep, I am not afraid of the thousands set against me on every side. Rise up, O Lord &#8212; strike down what is wicked, save what is Yours, and bless Your people.
+</p>
+<span class="selah-marker"><em>AMEN</em></span>
+</details>
 `
 
 	},
-	
+
 	/* --- PSALM 4 --- */
    { label: "Psalm 4:1",
     title: "Answer Me When I Call",
     image: "lyre.png",
     genre: "Individual Lament",
     parallelism: "Synthetic",
+    conditions: ["distress", "false accusation", "anger", "sleeplessness"],
+    conditionAngle: "answers slander and provocation, then lies down in peace despite trouble",
     text: `
       <div class="verse-row">
         <div class="verse-num">4:1</div>
@@ -733,7 +759,15 @@ insight: `
 
 <p>Adds urgency, deal with it quickly (don't let sun go down), Makes spiritual warfare explicit (don't give the devil a foothold), Same principle: anger itself isn't sin, but unresolved/misdirected anger leads to sin </p>
 
-
+<hr>
+<details class="study-section">
+<summary>Prayer</summary>
+<p><em>This restates the same cry above in plain, contemporary words &#8212; not a replacement for it.</em></p>
+<p>
+Answer me, God of my righteousness, when I call to You &#8212; You have given me relief before, in real distress. People are spreading lies about me, chasing empty plans against what You have established, and it is right to feel shaken by that. But don&#8217;t let that shaking become sin. Let me examine my own heart honestly when I lie down tonight, and then be still before You rather than plotting my own defense. Turn me back to true worship and real trust in You, not empty ritual. Lift the light of Your face on me &#8212; the same light now shining in the face of Jesus Christ &#8212; for Your favor is the only good I actually need. Let that favor be a deeper joy to me than any harvest of grain or wine could give my enemies. And because You alone, LORD, make me dwell in safety, let me lie down and sleep in peace tonight.
+</p>
+<span class="selah-marker"><em>AMEN</em></span>
+</details>
     `
   },
   { label: "Psalm 4:2",
@@ -986,6 +1020,8 @@ Your salvation is sufficient. I rest in your care and not my own this night. </p
     image: "lyre.png",
     genre: "Individual Lament",
     parallelism: "Synonymous",
+    conditions: ["false accusation", "seeking guidance", "desire for justice"],
+    conditionAngle: "a morning prayer amid deceit and evildoers, asking God to lead and to judge the wicked",
     text: `
       <div class="verse-row">
         <div class="verse-num">5:1</div>
@@ -1027,6 +1063,15 @@ Examples: You're so overwhelmed you just sit in God's presence and... sigh. You'
 David shows:
 <br> That's valid prayer. God hears it. God understands it.
 
+<hr>
+<details class="study-section">
+<summary>Prayer</summary>
+<p><em>This restates the same cry above in plain, contemporary words &#8212; not a replacement for it.</em></p>
+<p>
+LORD, hear my words and consider my groaning &#8212; give attention to my cry, my King and my God, for I pray to no one else. Every morning I bring this prayer to You and watch for Your answer. You are not a God who delights in evil; the boastful cannot stand before You, and You hate what is false. The people around me have no truth in their mouths &#8212; their words flatter even as they plan my ruin. Lead me in Your righteousness because of them; make Your way straight before me, and let them bear the guilt of their own schemes rather than mine. But because of Your steadfast love alone, I will enter Your house and bow toward You in reverence. Let everyone who takes refuge in You sing for joy, sheltered under Your protection &#8212; for You bless the righteous, LORD, and cover them with Your favor like a shield.
+</p>
+<span class="selah-marker"><em>AMEN</em></span>
+</details>
    `
   },
    { label: "Psalm 5:2",
@@ -3187,8 +3232,7 @@ This verse establishes a theological foundation: the eternal destiny of the righ
         <div class="verse-num">5:12</div>
         <div class="verse-content"><div data-verse-swap="0"></div></div>
       </div>
-      <hr class="retro-hr">
-      <div class="interlinear-block" style="display: flex; justify-content: space-between; width: 100%; text-align: center;">
+      <div class="interlinear-block" style="display: none; justify-content: space-between; width: 100%; text-align: center;">
         <div class="word-pair">
           <div class="heb-word">כִּי־אַתָּה</div>
           <div class="heb-gloss">For-You</div>
@@ -3223,7 +3267,8 @@ This verse establishes a theological foundation: the eternal destiny of the righ
       ESV: [`For you bless the righteous, O LORD;<br>you cover him with favor as with a shield.<br><small>(ESV)</small>`],
       KJV: [`For thou, LORD, wilt bless the righteous;<br>with favour wilt thou compass him as with a shield.<br><small>(KJV)</small>`],
       NASB: [`For it is You who blesses the righteous man, O LORD,<br>You surround him with favor as with a shield.<br><small>(NASB)</small>`],
-      NIV: [`Surely, LORD, you bless the righteous;<br>you surround them with your favor as with a shield.<br><small>(NIV)</small>`]
+      NIV: [`Surely, LORD, you bless the righteous;<br>you surround them with your favor as with a shield.<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">כִּי־אַתָּה יְהוָה תְּבָרֵךְ צַדִּיק כַּצִּנָּה רָצוֹן תַּעְטְרֶנּוּ</span><br><small>(MT &#8212; Masoretic Text)</small>`]
     },
 
     insight: `
@@ -3732,6 +3777,8 @@ In confessional Lutheran practice, Psalm 6 belongs to the penitential rhythm of 
     image: "lyre.png",
     genre: "Penitential",
     parallelism: "Synonymous",
+    conditions: ["guilt", "grief", "illness", "fear of God's discipline"],
+    conditionAngle: "guilt and physical suffering under God's discipline, weeping through the night until the Lord hears",
     text: `
       <div class="verse-row">
         <div class="verse-num">6:1</div>
@@ -3850,7 +3897,8 @@ Hebrews 12:6 makes explicit what David prayed by faith: God's discipline of beli
 Romans 8:1 answers David's deepest fear. The wrath of a judge — condemnation — has been absorbed by Christ. For those in Christ, what remains is discipline, not condemnation.
 </p>
 <hr>
-<p><em>Prayer</em></p>
+<details class="study-section">
+<summary>Prayer</summary>
 <p>
 Lord, I know I deserve correction. I am not asking You to ignore my sin — I am asking You to correct me as a Father, not condemn me as a judge. I know Your wrath was poured out on Christ for my sake. So discipline me — form me, correct me. But let me know throughout that I am Your son, not Your enemy. Your discipline is love. I will receive it.
 </p>
@@ -3859,6 +3907,7 @@ Lord, I know I deserve correction. I am not asking You to ignore my sin — I am
     [ <em>SELAH AMEN</em> ]
   </span>
 </p>
+</details>
 `
   },
 
