@@ -63,8 +63,20 @@
     <p style="font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:#808080; margin:0 0 3px;">Last Updated</p>
     <p style="margin:0 0 14px;">June 2026</p>
     <p style="font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:#808080; margin:0 0 3px;">Contact</p>
-    <p style="margin:0 0 18px;"><a href="#" onclick="this.href='mailto:'+atob('ZHJld2xhcnNlbjEyMTlAZ21haWwuY29t');return false;" style="color:#333; text-decoration:underline;">Send a message</a></p>
-    <button id="welcome-dismiss-btn">[ GOT IT ]</button>
+    <p style="margin:0 0 18px;"><a href="#" onclick="this.href='mailto:'+atob('Y29udGFjdEBwaWxncmltcGFjZS5jb20=');return false;" style="color:#333; text-decoration:underline;">Send a message</a></p>
+    <div style="display:flex; gap:8px;">
+      <button id="welcome-dismiss-btn" class="modal-text-btn" style="flex:1;">[ GOT IT ]</button>
+      <button id="welcome-tour-btn" class="modal-text-btn" style="flex:1;">[ SHOW ME HOW THIS WORKS ]</button>
+    </div>
+  </div>
+</div>
+
+<div id="tour-caption" style="display:none; position:fixed; bottom:16px; left:50%; transform:translateX(-50%); background:#f0f0f0; border:2px solid #808080; box-shadow:4px 4px 0 #505050; padding:12px 16px; max-width:420px; width:90%; font-family:'Courier New',monospace; font-size:13px; z-index:1001;">
+  <p id="tour-step-label" style="font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:#808080; margin:0 0 6px;"></p>
+  <p id="tour-text" style="margin:0 0 12px; line-height:1.5;"></p>
+  <div style="display:flex; justify-content:flex-end; gap:10px;">
+    <button id="tour-skip-btn" class="modal-text-btn">[ SKIP TOUR ]</button>
+    <button id="tour-next-btn" class="modal-text-btn">[ NEXT ]</button>
   </div>
 </div>
 
@@ -230,6 +242,7 @@
     statusText.innerText = v.label;
     statusText.style.display = currentIndex === 0 ? 'none' : '';
     welcomeInfoBtn.style.display = currentIndex === 0 ? 'inline-block' : 'none';
+    if (currentIndex !== 0) endTour();
 
     const displayBox = document.getElementById('verse-display-box');
     const insightFieldset = document.getElementById('insight-fieldset');
@@ -384,6 +397,63 @@
   if (localStorage.getItem('pp_welcome_dismissed') !== 'true') {
     showWelcomeModal();
   }
+
+  // GUIDED TOUR — walks through the page's structural pieces (not the intro's topical content)
+  const tourSteps = [
+    { selector: '#verse-display-box', text: "This box shows the psalm or verse you're currently viewing — its Hebrew text, translation, and title." },
+    { selector: '#insight-fieldset', text: "Below it, this panel holds background notes and commentary, organized into collapsible sections you can open one at a time." },
+    { selector: '#nav-row', text: "Use these controls to jump to any psalm and verse, move forward and back, or switch to Reading Mode." },
+    { selector: '#condition-row', text: "This dropdown finds a psalm by what you're going through — grief, fear, guilt, and others — instead of by number." }
+  ];
+  let tourIndex = -1;
+  let tourHighlightEl = null;
+  const tourCaption = document.getElementById('tour-caption');
+  const tourStepLabel = document.getElementById('tour-step-label');
+  const tourText = document.getElementById('tour-text');
+  const tourNextBtn = document.getElementById('tour-next-btn');
+
+  function clearTourHighlight() {
+    if (tourHighlightEl) {
+      tourHighlightEl.classList.remove('tour-highlight');
+      tourHighlightEl = null;
+    }
+  }
+
+  function showTourStep() {
+    clearTourHighlight();
+    const step = tourSteps[tourIndex];
+    const el = step ? document.querySelector(step.selector) : null;
+    if (!el) { endTour(); return; }
+    el.classList.add('tour-highlight');
+    tourHighlightEl = el;
+    el.scrollIntoView({ block: 'center' });
+    tourStepLabel.textContent = (tourIndex + 1) + ' of ' + tourSteps.length;
+    tourText.textContent = step.text;
+    tourNextBtn.textContent = (tourIndex === tourSteps.length - 1) ? '[ DONE ]' : '[ NEXT ]';
+    tourCaption.style.display = 'block';
+  }
+
+  function startTour() {
+    hideWelcomeModal();
+    tourIndex = 0;
+    showTourStep();
+  }
+
+  function advanceTour() {
+    tourIndex++;
+    if (tourIndex >= tourSteps.length) { endTour(); return; }
+    showTourStep();
+  }
+
+  function endTour() {
+    clearTourHighlight();
+    tourCaption.style.display = 'none';
+    tourIndex = -1;
+  }
+
+  document.getElementById('welcome-tour-btn').addEventListener('click', startTour);
+  tourNextBtn.addEventListener('click', advanceTour);
+  document.getElementById('tour-skip-btn').addEventListener('click', endTour);
 
   // FOOTNOTE BACK-LINKS — collapse References, scroll target to center, flash highlight
   document.addEventListener('click', function(e) {
