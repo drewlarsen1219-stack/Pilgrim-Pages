@@ -1,5 +1,48 @@
 
 
+/* ── Harp glyph (replaces lyre.png on verse cards) — pure CSS, no image file ── */
+.harp-icon {
+  position: relative;
+  width: 30px;
+  height: 38px;
+  flex-shrink: 0;
+}
+.harp-icon .frame {
+  position: absolute;
+  inset: 0;
+  border-top: 4px solid #808080;
+  border-right: 4px solid #808080;
+  border-bottom: 4px solid #808080;
+  border-top-right-radius: 70% 55%;
+  border-bottom-right-radius: 6px;
+  filter: drop-shadow(-1.5px -1.5px 0 #d8d8d8) drop-shadow(1.5px 1.5px 0 #505050);
+}
+.harp-icon .strings {
+  position: absolute;
+  inset: 12px 10px 7px 3px;
+  display: flex;
+  justify-content: space-between;
+}
+.harp-icon .strings span {
+  width: 2px;
+  height: 100%;
+  background: #808080;
+  opacity: 0.85;
+}
+.harp-icon.large {
+  width: 60px;
+  height: 76px;
+}
+.harp-icon.large .frame {
+  border-width: 7px;
+}
+.harp-icon.large .strings {
+  inset: 22px 18px 14px 6px;
+}
+.harp-icon.large .strings span {
+  width: 4px;
+}
+
 /* Now you can change the look of ALL 150 psalms at once here */
 .verse-indent {
   padding-left: 25px;
