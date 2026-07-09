@@ -10,12 +10,12 @@
 .harp-icon .frame {
   position: absolute;
   inset: 0;
-  border-top: 4px solid #808080;
-  border-right: 4px solid #808080;
-  border-bottom: 4px solid #808080;
+  border-top: 4px solid #909090;
+  border-right: 4px solid #909090;
+  border-bottom: 4px solid #909090;
   border-top-right-radius: 70% 55%;
   border-bottom-right-radius: 6px;
-  filter: drop-shadow(-1.5px -1.5px 0 #d8d8d8) drop-shadow(1.5px 1.5px 0 #505050);
+  filter: drop-shadow(-1px -1px 0 #e8e8e8) drop-shadow(1.5px 1.5px 0 #505050);
 }
 .harp-icon .strings {
   position: absolute;
@@ -28,6 +28,7 @@
   height: 100%;
   background: #808080;
   opacity: 0.85;
+  filter: drop-shadow(-0.5px -0.5px 0 #e8e8e8) drop-shadow(0.75px 0.75px 0 #505050);
 }
 .harp-icon.large {
   width: 60px;
@@ -41,6 +42,19 @@
 }
 .harp-icon.large .strings span {
   width: 4px;
+}
+.harp-icon .cross {
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  font-size: 10px;
+  line-height: 1;
+  color: #b0b0b0;
+}
+.harp-icon.large .cross {
+  top: -6px;
+  right: -6px;
+  font-size: 18px;
 }
 
 /* Now you can change the look of ALL 150 psalms at once here */

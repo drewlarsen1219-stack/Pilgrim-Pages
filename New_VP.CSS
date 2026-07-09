@@ -298,16 +298,21 @@ summary:hover {
   mask: radial-gradient(circle 45px, transparent 42px, #000 42px 44px, transparent 44px);
 }
 
-.seal-arrow,
-.seal-cross {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 34px;
+.seal-gate {
+  position: relative;
+  width: 52px;
+  height: 58px;
+  box-sizing: border-box;
+  border-top: 4px solid darkred;
+  border-left: 4px solid darkred;
+  border-right: 4px solid darkred;
 }
 
 .seal-cross {
-  margin-top: 4px;
+  position: absolute;
+  top: 52%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .glyph-px {
