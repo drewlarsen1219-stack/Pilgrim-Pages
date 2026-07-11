@@ -15,6 +15,7 @@
   <div style="font-size: 16px; margin-bottom: 8px; font-family: monospace;" id="status-label">
     Introduction
   </div>
+  <a id="pilgrim-pace-link" href="index.html" style="display:none;" title="Return to Pilgrim Pace">[ Pilgrim Pace ]</a>
   <button id="welcome-info-btn" style="display:none;" title="About this study">[i]</button>
 
   <div id="verse-display-box" class="inset-box" style="padding: 5px; min-height: auto;">
@@ -112,6 +113,7 @@
   const insightText = document.querySelector('fieldset p');
   const welcomeModal = document.getElementById('welcome-modal');
   const welcomeInfoBtn = document.getElementById('welcome-info-btn');
+  const pilgrimPaceLink = document.getElementById('pilgrim-pace-link');
 
   /**
    * 1. INITIALIZE NAVIGATION
@@ -242,6 +244,7 @@
     statusText.innerText = v.label;
     statusText.style.display = currentIndex === 0 ? 'none' : '';
     welcomeInfoBtn.style.display = currentIndex === 0 ? 'inline-block' : 'none';
+    pilgrimPaceLink.style.display = currentIndex === 0 ? 'inline-block' : 'none';
     if (currentIndex !== 0) endTour();
 
     const displayBox = document.getElementById('verse-display-box');
@@ -294,7 +297,7 @@
           ${v.title}
         </h2>
         ${genreBar}
-        ${v.image === 'lyre.png' ? `<div class="harp-icon"><div class="frame"></div><div class="strings"><span></span><span></span><span></span><span></span></div><span class="cross">&#10013;</span></div>` : (v.image ? `<img src="${v.image}" height="70">` : '<div></div>')}
+        ${v.image === 'lyre.png' ? `<div class="harp-icon" onclick="goToIntro()" title="Return to the Introduction"><div class="frame"></div><div class="strings"><span></span><span></span><span></span><span></span></div><span class="cross">&#10013;</span></div>` : (v.image ? `<img src="${v.image}" height="70">` : '<div></div>')}
       </div>
       <hr class="retro-hr">
       <div class="verse-text-block">
@@ -360,6 +363,11 @@
       alert("This verse hasn't been added to your data file yet.");
     }
   });
+
+  function goToIntro() {
+    currentIndex = 0;
+    renderVerse();
+  }
 
   /* READING MODE TOGGLE */
   const readingModeBtn = document.getElementById('reading-mode-btn');

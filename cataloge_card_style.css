@@ -6,6 +6,7 @@
   width: 30px;
   height: 38px;
   flex-shrink: 0;
+  cursor: pointer;
 }
 .harp-icon .frame {
   position: absolute;
@@ -55,6 +56,15 @@
   top: -6px;
   right: -6px;
   font-size: 18px;
+}
+.harp-icon:hover .frame {
+  border-color: #b0b0b0;
+}
+.harp-icon:hover .strings span {
+  background: #a0a0a0;
+}
+.harp-icon:hover .cross {
+  color: #c8c8c8;
 }
 
 /* Now you can change the look of ALL 150 psalms at once here */
@@ -491,10 +501,32 @@ details.group-accordion > details.study-section {
   color: #808080;
   cursor: pointer;
   padding: 0;
+  margin-left: 10px;
   margin-bottom: 8px;
 }
 
 #welcome-info-btn:hover {
+  color: #333;
+}
+
+#pilgrim-pace-link {
+  font-family: "Courier New", monospace;
+  font-size: 14px;
+  color: #808080;
+  text-decoration: none;
+  cursor: pointer;
+  margin-bottom: 8px;
+}
+
+#pilgrim-pace-link:hover {
+  color: #333;
+}
+
+#accordion-demo-btn {
+  color: #808080;
+}
+
+#accordion-demo-btn:hover {
   color: #333;
 }
 
