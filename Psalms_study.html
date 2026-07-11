@@ -62,7 +62,7 @@
     <p style="font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:#808080; margin:0 0 3px;">Study Progress</p>
     <p style="margin:0 0 14px;">Complete through <strong>Psalm 6</strong>. New entries added as the study advances.</p>
     <p style="font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:#808080; margin:0 0 3px;">Last Updated</p>
-    <p style="margin:0 0 14px;">June 2026</p>
+    <p style="margin:0 0 14px;">July 2026</p>
     <p style="font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:#808080; margin:0 0 3px;">Contact</p>
     <p style="margin:0 0 18px;"><a href="#" onclick="this.href='mailto:'+atob('Y29udGFjdEBwaWxncmltcGFjZS5jb20=');return false;" style="color:#333; text-decoration:underline;">Send a message</a></p>
     <div style="display:flex; gap:8px;">
@@ -242,7 +242,7 @@
     
     // Update Status Label
     statusText.innerText = v.label;
-    statusText.style.display = currentIndex === 0 ? 'none' : '';
+    statusText.style.display = '';
     welcomeInfoBtn.style.display = currentIndex === 0 ? 'inline-block' : 'none';
     pilgrimPaceLink.style.display = currentIndex === 0 ? 'inline-block' : 'none';
     if (currentIndex !== 0) endTour();
@@ -251,29 +251,16 @@
     const insightFieldset = document.getElementById('insight-fieldset');
     const navRow = document.getElementById('nav-row');
     const conditionRow = document.getElementById('condition-row');
-    if (currentIndex === 0) {
-      displayBox.style.maxWidth = '780px';
-      displayBox.style.margin = '0 auto';
-      insightFieldset.style.maxWidth = '780px';
-      insightFieldset.style.margin = '20px auto 0';
-      navRow.style.maxWidth = '780px';
-      navRow.style.margin = '24px auto 0';
-      conditionRow.style.maxWidth = '780px';
-      conditionRow.style.margin = '12px auto 0';
-      conditionResults.style.maxWidth = '780px';
-      conditionResults.style.margin = '8px auto 0';
-    } else {
-      displayBox.style.maxWidth = '';
-      displayBox.style.margin = '';
-      insightFieldset.style.maxWidth = '';
-      insightFieldset.style.margin = '20px 0 0 0';
-      navRow.style.maxWidth = '';
-      navRow.style.margin = '24px 0 0 0';
-      conditionRow.style.maxWidth = '';
-      conditionRow.style.margin = '12px 0 0 0';
-      conditionResults.style.maxWidth = '';
-      conditionResults.style.margin = '8px 0 0 0';
-    }
+    displayBox.style.maxWidth = '780px';
+    displayBox.style.margin = '0 auto';
+    insightFieldset.style.maxWidth = '780px';
+    insightFieldset.style.margin = '20px auto 0';
+    navRow.style.maxWidth = '780px';
+    navRow.style.margin = '24px auto 0';
+    conditionRow.style.maxWidth = '780px';
+    conditionRow.style.margin = '12px auto 0';
+    conditionResults.style.maxWidth = '780px';
+    conditionResults.style.margin = '8px auto 0';
 
     // Not every verse has the same set of version keys (e.g. Psalm 5:12 has MT, most others don't).
     // If the currently selected version isn't offered here, fall back to ESV or the first available key.
@@ -293,7 +280,7 @@
     const genreBar = (v.genre || v.parallelism) ? `<div class="genre-bar">${v.genre ? `<span class="tooltip tooltip-down" style="cursor:default;">${v.genre}<span class="tooltiptext">${genreTooltips[v.genre] || ''}</span></span>` : ''}${v.genre && v.parallelism ? ' &nbsp;&#183;&nbsp; ' : ''}${v.parallelism ? `<span class="tooltip tooltip-down" style="cursor:default;">${v.parallelism}<span class="tooltiptext">${parallelismTooltips[v.parallelism] || ''}</span></span>` : ''}</div>` : '';
     display.innerHTML = `
       <div class="card-title-row" style="display: flex; justify-content: space-between; align-items: flex-end">
-        <h2 class="verse-title"${currentIndex === 0 ? ' style="margin-bottom: 2px;"' : ''}>
+        <h2 class="verse-title">
           ${v.title}
         </h2>
         ${genreBar}

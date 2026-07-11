@@ -198,7 +198,7 @@ body {
   font-family: monospace;
   color: #606060;
   text-align: center;
-  margin-bottom: 8px;
+  margin-bottom: 2px;
 }
 
 .tooltip {
@@ -493,6 +493,11 @@ details.group-accordion > details.study-section {
 }
 
 
+#status-label {
+  display: inline-block;
+  margin-right: 10px;
+}
+
 #welcome-info-btn {
   background: none;
   border: none;
@@ -618,7 +623,7 @@ blockquote.church-voice footer {
 }
 
 .verse-title {
-  margin: 0 0 8px 0;
+  margin: 0 0 2px 0;
   font-family: 'Times New Roman', serif;
   line-height: 1;
 }

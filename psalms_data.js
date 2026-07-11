@@ -3270,7 +3270,7 @@ This verse establishes a theological foundation: the eternal destiny of the righ
     },
 
     insight: `
-<details open class="study-section">
+<details class="study-section">
 <summary>Word Analysis</summary>
 <br>
 <span class="tooltip">
@@ -3343,7 +3343,7 @@ This verse establishes a theological foundation: the eternal destiny of the righ
 </span>
 
 <p>
-The declaration lands on GOD as the one who acts because the LORD <span class="tooltip">blesses<span class="tooltiptext">God's blessing is not a wish or a sentiment — it is an active, effectual divine act. When God blesses, something happens. His word creates what it declares (Isaiah 55:11).<br><br>To be blessed by God means His face is turned toward you in favor rather than judgment (Numbers 6:24–26), He is actively working all circumstances for your good (Romans 8:28), and His sustaining power is personally directed at you. You lack nothing essential for life with Him.<br><br>God's blessing is distinct from feeling blessed, from circumstances going well, or from human approval. It is God's own active disposition of grace directed at the one He has chosen — prior to and independent of their merit.<br><br>The Aaronic blessing is the OT pattern: face, keeping, grace, peace — specific, concrete acts of divine attention. David is declaring that this is exactly what God does for the tzaddik.</span></span> the righteous as an active personal covenantal promise.
+God is the one who acts: the LORD <span class="tooltip">blesses<span class="tooltiptext">God's blessing is not a wish or a sentiment — it is an active, effectual divine act. When God blesses, something happens. His word creates what it declares (Isaiah 55:11).<br><br>To be blessed by God means His face is turned toward you in favor rather than judgment (Numbers 6:24–26), He is actively working all circumstances for your good (Romans 8:28), and His sustaining power is personally directed at you. You lack nothing essential for life with Him.<br><br>God's blessing is distinct from feeling blessed, from circumstances going well, or from human approval. It is God's own active disposition of grace directed at the one He has chosen — prior to and independent of their merit.<br><br>The Aaronic blessing is the OT pattern: face, keeping, grace, peace — specific, concrete acts of divine attention. David is declaring that this is exactly what God does for the tzaddik.</span></span> the righteous as an active personal covenantal promise.
 </p>
 
 <p>
@@ -3372,40 +3372,14 @@ God's blessing of the righteous is not a new development; it is the fulfillment 
     </span>
 </span>
 
-<p>The <em>tzaddik/righteous</em> are not morally perfect or without sin. 
-<span class="tooltip">Works based righteousness<span class="tooltiptext">The belief that one earns God's favor through moral effort or religious performance. Common attempts: keeping the Ten Commandments perfectly, accumulating good deeds to outweigh bad ones, ritual observance (fasting, almsgiving, pilgrimage), striving for moral self-improvement. Scripture rules this out — "by works of the law no human being will be justified" (Romans 3:20).</span></span> 
+<p>The <em>tzaddik</em>, the righteous, are not morally perfect or without sin —
+<span class="tooltip">works-based righteousness<span class="tooltiptext">The belief that one earns God's favor through moral effort or religious performance. Common attempts: keeping the Ten Commandments perfectly, accumulating good deeds to outweigh bad ones, ritual observance (fasting, almsgiving, pilgrimage), striving for moral self-improvement. Scripture rules this out — "by works of the law no human being will be justified" (Romans 3:20).</span></span>
 <span id="cite-2" class="cite-anchor">condemns everyone, including David who committed adultery and murder.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
-</p>
-<p>
-The tzaddik/righteous is the one in right standing with God by <span class="tooltip">faith.<span class="tooltiptext">Faith (Hebrew: emunah אֱמוּנָה; Greek: pistis πίστις) — trust, reliance, and confidence in God. Not intellectual agreement alone, but clinging to God's promises and taking refuge in His mercy. It is the instrument by which righteousness is received, not earned — "Abraham believed God, and it was counted to him as righteousness" (Genesis 15:6). Faith is itself a gift, not a work (Ephesians 2:8-9).</span></span>
-</p>
-<p>
-Here are examples of tzaddik/righteous by faith not by good works and not disqualified by the sin they have committed:
-</p>
-<ul>
-<li>Abraham "believed God, and it was counted to him as righteousness." <small>Genesis 15:6</small></li>
-<li>David himself: confessed sin but trusted God's mercy — <small>Psalm 51:1-4</small></li>
-<li>Habakkuk 2:4 — "the righteous shall live by his faith"</li>
-<li>In Psalm 5: the tzaddik/righteous takes refuge in God <small>(v. 11)</small>, enters through His chesed <small>(v. 7)</small>, not by earned merit</li>
-</ul>
-<p>
-The behavior consistent with faith like fleeing to God and loving His name are the fruit — not the cause — of being tzaddik/righteous. This means a person cannot make themselves tzaddik/righteous, instead a person becomes tzaddik/righteous through <span class="tooltip">what God does to the person<span class="tooltiptext">Regeneration — the Holy Spirit creates faith in a heart that could not produce it on its own. God gives a new heart (Ezekiel 36:26), not as a reward for seeking Him, but as the act that makes seeking possible. In the New Testament this comes through Word and Sacrament; in the Old Testament through the Word as revealed — promise, Torah, sacrifice, and direct divine encounter. Faith is always God's gift, never the person's achievement (Titus 3:5, Ephesians 2:8-9).</span></span>. The person then becomes faithful in God because of what happens to them.
-</p>
-<p>
-David did not have the full Scripture or the New Testament sacraments the way modern Christians do, yet his faith was still granted by the Spirit through what God had revealed to him:
-<span class="tooltip">the Tabernacle presence<span class="tooltiptext">God literally dwelt among Israel in the Tent of Meeting. For David, "dwelling in the house of the LORD" was a real encounter with the divine presence — not metaphor. The Tabernacle was the place where God met His people, where atonement was made, and where the Spirit could work through that nearness. (Exodus 25:8, Psalm 27:4)</span></span>,
-<span class="tooltip">the Levitical sacrificial system<span class="tooltiptext">The priestly sacrifices ordained by God were a means of atonement pointing forward to Christ. David didn't understand the full picture, but he trusted the God behind the rites — the one who provides a way to cover sin. The sacrifices were not merely ritual; they were God's promise in physical form that sin would be dealt with. (Leviticus 17:11, Hebrews 10:1)</span></span>,
-<span class="tooltip">the Abrahamic promise<span class="tooltiptext">God's covenant with Abraham — "he believed God, and it was counted to him as righteousness" (Genesis 15:6) — was already Scripture to David. David knew that standing before God came through faith in God's promise, not earned merit. This promise was the foundation of Israel's hope and David's own trust.</span></span>,
-<span class="tooltip">prophetic revelation<span class="tooltiptext">God spoke directly to David through the prophet Nathan and through the Davidic covenant (2 Samuel 7) — the promise that God would establish David's house and throne forever. This was the external Word delivered personally. David's faith was anchored to a specific promise God had made to him by name.</span></span>, and
-<span class="tooltip">meditation on the Torah<span class="tooltiptext">The books of Moses — the Law and the promises — were already written and available to David. Psalm 1 opens with the blessed man who meditates on Torah day and night. David's faith was formed and fed by what had already been revealed in writing. The Spirit worked through that written Word the same way He works through Scripture today. (Psalm 1:2, Deuteronomy 17:18-19)</span></span>.
-The Spirit has always worked through the external Word — the means were different in David's age, but the mechanism was the same.
-</p>
-<p>
-For modern Christians the fullness of the means are available through <span class="tooltip">Word<span class="tooltiptext">The Word of God — God's self-revelation through Scripture and preaching. It works in two movements: the Law, which convicts of sin and produces contrition; and the Gospel, which creates faith through the promise of forgiveness in Christ. The Word is not merely information — it is the active instrument the Holy Spirit uses to create and sustain faith. "Faith comes from hearing, and hearing through the word of Christ." (Romans 10:17)</span></span> and <span class="tooltip">Sacrament<span class="tooltiptext">A sacred act instituted by Christ that joins an earthly element with the Word of God to deliver forgiveness and create or strengthen faith. Lutheran theology recognizes two Sacraments: Baptism (water + Word, delivering forgiveness and the Holy Spirit — Titus 3:5, Acts 2:38) and the Lord's Supper (bread and wine with Christ's true body and blood, given for the forgiveness of sins — Matthew 26:26-28). The Sacraments are not symbols of faith already present — they are means through which the Spirit acts on the person.</span></span>.
+The righteous is the one in right standing with God by <span class="tooltip">faith<span class="tooltiptext">Faith (Hebrew: emunah אֱמוּנָה; Greek: pistis πίστις) — trust, reliance, and confidence in God. Not intellectual agreement alone, but clinging to God's promises and taking refuge in His mercy. It is the instrument by which righteousness is received, not earned — "Abraham believed God, and it was counted to him as righteousness" (Genesis 15:6). Faith is itself a gift, not a work (Ephesians 2:8-9).</span></span> alone — see <em>Fulfillment</em> below for how that faith relates to Christ.
 </p>
 <p>
   <span class="selah-marker">
-     <em>SELAH</em> 
+     <em>SELAH</em>
   </span>
 </p>
 <hr>
@@ -3433,7 +3407,7 @@ For modern Christians the fullness of the means are available through <span clas
 <p>
 David chooses the Hebrew word <span dir="rtl">צִנָּה</span> (tzinnah) to describe the total, comprehensive protection. 
 <span id="cite-3" class="cite-anchor">This shield covers a person from head to foot because it is a full body shield like the one Goliath had.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
-He uses this word because God's favor leaves no part of the righteous exposed — it covers fully, from head to foot.
+David uses this word because God's favor leaves no part of the righteous exposed — it covers fully, from head to foot.
 </p>
 <hr>
 
@@ -3510,30 +3484,65 @@ The righteous one does not merely survive — he is crowned. <em>Atar</em> gives
 </details>
 
 <details class="study-section">
+<summary>Insight</summary>
 
+<p>
+Psalm 5 closes with a <span class="tooltip">declaration of divine confidence<span class="tooltiptext">A recognized literary element in lament psalms where the psalmist pivots from complaint and petition to a bold, present-tense affirmation of trust in God's character and faithfulness. Distinct from a <em>vow of praise</em> (a future promise of thanks) and from the <em>certainty of hearing</em> (confidence God has heard). The declaration of confidence asserts God <em>is</em> trustworthy <em>now</em>, regardless of whether deliverance has arrived — grounding trust in who God is, not in changed circumstances. It typically serves as the hinge of a lament psalm, the theological turning point between the cry of distress and anticipated praise. (cf. Ps. 23:4; 31:14; 56:3–4)</span></span>
+ — rather than David being uncertain and placing his trust in what might happen or if God will deliver him. Instead he rests on the settled theological fact that God blesses the righteous.
+ </p>
+ <p>
+David has <em>prayed</em> <small>(verses 1–3)</small>, <em>argued</em> from God's holy character <small>(verses 4–6)</small>, <em>entered</em> God's presence through chesed <small>(v. 7)</small>,
+<em>asked</em> for guidance <small>(verses 8–9)</small>, <em>petitioned</em> for judgment against the wicked <small>(v. 10)</small>, and <em>prayed</em> for the joy of the righteous <small>(v. 11)</small>.
+</p>
+<p>
+Now he <em>gives the grounding reason</em> for everything. The reason is that God actively blesses and completely encircles the righteous with His favor.
+</p>
+<p>
+The journey of Psalm 5 starts with David groaning in verse 1 and ends with him crowned with favor in verse 12. Although the crisis has not changed, his perspective has — through prayer.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
 <summary>Fulfillment</summary>
 
+<p>
+David calls the righteous "crowned with favor" and shielded on every side — but David's own life was not free from betrayal, war, and loss; no tzaddik, David included, ever received that comprehensive protection and unbroken honor in this life. The promise was written before anyone had fully received it.
+</p>
 <p><em>Christ as the Righteous/Tzaddik</em></p>
 <p>
 The tzaddikim of the Psalms were righteous before God — not by moral perfection, but by covenant standing.
 Their sin was covered year by year through sacrifice, and they were held in right relationship with God by faith in His promises. <sup class="ref"><a href="#ref-2">[2]</a></sup>
+Scripture bears this out again and again: Abraham "believed God, and it was counted to him as righteousness" <small>(Genesis 15:6)</small>; David himself confessed sin but trusted God's mercy <small>(Psalm 51:1-4)</small>; Habakkuk declared "the righteous shall live by his faith" <small>(Habakkuk 2:4)</small>. In Psalm 5 itself, the righteous takes refuge in God <small>(v. 11)</small> and enters through His chesed <small>(v. 7)</small> — not by earned merit.
+</p>
+<p>
+A person cannot make themselves righteous; a person becomes righteous only through <span class="tooltip">what God does to the person<span class="tooltiptext">Regeneration — the Holy Spirit creates faith in a heart that could not produce it on its own. God gives a new heart (Ezekiel 36:26), not as a reward for seeking Him, but as the act that makes seeking possible. In the New Testament this comes through Word and Sacrament; in the Old Testament through the Word as revealed — promise, Torah, sacrifice, and direct divine encounter. Faith is always God's gift, never the person's achievement (Titus 3:5, Ephesians 2:8-9).</span></span>. David did not have the full Scripture or the New Testament sacraments the way modern Christians do, yet his faith was still granted by the Spirit through what God had revealed to him.
+</p>
+<p>
+God gave David <span class="tooltip">the Tabernacle presence<span class="tooltiptext">God literally dwelt among Israel in the Tent of Meeting. For David, "dwelling in the house of the LORD" was a real encounter with the divine presence — not metaphor. The Tabernacle was the place where God met His people, where atonement was made, and where the Spirit could work through that nearness. (Exodus 25:8, Psalm 27:4)</span></span>, <span class="tooltip">the Levitical sacrificial system<span class="tooltiptext">The priestly sacrifices ordained by God were a means of atonement pointing forward to Christ. David didn't understand the full picture, but he trusted the God behind the rites — the one who provides a way to cover sin. The sacrifices were not merely ritual; they were God's promise in physical form that sin would be dealt with. (Leviticus 17:11, Hebrews 10:1)</span></span>, <span class="tooltip">the Abrahamic promise<span class="tooltiptext">God's covenant with Abraham — "he believed God, and it was counted to him as righteousness" (Genesis 15:6) — was already Scripture to David. David knew that standing before God came through faith in God's promise, not earned merit. This promise was the foundation of Israel's hope and David's own trust.</span></span>, <span class="tooltip">prophetic revelation<span class="tooltiptext">God spoke directly to David through the prophet Nathan and through the Davidic covenant (2 Samuel 7) — the promise that God would establish David's house and throne forever. This was the external Word delivered personally. David's faith was anchored to a specific promise God had made to him by name.</span></span>, and <span class="tooltip">meditation on the Torah<span class="tooltiptext">The books of Moses — the Law and the promises — were already written and available to David. Psalm 1 opens with the blessed man who meditates on Torah day and night. David's faith was formed and fed by what had already been revealed in writing. The Spirit worked through that written Word the same way He works through Scripture today. (Psalm 1:2, Deuteronomy 17:18-19)</span></span>. The Spirit has always worked through the external Word — the means were different in David's age, but the mechanism was the same. For modern Christians the fullness of these means is available through <span class="tooltip">Word<span class="tooltiptext">The Word of God — God's self-revelation through Scripture and preaching. It works in two movements: the Law, which convicts of sin and produces contrition; and the Gospel, which creates faith through the promise of forgiveness in Christ. The Word is not merely information — it is the active instrument the Holy Spirit uses to create and sustain faith. "Faith comes from hearing, and hearing through the word of Christ." (Romans 10:17)</span></span> and <span class="tooltip">Sacrament<span class="tooltiptext">A sacred act instituted by Christ that joins an earthly element with the Word of God to deliver forgiveness and create or strengthen faith. Lutheran theology recognizes two Sacraments: Baptism (water + Word, delivering forgiveness and the Holy Spirit — Titus 3:5, Acts 2:38) and the Lord's Supper (bread and wine with Christ's true body and blood, given for the forgiveness of sins — Matthew 26:26-28). The Sacraments are not symbols of faith already present — they are means through which the Spirit acts on the person.</span></span>.
+</p>
+<p>
 <span id="cite-6" class="cite-anchor">But that covering was always provisional — the sacrifices pointed forward to a permanent removal of sin that they could not themselves accomplish.
 <sup class="ref"><a href="#ref-6">[6]</a></sup></span>
 </p>
 <p>
 Jesus is the fulfillment those sacrifices pointed to. <span id="cite-7" class="cite-anchor">He is specifically identified as "the Righteous One" (ho dikaios)<sup class="ref"><a href="#ref-7">[7]</a></sup></span> — not merely first among the tzaddikim, but categorically different:
 <span id="cite-8" class="cite-anchor">He alone is without sin.<sup class="ref"><a href="#ref-8">[8]</a></sup></span>
-The tzaddikim had their sin covered; Christ had no sin to cover. 
+The tzaddikim had their sin covered; Christ had no sin to cover.
 <span id="cite-9" class="cite-anchor">Only the One who carries no sin-debt of His own can freely credit His righteousness to another — and that is exactly what God does for us in Christ.<sup class="ref"><a href="#ref-9">[9]</a></sup></span>
 </p>
 <p>
-Through faith in Christ, His righteousness is credited to us — we receive tzaddik status not by achievement
+Through faith in Christ, God credits us with His righteousness — we receive tzaddik status not by achievement
 but by union with Him who is the Righteous One. <span id="cite-10" class="cite-anchor">The path has always been faith; what has changed is that the One the sacrifices always pointed to has now come.
 <sup class="ref"><a href="#ref-10">[10]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
-    <em>SELAH</em> 
+    <em>SELAH</em>
   </span>
 </p>
 <hr>
@@ -3542,7 +3551,7 @@ but by union with Him who is the Righteous One. <span id="cite-10" class="cite-a
 The <em>barak</em>/blessing David declared was always covenantal — God's favor resting on those in right standing with Him. The <em>tzaddikim</em> received it through faith, their sin covered year by year through sacrifice. But the blessing was bounded by the covenant's earthly scope: land, harvest, protection, long life — the <span class="tooltip">provisional blessings of Sinai<span class="tooltiptext">The blessings promised in the Mosaic covenant (Deuteronomy 28:1–14) were real but conditional and temporary — tied to Israel's covenant faithfulness, secured by sacrifices that could cover but not remove sin. They pointed forward to a greater and permanent blessing still to come.</span></span>.
 </p>
 <p>
-<span id="cite-11" class="cite-anchor">Paul's language in Ephesians 1:3 deliberately bursts that scope open.<sup class="ref"><a href="#ref-11">[11]</a></sup></span> <em>Every</em> spiritual blessing — not the provisional blessings of Sinai, but the full <span class="tooltip">eschatological inheritance<span class="tooltiptext">Eschatological means pertaining to the "last things" — the final age inaugurated by Christ's resurrection. The inheritance is not earthly or temporary but eternal: justification, adoption, glorification, and the new creation. It is received now by faith and consummated at Christ's return.</span></span> of those united to the Righteous One. Justification. Adoption. Redemption. These are not given because we have earned God's favor, but because we are <span class="tooltip">found in Christ<span class="tooltiptext">To be "found in Christ" (Philippians 3:9) is to be so identified with Him by faith that His righteousness is credited as ours and our sin was credited to Him at the cross. Union with Christ is the ground of every spiritual blessing we receive — we do not stand before God in our own name but in His.</span></span> — and His righteous standing before the Father is ours by imputation.
+<span id="cite-11" class="cite-anchor">Paul's language in Ephesians 1:3 deliberately bursts that scope open.<sup class="ref"><a href="#ref-11">[11]</a></sup></span> <em>Every</em> spiritual blessing — not the provisional blessings of Sinai, but the full <span class="tooltip">eschatological inheritance<span class="tooltiptext">Eschatological means pertaining to the "last things" — the final age inaugurated by Christ's resurrection. The inheritance is not earthly or temporary but eternal: justification, adoption, glorification, and the new creation. It is received now by faith and consummated at Christ's return.</span></span> of those united to the Righteous One. Justification. Adoption. Redemption. These are not given because we have earned God's favor, but because we are <span class="tooltip">found in Christ<span class="tooltiptext">To be "found in Christ" (Philippians 3:9) is to be so identified with Him by faith that His righteousness is credited as ours and our sin was credited to Him at the cross. Union with Christ is the ground of every spiritual blessing we receive — we do not stand before God in our own name but in His.</span></span> — and God credits us with His righteous standing before the Father.
 </p>
 <p>
 <span id="cite-12" class="cite-anchor">Among those blessings, Paul names the Holy Spirit as seal and guarantee.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> The Spirit is not merely a comfort or a power for holy living — He is God's down payment on the full inheritance yet to be revealed. His <span class="tooltip">indwelling presence<span class="tooltiptext">The indwelling of the Holy Spirit refers to the Spirit taking up residence within the believer at baptism and faith (1 Corinthians 6:19; Romans 8:9). Unlike the Spirit's temporary presence in the Old Testament — resting on prophets or kings for a task — the New Covenant indwelling is permanent. The Spirit does not visit; He dwells. This is the fulfillment of Ezekiel 36:27: "I will put my Spirit within you."</span></span> in the believer is the pledge that what God began in us, He will bring to completion.
@@ -3553,21 +3562,21 @@ God blesses the righteous — and we are <span class="tooltip">righteous in Chri
 <p>
 <img src="pics/Allegorie-auf-Gesetz-und-Gnade.jpg" alt="Law and Gospel by Lucas Cranach the Elder" width="auto" height="500" style="border: 1px solid #888888;" />
 <p>
-Lucas Cranach the Elder, <em>Law and Gospel</em> (Gesetz und Gnade), c. 1529. 
+Lucas Cranach the Elder, <em>Law and Gospel</em> (Gesetz und Gnade), c. 1529.
 </p>
 <p>
 Painted in collaboration with Martin Luther to visually teach justification. The left panel shows Moses, the Law, and death driving a naked sinner toward condemnation — righteousness from the law, which only condemns. The right panel shows the crucified and risen Christ, his blood flowing directly onto that same sinner — the righteousness that comes from God, received through faith. The naked sinner covered by Christ's blood is the visual rendering of Philippians 3:9: "not having a righteousness of my own that comes from the law, but that which is through faith in Christ."
 </p>
 <p>
   <span class="selah-marker">
-    <em>SELAH</em> 
+    <em>SELAH</em>
   </span>
 </p>
 <hr>
 <p><em>Shielded by God's Power & Crowned with Glory</em></p>
 <p>
-<span id="cite-13" class="cite-anchor">The same shield/tzinnah — the comprehensive encircling shield — is applied to believers through Christ.
-God guards the believer with something more impenetrable than any physical shield.<sup class="ref"><a href="#ref-13">[13]</a></sup></span>
+<span id="cite-13" class="cite-anchor">God applies that same shield/tzinnah — the comprehensive encircling shield — to believers through Christ.
+He guards the believer with something more impenetrable than any physical shield.<sup class="ref"><a href="#ref-13">[13]</a></sup></span>
 </p>
 <p>
 <span id="cite-14" class="cite-anchor">The crown of favor David describes anticipates the crown of glory — the honor restored to humanity in Christ.<sup class="ref"><a href="#ref-14">[14]</a></sup></span>
@@ -3577,31 +3586,7 @@ The exchange is the Gospel: He took the thorns so the righteous could be crowned
 </p>
 <p>
   <span class="selah-marker">
-    <em>SELAH</em> 
-  </span>
-</p>
-</details>
-
-<details class="study-section">
-<summary>Insight</summary>
-
-<p>
-Psalm 5 closes with a <span class="tooltip">declaration of divine confidence<span class="tooltiptext">A recognized literary element in lament psalms where the psalmist pivots from complaint and petition to a bold, present-tense affirmation of trust in God's character and faithfulness. Distinct from a <em>vow of praise</em> (a future promise of thanks) and from the <em>certainty of hearing</em> (confidence God has heard). The declaration of confidence asserts God <em>is</em> trustworthy <em>now</em>, regardless of whether deliverance has arrived — grounding trust in who God is, not in changed circumstances. It typically serves as the hinge of a lament psalm, the theological turning point between the cry of distress and anticipated praise. (cf. Ps. 23:4; 31:14; 56:3–4)</span></span>
- — rather than David having uncertainty and placing his trust in what might happen or if God will deliver him. Instead he rests on the settled theological fact that God blesses the righteous.
- </p>
- <p>
-David has <em>prayed</em> <small>(verses 1–3)</small>, <em>argued</em> from God's holy character <small>(verses 4–6)</small>, <em>entered</em> God's presence through chesed <small>(v. 7)</small>,
-<em>asked</em> for guidance <small>(verses 8–9)</small>, <em>petitioned</em> for judgment against the wicked <small>(v. 10)</small>, and <em>prayed</em> for the joy of the righteous <small>(v. 11)</small>.
-</p>
-<p>
-Now he <em>gives the grounding reason</em> for everything. The reason is that God actively blesses and completely encircles the righteous with His favor.
-</p>
-<p>
-The journey of Psalm 5 starts with David groaning in verse 1 and ends with him crowned with favor in verse 12. Although the crisis has not changed his perspective has — through prayer.
-</p>
-<p>
-  <span class="selah-marker">
-    <em>SELAH</em> 
+    <em>SELAH</em>
   </span>
 </p>
 </details>
@@ -3610,13 +3595,13 @@ The journey of Psalm 5 starts with David groaning in verse 1 and ends with him c
 <summary>Lessons</summary>
 
 <p>
-<em>Prayer has a structure, not just a feeling.</em> David didn't simply vent his distress. He prayed, argued from God's holy character, entered His presence through chesed, asked for guidance, petitioned against the wicked, and interceded for the righteous. The psalm reveals prayer as a sequence of deliberate movements — not an emotional release, but an ordered approach to God.
+<em>Prayer has a structure, not just a feeling.</em> You don't need the right emotional starting point to pray well — you need the right movements. Confess what's true, appeal to who God is, ask plainly for what you need, and let the prayer end in His character rather than your circumstances. David's movements through this psalm are a pattern you can borrow the next time the words won't come.
 </p>
 <p>
-<em>Confidence in God is grounded in theology, not circumstances.</em> David does not close the psalm because his situation improved — the enemies are still there at verse 12. He arrives at confidence by reasoning from who God is: a God who actively blesses the righteous and completely encircles them with favor. Settled trust is built on the character of God, not on the outcome of events.
+<em>Confidence in God is grounded in theology, not circumstances.</em> You don't have to wait for your situation to improve before you can trust Him. Reason from who God is — His holiness, His covenant faithfulness, His steadfast love — and let that settle you before anything else does. Build your confidence on His unchanging character, not on how today is going.
 </p>
 <p>
-<em>The goal of prayer is a changed perspective, not always a changed situation.</em> The journey from groaning in verse 1 to crowned with favor in verse 12 is an internal one. David has been reoriented — through the act of praying itself. Prayer does not always alter what surrounds you, but it restores right sight: who God is, where you stand, and what is already true.
+<em>The goal of prayer is a changed perspective, not always a changed situation.</em> Don't measure whether your prayer "worked" by whether your circumstances changed. Ask instead whether you see God, yourself, and your situation more clearly than when you started. That shift — not a solved crisis — is what prayer is for.
 </p>
 <p>
 <em>You are not just shielded — you are crowned.</em> The verse does not close with a warrior barely holding against enemies; it closes with a king wearing divine favor. God's protection of the righteous is also God's dignity over them. To stand before God righteous by faith is not merely a defensive status — you are encircled with His delight, adorned with His favor. This is not how you feel in difficult seasons. It is what is already true.
@@ -3643,7 +3628,7 @@ For it is You, LORD, who bless. And I receive it by faith alone, in Christ alone
 </details>
 
 <details class="study-section">
-<summary> References </summary>
+<summary>References</summary>
 <div class="ref-list">
   
   <ol>
@@ -3660,7 +3645,7 @@ For it is You, LORD, who bless. And I receive it by faith alone, in Christ alone
     <li id="ref-11"><a href="#cite-11" class="ref-back">&#x21A9;</a> Ephesians 1:3 &mdash; <em>&ldquo;Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places.&rdquo;</em> The phrase &ldquo;every spiritual blessing in the heavenly places&rdquo; is Paul&rsquo;s deliberate contrast with the earthly, conditional blessings of the Mosaic covenant. In Christ, the full scope of what God had promised &mdash; not just land and harvest, but adoption, redemption, and glory &mdash; is given freely to those united to Him.</li>
     <li id="ref-12"><a href="#cite-12" class="ref-back">&#x21A9;</a> Ephesians 1:13&ndash;14 &mdash; <em>&ldquo;In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.&rdquo;</em> The Greek word translated &ldquo;guarantee&rdquo; (&alpha;&rho;&rho;&alpha;&beta;&omega;&nu;, <em>arrabon</em>) was a commercial term meaning a down payment that legally obligated the full amount to follow. The Spirit&rsquo;s indwelling is God&rsquo;s binding pledge that the full inheritance of the believer will be delivered.</li>
     <li id="ref-13"><a href="#cite-13" class="ref-back">&#x21A9;</a> 1 Peter 1:5 &mdash; <em>&ldquo;[You] who by God&rsquo;s power are being guarded through faith for a salvation ready to be revealed in the last time.&rdquo;</em> Philippians 4:7 &mdash; <em>&ldquo;And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.&rdquo;</em></li>
-    <li id="ref-14"><a href="#cite-14" class="ref-back">&#x21A9;</a>  Psalm 8:5 / Hebrews 2:7 &mdash; <em>&ldquo;...you have crowned him with glory and honor.&rdquo;</em> Hebrews 2:7 quotes Psalm 8:5 directly; the author of Hebrews then applies it to Christ in v.9 &mdash; &ldquo;crowned with glory and honor because of the suffering of death.&rdquo; David&rsquo;s royal crown-language finds its ultimate referent in the crucified and risen Son.</li> 
+    <li id="ref-14"><a href="#cite-14" class="ref-back">&#x21A9;</a> Psalm 8:5 / Hebrews 2:7 &mdash; <em>&ldquo;...you have crowned him with glory and honor.&rdquo;</em> Hebrews 2:7 quotes Psalm 8:5 directly; the author of Hebrews then applies it to Christ in v.9 &mdash; &ldquo;crowned with glory and honor because of the suffering of death.&rdquo; David&rsquo;s royal crown-language finds its ultimate referent in the crucified and risen Son.</li> 
     <li id="ref-15"><a href="#cite-15" class="ref-back">&#x21A9;</a> Matthew 27:29 &mdash; <em>&ldquo;and twisting together a crown of thorns, they put it on his head...&rdquo;</em> Cf. Mark 15:17; John 19:2. The crown of thorns connects directly to the curse of Genesis 3:18 &mdash; Christ bore the curse of the fall in His own flesh, making possible the exchange David&rsquo;s <em>atar</em> anticipates: the righteous crowned with favor.</li>
    </ol>
 </div>
