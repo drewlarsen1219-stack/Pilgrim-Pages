@@ -3230,36 +3230,6 @@ This verse establishes a theological foundation: the eternal destiny of the righ
         <div class="verse-num">5:12</div>
         <div class="verse-content"><div data-verse-swap="0"></div></div>
       </div>
-      <div class="interlinear-block" style="display: none; justify-content: space-between; width: 100%; text-align: center;">
-        <div class="word-pair">
-          <div class="heb-word">כִּי־אַתָּה</div>
-          <div class="heb-gloss">For-You</div>
-        </div>
-        <div class="word-pair">
-          <div class="heb-word">יְהוָה</div>
-          <div class="heb-gloss">YHWH</div>
-        </div>
-        <div class="word-pair">
-          <div class="heb-word">תְּבָרֵךְ</div>
-          <div class="heb-gloss">You-bless</div>
-        </div>
-        <div class="word-pair">
-          <div class="heb-word">צַדִּיק</div>
-          <div class="heb-gloss">righteous-one</div>
-        </div>
-        <div class="word-pair">
-          <div class="heb-word">כַּצִּנָּה</div>
-          <div class="heb-gloss">like-the-large-shield</div>
-        </div>
-        <div class="word-pair">
-          <div class="heb-word">רָצוֹן</div>
-          <div class="heb-gloss">favor</div>
-        </div>
-        <div class="word-pair">
-          <div class="heb-word">תַּעְטְרֶנּוּ</div>
-          <div class="heb-gloss">You-crown/encircle-him</div>
-        </div>
-      </div>
     `,
     versions: {
       ESV: [`For you bless the righteous, O LORD;<br>you cover him with favor as with a shield.<br><small>(ESV)</small>`],
@@ -3433,8 +3403,7 @@ David uses this word because God's favor leaves no part of the righteous exposed
 
 <p>
 Favor/ratzon is God's covenantal delight in His people.
-David closes the psalm with a declaration of
-God's favor to actively encircle the righteous as a shield — a confession of covenant truth.
+David closes the psalm with a declaration: God's favor actively encircles the righteous as a shield — a confession of covenant truth.
 </p>
 <p>
 The Aaronic blessing from Numbers 6:25-26 uses shine/face/gracious/peace — the same covenant vocabulary David uses in Psalm 5 when he speaks of God's favor encircling the righteous.
@@ -3443,7 +3412,7 @@ The Aaronic blessing from Numbers 6:25-26 uses shine/face/gracious/peace — the
 <hr>
 
 <span class="tooltip">
-    <strong>you cover him</strong>
+    <strong>you crown/encircle him</strong>
     <span class="tooltiptext">
         <div class="hebrew-row">
             <span class="hebrew-text" dir="rtl">תַּעְטְרֶנּוּ</span>
@@ -3488,7 +3457,7 @@ The righteous one does not merely survive — he is crowned. <em>Atar</em> gives
 
 <p>
 Psalm 5 closes with a <span class="tooltip">declaration of divine confidence<span class="tooltiptext">A recognized literary element in lament psalms where the psalmist pivots from complaint and petition to a bold, present-tense affirmation of trust in God's character and faithfulness. Distinct from a <em>vow of praise</em> (a future promise of thanks) and from the <em>certainty of hearing</em> (confidence God has heard). The declaration of confidence asserts God <em>is</em> trustworthy <em>now</em>, regardless of whether deliverance has arrived — grounding trust in who God is, not in changed circumstances. It typically serves as the hinge of a lament psalm, the theological turning point between the cry of distress and anticipated praise. (cf. Ps. 23:4; 31:14; 56:3–4)</span></span>
- — rather than David being uncertain and placing his trust in what might happen or if God will deliver him. Instead he rests on the settled theological fact that God blesses the righteous.
+ — rather than David placing an uncertain hope in whether God will deliver him. Instead he rests on the settled theological fact that God blesses the righteous.
  </p>
  <p>
 David has <em>prayed</em> <small>(verses 1–3)</small>, <em>argued</em> from God's holy character <small>(verses 4–6)</small>, <em>entered</em> God's presence through chesed <small>(v. 7)</small>,

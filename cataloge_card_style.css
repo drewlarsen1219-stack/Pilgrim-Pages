@@ -578,36 +578,6 @@ blockquote.church-voice footer {
   font-family: "Courier New", monospace;
 }
 
-/* ── Hebrew interlinear word-order block ── */
-.interlinear-block {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 14px;
-  margin: 6px 0 10px;
-}
-
-.word-pair {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  min-width: 52px;
-}
-
-.heb-word {
-  font-family: 'Frank Ruhl Libre', "SBL Hebrew", "Times New Roman", serif;
-  font-size: 2.2em;
-  direction: rtl;
-}
-
-.heb-gloss {
-  font-size: 0.72em;
-  color: #666;
-  text-align: center;
-  direction: ltr;
-  margin-top: 3px;
-}
-
 /* ── Verse/insight text blocks (also reading-mode targets) ── */
 .insight-box {
   font-size: 16px;
