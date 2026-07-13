@@ -559,85 +559,387 @@ The resources below extend the study beyond what these pages cover. Each one is 
     },
 
 	/* --- PSALM 1 --- */
-{ label: "Psalm 1:1",
-      title: "The Way of the Righteous",
+{   label: "Psalm 1:1",
+    title: "The Way of the Righteous",
+    image: "lyre.png",
     genre: "Wisdom",
     parallelism: "Synonymous",
     conditions: ["seeking direction"],
     conditionAngle: "help choosing which path to walk — the righteous or the wicked",
-	  image: "lyre.png",
-      text:`
-    <div class="verse-row">
-      <div class="verse-num">1:1</div>
-      <div class="verse-content">
-        <span class="verse-indent">Blessed is the man</span><br>
-        <span class="verse-indent">who walks not in the counsel of the wicked,</span><br>
-        <span class="verse-indent">nor stands in the way of sinners,</span><br>
-        <span class="verse-indent">nor sits in the seat of scoffers;</span>
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">1:1</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
       </div>
-    </div>
-  `,
-      ref: "ESV",
-      insight: `
-    This opening verse sets the stage for the whole book by contrasting the path of the righteous with the path of the wicked.
-    <hr>
-    <p><strong>Blessedness as the Righteous Path</strong></p>
-    A person is blessed when they are properly in alignment with God by the means of receiving and accepting the Lord's promises.
-    <hr>
-    <p><strong>Luther's Reading: Christ as the Blessed Man</strong></p>
-    <p>In his first lectures on the Psalms, Martin Luther read this verse as speaking of Christ before it speaks of any other man. Christ is the truly Blessed Man, the one who never walked in the counsel of the wicked, never stood with sinners, never sat with scoffers, and believers are blessed only because they are joined to Him as firstfruits are joined to the harvest. Luther also distinguished an external blessedness (visible favor and prosperity) from an internal blessedness (the state of the soul before God). It is the internal blessedness, found in Christ alone, that this verse is ultimately describing.</p>
-    <p><small>Martin Luther, First Lectures on the Psalms (Dictata super Psalterium, 1513-1515), on Psalm 1, in Luther's Works, Vol. 10.</small></p>
-    <hr>
-    <strong>The Lord's promises to ancient Israelites</strong>
-    <ul>
-      <li>A specific territory. <sub>Genesis 15:18-21</sub></li>
-	  <li> Descendants that would be as numerous as the stars and the sand. <sub>Genesis 22:17</sub> </li>
-	<li> All the families of the earth would be blessed. <sub>Genesis 12:3</sub> </li>
-	<li> Israel was promised to be God’s "treasured possession" among all people if they followed His decrees. <sub>Exodus 19:5</sub>
-	<li> A priesthood: a "holy nation" set apart for divine service. <sub>Exodus 19:6</sub>
-	<li> Rain in its season, bountiful harvests, and victory over enemies. <sub>Leviticus 26:3-8</sub>
-	<li> Isrealite monarchy: an eternal throne God promised King David that his descendant would sit on the throne of Israel forever. <sub>2 Samuel 7:12-16</sub>
-		 <small>*Still holds true as Christ holds the throne currently.*</small>
-	<li> Divine Sonship: A unique father-son relationship between God and the King of Israel <sub>Psalm 2:7</sub>
-	<li> A recurring promise to bring the Jewish people back from the corners of the earth to their ancestral land. <sub>Ezekiel 36:24</sub>
-	<li> To replace a "heart of stone" with a "heart of flesh" and to write the Law directly on their hearts. <sub>Jeremiah 31:33</sub>
-	<li> Future visions where "they shall sit every man under his vine and under his fig tree," and war will be no more. <sub>Micah 4:4</sub>
-</ul>
+    `,
+    versions: {
+      ESV: [`Blessed is the man<br>who walks not in the counsel of the wicked,<br>nor stands in the way of sinners,<br>nor sits in the seat of scoffers;<br><small>(ESV)</small>`],
+      KJV: [`Blessed is the man<br>that walketh not in the counsel of the ungodly,<br>nor standeth in the way of sinners,<br>nor sitteth in the seat of the scornful.<br><small>(KJV)</small>`],
+      NASB: [`How blessed is the man<br>who does not walk in the counsel of the wicked,<br>Nor stand in the path of sinners,<br>Nor sit in the seat of scoffers!<br><small>(NASB)</small>`],
+      NIV: [`Blessed is the one<br>who does not walk in step with the wicked<br>or stand in the way that sinners take<br>or sit in the company of mockers,<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">אַשְׁרֵי־הָאִישׁ אֲשֶׁר לֹא הָלַךְ בַּעֲצַת רְשָׁעִים וּבְדֶרֶךְ חַטָּאִים לֹא עָמָד וּבְמוֹשַׁב לֵצִים לֹא יָשָׁב</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
 
-<p> These promises were fullfilled, and because they were fulfilled we are given insight into the Lords trustworthiness.</p>
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+<span class="tooltip">
+    <strong>Blessed</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">אַשְׁרֵי</span>
+            <span class="transliteration">(ashrei)</span>
+        </div>
+        <div class="definition-list">
+            plural construct &#8212; "the happinesses of," used as an interjection
+            <hr>
+			Distinct from <span dir="rtl">בָּרוּךְ</span> (barukh) &#8212; the word used when God Himself is the one doing the blessing (see Psalm 5:12). Ashrei instead names the resulting condition: the flourishing state of the one who lives this way.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Psalm 32:1, Psalm 41:1, Psalm 112:1, Proverbs 3:13
+        </small>
+    </span>
+</span>
+
+<p>
+The Psalter opens not with a command but with a declaration of happiness &#8212; the blessed condition is described before it is ever prescribed.
+</p>
+
+<span class="tooltip">
+    <strong>the man</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">הָאִישׁ</span>
+            <span class="transliteration">(ha'ish)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">אִישׁ</span> &#8212; (ish) man, person &#8212; with the definite article
+            <hr>
+			Not "a man" among many options, but a specific, singular figure held up as the pattern.
+			<br>Distinct from <span dir="rtl">אָדָם</span> (adam), humanity in general &#8212; <em>ish</em> names one man specifically.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Genesis 6:9, 1 Samuel 13:14, Psalm 112:1
+        </small>
+    </span>
+</span>
+
+<p>
+<span id="cite-1" class="cite-anchor">The definite article is why Luther read this verse as naming one particular man first, before it describes anyone else.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+</p>
 <hr>
 
-<p> The Lord has not promised modern day Christians any sort of visions in dreams or signs. This is a dangerous way to place our faith because if those signs or visions do not reveal themselves
-to a Christian or they portray something other than the Word of God it can lead us astray. I have seen this sort of doctrine in non denominational, baptist, and pentecostal Christians.</p> 
+<strong> who </strong>
+<span class="tooltip">
+    <strong>walks</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">הָלַךְ</span>
+            <span class="transliteration">(halakh)</span>
+        </div>
+        <div class="definition-list">
+            to walk, to go; qal perfect &#8212; a completed action
+            <hr>
+			The first and mildest of three verbs of increasing commitment &#8212; casual movement alongside, not yet a decision to stay.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Genesis 5:22, Genesis 17:1, Micah 6:8
+        </small>
+    </span>
+</span>
 
-<p> It is important to place our faith on the promises the Lord gives us Christians: most importantly salvation made true in the blood of Christ Jesus </p>
+<strong> not in the </strong>
+<span class="tooltip">
+    <strong>counsel</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">בַּעֲצַת</span>
+            <span class="transliteration">(ba'atzat)</span>
+        </div>
+        <div class="definition-list">
+            construct of <span dir="rtl">עֵצָה</span> (etzah) &#8212; counsel, plan, advice
+            <hr>
+			Prefixed here with <span dir="rtl">בְּ</span> (in) &#8212; "in the counsel of."
+			<br>The same root names godly counsel elsewhere (Psalm 33:11) &#8212; it is marked wicked here by the noun it modifies, not by the word itself.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Psalm 33:11, Proverbs 1:25, Proverbs 19:20-21
+        </small>
+    </span>
+</span>
 
-<p><em> The Lord's promises to Christians </p></em>
+<strong> of the </strong>
+<span class="tooltip">
+    <strong>wicked</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">רְשָׁעִים</span>
+            <span class="transliteration">(resha'im)</span>
+        </div>
+        <div class="definition-list">
+            plural of <span dir="rtl">רָשָׁע</span> (rasha) &#8212; the guilty one, under judgment
+            <hr>
+			The direct opposite of <span dir="rtl">צַדִּיק</span> (tzaddik), the righteous &#8212; the same word Psalm 5:12 declares is blessed and crowned.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Psalm 5:12, Psalm 37:1, Proverbs 4:14
+        </small>
+    </span>
+</span>
 
-<ul> 
-	<li> All the families of the earth would be blessed <sub>Genesis 12:3</sub></li>
-	<li> Eternal life with a perfect body unlike the body of sin that we are in currently. </li>
-	<li> Forgiveness of our sins. </li>
-	<li> Eternal life without pain. </li>
-</ul>
-
-<p><em> Receiving and accepting the Lord's promises </em></p>
-<ul>
-<li> The person is made full and does not need anything else in their life. 
-<li>The person in a state of fullness lives a lifestyle not participating in sinful environments, but instead looks to the Lord's Law for instructions on how to live life. </li> 
-<li>The person desires the Law of the Lord and keeps it in his mind and heart. By doing this the person's body is made alive and able to give life to other people. </li> 
-<li>This state of blessedness is resilient and will not fail. The person will prosper unlike unbelievers/unfaithful people. </li> 
-<li>When God's justice is applied the unfaithful will not be able to defend themselves and will be seperated from the Lord eternally. </li> 
-<li>The faithful and blessed person will be defended, justified and live eternally with God by the saving sacrifice made by Jesus Christ. </li>
-</ul>
+<p>
+Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer on: the righteous and the wicked stand in two entirely different relationships to God.
+</p>
 <hr>
+
+<strong> nor </strong>
+<span class="tooltip">
+    <strong>stands</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">עָמָד</span>
+            <span class="transliteration">(amad)</span>
+        </div>
+        <div class="definition-list">
+            to stand, to take a position, to remain; qal perfect, matching <em>halakh</em>'s form
+            <hr>
+			More deliberate than walking &#8212; a stationary position taken, not just passed through.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Psalm 1:5, Exodus 14:13, Psalm 24:3
+        </small>
+    </span>
+</span>
+
+<strong> in the </strong>
+<span class="tooltip">
+    <strong>way</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וּבְדֶרֶךְ</span>
+            <span class="transliteration">(uvederekh)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">דֶרֶךְ</span> (derekh) &#8212; path, road, course of life
+            <hr>
+			A common Wisdom-literature metaphor for one's manner of living, not a literal road. Prefixed here with <span dir="rtl">וּ</span> (and) + <span dir="rtl">בְ</span> (in).
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Deuteronomy 30:15-19, Psalm 1:6, Proverbs 4:18-19
+        </small>
+    </span>
+</span>
+
+<strong> of </strong>
+<span class="tooltip">
+    <strong>sinners</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">חַטָּאִים</span>
+            <span class="transliteration">(chatta'im)</span>
+        </div>
+        <div class="definition-list">
+            from <span dir="rtl">חָטָא</span> (chata) &#8212; to sin, to miss the mark
+            <hr>
+			Ordinary failure to hit the standard of God's law &#8212; not necessarily hardened crime.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Psalm 1:5, Genesis 13:13, Proverbs 13:6
+        </small>
+    </span>
+</span>
+
+<p>
+"Sinners" names an ordinary failure to meet God's standard &#8212; the middle term between mere wickedness and the settled scorn named next.
+</p>
+<hr>
+
+<strong> nor </strong>
+<span class="tooltip">
+    <strong>sits</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יָשָׁב</span>
+            <span class="transliteration">(yashav)</span>
+        </div>
+        <div class="definition-list">
+            to sit, to dwell, to settle; qal perfect, matching the other two verbs' form
+            <hr>
+			The furthest point of the progression &#8212; not passing by, not pausing, but belonging to the place.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Genesis 19:1, Psalm 26:4-5
+        </small>
+    </span>
+</span>
+
+<strong> in the </strong>
+<span class="tooltip">
+    <strong>seat</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וּבְמוֹשַׁב</span>
+            <span class="transliteration">(uvemoshav)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">מוֹשַׁב</span> (moshav) &#8212; seat, session, dwelling place
+            <hr>
+			A fixed place one belongs to &#8212; the opposite of the transience of "walking." Prefixed here with <span dir="rtl">וּ</span> (and) + <span dir="rtl">בְ</span> (in).
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Psalm 107:32, Proverbs 9:14, 1 Samuel 20:18
+        </small>
+    </span>
+</span>
+
+<strong> of </strong>
+<span class="tooltip">
+    <strong>scoffers</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">לֵצִים</span>
+            <span class="transliteration">(letzim)</span>
+        </div>
+        <div class="definition-list">
+            plural of <span dir="rtl">לֵץ</span> (letz) &#8212; mocker, scoffer
+            <hr>
+			A Wisdom-literature term for one who has grown contemptuous of correction &#8212; the furthest stage of settled folly.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Proverbs 1:22, Proverbs 9:7-8, Proverbs 13:1
+        </small>
+    </span>
+</span>
+
+<p>
+"Scoffer" belongs to the vocabulary of Proverbs, where it names someone wisdom itself can no longer reach &#8212; the last stop on the road this verse describes the blessed man as never taking.
+</p>
+<p>
+  <span class="selah-marker">
+     <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+Psalm 1 is the doorway to the whole Psalter &#8212; a Wisdom psalm placed first to teach the reader how to read everything that follows: as a choice between two ways.
+</p>
+<p>
+Verse 1 defines the blessed life negatively before verse 2 defines it positively &#8212; what the blessed man does not do, before what he does. This is deliberate: the way of wickedness is described first and in detail, because turning away from it is the first movement of the blessed life, not an afterthought.
+</p>
+<p>
+The three verbs &#8212; walk, stand, sit &#8212; are not decoration. They trace a single life moving from casual proximity to settled identity, and the three groups &#8212; the wicked, sinners, scoffers &#8212; deepen in the same direction, from those merely under judgment to those who have grown openly contemptuous of correction. The verse describes a man who never took even the first step.
+</p>
+<p>
+This is the same negative space David will stand in when he calls himself "righteous" in Psalm 5:12 &#8212; not because he never sinned, but because he did not belong to the company Psalm 1 describes.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+No descendant of Adam has ever matched this description perfectly. Even David, called righteous in Psalm 5:12, confessed his own sin <small>(Psalm 51:1-4)</small>. The verse describes a man no one had yet become.
+</p>
+<p><em>Christ as the Blessed Man</em></p>
+<p>
+Martin Luther read this verse as speaking of Christ before it speaks of any other man.<sup class="ref"><a href="#ref-1">[1]</a></sup>
+Christ is the truly Blessed Man &#8212; the one who never walked in the counsel of the wicked, never stood with sinners, never sat with scoffers. God blesses believers only because He joins them to Christ, as firstfruits are joined to the harvest.
+</p>
+<p>
+Luther also distinguished an <span class="tooltip">external blessedness<span class="tooltiptext">Visible favor and prosperity &#8212; land, health, success &#8212; the kind of blessing that can be seen by others and can also be entirely absent from a faithful life (cf. Job).</span></span> from an <span class="tooltip">internal blessedness<span class="tooltiptext">The state of the soul before God &#8212; right standing, peace with God, the assurance of His favor &#8212; which does not depend on visible circumstances.</span></span>. It is the internal blessedness, found in Christ alone, that this verse ultimately describes.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+<hr>
+<p><em>A Promise Kept Before It Was Fully Understood</em></p>
+<p>
+The blessedness this verse describes was never a vague wish.
+<span id="cite-2" class="cite-anchor">God had already bound Himself to specific promises &#8212; to Abraham, that all the families of the earth would be blessed through him; to David, that his throne would stand forever.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+Every one of them pointed toward a single Blessed Man who had not yet come.
+</p>
+<p>
+<span id="cite-3" class="cite-anchor">Christ, David's own descendant, now holds that throne &#8212; the promise made to David is not a memory but a present reality.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
+<span id="cite-4" class="cite-anchor">God fulfills that same promise &#8212; a new heart, His Law written within it &#8212; not through human effort, but through what He Himself does in the one joined to Christ.<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<em>Watch the small compromises, not just the big ones.</em> You rarely fall into scoffing in a single step. Notice when casual association with wickedness becomes a position you're comfortable defending, and when a defended position becomes a seat you no longer want to leave. The earlier you notice the walk, the easier it is to turn back.
+</p>
+<p>
+<em>Test everything against God's Word, not against a feeling or an experience.</em> You do not need a vision, a sign, or a dramatic encounter to know God's will for you &#8212; He has already spoken it in Scripture. If an experience seems to reveal something Scripture does not, do not trust the experience over the Word.
+</p>
+<p>
+<em>You are not blessed because you have avoided every wicked counsel.</em> No one has. You are blessed because God has joined you to the One who did, crediting you with His path just as He credits you with His righteousness in Psalm 5:12.
+</p>
+<p>
+<em>The blessed life is defined by what you turn toward, not only by what you avoid.</em> Refusing bad company is the first movement, not the whole of it &#8212; delight in God's Law, taken up in the next verse, is where the blessed life actually lives.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
 <details class="study-section">
 <summary>Prayer</summary>
-<p><em>This restates the same cry above in plain, contemporary words &#8212; not a replacement for it.</em></p>
 <p>
 Lord, show me which way to walk. Keep me from following the counsel of those who reject You, from joining the path of those who sin against You, and from sitting among those who mock what is right. Christ alone never walked in that counsel, never stood in that way, never sat in that seat &#8212; He is the one truly Blessed Man. Join me to Him, so that His path becomes my path.
 </p>
-<span class="selah-marker"><em>AMEN</em></span>
+  <span class="selah-marker">
+    <em>AMEN</em>
+  </span>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Martin Luther, <em>First Lectures on the Psalms</em> (<em>Dictata super Psalterium</em>, 1513-1515), on Psalm 1, in <em>Luther's Works</em>, Vol. 10. Luther reads the definite article &#8212; "the man" &#8212; as naming Christ specifically before any other man, the truly Blessed Man to whom believers are joined as firstfruits to the harvest.</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Genesis 12:3 &#8212; <em>"...and in you all the families of the earth shall be blessed."</em> 2 Samuel 7:12-16 &#8212; God's promise to David that his throne would be established forever. Both promises stand behind the blessedness Psalm 1:1 describes &#8212; not a vague wish, but a bond God had already made.</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Acts 2:29-36 &#8212; Peter argues at Pentecost that David, though dead and buried, spoke of one of his own descendants whom God would seat on his throne; that descendant is Jesus, whom God raised and exalted. The promise to David is fulfilled in a living king, not a historical memory.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Ezekiel 36:26; Jeremiah 31:33 &#8212; God's promise to remove the heart of stone and write His Law on the heart directly. Fulfilled not by human resolve but by God's own act in the one joined to Christ (cf. the <em>regeneration</em> tooltip, Psalm 5:12).</li>
+  </ol>
+</div>
+<p>
+  <span class="selah-marker">
+     <em>SELAH AMEN</em>
+  </span>
+</p>
 </details>
 `
     },
@@ -3484,8 +3786,7 @@ David calls the righteous "crowned with favor" and shielded on every side — bu
 </p>
 <p><em>Christ as the Righteous/Tzaddik</em></p>
 <p>
-The tzaddikim of the Psalms were righteous before God — not by moral perfection, but by covenant standing.
-Their sin was covered year by year through sacrifice, and they were held in right relationship with God by faith in His promises. <sup class="ref"><a href="#ref-2">[2]</a></sup>
+The tzaddikim of the Psalms were righteous before God by covenant standing — their sin was covered year by year through sacrifice, and they were held in right relationship with God by faith in His promises. <sup class="ref"><a href="#ref-2">[2]</a></sup>
 Scripture bears this out again and again: Abraham "believed God, and it was counted to him as righteousness" <small>(Genesis 15:6)</small>; David himself confessed sin but trusted God's mercy <small>(Psalm 51:1-4)</small>; Habakkuk declared "the righteous shall live by his faith" <small>(Habakkuk 2:4)</small>. In Psalm 5 itself, the righteous takes refuge in God <small>(v. 11)</small> and enters through His chesed <small>(v. 7)</small> — not by earned merit.
 </p>
 <p>
@@ -3520,13 +3821,13 @@ but by union with Him who is the Righteous One. <span id="cite-10" class="cite-a
 The <em>barak</em>/blessing David declared was always covenantal — God's favor resting on those in right standing with Him. The <em>tzaddikim</em> received it through faith, their sin covered year by year through sacrifice. But the blessing was bounded by the covenant's earthly scope: land, harvest, protection, long life — the <span class="tooltip">provisional blessings of Sinai<span class="tooltiptext">The blessings promised in the Mosaic covenant (Deuteronomy 28:1–14) were real but conditional and temporary — tied to Israel's covenant faithfulness, secured by sacrifices that could cover but not remove sin. They pointed forward to a greater and permanent blessing still to come.</span></span>.
 </p>
 <p>
-<span id="cite-11" class="cite-anchor">Paul's language in Ephesians 1:3 deliberately bursts that scope open.<sup class="ref"><a href="#ref-11">[11]</a></sup></span> <em>Every</em> spiritual blessing — not the provisional blessings of Sinai, but the full <span class="tooltip">eschatological inheritance<span class="tooltiptext">Eschatological means pertaining to the "last things" — the final age inaugurated by Christ's resurrection. The inheritance is not earthly or temporary but eternal: justification, adoption, glorification, and the new creation. It is received now by faith and consummated at Christ's return.</span></span> of those united to the Righteous One. Justification. Adoption. Redemption. These are not given because we have earned God's favor, but because we are <span class="tooltip">found in Christ<span class="tooltiptext">To be "found in Christ" (Philippians 3:9) is to be so identified with Him by faith that His righteousness is credited as ours and our sin was credited to Him at the cross. Union with Christ is the ground of every spiritual blessing we receive — we do not stand before God in our own name but in His.</span></span> — and God credits us with His righteous standing before the Father.
+<span id="cite-11" class="cite-anchor">Paul's language in Ephesians 1:3 deliberately bursts that scope open.<sup class="ref"><a href="#ref-11">[11]</a></sup></span> <em>Every</em> spiritual blessing — not the provisional blessings of Sinai, but the full <span class="tooltip">eschatological inheritance<span class="tooltiptext">Eschatological means pertaining to the "last things" — the final age inaugurated by Christ's resurrection. The inheritance is not earthly or temporary but eternal: justification, adoption, glorification, and the new creation. It is received now by faith and consummated at Christ's return.</span></span> of those united to the Righteous One. Justification. Adoption. Redemption. God does not give these because we have earned His favor, but because we are <span class="tooltip">found in Christ<span class="tooltiptext">To be "found in Christ" (Philippians 3:9) is to be so identified with Him by faith that His righteousness is credited as ours and our sin was credited to Him at the cross. Union with Christ is the ground of every spiritual blessing we receive — we do not stand before God in our own name but in His.</span></span> — He credits us with His righteous standing before the Father.
 </p>
 <p>
 <span id="cite-12" class="cite-anchor">Among those blessings, Paul names the Holy Spirit as seal and guarantee.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> The Spirit is not merely a comfort or a power for holy living — He is God's down payment on the full inheritance yet to be revealed. His <span class="tooltip">indwelling presence<span class="tooltiptext">The indwelling of the Holy Spirit refers to the Spirit taking up residence within the believer at baptism and faith (1 Corinthians 6:19; Romans 8:9). Unlike the Spirit's temporary presence in the Old Testament — resting on prophets or kings for a task — the New Covenant indwelling is permanent. The Spirit does not visit; He dwells. This is the fulfillment of Ezekiel 36:27: "I will put my Spirit within you."</span></span> in the believer is the pledge that what God began in us, He will bring to completion.
 </p>
 <p>
-God blesses the righteous — and we are <span class="tooltip">righteous in Christ alone<span class="tooltiptext">Righteousness before God is not achieved by moral performance but received by faith. Christ's perfect obedience is credited (imputed) to the believer, so that God declares us just — not because of what we have done, but because of what Christ has done in our place. (Romans 4:5; 2 Corinthians 5:21)</span></span>, <span class="tooltip">by grace alone<span class="tooltiptext">Grace (Latin: gratia; Greek: charis) is God's unmerited favor — a gift freely given, with no prior claim on our part. Salvation originates entirely in God's initiative, not in human will or effort. (Ephesians 2:8–9; Romans 11:6)</span></span>,  <span class="tooltip">through faith alone<span class="tooltiptext">Faith (Greek: pistis) is the instrument by which we receive what God gives in Christ — not a work we perform, but the open hand that receives the gift. Sola fide ("faith alone") is the channel of justification, recovered by Luther against the medieval addition of human merit. (Romans 3:28; Galatians 2:16)</span></span>.
+God blesses the righteous — and we are <span class="tooltip">righteous in Christ alone<span class="tooltiptext">Righteousness before God is not achieved by moral performance but received by faith. Christ's perfect obedience is credited (imputed) to the believer, so that God declares us just — not because of what we have done, but because of what Christ has done in our place. (Romans 4:5; 2 Corinthians 5:21)</span></span>, <span class="tooltip">by grace alone<span class="tooltiptext">Grace (Latin: gratia; Greek: charis) is God's unmerited favor — a gift freely given, with no prior claim on our part. Salvation originates entirely in God's initiative, not in human will or effort. (Ephesians 2:8–9; Romans 11:6)</span></span>, <span class="tooltip">through faith alone<span class="tooltiptext">Faith (Greek: pistis) is the instrument by which we receive what God gives in Christ — not a work we perform, but the open hand that receives the gift. Sola fide ("faith alone") is the channel of justification, recovered by Luther against the medieval addition of human merit. (Romans 3:28; Galatians 2:16)</span></span>.
 </p>
 <p>
 <img src="pics/Allegorie-auf-Gesetz-und-Gnade.jpg" alt="Law and Gospel by Lucas Cranach the Elder" width="auto" height="500" style="border: 1px solid #888888;" />
