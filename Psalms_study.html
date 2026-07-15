@@ -269,7 +269,7 @@
     }
 
     const versionBar = v.versions ? `
-      <div style="display:flex; justify-content:flex-end; align-items:center; gap:6px; margin-bottom:4px;">
+      <div style="display:flex; justify-content:flex-end; align-items:center; gap:6px; margin-top:15px; margin-bottom:4px;">
         <label style="font-size:11px; font-family:monospace; color:#808080;">Version:</label>
         <select class="retro-select version-select" style="font-size:11px; padding:1px 4px;">
           ${Object.keys(v.versions).map(k => `<option value="${k}"${k === currentVersion ? ' selected' : ''}>${k}</option>`).join('')}
@@ -468,6 +468,26 @@
     setTimeout(() => target.classList.remove('cite-flash-active'), 3100);
   });
 
+  // Flip a tooltip to open downward instead of upward when there isn't enough
+  // room above it on the page — avoids clipping past the top of the document.
+  function positionTooltip(tip) {
+    const text = tip.querySelector('.tooltiptext');
+    if (!text) return;
+    const naturalHeight = text.offsetHeight;
+    const spaceAbove = tip.getBoundingClientRect().top + window.scrollY;
+    if (spaceAbove < naturalHeight + 20) {
+      tip.classList.add('tooltip-down');
+    } else {
+      tip.classList.remove('tooltip-down');
+    }
+  }
+
+  // Desktop hover: recompute direction just before a tooltip becomes visible
+  document.addEventListener('mouseover', function(e) {
+    const tip = e.target.closest('.tooltip');
+    if (tip) positionTooltip(tip);
+  });
+
   // Touch-friendly tooltips: tap to toggle, tap outside to close
   document.addEventListener('click', function(e) {
     if (e.target.closest('.tooltiptext')) return;
@@ -475,7 +495,10 @@
     document.querySelectorAll('.tooltip.tooltip-active').forEach(t => {
       if (t !== tip) t.classList.remove('tooltip-active');
     });
-    if (tip) tip.classList.toggle('tooltip-active');
+    if (tip) {
+      positionTooltip(tip);
+      tip.classList.toggle('tooltip-active');
+    }
   });
 </script>
 

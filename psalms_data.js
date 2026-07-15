@@ -595,6 +595,8 @@ The resources below extend the study beyond what these pages cover. Each one is 
         <div class="definition-list">
             plural construct &#8212; "the happinesses of," used as an interjection
             <hr>
+			From <span dir="rtl">אָשַׁר</span> (ashar) &#8212; to go straight, to advance rightly. The root pictures a life moving in the right direction, not a static feeling. Fixed permanently in this construct-plural form &#8212; Hebrew never predicates <em>ashrei</em> onto a subject the way "he is blessed" would in English; it only exclaims over someone already found walking that way.
+            <hr>
 			Distinct from <span dir="rtl">בָּרוּךְ</span> (barukh) &#8212; the word used when God Himself is the one doing the blessing (see Psalm 5:12). Ashrei instead names the resulting condition: the flourishing state of the one who lives this way.
         </div>
         <hr>
@@ -605,7 +607,7 @@ The resources below extend the study beyond what these pages cover. Each one is 
 </span>
 
 <p>
-The Psalter opens not with a command but with a declaration of happiness &#8212; the blessed condition is described before it is ever prescribed.
+The Psalter opens with a declaration of <span class="tooltip">blessedness<span class="tooltiptext">Brown-Driver-Briggs, the standard Hebrew lexicon, defines it as "the objective, God-given condition of blessedness enjoyed by those who walk in covenant faithfulness" &#8212; not a fleeting feeling, and not the active verb for blessing itself (see the "Blessed" tooltip above).</span></span> &#8212; the verse names a man who already lives this way, not a command telling the reader how to become him. Naming an exemplar instead of issuing a command is wisdom literature's own opening convention, the same pattern found in Psalm 32:1 (<em>&#8220;Blessed is the one whose transgression is forgiven&#8221;</em>) and Proverbs 3:13 (<em>&#8220;Blessed is the one who finds wisdom&#8221;</em>) &#8212; unlike the command-based opening of the Ten Commandments (<em>&#8220;You shall...&#8221;</em>).
 </p>
 
 <span class="tooltip">
@@ -642,9 +644,11 @@ The Psalter opens not with a command but with a declaration of happiness &#8212;
             <span class="transliteration">(halakh)</span>
         </div>
         <div class="definition-list">
-            to walk, to go; qal perfect &#8212; a completed action
+            to walk, to go; qal perfect &#8212; describing a settled, characteristic pattern rather than a single event
             <hr>
 			The first and mildest of three verbs of increasing commitment &#8212; casual movement alongside, not yet a decision to stay.
+			<hr>
+			The negation governing all three verbs in this verse (<span dir="rtl">לֹא</span> + perfect) denotes total, characteristic avoidance &#8212; not "hasn't happened yet," but "this is not the kind of man he is."
         </div>
         <hr>
         <small class="references">
@@ -662,14 +666,14 @@ The Psalter opens not with a command but with a declaration of happiness &#8212;
             <span class="transliteration">(ba'atzat)</span>
         </div>
         <div class="definition-list">
-            construct of <span dir="rtl">עֵצָה</span> (etzah) &#8212; counsel, plan, advice
+            construct of <span dir="rtl">עֵצָה</span> (etzah), from <span dir="rtl">יָעַץ</span> (ya'ats) &#8212; to advise, to plan, to purpose. Names deliberated counsel, not a careless remark.
             <hr>
 			Prefixed here with <span dir="rtl">בְּ</span> (in) &#8212; "in the counsel of."
 			<br>The same root names godly counsel elsewhere (Psalm 33:11) &#8212; it is marked wicked here by the noun it modifies, not by the word itself.
         </div>
         <hr>
         <small class="references">
-            Biblical Usage: Psalm 33:11, Proverbs 1:25, Proverbs 19:20-21
+            Biblical Usage: Psalm 33:11, 2 Samuel 15:31, Proverbs 1:25, Proverbs 19:20-21
         </small>
     </span>
 </span>
@@ -695,7 +699,7 @@ The Psalter opens not with a command but with a declaration of happiness &#8212;
 </span>
 
 <p>
-Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer on: the righteous and the wicked stand in two entirely different relationships to God.
+Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer on: the righteous and the wicked stand in two entirely different relationships to God &#8212; one already right before the Judge, one already under His sentence. And the negation covering all three verbs in this verse is total: the blessed man is not someone who merely hasn't yet joined the wicked, but someone for whom that company was never home.
 </p>
 <hr>
 
@@ -728,9 +732,9 @@ Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer o
             <span class="transliteration">(uvederekh)</span>
         </div>
         <div class="definition-list">
-            <span dir="rtl">דֶרֶךְ</span> (derekh) &#8212; path, road, course of life
+            <span dir="rtl">דֶרֶךְ</span> (derekh), from <span dir="rtl">דָּרַךְ</span> (darakh) &#8212; to tread. One of the most common words in the Old Testament, over 700 occurrences.
             <hr>
-			A common Wisdom-literature metaphor for one's manner of living, not a literal road. Prefixed here with <span dir="rtl">וּ</span> (and) + <span dir="rtl">בְ</span> (in).
+			A common Wisdom-literature metaphor for one's manner of living &#8212; the image itself is ground worn down by repeated walking, not a literal road. Prefixed here with <span dir="rtl">וּ</span> (and) + <span dir="rtl">בְ</span> (in).
         </div>
         <hr>
         <small class="references">
@@ -748,9 +752,9 @@ Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer o
             <span class="transliteration">(chatta'im)</span>
         </div>
         <div class="definition-list">
-            from <span dir="rtl">חָטָא</span> (chata) &#8212; to sin, to miss the mark
+            intensive noun form of <span dir="rtl">חָטָא</span> (chata) &#8212; to sin, to miss the mark
             <hr>
-			Ordinary failure to hit the standard of God's law &#8212; not necessarily hardened crime.
+			Not an isolated lapse but a settled pattern: one whose habitual missing of the mark has become who he is, not just something he occasionally does.
         </div>
         <hr>
         <small class="references">
@@ -760,7 +764,7 @@ Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer o
 </span>
 
 <p>
-"Sinners" names an ordinary failure to meet God's standard &#8212; the middle term between mere wickedness and the settled scorn named next.
+"Sinners" names not a single failure but a settled pattern of sin &#8212; a status, not a stumble.
 </p>
 <hr>
 
@@ -796,10 +800,12 @@ Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer o
             <span dir="rtl">מוֹשַׁב</span> (moshav) &#8212; seat, session, dwelling place
             <hr>
 			A fixed place one belongs to &#8212; the opposite of the transience of "walking." Prefixed here with <span dir="rtl">וּ</span> (and) + <span dir="rtl">בְ</span> (in).
+			<hr>
+			In the Ancient Near East this was often a specific, recognized place &#8212; the city gate or public square where elders and judges gathered to render judgment and shape public opinion. To sit in this "seat" was to hold a public, established position, not just to keep bad company in private.
         </div>
         <hr>
         <small class="references">
-            Biblical Usage: Psalm 107:32, Proverbs 9:14, 1 Samuel 20:18
+            Biblical Usage: Ruth 4:1-2, Job 29:7, Psalm 107:32, Proverbs 9:14, 1 Samuel 20:18
         </small>
     </span>
 </span>
@@ -813,9 +819,9 @@ Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer o
             <span class="transliteration">(letzim)</span>
         </div>
         <div class="definition-list">
-            plural of <span dir="rtl">לֵץ</span> (letz) &#8212; mocker, scoffer
+            participle of <span dir="rtl">לוּץ</span> (luts) &#8212; to scoff, to mock; literally "those who mock"
             <hr>
-			A Wisdom-literature term for one who has grown contemptuous of correction &#8212; the furthest stage of settled folly.
+			An active participle, not a fixed label &#8212; this names someone presently, continually engaged in scorn. A Wisdom-literature term for one who has grown contemptuous of correction &#8212; the furthest stage of settled folly.
         </div>
         <hr>
         <small class="references">
@@ -825,7 +831,7 @@ Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer o
 </span>
 
 <p>
-"Scoffer" belongs to the vocabulary of Proverbs, where it names someone wisdom itself can no longer reach &#8212; the last stop on the road this verse describes the blessed man as never taking.
+"Scoffer" belongs to the vocabulary of Proverbs, where it names someone wisdom itself can no longer reach &#8212; the last stop on the road this verse describes the blessed man as never taking. And this "seat" was rarely a private one &#8212; to sit in it was to lend scoffers a public platform, not just to keep quiet company with them; the blessed man refuses even that association, at its most public and its most permanent.
 </p>
 <p>
   <span class="selah-marker">
@@ -838,7 +844,10 @@ Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer o
 <summary>Insight</summary>
 
 <p>
-Psalm 1 is the doorway to the whole Psalter &#8212; a Wisdom psalm placed first to teach the reader how to read everything that follows: as a choice between two ways.
+Psalm 1 is the doorway to the whole Psalter &#8212; a Wisdom psalm placed first to teach the reader how to read everything that follows: as a choice between two ways <small>(cf. Deuteronomy 30:15-19)</small>.
+</p>
+<p>
+Wisdom literature was Israel's shared genre with the wider Ancient Near East &#8212; the same kind of instructional collection found in Egyptian and Mesopotamian texts, used to train the young and those who would lead. Like much of that tradition, it was very likely taught aloud long before it was ever gathered into writing <small>(cf. Proverbs 25:1)</small>. Psalm 1 stands at that threshold paired with Psalm 2 &#8212; the personal piety of the righteous individual set beside the corporate hope of the coming King, two gates opening onto the same book.
 </p>
 <p>
 Verse 1 defines the blessed life negatively before verse 2 defines it positively &#8212; what the blessed man does not do, before what he does. This is deliberate: the way of wickedness is described first and in detail, because turning away from it is the first movement of the blessed life, not an afterthought.
@@ -860,7 +869,7 @@ This is the same negative space David will stand in when he calls himself "right
 <summary>Fulfillment</summary>
 
 <p>
-No descendant of Adam has ever matched this description perfectly. Even David, called righteous in Psalm 5:12, confessed his own sin <small>(Psalm 51:1-4)</small>. The verse describes a man no one had yet become.
+No descendant of Adam has ever matched this description perfectly. Even David, called righteous in Psalm 5:12, confessed his own sin <small>(Psalm 51:1-4)</small>. <span id="cite-2" class="cite-anchor">Paul draws on this same psalm's own vocabulary &#8212; righteous, wicked &#8212; to reach a universal verdict: none is righteous, not one.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> Read on its own, apart from Christ, this verse functions as Law &#8212; a standard no reader keeps by trying harder. That standard exposes every reader's own failure before Christ is ever named as the one who kept it. The verse describes a man no one had yet become.
 </p>
 <p><em>Christ as the Blessed Man</em></p>
 <p>
@@ -879,12 +888,12 @@ Luther also distinguished an <span class="tooltip">external blessedness<span cla
 <p><em>A Promise Kept Before It Was Fully Understood</em></p>
 <p>
 The blessedness this verse describes was never a vague wish.
-<span id="cite-2" class="cite-anchor">God had already bound Himself to specific promises &#8212; to Abraham, that all the families of the earth would be blessed through him; to David, that his throne would stand forever.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+<span id="cite-3" class="cite-anchor">God had already bound Himself to specific promises &#8212; to Abraham, that all the families of the earth would be blessed through him; to David, that his throne would stand forever.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
 Every one of them pointed toward a single Blessed Man who had not yet come.
 </p>
 <p>
-<span id="cite-3" class="cite-anchor">Christ, David's own descendant, now holds that throne &#8212; the promise made to David is not a memory but a present reality.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
-<span id="cite-4" class="cite-anchor">God fulfills that same promise &#8212; a new heart, His Law written within it &#8212; not through human effort, but through what He Himself does in the one joined to Christ.<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
+<span id="cite-4" class="cite-anchor">Christ, David's own descendant, now holds that throne &#8212; the promise made to David is not a memory but a present reality.<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
+<span id="cite-5" class="cite-anchor">God fulfills that same promise &#8212; a new heart, His Law written within it &#8212; not through human effort, but through what He Himself does in the one joined to Christ.<sup class="ref"><a href="#ref-5">[5]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -906,7 +915,7 @@ Every one of them pointed toward a single Blessed Man who had not yet come.
 <em>You are not blessed because you have avoided every wicked counsel.</em> No one has. You are blessed because God has joined you to the One who did, crediting you with His path just as He credits you with His righteousness in Psalm 5:12.
 </p>
 <p>
-<em>The blessed life is defined by what you turn toward, not only by what you avoid.</em> Refusing bad company is the first movement, not the whole of it &#8212; delight in God's Law, taken up in the next verse, is where the blessed life actually lives.
+<em>What you turn toward defines the blessed life as much as what you avoid.</em> Refusing bad company is the first movement, not the whole of it &#8212; delight in God's Law, taken up in the next verse, is where the blessed life actually lives.
 </p>
 <p>
   <span class="selah-marker">
@@ -930,9 +939,10 @@ Lord, show me which way to walk. Keep me from following the counsel of those who
 <div class="ref-list">
   <ol>
     <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Martin Luther, <em>First Lectures on the Psalms</em> (<em>Dictata super Psalterium</em>, 1513-1515), on Psalm 1, in <em>Luther's Works</em>, Vol. 10. Luther reads the definite article &#8212; "the man" &#8212; as naming Christ specifically before any other man, the truly Blessed Man to whom believers are joined as firstfruits to the harvest.</li>
-    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Genesis 12:3 &#8212; <em>"...and in you all the families of the earth shall be blessed."</em> 2 Samuel 7:12-16 &#8212; God's promise to David that his throne would be established forever. Both promises stand behind the blessedness Psalm 1:1 describes &#8212; not a vague wish, but a bond God had already made.</li>
-    <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Acts 2:29-36 &#8212; Peter argues at Pentecost that David, though dead and buried, spoke of one of his own descendants whom God would seat on his throne; that descendant is Jesus, whom God raised and exalted. The promise to David is fulfilled in a living king, not a historical memory.</li>
-    <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Ezekiel 36:26; Jeremiah 31:33 &#8212; God's promise to remove the heart of stone and write His Law on the heart directly. Fulfilled not by human resolve but by God's own act in the one joined to Christ (cf. the <em>regeneration</em> tooltip, Psalm 5:12).</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Romans 3:10-12 &#8212; Paul's verdict that none is righteous draws directly on this psalm's own righteous/wicked vocabulary, echoing the same verdict in Psalm 14 and Psalm 53.</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Genesis 12:3 &#8212; <em>"...and in you all the families of the earth shall be blessed."</em> 2 Samuel 7:12-16 &#8212; God's promise to David that his throne would be established forever. Both promises stand behind the blessedness Psalm 1:1 describes &#8212; not a vague wish, but a bond God had already made.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Acts 2:29-36 &#8212; Peter argues at Pentecost that David, though dead and buried, spoke of one of his own descendants whom God would seat on his throne; that descendant is Jesus, whom God raised and exalted. The promise to David is fulfilled in a living king, not a historical memory.</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Ezekiel 36:26; Jeremiah 31:33 &#8212; God's promise to remove the heart of stone and write His Law on the heart directly. Fulfilled not by human resolve but by God's own act in the one joined to Christ (cf. the <em>regeneration</em> tooltip, Psalm 5:12).</li>
   </ol>
 </div>
 <p>
