@@ -606,10 +606,7 @@ The resources below extend the study beyond what these pages cover. Each one is 
     </span>
 </span>
 
-<p>
-The Psalter opens with a declaration of <span class="tooltip">blessedness<span class="tooltiptext">Brown-Driver-Briggs, the standard Hebrew lexicon, defines it as "the objective, God-given condition of blessedness enjoyed by those who walk in covenant faithfulness" &#8212; not a fleeting feeling, and not the active verb for blessing itself (see the "Blessed" tooltip above).</span></span> &#8212; the verse names a man who already lives this way, not a command telling the reader how to become him. Naming an exemplar instead of issuing a command is wisdom literature's own opening convention, the same pattern found in Psalm 32:1 (<em>&#8220;Blessed is the one whose transgression is forgiven&#8221;</em>) and Proverbs 3:13 (<em>&#8220;Blessed is the one who finds wisdom&#8221;</em>) &#8212; unlike the command-based opening of the Ten Commandments (<em>&#8220;You shall...&#8221;</em>).
-</p>
-
+<strong> is </strong>
 <span class="tooltip">
     <strong>the man</strong>
     <span class="tooltiptext">
@@ -631,7 +628,7 @@ The Psalter opens with a declaration of <span class="tooltip">blessedness<span c
 </span>
 
 <p>
-<span id="cite-1" class="cite-anchor">The definite article is why Luther read this verse as naming one particular man first, before it describes anyone else.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+God reveals what the blessed life looks like through a description: He names the man in the third person rather than addressing the reader directly in the second person.
 </p>
 <hr>
 
@@ -699,7 +696,7 @@ The Psalter opens with a declaration of <span class="tooltip">blessedness<span c
 </span>
 
 <p>
-Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer on: the righteous and the wicked stand in two entirely different relationships to God &#8212; one already right before the Judge, one already under His sentence. And the negation covering all three verbs in this verse is total: the blessed man is not someone who merely hasn't yet joined the wicked, but someone for whom that company was never home.
+The "wicked" are not merely rule-breakers, but those who reason about right and wrong on their own terms, in place of God's instruction. To "walk in their counsel" is to let that reasoning become one's own guide for living. Even this mildest form of agreement is enough to exclude someone from that blessed life.
 </p>
 <hr>
 
@@ -764,7 +761,7 @@ Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer o
 </span>
 
 <p>
-"Sinners" names not a single failure but a settled pattern of sin &#8212; a status, not a stumble.
+A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, sin was already a precisely defined category, not an abstract idea. Torah had already named it as a violation of God's covenant standard, incurring real guilt and addressed through the sacrificial system (cf. Leviticus 4-5) &#8212; centuries before the New Testament exposes that standard's full weight and its answer in Christ. See Fulfillment below.</span></span>" is not defined by a single wrongdoing but by a repeated one &#8212; sin has become that person's ordinary way of life, not an exception to it. To "stand in the way of sinners" is to trade one's own direction for theirs &#8212; no longer just entertaining how they think, but committing to the same course they walk.
 </p>
 <hr>
 
@@ -825,13 +822,13 @@ Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer o
         </div>
         <hr>
         <small class="references">
-            Biblical Usage: Proverbs 1:22, Proverbs 9:7-8, Proverbs 13:1
+            Biblical Usage: Proverbs 1:22, Proverbs 9:7-8, Proverbs 13:1, Psalm 119:51
         </small>
     </span>
 </span>
 
 <p>
-"Scoffer" belongs to the vocabulary of Proverbs, where it names someone wisdom itself can no longer reach &#8212; the last stop on the road this verse describes the blessed man as never taking. And this "seat" was rarely a private one &#8212; to sit in it was to lend scoffers a public platform, not just to keep quiet company with them; the blessed man refuses even that association, at its most public and its most permanent.
+"Scoffer" belongs to the vocabulary of Proverbs, which names the target of that contempt precisely: <span id="cite-6" class="cite-anchor">not merely ignoring correction, but hating the one who gives it.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> <span id="cite-7" class="cite-anchor">That same contempt extends even to God's own law.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> This is the last stop on a road the blessed man never takes. To "sit in the seat of scoffers" is the final exchange in this descent: no longer just sharing their reasoning or their direction, but lending them your own name in the most public, most permanent way.
 </p>
 <p>
   <span class="selah-marker">
@@ -847,7 +844,7 @@ Psalm 1 opens the Psalter with the same contrast Psalm 5 closes its own prayer o
 Psalm 1 is the doorway to the whole Psalter &#8212; a Wisdom psalm placed first to teach the reader how to read everything that follows: as a choice between two ways <small>(cf. Deuteronomy 30:15-19)</small>.
 </p>
 <p>
-Wisdom literature was Israel's shared genre with the wider Ancient Near East &#8212; the same kind of instructional collection found in Egyptian and Mesopotamian texts, used to train the young and those who would lead. Like much of that tradition, it was very likely taught aloud long before it was ever gathered into writing <small>(cf. Proverbs 25:1)</small>. Psalm 1 stands at that threshold paired with Psalm 2 &#8212; the personal piety of the righteous individual set beside the corporate hope of the coming King, two gates opening onto the same book.
+Wisdom literature was Israel's shared genre with the wider Ancient Near East &#8212; the same kind of instructional collection found in Egyptian and Mesopotamian texts, used to train the young and those who would lead. Like much of that tradition, it was very likely taught aloud long before it was ever gathered into writing <small>(cf. Proverbs 25:1)</small>. Psalm 1 stands at that threshold paired with Psalm 2 &#8212; the personal piety of the righteous individual set beside the corporate hope of the coming King, two gates opening onto the same book. Its opening move is itself conventional: wisdom literature typically opens with an example to follow rather than a commandment to obey &#8212; the same pattern found in Psalm 32:1 (<em>&#8220;Blessed is the one whose transgression is forgiven&#8221;</em>) and Proverbs 3:13 (<em>&#8220;Blessed is the one who finds wisdom&#8221;</em>), unlike how the Ten Commandments open (<em>&#8220;You shall...&#8221;</em>).
 </p>
 <p>
 Verse 1 defines the blessed life negatively before verse 2 defines it positively &#8212; what the blessed man does not do, before what he does. This is deliberate: the way of wickedness is described first and in detail, because turning away from it is the first movement of the blessed life, not an afterthought.
@@ -873,7 +870,7 @@ No descendant of Adam has ever matched this description perfectly. Even David, c
 </p>
 <p><em>Christ as the Blessed Man</em></p>
 <p>
-Martin Luther read this verse as speaking of Christ before it speaks of any other man.<sup class="ref"><a href="#ref-1">[1]</a></sup>
+<span id="cite-1" class="cite-anchor">Martin Luther read this verse as speaking of Christ before it speaks of any other man.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
 Christ is the truly Blessed Man &#8212; the one who never walked in the counsel of the wicked, never stood with sinners, never sat with scoffers. God blesses believers only because He joins them to Christ, as firstfruits are joined to the harvest.
 </p>
 <p>
@@ -943,6 +940,8 @@ Lord, show me which way to walk. Keep me from following the counsel of those who
     <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Genesis 12:3 &#8212; <em>"...and in you all the families of the earth shall be blessed."</em> 2 Samuel 7:12-16 &#8212; God's promise to David that his throne would be established forever. Both promises stand behind the blessedness Psalm 1:1 describes &#8212; not a vague wish, but a bond God had already made.</li>
     <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Acts 2:29-36 &#8212; Peter argues at Pentecost that David, though dead and buried, spoke of one of his own descendants whom God would seat on his throne; that descendant is Jesus, whom God raised and exalted. The promise to David is fulfilled in a living king, not a historical memory.</li>
     <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Ezekiel 36:26; Jeremiah 31:33 &#8212; God's promise to remove the heart of stone and write His Law on the heart directly. Fulfilled not by human resolve but by God's own act in the one joined to Christ (cf. the <em>regeneration</em> tooltip, Psalm 5:12).</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Proverbs 9:8 &#8212; <em>"Do not reprove a scoffer, or he will hate you; reprove a wise man, and he will love you."</em> The scoffer's contempt for correction is not passive disinterest but active hostility toward the one who corrects him.</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">↩</a> Psalm 119:51 &#8212; <em>"The insolent utterly deride me, but I do not turn away from your law."</em> The scoffer's derision is not limited to personal rebuke &#8212; it reaches the one who keeps God's law simply for keeping it.</li>
   </ol>
 </div>
 <p>
