@@ -828,7 +828,7 @@ A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, s
 </span>
 
 <p>
-"Scoffer" belongs to the vocabulary of Proverbs, which names the target of that contempt precisely: <span id="cite-6" class="cite-anchor">not merely ignoring correction, but hating the one who gives it.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> <span id="cite-7" class="cite-anchor">That same contempt extends even to God's own law.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> This is the last stop on a road the blessed man never takes. To "sit in the seat of scoffers" is the final exchange in this descent: no longer just sharing their reasoning or their direction, but lending them your own name in the most public, most permanent way.
+"Scoffer" belongs to the vocabulary of Proverbs, which names the target of that contempt precisely: <span id="cite-6" class="cite-anchor">not merely ignoring correction, but hating the one who gives it.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> <span id="cite-7" class="cite-anchor">That same contempt extends even to God's own law.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> This is the last stop on a road the blessed man never takes. To "sit in the seat of scoffers" is the final exchange in this descent: no longer just sharing their reasoning or their direction, but becoming known as one of them — the difference between passing someone on the road and moving in with them.
 </p>
 <p>
   <span class="selah-marker">
