@@ -628,7 +628,7 @@ The resources below extend the study beyond what these pages cover. Each one is 
 </span>
 
 <p>
-God reveals what the blessed life looks like through a description: He names the man in the third person rather than addressing the reader directly in the second person.
+'Blessed' names a settled reality already true of this man, not a wish for his good fortune. God reveals what that life looks like by describing him in the third person as an example to follow.
 </p>
 <hr>
 
@@ -844,16 +844,16 @@ A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, s
 Psalm 1 is the doorway to the whole Psalter &#8212; a Wisdom psalm placed first to teach the reader how to read everything that follows: as a choice between two ways <small>(cf. Deuteronomy 30:15-19)</small>.
 </p>
 <p>
-Wisdom literature was Israel's shared genre with the wider Ancient Near East &#8212; the same kind of instructional collection found in Egyptian and Mesopotamian texts, used to train the young and those who would lead. Like much of that tradition, it was very likely taught aloud long before it was ever gathered into writing <small>(cf. Proverbs 25:1)</small>. Psalm 1 stands at that threshold paired with Psalm 2 &#8212; the personal piety of the righteous individual set beside the corporate hope of the coming King, two gates opening onto the same book. Its opening move is itself conventional: wisdom literature typically opens with an example to follow rather than a commandment to obey &#8212; the same pattern found in Psalm 32:1 (<em>&#8220;Blessed is the one whose transgression is forgiven&#8221;</em>) and Proverbs 3:13 (<em>&#8220;Blessed is the one who finds wisdom&#8221;</em>), unlike how the Ten Commandments open (<em>&#8220;You shall...&#8221;</em>).
+The psalmist defines the blessed life negatively in verse 1, positively in verse 2 &#8212; what the blessed man does not do, before what he does. This is deliberate: he describes the way of wickedness first and in detail, because turning away from it is the first movement of the blessed life, not an afterthought.
 </p>
 <p>
-Verse 1 defines the blessed life negatively before verse 2 defines it positively &#8212; what the blessed man does not do, before what he does. This is deliberate: the way of wickedness is described first and in detail, because turning away from it is the first movement of the blessed life, not an afterthought.
+The three verbs &#8212; walk, stand, sit &#8212; are not decoration. They trace a single life moving from casual proximity to settled identity, and the three groups &#8212; the wicked, sinners, scoffers &#8212; deepen in the same direction, from those merely under judgment to those who have grown openly contemptuous of correction. The psalmist describes a man who never took even the first step.
 </p>
 <p>
-The three verbs &#8212; walk, stand, sit &#8212; are not decoration. They trace a single life moving from casual proximity to settled identity, and the three groups &#8212; the wicked, sinners, scoffers &#8212; deepen in the same direction, from those merely under judgment to those who have grown openly contemptuous of correction. The verse describes a man who never took even the first step.
+Wisdom literature was Israel's shared genre with the wider Ancient Near East &#8212; the same kind of instructional collection found in Egyptian and Mesopotamian texts, used to train the young and those who would lead. Like much of that tradition, it was very likely taught aloud long before it was ever gathered into writing <small>(cf. Proverbs 25:1)</small>. Psalm 1 and Psalm 2 together form the entrance to the Psalter: Psalm 1 in the personal <span class="tooltip">piety<span class="tooltiptext">Reverent devotion to God lived out in daily obedience &#8212; not outward religious performance, but a life ordered by His Word.</span></span> of the righteous individual, Psalm 2 in the corporate hope of the coming King. Like the rest of wisdom literature, Psalm 1 opens with an example to follow rather than a commandment to obey &#8212; the same pattern found in Psalm 32:1 (<em>&#8220;Blessed is the one whose transgression is forgiven&#8221;</em>) and Proverbs 3:13 (<em>&#8220;Blessed is the one who finds wisdom&#8221;</em>), unlike how the Ten Commandments open (<em>&#8220;You shall...&#8221;</em>).
 </p>
 <p>
-This is the same negative space David will stand in when he calls himself "righteous" in Psalm 5:12 &#8212; not because he never sinned, but because he did not belong to the company Psalm 1 describes.
+David is later called "righteous" not because he never sinned, but because &#8212; like the blessed man here &#8212; he did not belong to the company named in Psalm 1. Psalm 5 ends with him counted among "the righteous," crowned with favor (5:12).
 </p>
 <p>
   <span class="selah-marker">
