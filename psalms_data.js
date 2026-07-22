@@ -828,7 +828,7 @@ A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, s
 </span>
 
 <p>
-"Scoffer" belongs to the vocabulary of Proverbs, which names the target of that contempt precisely: <span id="cite-6" class="cite-anchor">not merely ignoring correction, but hating the one who gives it.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> <span id="cite-7" class="cite-anchor">That same contempt extends even to God's own law.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> This is the last stop on a road the blessed man never takes. To "sit in the seat of scoffers" is the final exchange in this descent: no longer just sharing their reasoning or their direction, but becoming known as one of them — the difference between passing someone on the road and moving in with them.
+"Scoffer" belongs to the vocabulary of Proverbs, which names the target of that contempt precisely: <span id="cite-1" class="cite-anchor">not merely ignoring correction, but hating the one who gives it.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">That same contempt extends even to God's own law.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> This is the last stop on a road the blessed man never takes. To "sit in the seat of scoffers" is the final exchange in this descent: no longer just sharing their reasoning or their direction, but becoming known as one of them — the difference between passing someone on the road and moving in with them.
 </p>
 <p>
   <span class="selah-marker">
@@ -844,16 +844,16 @@ A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, s
 Psalm 1 is the doorway to the whole Psalter &#8212; a Wisdom psalm placed first to teach the reader how to read everything that follows: as a choice between two ways <small>(cf. Deuteronomy 30:15-19)</small>.
 </p>
 <p>
-The psalmist defines the blessed life negatively in verse 1, positively in verse 2 &#8212; what the blessed man does not do, before what he does. This is deliberate: he describes the way of wickedness first and in detail, because turning away from it is the first movement of the blessed life, not an afterthought.
+The psalmist describes what the blessed man refuses in verse 1, in careful detail, before what he does next in verse 2. Turning from wickedness is the blessed life's first movement &#8212; before delight in God's Law, not after.
 </p>
 <p>
-The three verbs &#8212; walk, stand, sit &#8212; are not decoration. They trace a single life moving from casual proximity to settled identity, and the three groups &#8212; the wicked, sinners, scoffers &#8212; deepen in the same direction, from those merely under judgment to those who have grown openly contemptuous of correction. The psalmist describes a man who never took even the first step.
+The three verbs &#8212; walk, stand, sit &#8212; are not decoration. They trace a single life moving from casual proximity to settled identity, and the three groups &#8212; the wicked, sinners, scoffers &#8212; deepen in the same direction, from those merely under judgment to those who have grown openly contemptuous of correction. The psalmist describes a man who never took even the first step down that path.
 </p>
 <p>
-Wisdom literature was Israel's shared genre with the wider Ancient Near East &#8212; the same kind of instructional collection found in Egyptian and Mesopotamian texts, used to train the young and those who would lead. Like much of that tradition, it was very likely taught aloud long before it was ever gathered into writing <small>(cf. Proverbs 25:1)</small>. Psalm 1 and Psalm 2 together form the entrance to the Psalter: Psalm 1 in the personal <span class="tooltip">piety<span class="tooltiptext">Reverent devotion to God lived out in daily obedience &#8212; not outward religious performance, but a life ordered by His Word.</span></span> of the righteous individual, Psalm 2 in the corporate hope of the coming King. Like the rest of wisdom literature, Psalm 1 opens with an example to follow rather than a commandment to obey &#8212; the same pattern found in Psalm 32:1 (<em>&#8220;Blessed is the one whose transgression is forgiven&#8221;</em>) and Proverbs 3:13 (<em>&#8220;Blessed is the one who finds wisdom&#8221;</em>), unlike how the Ten Commandments open (<em>&#8220;You shall...&#8221;</em>).
+Wisdom literature was <span class="tooltip">Israel<span class="tooltiptext">The covenant nation descended from Jacob, renamed Israel by God in Genesis 32:28 &#8212; the people among whom this Wisdom literature first took shape.</span></span>'s shared genre with the wider Ancient Near East &#8212; the same kind of instructional collection found in Egyptian and Mesopotamian texts, used to train the young and those who would lead. Like much of that tradition, it was very likely taught aloud long before it was ever gathered into writing <small>(cf. Proverbs 25:1)</small>. Psalm 1 and Psalm 2 together form the entrance to the Psalter: Psalm 1 in the personal <span class="tooltip">piety<span class="tooltiptext">Reverent devotion to God lived out in daily obedience &#8212; not outward religious performance, but a life ordered by His Word.</span></span> of the righteous individual, Psalm 2 in the corporate hope of the coming King. Like the rest of wisdom literature, Psalm 1 opens with an example to follow rather than a commandment to obey &#8212; the same pattern found in Psalm 32:1 (<em>&#8220;Blessed is the one whose transgression is forgiven&#8221;</em>) and Proverbs 3:13 (<em>&#8220;Blessed is the one who finds wisdom&#8221;</em>), unlike how the Ten Commandments open (<em>&#8220;You shall...&#8221;</em>).
 </p>
 <p>
-David is later called "righteous" not because he never sinned, but because &#8212; like the blessed man here &#8212; he did not belong to the company named in Psalm 1. Psalm 5 ends with him counted among "the righteous," crowned with favor (5:12).
+David is later called "righteous" not because he never sinned, but because &#8212; like the blessed man here &#8212; he did not belong to the company named in Psalm 1. <span id="cite-3" class="cite-anchor">Psalm 5 ends with him counted among "the righteous," crowned with favor.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -866,11 +866,11 @@ David is later called "righteous" not because he never sinned, but because &#821
 <summary>Fulfillment</summary>
 
 <p>
-No descendant of Adam has ever matched this description perfectly. Even David, called righteous in Psalm 5:12, confessed his own sin <small>(Psalm 51:1-4)</small>. <span id="cite-2" class="cite-anchor">Paul draws on this same psalm's own vocabulary &#8212; righteous, wicked &#8212; to reach a universal verdict: none is righteous, not one.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> Read on its own, apart from Christ, this verse functions as Law &#8212; a standard no reader keeps by trying harder. That standard exposes every reader's own failure before Christ is ever named as the one who kept it. The verse describes a man no one had yet become.
+No descendant of Adam has ever matched this description perfectly. Even David, called righteous in Psalm 5:12, confessed his own sin <small>(Psalm 51:1-4)</small>. <span id="cite-4" class="cite-anchor">Paul draws on this same psalm's own vocabulary &#8212; righteous, wicked &#8212; to reach a universal verdict: none is righteous, not one.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> Read on its own, apart from Christ, this verse functions as Law &#8212; a standard no reader keeps by trying harder. That standard exposes every reader's own failure before Christ is ever named as the one who kept it. The verse describes a man no one had yet become.
 </p>
 <p><em>Christ as the Blessed Man</em></p>
 <p>
-<span id="cite-1" class="cite-anchor">Martin Luther read this verse as speaking of Christ before it speaks of any other man.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+<span id="cite-5" class="cite-anchor">Martin Luther read this verse as speaking of Christ before it speaks of any other man.<sup class="ref"><a href="#ref-5">[5]</a></sup></span>
 Christ is the truly Blessed Man &#8212; the one who never walked in the counsel of the wicked, never stood with sinners, never sat with scoffers. God blesses believers only because He joins them to Christ, as firstfruits are joined to the harvest.
 </p>
 <p>
@@ -885,12 +885,12 @@ Luther also distinguished an <span class="tooltip">external blessedness<span cla
 <p><em>A Promise Kept Before It Was Fully Understood</em></p>
 <p>
 The blessedness this verse describes was never a vague wish.
-<span id="cite-3" class="cite-anchor">God had already bound Himself to specific promises &#8212; to Abraham, that all the families of the earth would be blessed through him; to David, that his throne would stand forever.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
+<span id="cite-6" class="cite-anchor">God had already bound Himself to specific promises &#8212; to Abraham, that all the families of the earth would be blessed through him; to David, that his throne would stand forever.<sup class="ref"><a href="#ref-6">[6]</a></sup></span>
 Every one of them pointed toward a single Blessed Man who had not yet come.
 </p>
 <p>
-<span id="cite-4" class="cite-anchor">Christ, David's own descendant, now holds that throne &#8212; the promise made to David is not a memory but a present reality.<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
-<span id="cite-5" class="cite-anchor">God fulfills that same promise &#8212; a new heart, His Law written within it &#8212; not through human effort, but through what He Himself does in the one joined to Christ.<sup class="ref"><a href="#ref-5">[5]</a></sup></span>
+<span id="cite-7" class="cite-anchor">Christ, David's own descendant, now holds that throne &#8212; the promise made to David is not a memory but a present reality.<sup class="ref"><a href="#ref-7">[7]</a></sup></span>
+<span id="cite-8" class="cite-anchor">God fulfills that same promise &#8212; a new heart, His Law written within it &#8212; not through human effort, but through what He Himself does in the one joined to Christ.<sup class="ref"><a href="#ref-8">[8]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -935,13 +935,14 @@ Lord, show me which way to walk. Keep me from following the counsel of those who
 <summary>References</summary>
 <div class="ref-list">
   <ol>
-    <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Martin Luther, <em>First Lectures on the Psalms</em> (<em>Dictata super Psalterium</em>, 1513-1515), on Psalm 1, in <em>Luther's Works</em>, Vol. 10. Luther reads the definite article &#8212; "the man" &#8212; as naming Christ specifically before any other man, the truly Blessed Man to whom believers are joined as firstfruits to the harvest.</li>
-    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Romans 3:10-12 &#8212; Paul's verdict that none is righteous draws directly on this psalm's own righteous/wicked vocabulary, echoing the same verdict in Psalm 14 and Psalm 53.</li>
-    <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Genesis 12:3 &#8212; <em>"...and in you all the families of the earth shall be blessed."</em> 2 Samuel 7:12-16 &#8212; God's promise to David that his throne would be established forever. Both promises stand behind the blessedness Psalm 1:1 describes &#8212; not a vague wish, but a bond God had already made.</li>
-    <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Acts 2:29-36 &#8212; Peter argues at Pentecost that David, though dead and buried, spoke of one of his own descendants whom God would seat on his throne; that descendant is Jesus, whom God raised and exalted. The promise to David is fulfilled in a living king, not a historical memory.</li>
-    <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Ezekiel 36:26; Jeremiah 31:33 &#8212; God's promise to remove the heart of stone and write His Law on the heart directly. Fulfilled not by human resolve but by God's own act in the one joined to Christ (cf. the <em>regeneration</em> tooltip, Psalm 5:12).</li>
-    <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Proverbs 9:8 &#8212; <em>"Do not reprove a scoffer, or he will hate you; reprove a wise man, and he will love you."</em> The scoffer's contempt for correction is not passive disinterest but active hostility toward the one who corrects him.</li>
-    <li id="ref-7"><a href="#cite-7" class="ref-back">↩</a> Psalm 119:51 &#8212; <em>"The insolent utterly deride me, but I do not turn away from your law."</em> The scoffer's derision is not limited to personal rebuke &#8212; it reaches the one who keeps God's law simply for keeping it.</li>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Proverbs 9:8 &#8212; <em>"Do not reprove a scoffer, or he will hate you; reprove a wise man, and he will love you."</em> The scoffer's contempt for correction is not passive disinterest but active hostility toward the one who corrects him.</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Psalm 119:51 &#8212; <em>"The insolent utterly deride me, but I do not turn away from your law."</em> The scoffer's derision is not limited to personal rebuke &#8212; it reaches the one who keeps God's law simply for keeping it.</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Psalm 5:5, 11-12 &#8212; David distinguishes himself throughout the psalm from "the boastful" and "evildoers" (v. 5) and aligns himself with "those who take refuge" in God (v. 11); the psalm's closing declaration that God "bless[es] the righteous" and "cover[s] him with favor as with a shield" (v. 12) is David's own confident conclusion about himself, not a general statement about someone else.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Romans 3:10-12 &#8212; Paul's verdict that none is righteous draws directly on this psalm's own righteous/wicked vocabulary, echoing the same verdict in Psalm 14 and Psalm 53.</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Martin Luther, <em>First Lectures on the Psalms</em> (<em>Dictata super Psalterium</em>, 1513-1515), on Psalm 1, in <em>Luther's Works</em>, Vol. 10. Luther reads the definite article &#8212; "the man" &#8212; as naming Christ specifically before any other man, the truly Blessed Man to whom believers are joined as firstfruits to the harvest.</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Genesis 12:3 &#8212; <em>"...and in you all the families of the earth shall be blessed."</em> 2 Samuel 7:12-16 &#8212; God's promise to David that his throne would be established forever. Both promises stand behind the blessedness Psalm 1:1 describes &#8212; not a vague wish, but a bond God had already made.</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">↩</a> Acts 2:29-36 &#8212; Peter argues at Pentecost that David, though dead and buried, spoke of one of his own descendants whom God would seat on his throne; that descendant is Jesus, whom God raised and exalted. The promise to David is fulfilled in a living king, not a historical memory.</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">↩</a> Ezekiel 36:26; Jeremiah 31:33 &#8212; God's promise to remove the heart of stone and write His Law on the heart directly. Fulfilled not by human resolve but by God's own act in the one joined to Christ (cf. the <em>regeneration</em> tooltip, Psalm 5:12).</li>
   </ol>
 </div>
 <p>
