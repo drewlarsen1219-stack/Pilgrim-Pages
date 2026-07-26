@@ -956,7 +956,210 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 </details>
 `
     },
-	
+
+{   label: "Psalm 1:2",
+    title: "Delight in the Law of the LORD",
+    image: "lyre.png",
+    genre: "Wisdom",
+    parallelism: "Synthetic",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">1:2</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`but his delight is in the law of the LORD,<br>and on his law he meditates day and night.<br><small>(ESV)</small>`],
+      KJV: [`But his delight is in the law of the LORD;<br>and in his law doth he meditate day and night.<br><small>(KJV)</small>`],
+      NASB: [`But his delight is in the Law of the LORD,<br>And on His Law he meditates day and night.<br><small>(NASB)</small>`],
+      NIV: [`but whose delight is in the law of the LORD,<br>and who meditates on his law day and night.<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">כִּי אִם בְּתוֹרַת יְהוָה חֶפְצוֹ וּבְתוֹרָתוֹ יֶהְגֶּה יוֹמָם וָלָיְלָה</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+<span class="tooltip">
+    <strong>But</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">כִּי אִם</span>
+            <span class="transliteration">(ki im)</span>
+        </div>
+        <div class="definition-list">
+            two particles joined into one strong adversative &#8212; "but rather," "only," "except"
+            <hr>
+			The sharpest contrast available in Hebrew, directly answering verse 1's three-fold "not... nor... nor."
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Genesis 15:4, Genesis 32:26, Amos 3:7
+        </small>
+    </span>
+</span>
+
+<span class="tooltip">
+    <strong>his delight</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">חֶפְצוֹ</span>
+            <span class="transliteration">(cheftzo)</span>
+        </div>
+        <div class="definition-list">
+            from <span dir="rtl">חָפֵץ</span> (chaphets) &#8212; to take pleasure in, to desire.
+            <hr>
+			Hebrew word order actually places "in the law of the LORD" before "his delight" &#8212; the object of delight fronted for emphasis, matching how "LORD" is fronted in Psalm 5:12.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Psalm 112:1, Psalm 40:8
+        </small>
+    </span>
+</span>
+
+<p>
+The psalmist reverses course entirely here &#8212; not a mild addition to verse 1's three refusals, but a hard turn the other direction. "His delight" names an actual desire: this man wants God's instruction, rather than merely enduring it.
+</p>
+<hr>
+
+<strong> is in the </strong>
+<span class="tooltip">
+    <strong>law</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">בְּתוֹרַת</span>
+            <span class="transliteration">(betorat)</span>
+        </div>
+        <div class="definition-list">
+            construct of <span dir="rtl">תּוֹרָה</span> (torah), from <span dir="rtl">יָרָה</span> (yarah) &#8212; to teach, to direct
+            <hr>
+			Broader than a list of rules &#8212; instruction, direction, teaching. Prefixed here with <span dir="rtl">בְּ</span> (in).
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Deuteronomy 6:6-9, Joshua 1:8, Psalm 119:97
+        </small>
+    </span>
+</span>
+
+<strong> of the </strong>
+<span class="tooltip">
+    <strong>LORD</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יְהוָה</span>
+            <span class="transliteration">(YHWH)</span>
+        </div>
+        <div class="definition-list">
+            The covenant name of God &#8212; I AM / He Who Is
+            <hr>
+			This delight is not in law in the abstract, but in instruction from the specific covenant God who speaks (see Psalm 5:12).
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Exodus 3:14, Exodus 6:2-3, Isaiah 42:8
+        </small>
+    </span>
+</span>
+
+<p>
+"Law" translates <em>torah</em> &#8212; not narrow legislation, but the whole of God's teaching and direction for how to live. This delight belongs to His law specifically: not wisdom in general, but the particular instruction that comes from the covenant God named here by His own name.
+</p>
+<hr>
+
+<strong> and on his </strong>
+<span class="tooltip">
+    <strong>law</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וּבְתוֹרָתוֹ</span>
+            <span class="transliteration">(uvetorato)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">תּוֹרָה</span> (torah) + 3ms suffix &#8212; the same word repeated, now "his law"
+            <hr>
+			The instruction named "the LORD's" a moment ago is now called his own &#8212; not a second law, but the first one taken to heart.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Psalm 119:97, Romans 7:22
+        </small>
+    </span>
+</span>
+
+<strong> he </strong>
+<span class="tooltip">
+    <strong>meditates</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יֶהְגֶּה</span>
+            <span class="transliteration">(yehgeh)</span>
+        </div>
+        <div class="definition-list">
+            qal imperfect of <span dir="rtl">הָגָה</span> (hagah) &#8212; an onomatopoetic root: to murmur, growl, moan
+            <hr>
+			Used of a lion growling over its prey and a dove moaning in distress elsewhere &#8212; here, a low, audible repetition. Reading Scripture aloud, turned over on the tongue, not merely scanned with the eyes.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Isaiah 31:4, Isaiah 38:14, Joshua 1:8
+        </small>
+    </span>
+</span>
+
+<p>
+<em>Torah</em> is named twice, framing this whole verse: what he delights in, he also meditates on. "Meditates" pictures reading this law out loud in a low murmur, not scanning it silently with the eyes &#8212; the same word and the same phrase <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on it day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span> was charged to keep in his own mouth, without ceasing.<span id="cite-1" class="cite-anchor"><sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+</p>
+<hr>
+
+<strong> </strong>
+<span class="tooltip">
+    <strong>day and night</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יוֹמָם וָלָיְלָה</span>
+            <span class="transliteration">(yomam valailah)</span>
+        </div>
+        <div class="definition-list">
+            adverbial "day" + "and night" &#8212; a merism
+            <hr>
+			Names both extremes to mean the whole: not literally every waking and sleeping hour without exception, but constantly, at every available time.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Joshua 1:8, Nehemiah 1:6
+        </small>
+    </span>
+</span>
+
+<p>
+The psalmist named three refusals in verse 1 &#8212; the wicked's counsel, the sinners' way, the scoffers' seat. In verse 2 he names what actually fills that emptied space: delight in the LORD's own Torah, returned to day and night.
+</p>
+<p>
+  <span class="selah-marker">
+     <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Joshua 1:8 &#8212; <em>"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it."</em> Same verb (<span dir="rtl">הגה</span>) and the same phrase "day and night" &#8212; Psalm 1 applies to every reader a charge God first gave Joshua alone.</li>
+  </ol>
+</div>
+<p>
+  <span class="selah-marker">
+     <em>SELAH</em>
+  </span>
+</p>
+</details>
+`
+    },
+
 	/* --- PSALM 2 --- */
 { label: "Psalm 2:1",
       title: "The Way of the Righteous",
