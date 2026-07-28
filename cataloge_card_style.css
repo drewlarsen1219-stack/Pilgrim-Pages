@@ -92,6 +92,10 @@ hr {
   margin: 15px 0;
 }
 
+html {
+  overflow-y: scroll; /* always reserve scrollbar space so expanding a section can't shift the page sideways */
+}
+
 body {
   background-color: lightgrey; /* Matches your retro-container */
   margin: 0;                   /* Removes the default browser gap */
