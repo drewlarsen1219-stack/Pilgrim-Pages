@@ -1020,7 +1020,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 </span>
 
 <p>
-The psalmist reverses course entirely here &#8212; not a mild addition to verse 1's three refusals, but a hard turn the other direction. "His delight" names an actual desire: this man wants God's instruction, rather than merely enduring it.
+"His delight" names an actual desire: this man wants God's instruction, rather than merely enduring it.
 </p>
 <hr>
 
@@ -1065,7 +1065,7 @@ The psalmist reverses course entirely here &#8212; not a mild addition to verse 
 </span>
 
 <p>
-"Law" translates <em>torah</em> &#8212; not narrow legislation, but the whole of God's teaching and direction for how to live. This delight belongs to His law specifically: not wisdom in general, but the particular instruction that comes from the covenant God named here by His own name.
+<span id="cite-1" class="cite-anchor">David uses this same phrase &#8212; <em>torat YHWH</em>, &#8220;the law of the LORD&#8221; &#8212; to open one of the Psalter's own most direct praises of it.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> This man's delight rests on the same law David elsewhere calls perfect.
 </p>
 <hr>
 
@@ -1110,7 +1110,7 @@ The psalmist reverses course entirely here &#8212; not a mild addition to verse 
 </span>
 
 <p>
-<em>Torah</em> is named twice, framing this whole verse: what he delights in, he also meditates on. "Meditates" pictures reading this law out loud in a low murmur, not scanning it silently with the eyes &#8212; the same word and the same phrase <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on it day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span> was charged to keep in his own mouth, without ceasing.<span id="cite-1" class="cite-anchor"><sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+<em>Torah</em> is named twice, framing this whole verse: what he delights in, he also meditates on. "Meditates" pictures reading this law out loud in a low murmur, not scanning it silently with the eyes &#8212; the same word and the same phrase <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on it day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span> was charged to keep in his own mouth, without ceasing.<span id="cite-2" class="cite-anchor"><sup class="ref"><a href="#ref-2">[2]</a></sup></span>
 </p>
 <hr>
 
@@ -1135,7 +1135,7 @@ The psalmist reverses course entirely here &#8212; not a mild addition to verse 
 </span>
 
 <p>
-The psalmist named three refusals in verse 1 &#8212; the wicked's counsel, the sinners' way, the scoffers' seat. In verse 2 he names what actually fills that emptied space: delight in the LORD's own Torah, returned to day and night.
+The psalmist named three things the blessed man refuses in verse 1 &#8212; the wicked's counsel, the sinners' way, the scoffers' seat. In verse 2 he names what actually fills that emptied space: delight in the LORD's own Torah, returned to day and night.
 </p>
 <p>
   <span class="selah-marker">
@@ -1145,10 +1145,100 @@ The psalmist named three refusals in verse 1 &#8212; the wicked's counsel, the s
 </details>
 
 <details class="study-section">
+<summary>Insight</summary>
+
+<p>
+Verse 1's three verbs deepen the same refusal &#8212; walking, standing, sitting all describe one lengthening avoidance without changing direction, a Synonymous pairing. Verse 2 moves differently: delight comes first, and meditation completes it, extending that disposition into a practice rather than restating it &#8212; a Synthetic pairing instead.
+</p>
+<p>
+The psalmist uses the same totalizing move in both verses, turned in opposite directions. In verse 1 he describes total avoidance, already settled; in verse 2 he turns that same totality toward devotion instead &#8212; delight held day and night, without exception.
+</p>
+<p>
+The psalmist follows this delight and meditation with their visible result, in verse 3: <em>&#8220;He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers.&#8221;</em> What is delighted in constantly in verse 2 becomes, in verse 3, a fruit that does not wither.
+</p>
+<p>
+Together, verses 1 and 2 state the psalm's whole choice in miniature &#8212; refusal, then devotion &#8212; before the psalm ever shows what either one produces.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+<span id="cite-3" class="cite-anchor">The apostle Paul confessed this same tension centuries after this psalm was written: he delighted in God's law in his inner being, yet found another power within him waging war against that very delight, holding him captive to sin's law instead.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> Apart from Christ, God holds every reader to this same devotion &#8212; constant, day and night &#8212; a standard no one sustains by their own strength. Even a delight this real is not yet a delight this complete.
+</p>
+<p><em>Joshua's Charge, and a Greater Joshua</em></p>
+<p>
+God first gave this exact charge to Joshua alone: meditate on this Book of the Law day and night, and prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup> <span id="cite-4" class="cite-anchor">But the rest Joshua led Israel into was not the final rest God had promised &#8212; a greater rest still remained.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> Joshua shares his name with a greater deliverer: <em>Yehoshua</em>, "the LORD saves" &#8212; the same name, in its later contracted form, carried by Jesus Himself.
+</p>
+<p><em>Christ's Own Delight</em></p>
+<p>
+<span id="cite-5" class="cite-anchor">Christ Himself speaks Psalm 40 at His own incarnation, the same psalm where He says, "I delight to do your will, O my God; your law is within my heart."<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Where Paul's delight in God's law was real but incomplete, Christ's was whole and unbroken. He is the greater Joshua who kept this verse perfectly and leads His people into the true rest Joshua's own conquest only foreshadowed.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+<hr>
+<p><em>The Spirit Gives What Effort Could Not</em></p>
+<p>
+<span id="cite-6" class="cite-anchor">God did not leave believers to Paul's own unresolved struggle. What the law could not produce because human weakness stood in the way, God accomplished by sending His own Son &#8212; so that the very righteousness this law requires is fulfilled in those who walk by the Spirit, not by their own effort.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> The delight named here is not a debt believers still owe &#8212; it is given to those joined to Christ, the fruit of His own Spirit at work in them.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<em>Notice whether God's Word feels like duty or delight.</em> The psalmist does not picture someone getting through Scripture out of obligation &#8212; he pictures someone who actually wants it. If your own time in God's Word feels mostly like a chore, name that gap honestly before God rather than covering over it.
+</p>
+<p>
+<em>Delight shows itself in return, not in a single reading.</em> Delight held "day and night" is not one appointment kept each morning &#8212; it is a mind that comes back to God's Word again during the day: at a hard decision, at a temptation, at a sleepless hour. Meditation is repetition, not a single pass.
+</p>
+<p>
+<em>A thin or inconsistent delight is not fixed by trying harder.</em> Paul himself delighted in God's law and still lost the fight to live it out on his own strength <small>(cf. Romans 7:22-23)</small>. Ask the Spirit who produced this delight perfectly in Christ to produce it in you &#8212; the same Spirit who fulfills what your own effort cannot.
+</p>
+<p>
+<em>Rest in this delight instead of performing it.</em> The next time you doubt whether you love God's Word enough, remember whose delight is actually credited to you &#8212; not your own performance, but Christ's, already complete and already yours.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Prayer</summary>
+<p>
+Lord, I have not delighted in Your Torah as I should. My time in Your Word is inconsistent, more duty than desire, and I return to it only when convenient, not day and night. Christ alone delighted in Your will without wavering, Your law already within His heart before it was ever written on mine. Forgive what is true of me, and give me His own delight by Your Spirit, not my own effort, so that Your Word planted in me bears fruit that does not wither.
+</p>
+  <span class="selah-marker">
+    <em>AMEN</em>
+  </span>
+</details>
+
+<details class="study-section">
 <summary>References</summary>
 <div class="ref-list">
   <ol>
-    <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Joshua 1:8 &#8212; <em>"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it."</em> Same verb (<span dir="rtl">הגה</span>) and the same phrase "day and night" &#8212; Psalm 1 applies to every reader a charge God first gave Joshua alone.</li>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Psalm 19:7 &#8212; <em>"The law of the LORD is perfect, reviving the soul."</em> David opens this verse with the same construct phrase, <em>torat YHWH</em>, used in Psalm 1:2 &#8212; matching this man's delight to David's own praise of that same law elsewhere.</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Joshua 1:8 &#8212; <em>"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it."</em> Same verb (<span dir="rtl">הגה</span>) and the same phrase "day and night" &#8212; Psalm 1 applies to every reader a charge God first gave Joshua alone.</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Romans 7:22-23 &#8212; <em>"For I delight in the law of God, in my inner being, but I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members."</em> Paul's own confession: this verse's delight is genuinely present in a believer, yet not unbroken this side of glory.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Hebrews 4:8-11 &#8212; <em>"For if Joshua had given them rest, God would not have spoken of another day later on. So then, there remains a Sabbath rest for the people of God..."</em> Joshua's own conquest was real but incomplete &#8212; a greater rest, later identified with Christ, still remained.</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Psalm 40:7-8; Hebrews 10:5-9 &#8212; Hebrews applies Psalm 40's "I have come to do your will, O God" (v. 7) directly to Christ's own voice at His incarnation; the very next verse has that same voice saying "I delight to do your will, O my God; your law is within my heart" (v. 8).</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Romans 8:3-4 &#8212; <em>"For God has done what the law, weakened by the flesh, could not do... so that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit."</em> The resolution to Paul's own struggle in Romans 7: not renewed effort, but God's own act through Christ and the Spirit.</li>
   </ol>
 </div>
 <p>
