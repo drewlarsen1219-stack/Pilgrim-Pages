@@ -1148,16 +1148,16 @@ The psalmist named three things the blessed man refuses in verse 1 &#8212; the w
 <summary>Insight</summary>
 
 <p>
-Verse 1's three verbs deepen the same refusal &#8212; walking, standing, sitting all describe one lengthening avoidance without changing direction, a Synonymous pairing. Verse 2 moves differently: delight comes first, and meditation completes it, extending that disposition into a practice rather than restating it &#8212; a Synthetic pairing instead.
+In verse 1 the psalmist traces the man's progression across three verbs &#8212; walk, stand, sit &#8212; from casual proximity to settled identity: a Synonymous pairing. In verse 2, his delight names an actual desire, and his meditation, returned to day and night, names the action that desire produces &#8212; a Synthetic pairing, the second line specifying what the first only named.
 </p>
 <p>
-The psalmist uses the same totalizing move in both verses, turned in opposite directions. In verse 1 he describes total avoidance, already settled; in verse 2 he turns that same totality toward devotion instead &#8212; delight held day and night, without exception.
+In verse 1 the psalmist describes a man who already avoids wickedness &#8212; not one still learning to. In verse 2 he describes a man who returns to God's law whenever the chance comes, not only once.
 </p>
 <p>
-The psalmist follows this delight and meditation with their visible result, in verse 3: <em>&#8220;He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers.&#8221;</em> What is delighted in constantly in verse 2 becomes, in verse 3, a fruit that does not wither.
+The psalmist points to what this delight and meditation produce, coming next in verse 3: <em>&#8220;He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither.&#8221;</em> What the blessed man delights in constantly in verse 2 becomes, in verse 3, a fruit that does not wither.
 </p>
 <p>
-Together, verses 1 and 2 state the psalm's whole choice in miniature &#8212; refusal, then devotion &#8212; before the psalm ever shows what either one produces.
+Together, the psalmist lays out the psalm's whole choice across verses 1 and 2 &#8212; refusal, then devotion &#8212; before showing what either path produces.
 </p>
 <p>
   <span class="selah-marker">
