@@ -1170,15 +1170,14 @@ Together, the psalmist lays out the psalm's whole choice across verses 1 and 2 &
 <summary>Fulfillment</summary>
 
 <p>
-<span id="cite-3" class="cite-anchor">The apostle Paul confessed this same tension centuries after this psalm was written: he delighted in God's law in his inner being, yet found another power within him waging war against that very delight, holding him captive to sin's law instead.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> Apart from Christ, God holds every reader to this same devotion &#8212; constant, day and night &#8212; a standard no one sustains by their own strength. Even a delight this real is not yet a delight this complete.
+Apart from Christ, God requires this same devotion from every reader &#8212; constant, day and night &#8212; a standard no one sustains by their own strength. <span id="cite-3" class="cite-anchor">The apostle Paul confessed as much centuries after this psalm was written: he delighted in God's law in his inner being, yet found sin itself waging war against that very delight, holding him captive to sin's law instead.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> His delight was genuine, but it was not the constant, day and night devotion God requires.
 </p>
 <p><em>Joshua's Charge, and a Greater Joshua</em></p>
 <p>
-God first gave this exact charge to Joshua alone: meditate on this Book of the Law day and night, and prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup> <span id="cite-4" class="cite-anchor">But the rest Joshua led Israel into was not the final rest God had promised &#8212; a greater rest still remained.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> Joshua shares his name with a greater deliverer: <em>Yehoshua</em>, "the LORD saves" &#8212; the same name, in its later contracted form, carried by Jesus Himself.
+God first gave this exact charge to Joshua alone: meditate on this Book of the Law day and night, and prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup> This same Joshua led Israel into the promised land <span id="cite-4" class="cite-anchor">&#8212; but the rest they found there was not the final rest God had promised; a greater rest still remained.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> Joshua's own name, too, was a promise: <em>Yehoshua</em>, "the LORD saves."
 </p>
-<p><em>Christ's Own Delight</em></p>
 <p>
-<span id="cite-5" class="cite-anchor">Christ Himself speaks Psalm 40 at His own incarnation, the same psalm where He says, "I delight to do your will, O my God; your law is within my heart."<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Where Paul's delight in God's law was real but incomplete, Christ's was whole and unbroken. He is the greater Joshua who kept this verse perfectly and leads His people into the true rest Joshua's own conquest only foreshadowed.
+Where Joshua was charged to meditate on God's Law, Christ lived it perfectly: <span id="cite-5" class="cite-anchor">He speaks in Psalm 40 at His own incarnation, the same psalm where He says, "I delight to do your will, O my God; your law is within my heart."<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Paul's own delight in that same law was real but incomplete; Christ's was whole and unbroken. Where Joshua's own rest fell short of God's final promise, Christ leads His people into the true rest Joshua's own conquest only foreshadowed. And where Joshua's name was only a promise, Christ carries that same name, in its later contracted form (<em>Yeshua</em>) &#8212; the LORD who saves, come in the flesh.
 </p>
 <p>
   <span class="selah-marker">
