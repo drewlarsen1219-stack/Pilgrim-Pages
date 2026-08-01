@@ -1110,7 +1110,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 </span>
 
 <p>
-<em>Torah</em> is named twice, framing this whole verse: what he delights in, he also meditates on. "Meditates" pictures reading this law out loud in a low murmur, not scanning it silently with the eyes &#8212; the same word and the same phrase <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on it day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span> was charged to keep in his own mouth, without ceasing.<span id="cite-2" class="cite-anchor"><sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+<em>Torah</em> is named twice, framing this whole verse: what he delights in, he also meditates on. "Meditates" pictures reading this law out loud in a low murmur, not scanning it silently with the eyes &#8212; <span id="cite-2" class="cite-anchor">the same word and the same phrase <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on it day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span> was charged to keep in his own mouth.</span><sup class="ref"><a href="#ref-2">[2]</a></sup>
 </p>
 <hr>
 
@@ -1187,7 +1187,7 @@ This same Joshua led Israel into the promised land <span id="cite-5" class="cite
 <hr>
 <p><em>The Spirit Gives What Effort Could Not</em></p>
 <p>
-<span id="cite-6" class="cite-anchor">God did not leave believers to the same war between delight and sin that held Paul captive. What the law could not produce because human weakness stood in the way, God accomplished by sending His own Son &#8212; so that the very righteousness this law requires is fulfilled in those who walk by the Spirit.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> This delight is not a debt believers still owe &#8212; it is given to those <span class="tooltip">joined to Christ<span class="tooltiptext">United to Christ through faith and baptism, so that what is true of Him becomes true of those united to Him as well (Romans 6:5).</span></span>, the fruit of His own Spirit at work in them.
+<span id="cite-6" class="cite-anchor">Sin does not surrender the moment a believer comes to faith &#8212; it keeps waging the same war that held Paul captive. But a believer's righteousness before God was never determined by winning that war. What the law could not produce because human weakness stood in the way, God accomplished by sending His own Son. At the cross, He bore the guilt of every failure to delight in God's law Himself, so that the very righteousness this law requires is fulfilled in those who walk by the Spirit.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> This delight is not a debt believers still owe &#8212; it is given to those <span class="tooltip">joined to Christ<span class="tooltiptext">United to Christ through faith and baptism, so that what is true of Him becomes true of those united to Him as well (Romans 6:5).</span></span>, the fruit of His own Spirit at work in them.
 </p>
 <p>
   <span class="selah-marker">
@@ -1200,7 +1200,7 @@ This same Joshua led Israel into the promised land <span id="cite-5" class="cite
 <summary>Lessons</summary>
 
 <p>
-<em>Notice whether God's Word feels like duty or delight.</em> The psalmist does not picture someone getting through Scripture out of obligation &#8212; he pictures someone who actually wants it. If your own time in God's Word feels mostly like a chore, name that gap honestly before God rather than covering over it.
+<em>Notice whether God's Word feels like duty or delight.</em> Duty counts down the minutes; delight loses track of them. If your own time in God's Word feels mostly like a chore, name that gap honestly before God rather than covering over it.
 </p>
 <p>
 <em>Delight shows itself in return, not in a single reading.</em> Delight held "day and night" is not one appointment kept each morning &#8212; it is a mind that comes back to God's Word again during the day: at a hard decision, at a temptation, at a sleepless hour. Meditation is repetition, not a single pass.
@@ -1209,7 +1209,7 @@ This same Joshua led Israel into the promised land <span id="cite-5" class="cite
 <em>A thin or inconsistent delight is not fixed by trying harder.</em> Paul himself delighted in God's law and still lost the fight to live it out on his own strength <small>(cf. Romans 7:22-23)</small>. Ask the Spirit who produced this delight perfectly in Christ to produce it in you &#8212; the same Spirit who fulfills what your own effort cannot.
 </p>
 <p>
-<em>Rest in this delight instead of performing it.</em> The next time you doubt whether you love God's Word enough, remember whose delight is actually credited to you &#8212; not your own performance, but Christ's, already complete and already yours.
+<em>Rest in this delight instead of performing it.</em> The next time you doubt whether you love God's Word enough, remember: Christ bore the guilt of that very shortfall at the cross, and what is credited to you is His delight &#8212; already complete, already yours.
 </p>
 <p>
   <span class="selah-marker">
@@ -1221,7 +1221,7 @@ This same Joshua led Israel into the promised land <span id="cite-5" class="cite
 <details class="study-section">
 <summary>Prayer</summary>
 <p>
-Lord, I have not delighted in Your Torah as I should. My time in Your Word is inconsistent, more duty than desire, and I return to it only when convenient, not day and night. Christ alone delighted in Your will without wavering, Your law already within His heart before it was ever written on mine. Forgive what is true of me, and give me His own delight by Your Spirit, not my own effort, so that Your Word planted in me bears fruit that does not wither.
+Lord, I have not delighted in Your Torah as I should. My time in Your Word is inconsistent, more duty than desire, and I return to it only when convenient, not whenever the chance comes. Christ alone delighted in Your will without wavering, Your law already within His heart before it was ever written on mine. At the cross, He bore the guilt of that very failure Himself. Forgive what is true of me for His sake, and give me His own delight by Your Spirit, not my own effort, so that Your Word planted in me bears fruit that does not wither.
 </p>
   <span class="selah-marker">
     <em>AMEN</em>
@@ -1235,9 +1235,9 @@ Lord, I have not delighted in Your Torah as I should. My time in Your Word is in
     <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Psalm 19:7 &#8212; <em>"The law of the LORD is perfect, reviving the soul."</em> David opens this verse with the same construct phrase, <em>torat YHWH</em>, used in Psalm 1:2 &#8212; matching this man's delight to David's own praise of that same law elsewhere.</li>
     <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Joshua 1:8 &#8212; <em>"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it."</em> Same verb (<span dir="rtl">הגה</span>) and the same phrase "day and night" &#8212; Psalm 1 applies to every reader a charge God first gave Joshua alone.</li>
     <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Romans 7:22-23 &#8212; <em>"For I delight in the law of God, in my inner being, but I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members."</em> Paul's own confession: this verse's delight is genuinely present in a believer, yet not unbroken this side of glory.</li>
-    <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Psalm 40:7-8; Hebrews 10:5-9 &#8212; Hebrews applies Psalm 40's "I have come to do your will, O God" (v. 7) directly to Christ's own voice at His incarnation; the very next verse has that same voice saying "I delight to do your will, O my God; your law is within my heart" (v. 8).</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Psalm 40:7-8; Hebrews 10:5-9 &#8212; Hebrews' own quotation of this psalm has Christ's voice saying, "I have come to do your will, O God" (Hebrews 10:7); the psalm's own text has that same devotion one verse later: "I delight to do your will, O my God; your law is within my heart" (Psalm 40:8).</li>
     <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Hebrews 4:8-11 &#8212; <em>"For if Joshua had given them rest, God would not have spoken of another day later on. So then, there remains a Sabbath rest for the people of God..."</em> Joshua's own conquest was real but incomplete &#8212; a greater rest, later identified with Christ, still remained.</li>
-    <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Romans 8:3-4 &#8212; <em>"For God has done what the law, weakened by the flesh, could not do... so that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit."</em> The resolution to Paul's own struggle in Romans 7: not renewed effort, but God's own act through Christ and the Spirit.</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Romans 8:3-4 &#8212; <em>"For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, so that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit."</em> The resolution to Paul's own struggle in Romans 7: God condemned sin in Christ's flesh at the cross, then produces by the Spirit what the law could only demand.</li>
   </ol>
 </div>
 <p>
