@@ -1249,6 +1249,333 @@ Lord, I have not delighted in Your Torah as I should. My time in Your Word is in
 `
     },
 
+{   label: "Psalm 1:3",
+    title: "Like a Tree Planted by Streams of Water",
+    image: "lyre.png",
+    genre: "Wisdom",
+    parallelism: "Synthetic",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">1:3</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`He is like a tree planted by streams of water<br>that yields its fruit in its season,<br>and its leaf does not wither.<br>In all that he does, he prospers.<br><small>(ESV)</small>`],
+      KJV: [`And he shall be like a tree planted by the rivers of water,<br>that bringeth forth his fruit in his season;<br>his leaf also shall not wither;<br>and whatsoever he doeth shall prosper.<br><small>(KJV)</small>`],
+      NASB: [`He will be like a tree firmly planted by streams of water,<br>Which yields its fruit in its season<br>And its leaf does not wither;<br>And in whatever he does, he prospers.<br><small>(NASB)</small>`],
+      NIV: [`That person is like a tree planted by streams of water,<br>which yields its fruit in season<br>and whose leaf does not wither&#8212;<br>whatever they do prospers.<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">וְהָיָה כְּעֵץ שָׁתוּל עַל־פַּלְגֵי מָיִם אֲשֶׁר פִּרְיוֹ יִתֵּן בְּעִתּוֹ וְעָלֵהוּ לֹא־יִבּוֹל וְכֹל אֲשֶׁר־יַעֲשֶׂה יַצְלִיחַ</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+<span class="tooltip">
+    <strong>He is</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וְהָיָה</span>
+            <span class="transliteration">(vehayah)</span>
+        </div>
+        <div class="definition-list">
+            vav-consecutive perfect of <span dir="rtl">הָיָה</span> (hayah) &#8212; to be, to become, to happen
+            <hr>
+			Carries a resultative force: not a new scene, but the outcome of what verses 1 and 2 already describe. "And so he becomes."
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Genesis 17:4, Deuteronomy 28:1-2
+        </small>
+    </span>
+</span>
+
+<span class="tooltip">
+    <strong>like a tree</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">כְּעֵץ</span>
+            <span class="transliteration">(ke'ets)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">עֵץ</span> (ets) &#8212; the ordinary word for a tree or its wood
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Genesis 1:11, Ezekiel 47:12
+        </small>
+    </span>
+</span>
+
+<span class="tooltip">
+    <strong>planted</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">שָׁתוּל</span>
+            <span class="transliteration">(shatul)</span>
+        </div>
+        <div class="definition-list">
+            Qal passive participle of <span dir="rtl">שָׁתַל</span> (shatal) &#8212; to transplant
+            <hr>
+			Not a tree that grew up wild wherever it happened to find water &#8212; one someone else dug up and set there on purpose.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Jeremiah 17:8, Ezekiel 17:22-23
+        </small>
+    </span>
+</span>
+
+<p>
+The psalmist now pictures this same man &#8212; who refused in verse 1 and delighted in verse 2 &#8212; as a tree, planted. <span id="cite-1" class="cite-anchor">Jeremiah opens his own tree simile with these same three words: <em>vehayah ke'ets shatul</em>, "he shall be like a tree, planted."<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+</p>
+<hr>
+
+<strong> by </strong>
+<span class="tooltip">
+    <strong>streams of water</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">פַּלְגֵי מָיִם</span>
+            <span class="transliteration">(palgei mayim)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">פֶּלֶג</span> (peleg), from <span dir="rtl">פָּלַג</span> (palag) &#8212; to divide &#8212; names a channel or rill, specifically an irrigation canal, not a wild watercourse
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Isaiah 30:25, Proverbs 21:1
+        </small>
+    </span>
+</span>
+
+<p>
+An irrigation channel supplies water no matter the season &#8212; a wild streambed can run dry exactly when a drought makes water matter most. Whoever planted this tree also chose its water source &#8212; a naturally grown tree has no such guarantee.
+</p>
+<hr>
+
+<strong> that its </strong>
+<span class="tooltip">
+    <strong>fruit</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">פִּרְיוֹ</span>
+            <span class="transliteration">(piryo)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">פְּרִי</span> (peri) + 3ms suffix &#8212; produce, the yield a thing exists to give
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Genesis 1:11, Leviticus 19:23
+        </small>
+    </span>
+</span>
+
+<strong> gives </strong>
+<span class="tooltip">
+    <strong>in its season</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">בְּעִתּוֹ</span>
+            <span class="transliteration">(be'itto)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">עֵת</span> (et) + 3ms suffix &#8212; its appointed time
+            <hr>
+			Not fruit on demand, and not fruit constantly &#8212; fruit when the season for it actually arrives.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Ecclesiastes 3:1, Leviticus 26:4
+        </small>
+    </span>
+</span>
+
+<p>
+The fruit is not forced or hurried into being &#8212; it simply arrives, the natural outcome of everything already arranged for it.
+</p>
+<hr>
+
+<strong> and its </strong>
+<span class="tooltip">
+    <strong>leaf</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">עָלֵהוּ</span>
+            <span class="transliteration">('alehu)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">עָלֶה</span> (aleh) + 3ms suffix &#8212; foliage, leaf
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Isaiah 64:6, Leviticus 26:36
+        </small>
+    </span>
+</span>
+
+<strong> does not </strong>
+<span class="tooltip">
+    <strong>wither</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יִבּוֹל</span>
+            <span class="transliteration">(yibbol)</span>
+        </div>
+        <div class="definition-list">
+            Qal imperfect of <span dir="rtl">נָבֵל</span> (naval) &#8212; to sink down, fade, wither
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Isaiah 64:6, Isaiah 40:7-8
+        </small>
+    </span>
+</span>
+
+<p>
+Fruit is what the tree produces; the leaf shows whether the tree itself is still alive and well, even in a season that produces no fruit yet.
+</p>
+<hr>
+
+<strong> In all that he </strong>
+<span class="tooltip">
+    <strong>does</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יַעֲשֶׂה</span>
+            <span class="transliteration">(ya'aseh)</span>
+        </div>
+        <div class="definition-list">
+            Qal imperfect of <span dir="rtl">עָשָׂה</span> (asah) &#8212; to do, to make
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Deuteronomy 29:9, Joshua 1:8
+        </small>
+    </span>
+</span>
+
+<strong> he </strong>
+<span class="tooltip">
+    <strong>prospers</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יַצְלִיחַ</span>
+            <span class="transliteration">(yatzliach)</span>
+        </div>
+        <div class="definition-list">
+            Hiphil imperfect of <span dir="rtl">צָלַח</span> (tsalach) &#8212; to succeed, to advance
+            <hr>
+			Hiphil, not the plainer Qal the same root can take &#8212; the form used elsewhere for actively bringing something to success. Here it lands on the man himself: not prosperity that merely happens to him, but success that follows from what he does.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Genesis 39:2-3
+        </small>
+    </span>
+</span>
+
+<p>
+Having pictured this man as a fruitful, unwithering tree, the psalmist now says the same thing plainly: whatever he does succeeds. <span id="cite-2" class="cite-anchor">This is the same word God's charge to Joshua ends on: meditate on this Book of the Law day and night, and you will make your own way prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+</p>
+<p>
+  <span class="selah-marker">
+     <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+The psalmist already told the reader what this man refuses and what he loves in verses 1 and 2. In verse 3 he shows what that refusal and love actually produce: a tree, deliberately planted, reliably watered, fruitful in season, never withering.
+</p>
+<p>
+The man who avoided wickedness completely in verse 1, and returned to God's law constantly in verse 2, now succeeds completely in verse 3 &#8212; not some of what he does, but all of it. The same completeness runs through all three verses.
+</p>
+<p>
+The psalmist will directly contrast this picture in verse 4: <em>&#8220;The wicked are not so, but are like chaff that the wind drives away.&#8221;</em> This tree has a real planting and a real water source; the wicked have neither &#8212; only wind.
+</p>
+<p>
+Across verses 1 through 3, the psalmist completes one whole portrait: a man who refuses, a man who delights, and now, what that refusal and delight actually produce. The wicked's own portrait, and its very different ending, comes next.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+<span class="tooltip">Jeremiah<span class="tooltiptext">A major prophet of Judah (c. 627&#8211;586 BC), called by God from his youth to warn a nation that had abandoned Him of the judgment coming through Babylon (Jeremiah 1:4-10). Traditionally credited with Lamentations, his mourning over Jerusalem's eventual fall. He also prophesied a new covenant God would one day write on His people's hearts, forgiving their sin &#8212; the same covenant the New Testament identifies as fulfilled in Christ (Jeremiah 31:31-34; Hebrews 8:6-13).</span></span> wrote this same simile &#8212; a tree, planted, fruitful, never withering &#8212; and did not live it out himself. <span id="cite-3" class="cite-anchor">His own words pictured leaves that stay green and fruit that never stops coming &#8212; yet his own ministry brought him prison and rejection, and a grief so deep he cursed the day he was born.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> Apart from Christ, God holds every reader to this verse as Law: total fruitfulness, total success &#8212; a standard no circumstance guarantees and no effort secures.
+</p>
+<p><em>The Tree of Life, Lost and Restored</em></p>
+<p>
+<span id="cite-4" class="cite-anchor">Eden itself held a tree of life, planted in a garden watered by a river flowing out of Eden.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">That tree was lost to mankind at the Fall, guarded away by a cherub and a flaming sword.<sup class="ref"><a href="#ref-5">[5]</a></sup></span>
+</p>
+<p>
+<span id="cite-6" class="cite-anchor">Ezekiel later saw it promised again, multiplied and escalated: trees whose leaves never wither and whose fruit never fails, bearing fresh fruit every month, watered by a river flowing from God's own sanctuary, their leaves for healing.<sup class="ref"><a href="#ref-6">[6]</a></sup></span>
+</p>
+<p>
+<span id="cite-7" class="cite-anchor">That river flows still, from the throne of God and of the Lamb.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> <span id="cite-8" class="cite-anchor">The tree of life stands again in the <span class="tooltip">new creation<span class="tooltiptext">The renewed heavens and earth John saw in his vision &#8212; "a new heaven and a new earth," where God dwells with His people and death is no more (Revelation 21:1-4). Not a discarded world replaced by another, but this one made whole: everything the Fall broke, undone.</span></span> &#8212; fruit every month, leaves for the healing of the nations, the very tree Eden lost, its access now secured forever by the Lamb who was slain, never to be guarded away again.<sup class="ref"><a href="#ref-8">[8]</a></sup></span>
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+<hr>
+<p><em>Fruit Comes from Abiding, Not Effort</em></p>
+<p>
+Christ alone is this tree. <span id="cite-9" class="cite-anchor">He always did what pleased His Father,<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">and could say His work was accomplished even before the cross<sup class="ref"><a href="#ref-10">[10]</a></sup></span> &#8212; the one man for whom this verse was never Law, because He never once fell short of it.
+</p>
+<p>
+<span id="cite-11" class="cite-anchor">Christ Himself applies this same truth to His own followers: "I am the true vine... whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."<sup class="ref"><a href="#ref-11">[11]</a></sup></span> The fruit Psalm 1:3 promises was never produced by trying harder &#8212; it comes only to those who remain joined to Christ, the way a branch remains joined to its vine. Whatever <span class="tooltip">fruit<span class="tooltiptext">Not a literal harvest, but what a life joined to Christ actually produces: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control &#8212; what Paul calls "the fruit of the Spirit" (Galatians 5:22-23). The Spirit is its source, not the believer's own willpower alone &#8212; but the fight to "keep in step with the Spirit" (Galatians 5:25) is still real and active, not passive.</span></span> appears in a believer's life is not self-grown; it is His life, flowing through them.
+</p>
+<p>
+Eden's promise and Ezekiel's vision both came before their fulfillment in Christ. Believers wait the same way now: Christ has already finished their restoration, but they do not yet experience it fully &#8212; that waits for their own death, or for His return when all things are raised and completed. <span id="cite-12" class="cite-anchor">Believers now carry only the firstfruits of the Spirit, groaning as they wait for the redemption of their own bodies.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> The Church already tastes God's kingdom now, in real fruit and real life &#8212; but the unceasing tree of Revelation 22 still waits for the resurrection.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Jeremiah 17:8 &#8212; <em>"He is like a tree planted by water, that sends out its roots by the stream, and does not fear when heat comes, for its leaves remain green, and is not anxious in the year of drought, for it does not cease to bear fruit."</em> Opens with the identical Hebrew words <em>vehayah ke'ets shatul</em>, "he shall be like a tree, planted" &#8212; the same tree image, independently developed.</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Joshua 1:8 &#8212; <em>"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night... for then you will make your way prosperous, and then you will have good success."</em> The same verse Psalm 1:2 already cites for "day and night" ends on this same root, <span dir="rtl">צלח</span> (tsalach) &#8212; the charge and its promised outcome both echoed here.</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Jeremiah 20:14-18 &#8212; <em>"Cursed be the day on which I was born... Why did I come out from the womb to see toil and sorrow, and spend my days in shame?"</em> The same prophet who pictured a tree with leaves that stay green and fruit that never stops coming (17:8) also wrote this lament. He was beaten and imprisoned (37:15-16), lowered into a mud-filled cistern (38:6), and his own townspeople plotted to kill him (11:19) &#8212; his own outward life did not match the image he wrote.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Genesis 2:9-10 &#8212; <em>"The tree of life was in the midst of the garden... A river flowed out of Eden to water the garden."</em> The tree-planted-by-water image reaches back to Eden itself.</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Genesis 3:24 &#8212; <em>"He drove out the man, and at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life."</em> Access to the tree of life was lost at the Fall, not merely relocated.</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Ezekiel 47:12 &#8212; <em>"On the banks, on both sides of the river, there will grow all kinds of trees for food. Their leaves will not wither, nor their fruit fail, but they will bear fresh fruit every month, because the water for them flows from the sanctuary. Their fruit will be for food, and their leaves for healing."</em> A prophetic promise that the lost tree's blessing would be restored and multiplied.</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">↩</a> Revelation 22:1 &#8212; <em>"Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb."</em> Ezekiel's temple river is now explicitly sourced in God and the Lamb together.</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">↩</a> Revelation 22:2 &#8212; <em>"On either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations."</em> Eden's lost tree, fully restored in the new creation.</li>
+    <li id="ref-9"><a href="#cite-9" class="ref-back">↩</a> John 8:29 &#8212; <em>"And he who sent me is with me. He has not left me alone, for I always do the things that are pleasing to him."</em> Christ's own testimony that He never once fell short of His Father's will.</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">↩</a> John 17:4 &#8212; <em>"I glorified you on earth, having accomplished the work that you gave me to do."</em> Spoken the night before the cross &#8212; Christ could already call His work finished.</li>
+    <li id="ref-11"><a href="#cite-11" class="ref-back">↩</a> John 15:1, 5 &#8212; <em>"I am the true vine, and my Father is the vinedresser... I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."</em> Christ applies the same fruit-bearing image to His followers directly, making abiding, not effort, the source of fruit.</li>
+    <li id="ref-12"><a href="#cite-12" class="ref-back">↩</a> Romans 8:23 &#8212; <em>"We ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies."</em> The same firstfruits language applied to Christ's own resurrection (1 Corinthians 15:20, see Psalm 1:1) now describes what believers themselves carry now &#8212; a real but partial down payment, not yet the whole harvest.</li>
+  </ol>
+</div>
+<p>
+  <span class="selah-marker">
+     <em>SELAH</em>
+  </span>
+</p>
+</details>
+`
+    },
+
 	/* --- PSALM 2 --- */
 { label: "Psalm 2:1",
       title: "The Way of the Righteous",
