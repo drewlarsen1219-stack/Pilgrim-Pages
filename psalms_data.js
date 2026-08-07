@@ -1492,16 +1492,16 @@ Having pictured this man as a fruitful, unwithering tree, the psalmist now says 
 <summary>Insight</summary>
 
 <p>
-The psalmist already told the reader what this man refuses and what he loves in verses 1 and 2. In verse 3 he shows what that refusal and love actually produce: a tree, deliberately planted, reliably watered, fruitful in season, never withering.
+The psalmist already named what this man refuses and what he loves in verses 1 and 2. In verse 3 he shows what that refusal and love actually produce: a tree, deliberately planted, reliably watered, fruitful in season, never withering.
 </p>
 <p>
-The man who avoided wickedness completely in verse 1, and returned to God's law constantly in verse 2, now succeeds completely in verse 3 &#8212; not some of what he does, but all of it. The same completeness runs through all three verses.
+In verse 1 this man avoided wickedness completely. In verse 2 he returned to God's law constantly. In verse 3 he now succeeds completely &#8212; not in some of what he does, but in all of it. Whether total or constant, none of it is partial.
 </p>
 <p>
 The psalmist will directly contrast this picture in verse 4: <em>&#8220;The wicked are not so, but are like chaff that the wind drives away.&#8221;</em> This tree has a real planting and a real water source; the wicked have neither &#8212; only wind.
 </p>
 <p>
-Across verses 1 through 3, the psalmist completes one whole portrait: a man who refuses, a man who delights, and now, what that refusal and delight actually produce. The wicked's own portrait, and its very different ending, comes next.
+Across verses 1 through 3, the psalmist completes one whole portrait: a man who refuses, a man who delights, and a man who prospers because of both.
 </p>
 <p>
   <span class="selah-marker">
@@ -1541,6 +1541,28 @@ Christ alone is this tree. <span id="cite-9" class="cite-anchor">He always did w
 </p>
 <p>
 Eden's promise and Ezekiel's vision both came before their fulfillment in Christ. Believers wait the same way now: Christ has already finished their restoration, but they do not yet experience it fully &#8212; that waits for their own death, or for His return when all things are raised and completed. <span id="cite-12" class="cite-anchor">Believers now carry only the firstfruits of the Spirit, groaning as they wait for the redemption of their own bodies.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> The Church already tastes God's kingdom now, in real fruit and real life &#8212; but the unceasing tree of Revelation 22 still waits for the resurrection.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<em>Ask where your fruit is actually coming from.</em> A tree doesn't bear fruit merely by trying harder &#8212; its fruit depends on who planted it and where its water comes from, and the same is true of you: real fruit still takes real effort, but its source is being joined to Christ, not your own willpower. If your effort leaves you anxious or quietly exhausted, that's usually a sign you're straining on your own strength instead of drawing on His strength, not evidence that you're doing well. When you notice that, stop straining and ask God instead to give you, by His Spirit, the same fruit He produced perfectly in Christ.
+</p>
+<p>
+<em>A fruitless season doesn't mean you're spiritually dead.</em> Fruit is not the only sign of life &#8212; the leaf is too, and it can stay green through a season with nothing yet to harvest. If you can't point to answered prayer, visible ministry, or a changed situation right now, ask instead: are you still opening God's Word? Still confessing your need to Him? Still trusting that He is at work even though you can't see it yet? If the answer is yes, that's the leaf, still green. Don't stop &#8212; only a dead tree stops leafing out completely, and the fruit still comes in its own season.
+</p>
+<p>
+<em>You were never meant to earn this on your own.</em> Even Jeremiah, who wrote this very picture, didn't live up to it &#8212; his own life brought him prison, rejection, and grief he never asked for. Christ alone earned that record of total fruitfulness, total success, and gives it &#8212; not to anyone who tries hard enough, but to everyone joined to Him, as if they had lived it themselves. That settles your standing before God; it doesn't mean the fruit He's still growing in you stops mattering.
+</p>
+<p>
+<em>What you have now is real, but it isn't everything.</em> The fruit already growing in your life is genuine, not just a preview &#8212; it is the firstfruits of a far greater harvest, when the tree of life stands forever and nothing withers again. Whatever fruit you see today, however small, is a foretaste of a harvest that will never end.
 </p>
 <p>
   <span class="selah-marker">
