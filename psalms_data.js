@@ -1254,6 +1254,8 @@ Lord, I have not delighted in Your Torah as I should. My time in Your Word is in
     image: "lyre.png",
     genre: "Wisdom",
     parallelism: "Synthetic",
+    conditions: ["spiritual dryness", "burnout", "spiritual doubt"],
+    conditionAngle: "straining for fruit under your own strength, or doubting you're even alive to God during a dry season &#8212; asks Him to produce by His Spirit what effort cannot",
     text: `
       <div class="verse-row">
         <div class="verse-num">1:3</div>
@@ -1479,7 +1481,7 @@ Fruit is what the tree produces; the leaf shows whether the tree itself is still
 </span>
 
 <p>
-Having pictured this man as a fruitful, unwithering tree, the psalmist now says the same thing plainly: whatever he does succeeds. <span id="cite-2" class="cite-anchor">This is the same word God's charge to Joshua ends on: meditate on this Book of the Law day and night, and you will make your own way prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+Having pictured this man as a fruitful, unwithering tree, the psalmist now says the same thing plainly: whatever he does succeeds. <span id="cite-2" class="cite-anchor">This is the same word used in God's charge to Joshua: meditate on this Book of the Law day and night, and you will make your own way prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -1562,7 +1564,7 @@ Eden's promise and Ezekiel's vision both came before their fulfillment in Christ
 <em>You were never meant to earn this on your own.</em> Even Jeremiah, who wrote this very picture, didn't live up to it &#8212; his own life brought him prison, rejection, and grief he never asked for. Christ alone earned that record of total fruitfulness, total success, and gives it &#8212; not to anyone who tries hard enough, but to everyone joined to Him, as if they had lived it themselves. That settles your standing before God; it doesn't mean the fruit He's still growing in you stops mattering.
 </p>
 <p>
-<em>What you have now is real, but it isn't everything.</em> The fruit already growing in your life is genuine, not just a preview &#8212; it is the firstfruits of a far greater harvest, when the tree of life stands forever and nothing withers again. Whatever fruit you see today, however small, is a foretaste of a harvest that will never end.
+<em>What you have now is real, but it isn't everything.</em> What God is producing in your life right now is genuine &#8212; not a lesser version of the real thing. But it is still mixed with real sin and real struggle; it is not yet the complete, uninterrupted fruitfulness God has promised. This is only the firstfruits of what the Spirit is doing in you, not the finished harvest. When Christ returns, that struggle ends, and what is growing in you now will be complete and will never fail again.
 </p>
 <p>
   <span class="selah-marker">
@@ -1572,17 +1574,27 @@ Eden's promise and Ezekiel's vision both came before their fulfillment in Christ
 </details>
 
 <details class="study-section">
+<summary>Prayer</summary>
+<p>
+Lord, I do not prosper in all that I do. Too often I strain for fruit under my own strength instead of resting in Yours, and in seasons with nothing to show, I doubt I am even still alive to You &#8212; forgetting that the leaf itself already proves otherwise. Christ alone is this tree: planted by Your streams, fruitful in its season, His leaf never withering, prospering in everything He did. At the cross, He Himself bore the guilt of my straining and doubting. Forgive what is true of me, and by Your Spirit produce in me the fruit I cannot force on my own &#8212; keep me trusting You even when there is nothing yet to show, until what You are growing in me is finally complete. Unlike the wicked, who have no root and no water of their own, keep me planted where You have placed me.
+</p>
+  <span class="selah-marker">
+    <em>AMEN</em>
+  </span>
+</details>
+
+<details class="study-section">
 <summary>References</summary>
 <div class="ref-list">
   <ol>
     <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Jeremiah 17:8 &#8212; <em>"He is like a tree planted by water, that sends out its roots by the stream, and does not fear when heat comes, for its leaves remain green, and is not anxious in the year of drought, for it does not cease to bear fruit."</em> Opens with the identical Hebrew words <em>vehayah ke'ets shatul</em>, "he shall be like a tree, planted" &#8212; the same tree image, independently developed.</li>
-    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Joshua 1:8 &#8212; <em>"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night... for then you will make your way prosperous, and then you will have good success."</em> The same verse Psalm 1:2 already cites for "day and night" ends on this same root, <span dir="rtl">צלח</span> (tsalach) &#8212; the charge and its promised outcome both echoed here.</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Joshua 1:8 &#8212; <em>"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night... for then you will make your way prosperous, and then you will have good success."</em> The same verse Psalm 1:2 already cites for "day and night" shares this same root, <span dir="rtl">צלח</span> (tsalach), in "you will make your way prosperous" &#8212; the charge and its promised outcome both echoed here.</li>
     <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Jeremiah 20:14-18 &#8212; <em>"Cursed be the day on which I was born... Why did I come out from the womb to see toil and sorrow, and spend my days in shame?"</em> The same prophet who pictured a tree with leaves that stay green and fruit that never stops coming (17:8) also wrote this lament. He was beaten and imprisoned (37:15-16), lowered into a mud-filled cistern (38:6), and his own townspeople plotted to kill him (11:19) &#8212; his own outward life did not match the image he wrote.</li>
     <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Genesis 2:9-10 &#8212; <em>"The tree of life was in the midst of the garden... A river flowed out of Eden to water the garden."</em> The tree-planted-by-water image reaches back to Eden itself.</li>
     <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Genesis 3:24 &#8212; <em>"He drove out the man, and at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life."</em> Access to the tree of life was lost at the Fall, not merely relocated.</li>
     <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Ezekiel 47:12 &#8212; <em>"On the banks, on both sides of the river, there will grow all kinds of trees for food. Their leaves will not wither, nor their fruit fail, but they will bear fresh fruit every month, because the water for them flows from the sanctuary. Their fruit will be for food, and their leaves for healing."</em> A prophetic promise that the lost tree's blessing would be restored and multiplied.</li>
     <li id="ref-7"><a href="#cite-7" class="ref-back">↩</a> Revelation 22:1 &#8212; <em>"Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb."</em> Ezekiel's temple river is now explicitly sourced in God and the Lamb together.</li>
-    <li id="ref-8"><a href="#cite-8" class="ref-back">↩</a> Revelation 22:2 &#8212; <em>"On either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations."</em> Eden's lost tree, fully restored in the new creation.</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">↩</a> Revelation 22:2 &#8212; <em>"...on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations."</em> Eden's lost tree, fully restored in the new creation.</li>
     <li id="ref-9"><a href="#cite-9" class="ref-back">↩</a> John 8:29 &#8212; <em>"And he who sent me is with me. He has not left me alone, for I always do the things that are pleasing to him."</em> Christ's own testimony that He never once fell short of His Father's will.</li>
     <li id="ref-10"><a href="#cite-10" class="ref-back">↩</a> John 17:4 &#8212; <em>"I glorified you on earth, having accomplished the work that you gave me to do."</em> Spoken the night before the cross &#8212; Christ could already call His work finished.</li>
     <li id="ref-11"><a href="#cite-11" class="ref-back">↩</a> John 15:1, 5 &#8212; <em>"I am the true vine, and my Father is the vinedresser... I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."</em> Christ applies the same fruit-bearing image to His followers directly, making abiding, not effort, the source of fruit.</li>
