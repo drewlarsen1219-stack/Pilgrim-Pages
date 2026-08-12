@@ -1610,6 +1610,366 @@ Lord, I do not prosper in all that I do. Too often I strain for fruit under my o
 `
     },
 
+{   label: "Psalm 1:4",
+    title: "Like Chaff the Wind Drives Away",
+    image: "lyre.png",
+    genre: "Wisdom",
+    parallelism: "Antithetic",
+    conditions: ["self-reliance", "false security", "fear of judgment"],
+    conditionAngle: "exposes false security built on your own strength, circumstances, or reputation as having no more root than chaff &#8212; and points to being planted in Christ instead, safe from the judgment to come.",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">1:4</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`The wicked are not so,<br>but are like chaff that the wind drives away.<br><small>(ESV)</small>`],
+      KJV: [`The ungodly are not so:<br>but are like the chaff which the wind driveth away.<br><small>(KJV)</small>`],
+      NASB: [`The wicked are not so,<br>But they are like chaff which the wind blows away.<br><small>(NASB)</small>`],
+      NIV: [`Not so the wicked!<br>They are like chaff that the wind blows away.<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">לֹא־כֵן הָרְשָׁעִים כִּי אִם־כַּמֹּץ אֲשֶׁר־תִּדְּפֶנּוּ רוּחַ</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+<strong>The wicked</strong>
+<strong> are </strong>
+<span class="tooltip">
+    <strong>not so</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">לֹא כֵן</span>
+            <span class="transliteration">(lo ken)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">לֹא</span> (lo) "not" + <span dir="rtl">כֵּן</span> (ken) "so, thus," itself from <span dir="rtl">כּוּן</span> (kun) &#8212; to be firm, established, set upright
+            <hr>
+			An idiom that negates an entire preceding statement at once, not a single word &#8212; the same construction used of Moses: "Not so, my servant Moses" (Numbers 12:7).
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Numbers 12:7, 2 Samuel 20:21, Job 9:35
+        </small>
+    </span>
+</span>
+
+<p>
+"The wicked" is the same word used in verse 1 &#8212; there it named counsel the blessed man refuses; here, for the first time, the psalmist turns to describe the wicked themselves. The wicked are not established at all: none of verse 1's settled avoidance, none of verse 2's constant devotion.
+</p>
+<hr>
+
+<strong> but are like </strong>
+<span class="tooltip">
+    <strong>chaff</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">כַּמֹּץ</span>
+            <span class="transliteration">(kammots)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">מֹץ</span> (mots), from <span dir="rtl">מוּץ</span> (muts) &#8212; to shake, to sift. Names the light husk separated from grain in threshing &#8212; worthless once separated, kept for nothing.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Job 21:18, Psalm 35:5, Isaiah 17:13, Hosea 13:3
+        </small>
+    </span>
+</span>
+
+<p>
+Unlike the tree of verse 3, planted on purpose and bearing fruit in its season, the wicked have nothing of their own worth keeping &#8212; chaff is what threshing leaves behind once the grain itself is gone.
+</p>
+<hr>
+
+<strong> that the </strong>
+<span class="tooltip">
+    <strong>wind</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">רוּחַ</span>
+            <span class="transliteration">(ruach)</span>
+        </div>
+        <div class="definition-list">
+            The same word Scripture also uses for breath and for Spirit, depending on context &#8212; here it names plainly ordinary wind, the one force chaff has no weight to resist.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Genesis 8:1, Exodus 10:13, Ecclesiastes 12:7
+        </small>
+    </span>
+</span>
+
+<strong> </strong>
+<span class="tooltip">
+    <strong>drives away</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">תִּדְּפֶנּוּ</span>
+            <span class="transliteration">(tiddefennu)</span>
+        </div>
+        <div class="definition-list">
+            Qal imperfect of <span dir="rtl">נָדַף</span> (nadaph) &#8212; to drive away, scatter, chase &#8212; agreeing with the feminine <em>ruach</em>, with a pronoun suffix, "drives it away." The imperfect pictures continuing action: not one gust, but chaff endlessly at the mercy of whatever wind happens to blow.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Leviticus 26:36, Job 13:25, Isaiah 41:2
+        </small>
+    </span>
+</span>
+<strong>.</strong>
+
+<p>
+The wicked have no root, no water &#8212; only wind, carrying them wherever it blows.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+Across verses 1 through 3, the psalmist built one whole portrait: a man who refuses, a man who delights, and a man who prospers because of both. Now, in verse 4, he turns to the wicked and needs only a single verse: they have nothing of their own to describe, only what they lack by comparison.
+</p>
+<p>
+"The wicked are not so" already says all there is to say about them; "they are like chaff" gives that emptiness a picture to be seen.
+</p>
+<p>
+The wicked's emptiness is only visible against everything already said about the blessed man in verses 1 through 3. The psalmist draws the same contrast again when the psalm closes in verse 6. But that verse names the righteous and the wicked side by side on its own &#8212; it doesn't need earlier verses the way verse 4 does.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+Apart from Christ, God holds every reader to this warning as Law: no root, no water &#8212; only wind, carrying them wherever it blows. <span id="cite-1" class="cite-anchor">The very next verse names the verdict this brings: "the wicked will not stand in the judgment, nor sinners in the congregation of the righteous."<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+</p>
+<p><em>Israel Blown Away Like Chaff</em></p>
+<p>
+God gave this exact image to a real, historical people. <span id="cite-2" class="cite-anchor">Unfaithful <span class="tooltip">Israel<span class="tooltiptext">The northern kingdom, called by God through the prophet Hosea (8th century BC) to return from idolatry before its fall to Assyria in 722 BC. Hosea's own marriage to an unfaithful wife pictured Israel's unfaithfulness to God (Hosea 1:2-3); he also promised God would one day heal their apostasy and love them freely again (Hosea 14:4).</span></span> would be scattered "like the chaff that swirls from the threshing floor."<sup class="ref"><a href="#ref-2">[2]</a></sup></span> For centuries Israel <span class="tooltip">broke covenant<span class="tooltiptext">The Sinai covenant bound Israel to the LORD alone, promising blessing for obedience and curses &#8212; including being scattered among the nations &#8212; for persistent unfaithfulness (Deuteronomy 28:15, 64). Idolatry was the breach Hosea confronted for decades before that curse came due.</span></span> &#8212; then was carried off into real <span class="tooltip">exile<span class="tooltiptext">Assyria captured Samaria and deported Israel's population to Halah, the Habor river region, and the cities of the Medes (2 Kings 17:6) &#8212; a judgment 2 Kings itself attributes directly to Israel's persistent idolatry (2 Kings 17:7).</span></span> by a wind it could not resist, just as Psalm 1:4 warns. Israel's exile foreshadows the final, complete separation still to come.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+<hr>
+<p><em>Christ's Winnowing Fork, and Being Gathered In</em></p>
+<p>
+<span id="cite-3" class="cite-anchor">John the Baptist names Christ Himself as the one who finally executes this verse's judgment: "His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire."<sup class="ref"><a href="#ref-3">[3]</a></sup></span> What Psalm 1:4 pictures, Christ carries out &#8212; no longer poetry, but the actual last judgment.
+</p>
+<p>
+<span id="cite-4" class="cite-anchor">Jesus describes this same separation with a different image, the one Psalm 1:3's own Fulfillment already introduced: "If anyone does not abide in me, he is thrown away like a branch and withers; and the branches are gathered, thrown into the fire, and burned."<sup class="ref"><a href="#ref-4">[4]</a></sup></span> Whoever does not abide meets the same end as the wicked: thrown away and burned like the branch, driven away and burned like the chaff.
+</p>
+<p>
+<span id="cite-5" class="cite-anchor">But everyone joined to Christ is gathered in, not driven away: "you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God."<sup class="ref"><a href="#ref-5">[5]</a></sup></span> This answers Word Analysis's own word study directly &#8212; the wicked are "not established." God joins every believer to Christ, and that union is what makes a person established at last: no longer chaff at the mercy of the wind, but the very tree verse 3 already pictured, planted and rooted for good.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<em>Ask what you're actually rooted in.</em> If your peace depends on your circumstances staying steady, your reputation holding up, or your own strength not running out, you have no more root than the chaff this verse pictures &#8212; nothing holding you in place once the wind comes. Ask God to plant you instead in something the wind can't touch: your standing in Christ.
+</p>
+<p>
+<em>Don't assume this verse is about someone else.</em> It's easy to read "the wicked" and quietly picture people who are obviously far from God, while assuming the verse has nothing to say about you. But apart from Christ, every reader stands exactly where the wicked stand &#8212; no root, no water, only wind. Ask yourself honestly, today, before moving on to the next verse: where do you actually stand?
+</p>
+<p>
+<em>You cannot escape this warning by trying harder.</em> Christ Himself carries out the very judgment this verse warns of &#8212; and He gathers everyone joined to Him in, not to burn them like chaff, but to keep them like wheat in His barn.
+</p>
+<p>
+<em>You are not chaff waiting for the wind to come.</em> By joining you to Christ, God has already made you what verse 3 pictures &#8212; planted, rooted, and safe for good, not because you found your own ground, but because He planted you in His.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Prayer</summary>
+<p>
+Lord, apart from Christ, I am exactly what this verse pictures &#8212; chaff with no root and no water of my own, driven wherever the wind blows. I have looked for stability in things that cannot hold: my circumstances, my reputation, my own strength. Christ alone never wavered like this; He is the tree already planted and rooted for good, and He is the One who gathers the wheat into His barn while the chaff is burned. Forgive what is true of me apart from Him, and do what I cannot do for myself: plant me in Christ, so that when the judgment comes, I stand among the righteous, not swept away with those who have no place there.
+</p>
+  <span class="selah-marker">
+    <em>AMEN</em>
+  </span>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Psalm 1:5 &#8212; <em>"Therefore the wicked will not stand in the judgment, nor sinners in the congregation of the righteous."</em> The verse immediately following this one states in plain terms what "not so" and "like chaff" have already pictured.</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Hosea 13:3 &#8212; <em>"Therefore they shall be like the morning mist or like the dew that goes early away, like the chaff that swirls from the threshing floor or like smoke from a window."</em> Spoken against Israel's own idolatry, centuries before their exile to Assyria.</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Matthew 3:12 &#8212; <em>"His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire."</em> John the Baptist's own description of Christ's coming judgment, using this same threshing-floor image.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> John 15:6 &#8212; <em>"If anyone does not abide in me, he is thrown away like a branch and withers; and the branches are gathered, thrown into the fire, and burned."</em> The negative half of the same vine image Psalm 1:3's Fulfillment already cites positively (John 15:1, 5).</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Ephesians 2:19 &#8212; <em>"So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God."</em> Belonging secured through union with Christ, answering the wicked's own placelessness.</li>
+  </ol>
+</div>
+<p>
+  <span class="selah-marker">
+     <em>SELAH</em>
+  </span>
+</p>
+</details>
+`
+    },
+
+{   label: "Psalm 1:5",
+    title: "The Wicked Will Not Stand in the Judgment",
+    image: "lyre.png",
+    genre: "Wisdom",
+    parallelism: "Synonymous",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">1:5</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`Therefore the wicked will not stand in the judgment,<br>nor sinners in the congregation of the righteous;<br><small>(ESV)</small>`],
+      KJV: [`Therefore the ungodly shall not stand in the judgment,<br>nor sinners in the congregation of the righteous.<br><small>(KJV)</small>`],
+      NASB: [`Therefore the wicked will not stand in the judgment,<br>Nor sinners in the assembly of the righteous.<br><small>(NASB)</small>`],
+      NIV: [`Therefore the wicked will not stand in the judgment,<br>nor sinners in the assembly of the righteous.<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">עַל־כֵּן לֹא־יָקֻמוּ רְשָׁעִים בַּמִּשְׁפָּט וְחַטָּאִים בַּעֲדַת צַדִּיקִים</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+<span class="tooltip">
+    <strong>Therefore</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">עַל־כֵּן</span>
+            <span class="transliteration">(al ken)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">עַל</span> (al) "upon" + <span dir="rtl">כֵּן</span> (ken) "so, thus" &#8212; a fixed idiom marking a conclusion drawn from what was just said: "therefore, for this reason."
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Genesis 2:24
+        </small>
+    </span>
+</span>
+
+<p>
+The psalmist draws this conclusion directly from the picture just given in verse 4: chaff has no root, no water, only wind to carry it away.
+</p>
+<hr>
+
+<strong>the wicked will </strong>
+<span class="tooltip">
+    <strong>not stand</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">לֹא יָקֻמוּ</span>
+            <span class="transliteration">(lo yaqumu)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">לֹא</span> (lo) "not" + Qal imperfect of <span dir="rtl">קוּם</span> (qum) &#8212; to rise, stand, endure.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Psalm 24:3, Deuteronomy 19:15
+        </small>
+    </span>
+</span>
+<strong> in </strong>
+<span class="tooltip">
+    <strong>the judgment</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">בַּמִּשְׁפָּט</span>
+            <span class="transliteration">(bammishpat)</span>
+        </div>
+        <div class="definition-list">
+            From <span dir="rtl">שָׁפַט</span> (shaphat), "to judge" &#8212; <em>mishpat</em> names the formal act of judgment: a legal verdict rendered, not a private opinion.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Deuteronomy 1:17, Psalm 9:7-8
+        </small>
+    </span>
+</span>
+
+<p>
+In the judgment, the wicked have no case that holds together &#8212; nothing true or good to stand on.
+</p>
+<hr>
+
+<strong>nor sinners in </strong>
+<span class="tooltip">
+    <strong>the congregation</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">בַּעֲדַת</span>
+            <span class="transliteration">(ba'adat)</span>
+        </div>
+        <div class="definition-list">
+            From the same root as <span dir="rtl">עֵד</span> (ed), "witness" &#8212; names not a crowd gathered by chance, but a people identified together by appointment.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Exodus 12:3, Numbers 16:2
+        </small>
+    </span>
+</span>
+<strong> of </strong>
+<span class="tooltip">
+    <strong>the righteous</strong>
+    <span class="tooltiptext">
+        <div class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">צַדִּיקִים</span>
+            <span class="transliteration">(tzaddikim)</span>
+        </div>
+        <div class="definition-list">
+            <span dir="rtl">צָדַק</span> (tzadak) &#8212; righteous, just, one in right standing before God. NOT sinlessness: righteousness names covenant faithfulness, not moral perfection.
+        </div>
+        <hr>
+        <small class="references">
+            Biblical Usage: Genesis 15:6, Psalm 1:6, Habakkuk 2:4
+        </small>
+    </span>
+</span>
+
+<p>
+"Sinners" is the same word used in verse 1. The congregation of the righteous names a people bound together by covenant, not just a place &#8212; the wicked and sinners are not merely absent from it; they don't belong to it.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+`
+    },
+
 	/* --- PSALM 2 --- */
 { label: "Psalm 2:1",
       title: "The Way of the Righteous",

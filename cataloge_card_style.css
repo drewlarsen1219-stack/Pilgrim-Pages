@@ -284,7 +284,8 @@ small.references {
   font-style: italic;
 }
 
-.hebrew-text {
+.hebrew-text,
+[dir="rtl"] {
   font-size: 1.4em;
   font-family: "SBL Hebrew", "Times New Roman", serif;
 }

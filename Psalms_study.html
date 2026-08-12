@@ -166,16 +166,11 @@
         return;
       }
 
-      // One psalm can have several tagged verse entries; only list each psalm once.
-      const seenPsalms = new Set();
       psalmData.forEach((v, idx) => {
         if (!v.conditions || !v.conditions.includes(chosen)) return;
-        const psalmLabel = v.label.split(':')[0];
-        if (seenPsalms.has(psalmLabel)) return;
-        seenPsalms.add(psalmLabel);
 
         const li = document.createElement('li');
-        li.innerHTML = `<a href="#" class="ref-back" style="cursor:pointer;">${psalmLabel}</a> — ${v.conditionAngle || v.title}`;
+        li.innerHTML = `<a href="#" class="ref-back" style="cursor:pointer;">${v.label}</a> — ${v.conditionAngle || v.title}`;
         li.querySelector('a').addEventListener('click', (e) => {
           e.preventDefault();
           currentIndex = idx;
@@ -187,7 +182,7 @@
         conditionResults.appendChild(li);
       });
 
-      conditionResults.style.display = seenPsalms.size ? 'block' : 'none';
+      conditionResults.style.display = conditionResults.children.length ? 'block' : 'none';
     });
   }
 
