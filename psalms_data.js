@@ -1841,6 +1841,8 @@ Lord, apart from Christ, I am exactly what this verse pictures &#8212; chaff wit
     image: "lyre.png",
     genre: "Wisdom",
     parallelism: "Synonymous",
+    conditions: ["fear of judgment", "self-righteousness", "insecurity about belonging"],
+    conditionAngle: "confronts relying on your own record &#8212; the good done, the bad avoided &#8212; to hold up in judgment or earn a place among God's people, and points instead to Christ's judgment already borne and the belonging only He can give",
     text: `
       <div class="verse-row">
         <div class="verse-num">1:5</div>
