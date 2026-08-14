@@ -1958,12 +1958,112 @@ In the judgment, the wicked have no case that holds together &#8212; nothing tru
 </span>
 
 <p>
-"Sinners" is the same word used in verse 1. The congregation of the righteous names a people bound together by covenant, not just a place &#8212; the wicked and sinners are not merely absent from it; they don't belong to it.
+"Sinners" is the same word used in verse 1. The congregation of the righteous names a people bound together by covenant, not just a place &#8212; the wicked and sinners do not belong to it.
 </p>
 
 <p>
   <span class="selah-marker">
     <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+In verse 5, the psalmist turns the wicked's rootlessness in verse 4 into something formal: they will not stand, not in the judgment, not among a people bound together by covenant.
+</p>
+<p>
+In verse 1, the blessed man refuses to join the wicked. In verse 5, the wicked are refused a place among the righteous.
+</p>
+<p>
+The psalmist ends the psalm in verse 6 by naming the righteous and the wicked side by side once more, and shows why: the LORD Himself knows the way of the righteous.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+Apart from Christ, God holds every reader to this verse as Law: no one is found innocent in the judgment by their own record, and no one has a place in the congregation of the righteous by right. <span id="cite-1" class="cite-anchor">Psalm 130 asks the same thing: "If you, O Lord, should mark iniquities, O Lord, who could stand?"<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">Paul answers it directly: "every mouth may be stopped, and the whole world may be held accountable to God... by works of the law no human being will be justified in his sight."<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+</p>
+<p><em>Korah's Congregation, and a Place That Cannot Be Seized</em></p>
+<p>
+This warning played out once already, inside Israel's own camp. <span id="cite-3" class="cite-anchor"><span class="tooltip">Korah<span class="tooltiptext">A Levite who led a rebellion against Moses and Aaron's God-appointed leadership in the wilderness (Numbers 16), claiming his own holiness already gave him an equal place in the congregation.</span></span> and his followers rose up against Moses and Aaron, claiming, "All in the congregation are holy... why then do you exalt yourselves above the assembly of the LORD?"<sup class="ref"><a href="#ref-3">[3]</a></sup></span> <span id="cite-4" class="cite-anchor">The ground opened and swallowed them, and they "perished from the midst of the assembly."<sup class="ref"><a href="#ref-4">[4]</a></sup></span> A place in the congregation of the righteous was never Korah's to seize &#8212; and it is not any reader's to seize either.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+<hr>
+<p><em>Christ Takes the Judgment, and Opens the Congregation</em></p>
+<p>
+<span id="cite-5" class="cite-anchor">Christ is the reply to Psalm 130's question: "Who is to condemn? Christ Jesus is the one who died &#8212; more than that, who was raised &#8212; who is at the right hand of God, who indeed is interceding for us."<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Christ already took the judgment in our place &#8212; everyone joined to Him is found innocent too, not by their own merit, but by His.
+</p>
+<p>
+<span id="cite-6" class="cite-anchor">And the congregation Korah tried to seize, Christ gives freely: "you have come to... the assembly of the firstborn who are enrolled in heaven... and to the spirits of the righteous made perfect."<sup class="ref"><a href="#ref-6">[6]</a></sup></span> No one is admitted to it by their own claim &#8212; only through Christ, the mediator who opens it.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<em>Notice when you're building a defense.</em> When you picture your own judgment, do you find yourself listing what you've done right, or explaining away what you did wrong? That instinct &#8212; presenting your own case &#8212; is exactly what this verse rules out. Stop building the defense; the case was already decided in Christ.
+</p>
+<p>
+<em>Don't assume you belong because you've always been here.</em> Korah assumed his place among God's people was already secure &#8212; he was born into the calling, a Levite by birth. It is easy to assume the same: that growing up in the church, or simply being a decent person, already secures a place among the righteous. It doesn't. If you're not sure whether your peace comes from being near God's people or from being joined to Christ Himself, ask God to make it sure.
+</p>
+<p>
+<em>Rest in a verdict already given.</em> Christ already settled the judgment for you &#8212; your status before God does not shift with your good days or your bad ones. You are not waiting for a verdict &#8212; you already have one, and it does not change.
+</p>
+<p>
+<em>Don't repeat Korah's mistake.</em> Korah didn't just claim a place for himself &#8212; he tried to seize it by force, refusing to accept that belonging is God's to give, not his to take. Watch for the same instinct turned toward others: deciding on your own who does or doesn't belong among God's people, instead of trusting God to do that work.
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Prayer</summary>
+<p>
+Lord, apart from Christ, I have no case that holds together in the judgment, and no claim to a place in Your congregation. I have looked for security in my own record &#8212; in the good I have done, in the bad I have avoided &#8212; as if either could earn me what only Christ can give. I am tempted to think belonging is mine to claim rather than Yours to give. But Christ has already taken the judgment in my place, and He is the One who brings me into Your congregation. Forgive what is true of me on my own, and do what I cannot do for myself: join me to Christ, so that when judgment comes, I am found innocent in Him, not on my own record.
+</p>
+  <span class="selah-marker">
+    <em>AMEN</em>
+  </span>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Psalm 130:3 &#8212; <em>"If you, O Lord, should mark iniquities, O Lord, who could stand?"</em> The same question this verse's declaration answers.</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Romans 3:19-20 &#8212; <em>"every mouth may be stopped, and the whole world may be held accountable to God... by works of the law no human being will be justified in his sight."</em> Paul's own conclusion from the whole Law.</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Numbers 16:3 &#8212; <em>"All in the congregation are holy... why then do you exalt yourselves above the assembly of the LORD?"</em> Korah's own claim to a place in the congregation, made by demand rather than given.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Numbers 16:31-33 &#8212; <em>"they perished from the midst of the assembly."</em> The judgment that followed Korah's claim.</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Romans 8:33-34 &#8212; <em>"Who is to condemn? Christ Jesus is the one who died &#8212; more than that, who was raised &#8212; who is at the right hand of God, who indeed is interceding for us."</em> Christ's own intercession, answering the question no one else could.</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Hebrews 12:22-23 &#8212; <em>"you have come to... the assembly of the firstborn who are enrolled in heaven... and to the spirits of the righteous made perfect."</em> The congregation believers are brought into through Christ.</li>
+  </ol>
+</div>
+<p>
+  <span class="selah-marker">
+     <em>SELAH</em>
   </span>
 </p>
 </details>
