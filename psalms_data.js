@@ -911,7 +911,7 @@ Every one of them pointed toward a single Blessed Man who had not yet come.
 <em>Correction from a person is only the first test &#8212; correction from God's own Word is the real one.</em> The scoffer's contempt starts with hating whoever reproves him, but it doesn't stop there: it reaches all the way to hating God's Word itself, the very thing the blessed man delights in instead (v. 2). When God's Word confronts you, that response &#8212; resentment or delight &#8212; is what actually separates a scoffer from the blessed man.
 </p>
 <p>
-<em>You are not blessed because you have avoided every wicked counsel.</em> No one has. You are blessed because God has joined you to the One who did, crediting you with His path just as He credits you with His righteousness in Psalm 5:12.
+<em>You are not blessed because you have avoided every wicked counsel.</em> No one has. You are blessed because God has joined you to the One who did &#8212; giving you His path as if you had walked it yourself, just as He gives you His righteousness in Psalm 5:12.
 </p>
 <p>
 <em>What you turn toward defines the blessed life as much as what you avoid.</em> Refusing bad company is the first movement, not the whole of it &#8212; delight in God's Law, taken up in the next verse, is where the blessed life actually lives.
@@ -926,7 +926,7 @@ Every one of them pointed toward a single Blessed Man who had not yet come.
 <details class="study-section">
 <summary>Prayer</summary>
 <p>
-Lord, I have not walked as the blessed man walks. I have let my own reasoning replace Your instruction, turned what should have been a single failure into a habit, and grown defensive rather than grateful when corrected. Christ alone never walked in that counsel, never stood in that way, never sat in that seat &#8212; He is the one truly Blessed Man. Forgive what is true of me, and join me to Him, so that His path becomes my path and His delight in Your Law becomes my own.
+Lord, I have not walked as the blessed man walks. I have let my own reasoning replace Your instruction, turned what should have been a single failure into a habit, and grown defensive rather than grateful when corrected. Christ alone never walked in that counsel, never stood in that way, never sat in that seat &#8212; He is the one truly Blessed Man. At the cross, He bore the guilt of my reasoning, my habits, and my contempt for correction. Forgive what is true of me, and join me to Him, so that His path becomes my path and His delight in Your Law becomes my own.
 </p>
   <span class="selah-marker">
     <em>AMEN</em>
@@ -1206,10 +1206,10 @@ This same Joshua led Israel into the promised land <span id="cite-5" class="cite
 <em>Delight shows itself in return, not in a single reading.</em> Delight held "day and night" is not one appointment kept each morning &#8212; it is a mind that comes back to God's Word again during the day: at a hard decision, at a temptation, at a sleepless hour. Meditation is repetition, not a single pass.
 </p>
 <p>
-<em>A thin or inconsistent delight is not fixed by trying harder.</em> Paul himself delighted in God's law and still lost the fight to live it out on his own strength <small>(cf. Romans 7:22-23)</small>. Ask the Spirit who produced this delight perfectly in Christ to produce it in you &#8212; the same Spirit who fulfills what your own effort cannot.
+<em>A thin or inconsistent delight is not fixed by trying harder.</em> Paul himself delighted in God's law and still lost the fight to live it out on his own strength <small>(cf. Romans 7:22-23)</small>. When you notice that same struggle, ask God instead &#8212; the same Spirit who produced this delight perfectly in Christ can produce it in you too.
 </p>
 <p>
-<em>Rest in this delight instead of performing it.</em> The next time you doubt whether you love God's Word enough, remember: Christ bore the guilt of that very shortfall at the cross, and what is credited to you is His delight &#8212; already complete, already yours.
+<em>Rest in this delight instead of performing it.</em> The next time you doubt whether you love God's Word enough, remember: Christ bore the guilt of that very shortfall at the cross, and gives you His own delight as if you had lived it yourself &#8212; already complete, already given.
 </p>
 <p>
   <span class="selah-marker">
