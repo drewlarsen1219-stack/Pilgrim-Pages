@@ -150,10 +150,10 @@ This is why Luther used the Psalms in personal devotion, in public worship, in c
 <hr>
 <p><strong>The Psalter Promises Christ</strong></p>
 <blockquote>
-<em>&#8220;The Psalter ought to be a dear and beloved book if for no other reason than this: it promises Christ&#8217;s death and resurrection so clearly and pictures his kingdom and the condition of all Christendom that it might well be called a little Gospel.&#8221;</em>
+<em>&#8220;The Psalter ought to be a dear and beloved book if for no other reason than this: it promises Christ&#8217;s death and resurrection so clearly and pictures his kingdom and the condition of all Christendom that it might well be called a little Bible.&#8221;</em>
 </blockquote>
 <p>
-Luther read the Psalms as inherently speaking of Christ &#8212; not a separate topic layered on top, but what the words themselves already meant. That Christological meaning was not invented by the Church centuries later &#8212; it was there from the moment the Holy Spirit had David write the words. The suffering, the kingdom, and the resurrection &#8212; each greater than what David himself knew &#8212; are not <span class="tooltip">allegories<span class="tooltiptext">A symbolic reading imposed on the text after the fact &#8212; treating a Christological connection as decorative or added-on meaning, rather than what the Holy Spirit intended the words to say from the beginning.</span></span>. They are the text pointing to Christ. The Psalter is a little Gospel because Christ is already in it.
+Luther read the Psalms as inherently speaking of Christ &#8212; not a separate topic layered on top, but what the words themselves already meant. That Christological meaning was not invented by the Church centuries later &#8212; it was there from the moment the Holy Spirit had David write the words. The suffering, the kingdom, and the resurrection &#8212; each greater than what David himself knew &#8212; are not <span class="tooltip">allegories<span class="tooltiptext">A symbolic reading imposed on the text after the fact &#8212; treating a Christological connection as decorative or added-on meaning, rather than what the Holy Spirit intended the words to say from the beginning.</span></span>. They are the text pointing to Christ. The Psalter is a little Bible because Christ is already in it.
 </p>
 <hr>
 <p><small>Source: Martin Luther, &#8220;Preface to the Psalter&#8221; (1528), in <em>Luther&#8217;s Works</em>, Vol. 35: <em>Word and Sacrament I</em> (Philadelphia: Fortress Press, 1960), pp. 253&#8211;257. Original German: <em>Vorrede auf den Psalter</em>.</small></p>
@@ -588,18 +588,18 @@ The resources below extend the study beyond what these pages cover. Each one is 
 <span class="tooltip">
     <strong>Blessed</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">אַשְׁרֵי</span>
             <span class="transliteration">(ashrei)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             plural construct &#8212; "the happinesses of," used as an interjection
             <hr>
 			From <span dir="rtl">אָשַׁר</span> (ashar) &#8212; to go straight, to advance rightly. The root pictures a life moving in the right direction, not a static feeling. Fixed permanently in this construct-plural form &#8212; Hebrew never predicates <em>ashrei</em> onto a subject the way "he is blessed" would in English; it only exclaims over someone already found walking that way.
             <hr>
 			Distinct from <span dir="rtl">בָּרוּךְ</span> (barukh) &#8212; the word used when God Himself is the one doing the blessing (see Psalm 5:12). Ashrei instead names the resulting condition: the flourishing state of the one who lives this way.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 32:1, Psalm 41:1, Psalm 112:1, Proverbs 3:13
         </small>
@@ -610,17 +610,17 @@ The resources below extend the study beyond what these pages cover. Each one is 
 <span class="tooltip">
     <strong>the man</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">הָאִישׁ</span>
             <span class="transliteration">(ha'ish)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">אִישׁ</span> &#8212; (ish) man, person &#8212; with the definite article
             <hr>
 			Not "a man" among many options, but a specific, singular figure held up as the pattern.
 			<br>Distinct from <span dir="rtl">אָדָם</span> (adam), humanity in general &#8212; <em>ish</em> names one man specifically.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 6:9, 1 Samuel 13:14, Psalm 112:1
         </small>
@@ -636,18 +636,18 @@ The resources below extend the study beyond what these pages cover. Each one is 
 <span class="tooltip">
     <strong>walks</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">הָלַךְ</span>
             <span class="transliteration">(halakh)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             to walk, to go; qal perfect &#8212; describing a settled, characteristic pattern rather than a single event
             <hr>
 			The first and mildest of three verbs of increasing commitment &#8212; casual movement alongside, not yet a decision to stay.
 			<hr>
 			The negation governing all three verbs in this verse (<span dir="rtl">לֹא</span> + perfect) denotes total, characteristic avoidance &#8212; not "hasn't happened yet," but "this is not the kind of man he is."
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 5:22, Genesis 17:1, Micah 6:8
         </small>
@@ -658,17 +658,17 @@ The resources below extend the study beyond what these pages cover. Each one is 
 <span class="tooltip">
     <strong>counsel</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">בַּעֲצַת</span>
             <span class="transliteration">(ba'atzat)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             construct of <span dir="rtl">עֵצָה</span> (etzah), from <span dir="rtl">יָעַץ</span> (ya'ats) &#8212; to advise, to plan, to purpose. Names deliberated counsel, not a careless remark.
             <hr>
 			Prefixed here with <span dir="rtl">בְּ</span> (in) &#8212; "in the counsel of."
 			<br>The same root names godly counsel elsewhere (Psalm 33:11) &#8212; it is marked wicked here by the noun it modifies, not by the word itself.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 33:11, 2 Samuel 15:31, Proverbs 1:25, Proverbs 19:20-21
         </small>
@@ -679,16 +679,16 @@ The resources below extend the study beyond what these pages cover. Each one is 
 <span class="tooltip">
     <strong>wicked</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">רְשָׁעִים</span>
             <span class="transliteration">(resha'im)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             plural of <span dir="rtl">רָשָׁע</span> (rasha) &#8212; the guilty one, under judgment
             <hr>
 			The direct opposite of <span dir="rtl">צַדִּיק</span> (tzaddik), the righteous &#8212; the same word Psalm 5:12 declares is blessed and crowned.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 5:12, Psalm 37:1, Proverbs 4:14
         </small>
@@ -704,16 +704,16 @@ The "wicked" are not merely rule-breakers, but those who reason about right and 
 <span class="tooltip">
     <strong>stands</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">עָמָד</span>
             <span class="transliteration">(amad)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             to stand, to take a position, to remain; qal perfect, matching <em>halakh</em>'s form
             <hr>
 			More deliberate than walking &#8212; a stationary position taken, not just passed through.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 1:5, Exodus 14:13, Psalm 24:3
         </small>
@@ -724,16 +724,16 @@ The "wicked" are not merely rule-breakers, but those who reason about right and 
 <span class="tooltip">
     <strong>way</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">וּבְדֶרֶךְ</span>
             <span class="transliteration">(uvederekh)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">דֶרֶךְ</span> (derekh), from <span dir="rtl">דָּרַךְ</span> (darakh) &#8212; to tread. One of the most common words in the Old Testament, over 700 occurrences.
             <hr>
 			A common Wisdom-literature metaphor for one's manner of living &#8212; the image itself is ground worn down by repeated walking, not a literal road. Prefixed here with <span dir="rtl">וּ</span> (and) + <span dir="rtl">בְ</span> (in).
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Deuteronomy 30:15-19, Psalm 1:6, Proverbs 4:18-19
         </small>
@@ -744,16 +744,16 @@ The "wicked" are not merely rule-breakers, but those who reason about right and 
 <span class="tooltip">
     <strong>sinners</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">חַטָּאִים</span>
             <span class="transliteration">(chatta'im)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             intensive noun form of <span dir="rtl">חָטָא</span> (chata) &#8212; to sin, to miss the mark
             <hr>
 			Not an isolated lapse but a settled pattern: one whose habitual missing of the mark has become who he is, not just something he occasionally does.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 1:5, Genesis 13:13, Proverbs 13:6
         </small>
@@ -769,16 +769,16 @@ A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, s
 <span class="tooltip">
     <strong>sits</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">יָשָׁב</span>
             <span class="transliteration">(yashav)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             to sit, to dwell, to settle; qal perfect, matching the other two verbs' form
             <hr>
 			The furthest point of the progression &#8212; not passing by, not pausing, but belonging to the place.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 19:1, Psalm 26:4-5
         </small>
@@ -789,18 +789,18 @@ A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, s
 <span class="tooltip">
     <strong>seat</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">וּבְמוֹשַׁב</span>
             <span class="transliteration">(uvemoshav)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">מוֹשַׁב</span> (moshav) &#8212; seat, session, dwelling place
             <hr>
 			A fixed place one belongs to &#8212; the opposite of the transience of "walking." Prefixed here with <span dir="rtl">וּ</span> (and) + <span dir="rtl">בְ</span> (in).
 			<hr>
 			In the Ancient Near East this was often a specific, recognized place &#8212; the city gate or public square where elders and judges gathered to render judgment and shape public opinion. To sit in this "seat" was to hold a public, established position, not just to keep bad company in private.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Ruth 4:1-2, Job 29:7, Psalm 107:32, Proverbs 9:14, 1 Samuel 20:18
         </small>
@@ -811,16 +811,16 @@ A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, s
 <span class="tooltip">
     <strong>scoffers</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">לֵצִים</span>
             <span class="transliteration">(letzim)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             participle of <span dir="rtl">לוּץ</span> (luts) &#8212; to scoff, to mock; literally "those who mock"
             <hr>
 			An active participle, not a fixed label &#8212; this names someone presently, continually engaged in scorn. A Wisdom-literature term for one who has grown contemptuous of correction &#8212; the furthest stage of settled folly.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Proverbs 1:22, Proverbs 9:7-8, Proverbs 13:1, Psalm 119:51
         </small>
@@ -870,7 +870,7 @@ No descendant of Adam has ever matched this description of the blessed man. <spa
 </p>
 <p><em>Christ as the Blessed Man</em></p>
 <p>
-<span id="cite-6" class="cite-anchor">Martin Luther read this verse's definite article &#8212; "the man" &#8212; as pointing to Christ alone.<sup class="ref"><a href="#ref-6">[6]</a></sup></span>
+<span id="cite-6" class="cite-anchor">This Psalm is to be understood of Christ alone &#8212; he is the mark and the goal to which the blessed man directs all his aims.<sup class="ref"><a href="#ref-6">[6]</a></sup></span>
 Christ is the truly Blessed Man &#8212; the one who never walked in the wicked's counsel, never stood in sinners' way, never sat in scoffers' seat. God blesses believers only because He joins them to Christ, the true <span class="tooltip">firstfruits<span class="tooltiptext">The first portion of a harvest, set apart and offered to God as a pledge that the rest of the crop belongs to Him too (Leviticus 23:10). Paul uses the same image in 1 Corinthians 15:20 for Christ's resurrection guaranteeing believers' own.</span></span> &#8212; and what is true of Him becomes true of believers too.
 </p>
 <p>
@@ -942,7 +942,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
     <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Psalm 5:5, 11-12 &#8212; David distinguishes himself throughout the psalm from "the boastful" and "evildoers" (v. 5) and aligns himself with "those who take refuge" in God (v. 11); the psalm's closing declaration that God "bless[es] the righteous" and "cover[s] him with favor as with a shield" (v. 12) is David's own confident conclusion about himself, not a general statement about someone else.</li>
     <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> 2 Samuel 11 &#8212; David's adultery with Bathsheba, and the written order to Joab that placed Uriah at the front of the fiercest fighting so he would be killed. Psalm 51:1-4 &#8212; David's own confession of that same sin.</li>
     <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Romans 3:10-12 &#8212; Paul's verdict that none is righteous quotes Psalm 14:1-3 (repeated in Psalm 53:1-3), not this psalm directly &#8212; but it applies the same righteous/wicked framework Psalm 1 establishes as the Psalter's own doorway category.</li>
-    <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Martin Luther, <em>First Lectures on the Psalms</em> (<em>Dictata super Psalterium</em>, 1513-1515), on Psalm 1, in <em>Luther's Works</em>, Vol. 10. Luther reads the definite article &#8212; "the man" &#8212; as pointing to Christ alone, the truly Blessed Man to whom believers are joined as firstfruits to the harvest.</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Martin Luther, commentary on Psalm 1, from his second lecture series on the Psalms (Wittenberg, 1519): "This Psalm is to be understood of Christ only. He is the mark and the goal to which the man that is 'blessed' is to direct all his aims." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
     <li id="ref-7"><a href="#cite-7" class="ref-back">↩</a> Genesis 12:3 &#8212; <em>"...and in you all the families of the earth shall be blessed."</em> Galatians 3:16 &#8212; Paul reads that promised "offspring" as one descendant, not many: Christ. 2 Samuel 7:12-16 &#8212; God's promise to David that his throne would be established forever. Luke 1:32-33 &#8212; the angel Gabriel tells Mary that Christ will reign on David's throne forever, in a kingdom that will never end. Both promises stand behind the blessedness Psalm 1:1 describes &#8212; a bond God had already made.</li>
     <li id="ref-8"><a href="#cite-8" class="ref-back">↩</a> Acts 2:29-36 &#8212; Peter argues at Pentecost that David, though dead and buried, spoke of one of his own descendants whom God would seat on his throne; that descendant is Jesus, whom God raised and exalted. The promise to David is fulfilled in a living king, not a historical memory.</li>
     <li id="ref-9"><a href="#cite-9" class="ref-back">↩</a> Ezekiel 36:26; Jeremiah 31:33 &#8212; God's promise to remove the heart of stone and write His Law on the heart directly. Fulfilled not by human resolve but by God's own act in the one joined to Christ (cf. the <em>regeneration</em> tooltip, Psalm 5:12).</li>
@@ -984,16 +984,16 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 <span class="tooltip">
     <strong>But</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">כִּי אִם</span>
             <span class="transliteration">(ki im)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             two particles joined into one strong adversative &#8212; "but rather," "only," "except"
             <hr>
 			The sharpest contrast available in Hebrew, directly answering verse 1's three-fold "not... nor... nor."
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 15:4, Genesis 32:26, Amos 3:7
         </small>
@@ -1003,16 +1003,16 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 <span class="tooltip">
     <strong>his delight</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">חֶפְצוֹ</span>
             <span class="transliteration">(cheftzo)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             from <span dir="rtl">חָפֵץ</span> (chaphets) &#8212; to take pleasure in, to desire.
             <hr>
 			Hebrew word order actually places "in the law of the LORD" before "his delight" &#8212; the object of delight fronted for emphasis, matching how "LORD" is fronted in Psalm 5:12.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 112:1, Psalm 40:8
         </small>
@@ -1028,16 +1028,16 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 <span class="tooltip">
     <strong>law</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">בְּתוֹרַת</span>
             <span class="transliteration">(betorat)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             construct of <span dir="rtl">תּוֹרָה</span> (torah), from <span dir="rtl">יָרָה</span> (yarah) &#8212; to teach, to direct
             <hr>
 			Broader than a list of rules &#8212; instruction, direction, teaching. Prefixed here with <span dir="rtl">בְּ</span> (in).
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Deuteronomy 6:6-9, Joshua 1:8, Psalm 119:97
         </small>
@@ -1048,16 +1048,16 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 <span class="tooltip">
     <strong>LORD</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">יְהוָה</span>
             <span class="transliteration">(YHWH)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             The covenant name of God &#8212; I AM / He Who Is
             <hr>
 			This delight is not in law in the abstract, but in instruction from the specific covenant God who speaks (see Psalm 5:12).
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Exodus 3:14, Exodus 6:2-3, Isaiah 42:8
         </small>
@@ -1073,16 +1073,16 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 <span class="tooltip">
     <strong>law</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">וּבְתוֹרָתוֹ</span>
             <span class="transliteration">(uvetorato)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">תּוֹרָה</span> (torah) + 3ms suffix &#8212; the same word repeated, now "his law"
             <hr>
 			The instruction named "the LORD's" a moment ago is now called his own &#8212; not a second law, but the first one taken to heart.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 119:97, Romans 7:22
         </small>
@@ -1093,16 +1093,16 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 <span class="tooltip">
     <strong>meditates</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">יֶהְגֶּה</span>
             <span class="transliteration">(yehgeh)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             qal imperfect of <span dir="rtl">הָגָה</span> (hagah) &#8212; an onomatopoetic root: to murmur, growl, moan
             <hr>
 			Used of a lion growling over its prey and a dove moaning in distress elsewhere &#8212; here, a low, audible repetition. Reading Scripture aloud, turned over on the tongue, not merely scanned with the eyes.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Isaiah 31:4, Isaiah 38:14, Joshua 1:8
         </small>
@@ -1118,16 +1118,16 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 <span class="tooltip">
     <strong>day and night</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">יוֹמָם וָלָיְלָה</span>
             <span class="transliteration">(yomam valailah)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             adverbial "day" + "and night" &#8212; a merism
             <hr>
 			Names both extremes to mean the whole: not literally every waking and sleeping hour without exception, but constantly, at every available time.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Joshua 1:8, Nehemiah 1:6
         </small>
@@ -1278,16 +1278,16 @@ Lord, I have not delighted in Your Torah as I should. My time in Your Word is in
 <span class="tooltip">
     <strong>He is</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">וְהָיָה</span>
             <span class="transliteration">(vehayah)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             vav-consecutive perfect of <span dir="rtl">הָיָה</span> (hayah) &#8212; to be, to become, to happen
             <hr>
 			Carries a resultative force: not a new scene, but the outcome of what verses 1 and 2 already describe. "And so he becomes."
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 17:4, Deuteronomy 28:1-2
         </small>
@@ -1297,14 +1297,14 @@ Lord, I have not delighted in Your Torah as I should. My time in Your Word is in
 <span class="tooltip">
     <strong>like a tree</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">כְּעֵץ</span>
             <span class="transliteration">(ke'ets)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">עֵץ</span> (ets) &#8212; the ordinary word for a tree or its wood
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 1:11, Ezekiel 47:12
         </small>
@@ -1314,16 +1314,16 @@ Lord, I have not delighted in Your Torah as I should. My time in Your Word is in
 <span class="tooltip">
     <strong>planted</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">שָׁתוּל</span>
             <span class="transliteration">(shatul)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             Qal passive participle of <span dir="rtl">שָׁתַל</span> (shatal) &#8212; to transplant
             <hr>
 			Not a tree that grew up wild wherever it happened to find water &#8212; one someone else dug up and set there on purpose.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Jeremiah 17:8, Ezekiel 17:22-23
         </small>
@@ -1339,14 +1339,14 @@ The psalmist now pictures this same man &#8212; who refused in verse 1 and delig
 <span class="tooltip">
     <strong>streams of water</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">פַּלְגֵי מָיִם</span>
             <span class="transliteration">(palgei mayim)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">פֶּלֶג</span> (peleg), from <span dir="rtl">פָּלַג</span> (palag) &#8212; to divide &#8212; names a channel or rill, specifically an irrigation canal, not a wild watercourse
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Isaiah 30:25, Proverbs 21:1
         </small>
@@ -1362,14 +1362,14 @@ An irrigation channel supplies water no matter the season &#8212; a wild streamb
 <span class="tooltip">
     <strong>fruit</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">פִּרְיוֹ</span>
             <span class="transliteration">(piryo)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">פְּרִי</span> (peri) + 3ms suffix &#8212; produce, the yield a thing exists to give
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 1:11, Leviticus 19:23
         </small>
@@ -1380,16 +1380,16 @@ An irrigation channel supplies water no matter the season &#8212; a wild streamb
 <span class="tooltip">
     <strong>in its season</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">בְּעִתּוֹ</span>
             <span class="transliteration">(be'itto)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">עֵת</span> (et) + 3ms suffix &#8212; its appointed time
             <hr>
 			Not fruit on demand, and not fruit constantly &#8212; fruit when the season for it actually arrives.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Ecclesiastes 3:1, Leviticus 26:4
         </small>
@@ -1405,14 +1405,14 @@ The fruit is not forced or hurried into being &#8212; it simply arrives, the nat
 <span class="tooltip">
     <strong>leaf</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">עָלֵהוּ</span>
             <span class="transliteration">('alehu)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">עָלֶה</span> (aleh) + 3ms suffix &#8212; foliage, leaf
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Isaiah 64:6, Leviticus 26:36
         </small>
@@ -1423,14 +1423,14 @@ The fruit is not forced or hurried into being &#8212; it simply arrives, the nat
 <span class="tooltip">
     <strong>wither</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">יִבּוֹל</span>
             <span class="transliteration">(yibbol)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             Qal imperfect of <span dir="rtl">נָבֵל</span> (naval) &#8212; to sink down, fade, wither
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Isaiah 64:6, Isaiah 40:7-8
         </small>
@@ -1446,14 +1446,14 @@ Fruit is what the tree produces; the leaf shows whether the tree itself is still
 <span class="tooltip">
     <strong>does</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">יַעֲשֶׂה</span>
             <span class="transliteration">(ya'aseh)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             Qal imperfect of <span dir="rtl">עָשָׂה</span> (asah) &#8212; to do, to make
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Deuteronomy 29:9, Joshua 1:8
         </small>
@@ -1464,16 +1464,16 @@ Fruit is what the tree produces; the leaf shows whether the tree itself is still
 <span class="tooltip">
     <strong>prospers</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">יַצְלִיחַ</span>
             <span class="transliteration">(yatzliach)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             Hiphil imperfect of <span dir="rtl">צָלַח</span> (tsalach) &#8212; to succeed, to advance
             <hr>
 			Hiphil, not the plainer Qal the same root can take &#8212; the form used elsewhere for actively bringing something to success. Here it lands on the man himself: not prosperity that merely happens to him, but success that follows from what he does.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 39:2-3
         </small>
@@ -1641,16 +1641,16 @@ Lord, I do not prosper in all that I do. Too often I strain for fruit under my o
 <span class="tooltip">
     <strong>not so</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">לֹא כֵן</span>
             <span class="transliteration">(lo ken)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">לֹא</span> (lo) "not" + <span dir="rtl">כֵּן</span> (ken) "so, thus," itself from <span dir="rtl">כּוּן</span> (kun) &#8212; to be firm, established, set upright
             <hr>
 			An idiom that negates an entire preceding statement at once, not a single word &#8212; the same construction used of Moses: "Not so, my servant Moses" (Numbers 12:7).
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Numbers 12:7, 2 Samuel 20:21, Job 9:35
         </small>
@@ -1666,14 +1666,14 @@ Lord, I do not prosper in all that I do. Too often I strain for fruit under my o
 <span class="tooltip">
     <strong>chaff</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">כַּמֹּץ</span>
             <span class="transliteration">(kammots)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">מֹץ</span> (mots), from <span dir="rtl">מוּץ</span> (muts) &#8212; to shake, to sift. Names the light husk separated from grain in threshing &#8212; worthless once separated, kept for nothing.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Job 21:18, Psalm 35:5, Isaiah 17:13, Hosea 13:3
         </small>
@@ -1689,14 +1689,14 @@ Unlike the tree of verse 3, planted on purpose and bearing fruit in its season, 
 <span class="tooltip">
     <strong>wind</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">רוּחַ</span>
             <span class="transliteration">(ruach)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             The same word Scripture also uses for breath and for Spirit, depending on context &#8212; here it names plainly ordinary wind, the one force chaff has no weight to resist.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 8:1, Exodus 10:13, Ecclesiastes 12:7
         </small>
@@ -1707,14 +1707,14 @@ Unlike the tree of verse 3, planted on purpose and bearing fruit in its season, 
 <span class="tooltip">
     <strong>drives away</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">תִּדְּפֶנּוּ</span>
             <span class="transliteration">(tiddefennu)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             Qal imperfect of <span dir="rtl">נָדַף</span> (nadaph) &#8212; to drive away, scatter, chase &#8212; agreeing with the feminine <em>ruach</em>, with a pronoun suffix, "drives it away." The imperfect pictures continuing action: not one gust, but chaff endlessly at the mercy of whatever wind happens to blow.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Leviticus 26:36, Job 13:25, Isaiah 41:2
         </small>
@@ -1865,14 +1865,14 @@ Lord, apart from Christ, I am exactly what this verse pictures &#8212; chaff wit
 <span class="tooltip">
     <strong>Therefore</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">עַל־כֵּן</span>
             <span class="transliteration">(al ken)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">עַל</span> (al) "upon" + <span dir="rtl">כֵּן</span> (ken) "so, thus" &#8212; a fixed idiom marking a conclusion drawn from what was just said: "therefore, for this reason."
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 2:24
         </small>
@@ -1888,14 +1888,14 @@ The psalmist draws this conclusion directly from the picture just given in verse
 <span class="tooltip">
     <strong>not stand</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">לֹא יָקֻמוּ</span>
             <span class="transliteration">(lo yaqumu)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">לֹא</span> (lo) "not" + Qal imperfect of <span dir="rtl">קוּם</span> (qum) &#8212; to rise, stand, endure.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 24:3, Deuteronomy 19:15
         </small>
@@ -1905,14 +1905,14 @@ The psalmist draws this conclusion directly from the picture just given in verse
 <span class="tooltip">
     <strong>the judgment</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">בַּמִּשְׁפָּט</span>
             <span class="transliteration">(bammishpat)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             From <span dir="rtl">שָׁפַט</span> (shaphat), "to judge" &#8212; <em>mishpat</em> names the formal act of judgment: a legal verdict rendered, not a private opinion.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Deuteronomy 1:17, Psalm 9:7-8
         </small>
@@ -1928,14 +1928,14 @@ In the judgment, the wicked have no case that holds together &#8212; nothing tru
 <span class="tooltip">
     <strong>the congregation</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">בַּעֲדַת</span>
             <span class="transliteration">(ba'adat)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             From the same root as <span dir="rtl">עֵד</span> (ed), "witness" &#8212; names not a crowd gathered by chance, but a people identified together by appointment.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Exodus 12:3, Numbers 16:2
         </small>
@@ -1945,14 +1945,14 @@ In the judgment, the wicked have no case that holds together &#8212; nothing tru
 <span class="tooltip">
     <strong>the righteous</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">צַדִּיקִים</span>
             <span class="transliteration">(tzaddikim)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">צָדַק</span> (tzadak) &#8212; righteous, just, one in right standing before God. NOT sinlessness: righteousness names covenant faithfulness, not moral perfection.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 15:6, Psalm 1:6, Habakkuk 2:4
         </small>
@@ -2072,40 +2072,559 @@ Lord, apart from Christ, I have no case that holds together in the judgment, and
 `
     },
 
-	/* --- PSALM 2 --- */
-{ label: "Psalm 2:1",
-      title: "The Way of the Righteous",
-    genre: "Royal",
-    parallelism: "Synonymous",
-	  image: "lyre.png",
-      text:`
-    <div class="verse-row">
-      <div class="verse-num">2:1</div>
-      <div class="verse-content">
-        <span class="verse-indent">Why do the nations rage</span><br>
-        <span class="verse-indent">and the peoples plot in vain?</span><br>
+{   label: "Psalm 1:6",
+    title: "The LORD Knows the Way of the Righteous",
+    image: "lyre.png",
+    genre: "Wisdom",
+    parallelism: "Antithetic",
+    conditions: ["assurance of salvation", "self-examination", "judging others' faith"],
+    conditionAngle: "searching your own life for certainty about where you stand with God, or judging someone else's &#8212; points to Christ as the one whose way God knows and secures, and asks to be joined to Him instead of relying on your own reasoning",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">1:6</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
       </div>
-    </div>
-  `,
-      ref: "ESV",
-      insight: `
-    <p><em> David addresses the Lord: </em></p>
+    `,
+    versions: {
+      ESV: [`For the LORD knows the way of the righteous,<br>but the way of the wicked will perish.<br><small>(ESV)</small>`],
+      KJV: [`For the LORD knoweth the way of the righteous:<br>but the way of the ungodly shall perish.<br><small>(KJV)</small>`],
+      NASB: [`For the LORD knows the way of the righteous,<br>But the way of the wicked will perish.<br><small>(NASB)</small>`],
+      NIV: [`For the LORD watches over the way of the righteous,<br>but the way of the wicked leads to destruction.<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">כִּי־יוֹדֵעַ יְהוָה דֶּרֶךְ צַדִּיקִים וְדֶרֶךְ רְשָׁעִים תֹּאבֵד</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
 
-<p> Why are foreign nations so uncontrollably angry and making plans. While doing this they view themselves in such a high regard.
-The kings and rulers of the earth are taking political positions and establishing plans against the Lord and against His chosen servants and executives saying, "Let us get rid of the Mosaic Laws or ten commandments, and the Lords chosen servants and executives."
-David addresses this political movement:
-It is impossible for these people to overthrow the Lord of the universe. The Lord will address the rebels and put them in their place, saying “I have chosen a king and a location to rule from.”
-The Lord set the boundaries by what is to be and it is this: “You (David) are my son, I have made you king of the land and nations. Ask me (the Lord) and I will give you (David) rule over all the nations as a permanent possession along with everything else on the earth. 
-Also all of the opposing nations will be destroyed by you (David).” </p>
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
 
-<p><em> David addresses all nations: </em></p>
+<span class="tooltip">
+    <strong>For</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">כִּי</span>
+            <span class="transliteration">(ki)</span>
+        </span>
+        <span class="definition-list">
+            A causal conjunction &#8212; "because, for." Grounds what verse 5 just declared: why the wicked have no place in the judgment, and sinners none in the congregation of the righteous.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 37:9
+        </small>
+    </span>
+</span>
 
-<p> Pay attention and listen up rulers and kinds of all nations: be careful of what you do next. Follow this instruction: worship the Lord of the universe YWHW in awe, fearfulness, and reverence. Let this worshiping bring you joy. 
-Then make peace, align and be loyal to the Lords appointed king (David). If you do not do this the Lord will be angry and separate you from Himself. The Lords becomes angry quickly. 
-The people who do trust and follow the instructions of the Lord will be in proper alignment and not need anything else in this world. </p> 
+<strong> the </strong>
+<span class="tooltip">
+    <strong>LORD</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יְהוָה</span>
+            <span class="transliteration">(YHWH)</span>
+        </span>
+        <span class="definition-list">
+            The covenant name of God &#8212; I AM / He Who Is.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Exodus 3:14, Exodus 6:2-3, Isaiah 42:8
+        </small>
+    </span>
+</span>
+
+<span class="tooltip">
+    <strong>knows</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יוֹדֵעַ</span>
+            <span class="transliteration">(yodea)</span>
+        </span>
+        <span class="definition-list">
+            Qal participle of <span dir="rtl">יָדַע</span> (yada) &#8212; a continual, settled state, not a single, completed action.
+            <hr>
+            More than information: the same relational sense appears in Amos 3:2, where God says of Israel alone, "You only have I known of all the families of the earth" &#8212; election and care, not mere awareness.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Genesis 18:19, Amos 3:2, Psalm 37:18
+        </small>
+    </span>
+</span>
+
+<hr>
+
+<span class="tooltip">
+    <strong>the way</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">דֶּרֶךְ</span>
+            <span class="transliteration">(derekh)</span>
+        </span>
+        <span class="definition-list">
+            <span dir="rtl">דֶּרֶךְ</span> (derekh), from <span dir="rtl">דָּרַךְ</span> (darakh) &#8212; to tread. One of the most common words in the Old Testament, over 700 occurrences.
+            <hr>
+            A common Wisdom-literature metaphor for one's manner of living &#8212; the image itself is ground worn down by repeated walking, not a literal road.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 1:1, Deuteronomy 30:15-19
+        </small>
+    </span>
+</span>
+
+<strong> of the </strong>
+<span class="tooltip">
+    <strong>righteous</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">צַדִּיקִים</span>
+            <span class="transliteration">(tzaddikim)</span>
+        </span>
+        <span class="definition-list">
+            <span dir="rtl">צָדַק</span> (tzadak) &#8212; righteous, just, one in right standing before God. NOT sinlessness: righteousness names covenant faithfulness, not moral perfection.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Genesis 15:6, Psalm 1:5, Habakkuk 2:4
+        </small>
+    </span>
+</span>
+
+<p>
+The word "way" named the wicked's path in verse 1 and now names the righteous man's own path instead &#8212; the same word, applied to someone very different. "Righteous" appeared just one verse ago, in verse 5. What is new is this: the LORD Himself knows the way of the righteous.
+</p>
+
+<hr>
+
+<strong>but the </strong>
+<span class="tooltip">
+    <strong>way</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וְדֶרֶךְ</span>
+            <span class="transliteration">(vederekh)</span>
+        </span>
+        <span class="definition-list">
+            <span dir="rtl">וְ</span> (and) + <span dir="rtl">דֶרֶךְ</span> (derekh) &#8212; the identical word just used of the righteous, now applied to the wicked.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 1:1, Psalm 1:4
+        </small>
+    </span>
+</span>
+
+<strong> of the </strong>
+<span class="tooltip">
+    <strong>wicked</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">רְשָׁעִים</span>
+            <span class="transliteration">(resha'im)</span>
+        </span>
+        <span class="definition-list">
+            plural of <span dir="rtl">רָשָׁע</span> (rasha) &#8212; the guilty one, under judgment. The direct opposite of tzaddik.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 1:1, Psalm 5:12
+        </small>
+    </span>
+</span>
+
+<strong> will </strong>
+<span class="tooltip">
+    <strong>perish</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">תֹּאבֵד</span>
+            <span class="transliteration">(tovedh)</span>
+        </span>
+        <span class="definition-list">
+            Qal imperfect of <span dir="rtl">אָבַד</span> (avad) &#8212; properly, to wander off and lose oneself; by extension, to perish. The imperfect pictures an ongoing trajectory, not a single event.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Deuteronomy 8:19-20, Psalm 37:20
+        </small>
+    </span>
+</span>
+
+<p>
+The wicked are already guilty, and their way is unfolding into ruin.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+The psalmist never explains, back in verse 1, why the righteous man flourishes. <span id="cite-1" class="cite-anchor">Only at the very end of the psalm does the psalmist explain: the LORD <span class="tooltip">knows<span class="tooltiptext">Hebrew <span class="hebrew-text" dir="rtl">יָדַע</span> (yada) &#8212; more than information; the same relational sense is used of God's covenant people in Amos 3:2, "You only have I known of all the families of the earth" &#8212; election and care, not mere awareness.</span></span> his way.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+</p>
+
+<p>
+Throughout this psalm, <span id="cite-2" class="cite-anchor">"the way" has never named mere behavior; the word names the whole direction of a life &#8212; what a person trusts and obeys.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> The wicked's way begins with their own counsel, in place of God's instruction (verse 1); the righteous man's way begins with delight in God's law, meditated on day and night (verse 2). One way trusts human judgment; the other trusts God's own word.
+</p>
+
+<p>
+The psalmist also explains what makes verses 4 and 5 true: this same knowing is why the righteous man endures. The wicked's way receives no such knowing &#8212; only a fate, stated plainly: perishing.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+Apart from Christ, every reader's own way is the wicked's way, which perishes &#8212; not the righteous man's way, which the LORD knows. <span id="cite-3" class="cite-anchor">Paul states the same verdict plainly: "None is righteous, no, not one... no one seeks for God. All have turned aside."<sup class="ref"><a href="#ref-3">[3]</a></sup></span> Everyone has, at some point, followed their own counsel rather than God's instruction (verse 1), failed to delight in His law (verse 2), and fallen short of the righteous man's steady prosperity (verse 3).
+</p>
+
+<p><em>Known by Faith, Not by Sight</em></p>
+
+<p>
+<span id="cite-4" class="cite-anchor">God alone knows <span class="tooltip">the righteous man's way<span class="tooltiptext">Not mere behavior, but the whole direction of a life &#8212; delight in God's law, meditated on day and night (verse 2). 'Righteous' means right standing before God through covenant faithfulness, not moral perfection.</span></span> with certainty &#8212; "man looks on the outward appearance, but the LORD looks on the heart." Real fruit can be seen in that life: prayer, delight in God's Word, a changed direction. But even that fruit cannot settle who truly stands right with God, and the righteous man cannot reason his way to certainty about his own standing either; only <span class="tooltip">faith<span class="tooltiptext">Faith (Hebrew: emunah אֱמוּנָה; Greek: pistis πίστις) &#8212; trust, reliance, and confidence in God. Not intellectual agreement alone, but clinging to God's promises and taking refuge in His mercy. It is the instrument by which righteousness is received, not earned &#8212; "Abraham believed God, and it was counted to him as righteousness" (Genesis 15:6). Faith is itself a gift, not a work (Ephesians 2:8-9).</span></span> grasps what sight and reason cannot.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> Judging only by what can be seen or reasoned out, people will misjudge who is righteous &#8212; and may reject the very one God calls righteous.
+</p>
+
+<p>
+In Christ, God declared this directly: <span id="cite-5" class="cite-anchor">a voice from heaven called Him "my beloved Son, with whom I am well pleased."<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Yet by outward sight alone, nothing marked Him as righteous &#8212; <span id="cite-6" class="cite-anchor">"he had no form or majesty that we should look at him, and no beauty that we should desire him. He was despised and rejected by men... and we esteemed him not."<sup class="ref"><a href="#ref-6">[6]</a></sup></span> The world crucified Him instead. <span id="cite-7" class="cite-anchor">God raised Him up, "because it was not possible for him to be held by it [death]"<sup class="ref"><a href="#ref-7">[7]</a></sup></span> &#8212; the one way that could never perish.
+</p>
+
+<p>
+He is the righteous man this verse names. Believers <span class="tooltip">joined to Christ<span class="tooltiptext">United to Christ through faith and baptism, so that what is true of Him becomes true of those united to Him as well (Romans 6:5).</span></span> share His way &#8212; known by the LORD, and secure forever.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<em>Stop searching yourself for proof.</em> It's tempting to replay good days and explain away bad ones. But reasoning can't give you certainty about your own standing before God. Christ alone is the righteous man the LORD knows and calls secure &#8212; and if you are joined to Him, His way becomes yours too, as if you had walked that way yourself.
+</p>
+<p>
+<em>Don't judge someone else's way by what you can see.</em> A plain, ordinary life isn't necessarily far from God, and an impressive one isn't automatically secure &#8212; only the LORD knows a person's way with certainty, not you. Caring about someone's way isn't wrong; presuming you already know their standing before God is. Leave that to God, and keep loving the person in front of you.
+</p>
+<p>
+<em>Ask about your direction, not just today.</em> The real question isn't whether today was a good day or a bad one, but which way you are actually walking. The wicked's way doesn't end in one dramatic collapse, but wanders off gradually, a little at a time. Don't wait for a bigger reckoning to turn back &#8212; turn toward God's law and away from your own counsel today.
+</p>
+<p>
+<em>Doing good works is not the same as being known by Him.</em> Good works are not just good deeds &#8212; they flow from already being known by God, through faith in Christ. The wicked can do outwardly good things too, but apart from that same union with Christ, their deeds are not good works; their way still perishes regardless. Ask Him honestly whether you are actually <span class="tooltip">known<span class="tooltiptext">Hebrew <span class="hebrew-text" dir="rtl">יָדַע</span> (yada) &#8212; more than information; the same relational sense is used of God's covenant people in Amos 3:2, "You only have I known of all the families of the earth" &#8212; election and care, not mere awareness.</span></span>, and bring that question to Him through Christ.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Prayer</summary>
+<p>
+Lord, apart from Christ, I am guilty, and my own way is unfolding into ruin. I search my own life for proof that I belong to You, replaying good days and explaining away bad ones, as if I could settle by my own reasoning what only You can know. Christ alone is the righteous man this verse names: Your beloved Son, whose way You know and secure &#8212; yet despised by the world, and crucified anyway. You raised Him, because death could not hold Him. At the cross, He bore the guilt of my own way, unfolding into ruin. Forgive me for searching myself instead of trusting You, and do what I cannot do for myself: join me to Christ, so that my way becomes His, and You know me as You know Him &#8212; secure now and forever.
+</p>
+  <span class="selah-marker">
+    <em>AMEN</em>
+  </span>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Psalm 37:18 &#8212; "The LORD knows the days of the blameless, and their heritage will remain forever." Same root (יָדַע, yada) and grammatical form (Qal participle) as this verse's own "knows." Keil and Delitzsch describe this kind of "knowing" as <em>nosse cum affectu et effectu</em> &#8212; knowledge "with affection and effect," a living, committed relationship rather than bare cognition, which is why it secures its object's outcome rather than merely observing it.</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> <em>The Lutheran Study Bible</em> (Concordia Publishing House), note on Psalm 1:6: "Not simply the behavior of these two types of people, but a particular disposition toward God and theology. The wicked hold God's Word in contempt and utter disregard. The righteous order their lives and view the world according to God's Word and wisdom."</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> Romans 3:10-12 &#8212; Paul's own verdict that no one, left to himself, is righteous.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> 1 Samuel 16:7 &#8212; "man looks on the outward appearance, but the LORD looks on the heart." Martin Luther, commentary on Psalm 1:6, from his second lecture series on the Psalms (Wittenberg, 1519): "not of sense, nor of reason, but of faith only; even of that faith that sees in darkness, and beholds things that are invisible." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text. Cf. 2 Corinthians 5:7 &#8212; "for we walk by faith, not by sight."</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Matthew 3:17 &#8212; the Father's own declaration at Christ's baptism.</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> Isaiah 53:2-3 &#8212; the Suffering Servant, having no outward glory to commend Him, despised and rejected by men.</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Acts 2:24 &#8212; Peter's Pentecost sermon, on Christ's resurrection.</li>
+  </ol>
+</div>
+<p>
+  <span class="selah-marker">
+     <em>SELAH</em>
+  </span>
+</p>
+</details>
 `
     },
-	
+
+	/* --- PSALM 2 --- */
+{   label: "Psalm 2:1",
+    title: "The Nations Rage in Vain",
+    image: "lyre.png",
+    genre: "Royal",
+    parallelism: "Synonymous",
+    conditions: ["self-reliance", "persecution", "delaying repentance", "intercession for others"],
+    conditionAngle: "names the quiet rebellion of resisting God's authority, delaying surrender to Him, or interceding for someone who still resists Him &#8212; and points to Christ, the King all rebellion ultimately fails against, calling you and those you pray for to take refuge in Him now.",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">2:1</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`Why do the nations rage<br>and the peoples plot in vain?<br><small>(ESV)</small>`],
+      KJV: [`Why do the heathen rage,<br>and the people imagine a vain thing?<br><small>(KJV)</small>`],
+      NASB: [`Why are the nations in an uproar<br>And the peoples devising a vain thing?<br><small>(NASB)</small>`],
+      NIV: [`Why do the nations conspire<br>and the peoples plot in vain?<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">לָמָּה רָגְשׁוּ גוֹיִם וּלְאֻמִּים יֶהְגּוּ־רִיק</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+<span class="tooltip">
+    <strong>Why</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">לָמָּה</span>
+            <span class="transliteration">(lammah)</span>
+        </span>
+        <span class="definition-list">
+            Interrogative particle &#8212; "why, for what reason."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 22:1
+        </small>
+    </span>
+</span>
+
+<strong> do the </strong>
+<span class="tooltip">
+    <strong>nations</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">גוֹיִם</span>
+            <span class="transliteration">(goyim)</span>
+        </span>
+        <span class="definition-list">
+            Plural of <span dir="rtl">גּוֹי</span> (goy) &#8212; the standard term for the Gentile nations, the peoples outside Israel.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Genesis 12:2
+        </small>
+    </span>
+</span>
+
+<span class="tooltip">
+    <strong>rage</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">רָגְשׁוּ</span>
+            <span class="transliteration">(ragshu)</span>
+        </span>
+        <span class="definition-list">
+            Qal perfect of <span dir="rtl">רָגַשׁ</span> (ragash) &#8212; to be in tumult, to throng in noisy commotion. Though grammatically perfect, Hebrew poetry commonly uses this form for a vivid present rather than a completed past action &#8212; every major translation renders the verb as ongoing, present-tense rage.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: nowhere else &#8212; this is the word&#8217;s only appearance in the Hebrew Bible
+        </small>
+    </span>
+</span>
+
+<p>
+The question is rhetorical &#8212; the psalmist is not asking for information, but registering astonishment at how futile this rage really is.
+</p>
+
+<hr>
+
+<strong>and the </strong>
+<span class="tooltip">
+    <strong>peoples</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וּלְאֻמִּים</span>
+            <span class="transliteration">(u'le'ummim)</span>
+        </span>
+        <span class="definition-list">
+            <span dir="rtl">וְ</span> (and) + plural of <span dir="rtl">לְאֹם</span> (le'om) &#8212; a poetic synonym for "nations," paired with goyim in classic Hebrew synonymous parallelism, not naming a second group.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Genesis 25:23
+        </small>
+    </span>
+</span>
+
+<span class="tooltip">
+    <strong>plot</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יֶהְגּוּ</span>
+            <span class="transliteration">(yehgu)</span>
+        </span>
+        <span class="definition-list">
+            Qal imperfect of <span dir="rtl">הָגָה</span> (hagah) &#8212; the identical root Psalm 1:2 uses for the righteous man's meditation on God's Law: there, a settled murmuring return to His word; here, that same restless muttering turned toward rebellion instead.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 1:2
+        </small>
+    </span>
+</span>
+
+<strong> in </strong>
+<span class="tooltip">
+    <strong>vain</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">רִיק</span>
+            <span class="transliteration">(riq)</span>
+        </span>
+        <span class="definition-list">
+            Emptiness, vanity &#8212; that which is hollow and worthless, without substance or result.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Isaiah 49:4
+        </small>
+    </span>
+</span>
+
+<p>
+Their plotting itself is named empty.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+Psalm 1 opened by describing a single blessed man who refuses the counsel of the wicked, the way of sinners, the seat of scoffers. Psalm 2 opens instead with a question &#8212; not one man, but whole nations and peoples, in open rage. The shift in scale, from one life to the whole world, marks the difference between these two psalms from their very first verse.
+</p>
+
+<p>
+<span id="cite-1" class="cite-anchor">The same root &#8212; <span class="tooltip"><em>hagah</em><span class="tooltiptext"><span class="hebrew-row"><span class="hebrew-text" dir="rtl">יֶהְגּוּ</span><span class="transliteration">(yehgu)</span></span><span class="definition-list">Qal imperfect of <span dir="rtl">הָגָה</span> (hagah) &#8212; properly, to murmur, mutter, or growl, an internal, repeated sound, not a single utterance.</span><span class="tt-divider"></span><small class="references">Biblical Usage: Isaiah 31:4, Isaiah 38:14</small></span></span> &#8212; names both the righteous man's meditation on God's Law in Psalm 1:2 and the nations' plotting here: the same inward, repeated activity, aimed in opposite directions &#8212; toward God's Law there, in rebellion here.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+</p>
+
+<p>
+Verse 1 gives no explanation for their rage. Later in the psalm, God responds with an action instead: He sets His own King on Zion despite their rebellion.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+<span id="cite-2" class="cite-anchor">Apart from Christ, every reader belongs among these raging nations &#8212; hostile to God's rule, unable to submit to it. This is not a result of upbringing or circumstance; every person is sinful from conception and already stands under God's wrath before ever choosing to rebel.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-3" class="cite-anchor">Nations raged against David too, before he ever wrote this verse. When he was anointed king over all Israel, the Philistines went up against him almost immediately &#8212; nations raging against God's chosen king, exactly as verse 1 describes.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
+</p>
+
+<p><em>The Nations Gather Against God's Anointed</em></p>
+
+<p>
+But this rage against God's anointed king reached beyond any single human coronation. The New Testament identifies Jesus as the King this rage ultimately opposed.
+</p>
+
+<p>
+<span id="cite-4" class="cite-anchor">In Acts 4, when Peter and John were threatened by the Jewish council, the believers prayed this verse back to God, quoting Psalm 2:1 word for word &#8212; &#8220;Why did the Gentiles rage, and the peoples plot in vain?&#8221; &#8212; then named the fulfillment directly: Herod, Pontius Pilate, the Gentiles, and the peoples of Israel had all gathered together against Jesus, God&#8217;s own anointed Servant.<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-5" class="cite-anchor">In Hebrew poetry, &#8220;nations&#8221; and &#8220;peoples&#8221; are one idea said twice, not two separate groups. Here, in the gathering against Jesus, that changes: the two words point to two really distinct groups instead &#8212; the Gentile soldiers, raging blindly, not realizing who they were crucifying, and Israel&#8217;s own leaders, plotting deliberately against Him.<sup class="ref"><a href="#ref-5">[5]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<em>Look for your own quiet rebellion, not just the world&#8217;s loud one.</em> Nations and rulers aren&#8217;t the only ones who rage against God&#8217;s rule &#8212; you resist Him too, just more quietly: a command you brush aside, an authority you resent, a plan you&#8217;d rather run yourself. Repent, and submit to His rule instead.
+</p>
+<p>
+<em>Don&#8217;t be surprised when the world opposes Christ &#8212; or you.</em> This rage against God&#8217;s Anointed didn&#8217;t end at the cross. <span id="cite-6" class="cite-anchor">Jesus told His followers to expect the same opposition: &#8220;If they persecuted me, they will also persecute you.&#8221;<sup class="ref"><a href="#ref-6">[6]</a></sup></span> <span id="cite-7" class="cite-anchor">The believers who prayed this verse back to God lived out exactly that &#8212; they were themselves being threatened when they did.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> This psalm names this opposition centuries in advance.
+</p>
+<p>
+<em>Rebellion against God, however deliberate, comes to nothing.</em> This verse already names their plotting as empty &#8212; doomed to fail no matter how deliberate. <span id="cite-8" class="cite-anchor">Even the plot Herod, Pilate, and Israel&#8217;s own leaders carried out against Jesus was already something God had <span class="tooltip">predestined<span class="tooltiptext"><span class="hebrew-row">&#960;&#961;&#959;&#974;&#961;&#953;&#963;&#949;&#957; (proōrisen)</span><span class="definition-list">Greek, aorist active of &#960;&#961;&#959;&#959;&#961;&#943;&#950;&#969; (proorizō) &#8212; to determine or decide beforehand, to mark out in advance.</span><span class="tt-divider"></span><small class="references">Biblical Usage: Romans 8:29-30; Ephesians 1:5, 11</small></span></span> to take place.<sup class="ref"><a href="#ref-8">[8]</a></sup></span> Any plan to stop God&#8217;s purposes, no matter how organized or powerful, comes to nothing &#8212; just as their plot against Jesus did.
+</p>
+<p>
+<em>Submit to the King now, rather than joining the rebellion.</em> <span id="cite-9" class="cite-anchor">Later in the psalm, an invitation comes: &#8220;Blessed are all who take refuge in him.&#8221;<sup class="ref"><a href="#ref-9">[9]</a></sup></span> Bow to Him now, and take refuge in Him yourself &#8212; <span id="cite-10" class="cite-anchor">&#8220;his wrath is quickly kindled,&#8221;<sup class="ref"><a href="#ref-10">[10]</a></sup> and to delay is to risk perishing.</span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Prayer</summary>
+<p>
+Lord, apart from Christ, I belong among the nations who rage against Your rule &#8212; not with open rage, but quietly: a command I brush aside, an authority I resent, a plan I insist on running myself. My own plotting is empty, worthless, doomed to fail, no matter how deliberate. Christ is the King this rage ultimately opposed &#8212; the world gathered against Him too, some blindly, not knowing who they crucified, others deliberately plotting against Him. But You exalted Him despite their rebellion, because nothing could stop Your plan. At the cross, He bore the guilt of my own quiet rebellion. Forgive me for resisting Your rule, and do what I cannot do for myself: join me to Christ &#8212; and bring everyone who still rages against You to take refuge in Him too, before they perish in their rebellion.
+</p>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Ellicott's Commentary for English Readers, on Psalm 2:1: "Imagine.&#8212;Better, meditate, or plan. Literally, as in Psalm 1:2, only here in bad sense, mutter, referring to the whispered treasons passing to and fro among the nations."</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> Romans 8:7 (ESV): "For the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed, it cannot." Cf. Ephesians 2:3 (ESV): "...and were by nature children of wrath, like the rest of mankind." Cf. Psalm 51:5 (ESV): "Behold, I was brought forth in iniquity, and in sin did my mother conceive me."</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> 2 Samuel 5:17 (ESV): "When the Philistines heard that David had been anointed king over Israel, all the Philistines went up to search for David." Cf. Benson Commentary on Psalm 2:1: the nations bordering Judea "raged against him, when exalted to the throne of Judah and Israel."</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> Acts 4:25-28 (ESV): "[Sovereign Lord,] who through the mouth of our father David, your servant, said by the Holy Spirit, 'Why did the Gentiles rage, and the peoples plot in vain? The kings of the earth set themselves, and the rulers were gathered together, against the Lord and against his Anointed'&#8212;for truly in this city there were gathered together against your holy servant Jesus, whom you anointed, both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel, to do whatever your hand and your plan had predestined to take place."</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2:1-2, from his second lecture series on the Psalms (<em>Operationes in Psalmos</em>, Wittenberg, 1519-21), trans. Henry Cole, <em>Luther's Commentary on the First Twenty-Two Psalms</em>: "in this passage therefore heathen and people are kept manifestly distinct" &#8212; the heathen/nations as the Gentile soldiers ("as irrational beasts&#8230;they knew not what they did"), the peoples as Israel's councils ("prated and conferred in their councils together"). Cf. Luke 23:34 (ESV): "Father, forgive them, for they know not what they do."</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> John 15:20 (ESV): "Remember the word that I said to you: &#8216;A servant is not greater than his master.&#8217; If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours."</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Acts 4:23, 29-31 (ESV) &#8212; after Peter and John were released and reported their threatening by the council (v.23), the believers together prayed the words quoted in full at [4] above, asking God for boldness despite that same threat (v.29-31).</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Acts 4:28 (ESV) &#8212; see [4] above for the full quotation in context.</li>
+    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Psalm 2:12 (ESV): "Kiss the Son, lest he be angry, and you perish in the way, for his wrath is quickly kindled. Blessed are all who take refuge in him."</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Psalm 2:12 &#8212; see [9] above for the full quotation.</li>
+  </ol>
+</div>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+`
+    },
+
 	/* --- PSALM 3 --- */
 { label: "Psalm 3:1",
       title: "David fled from Absalom his son",
@@ -3015,17 +3534,17 @@ This sets up David's coming petition for God to judge his enemies in verse 10.
 		<strong>You Destroy...</strong>
 <span class="tooltiptext">
 
-<div class="hebrew-row">
+<span class="hebrew-row">
 	<span class="hebrew-text" dir="rtl">תְּאַבֵּד</span> 
 	<span class="transliteration">(t'abbed)</span>
-</div>
+</span>
 
-<div class="definition-list">
+<span class="definition-list">
 	<span dir="rtl">אָבַד</span> — (avad): to perish, be destroyed, be lost<br>
-</div>
+</span>
 
 <p class="usage-note">Piel form (intensive/causative) - "You cause to perish / You destroy utterly" </p>
-<hr>
+<span class="tt-divider"></span>
 
 <small class="references">
 	Parallel Occurences: Deuteronomy 8:19-20, Proverbs 19:9, Psalm 1:6, Psalm 37:20, Psalm 73:27
@@ -3099,15 +3618,15 @@ Therefore You will destroy my enemies!
 <span class="tooltip">
 <strong>Abhors...</strong>
 <span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
 <span class="hebrew-text" dir="rtl">יְתָעֵב</span> 
 <span class="transliteration">(Y'ta'ev)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
 <span dir="rtl">תָּעַב</span> — (ta'av): to abhor, detest, loathe, regard as abominable<br>
-</div>
+</span>
 <p class="usage-note">Piel form (intensive) = "utterly abhors"
-<hr>
+<span class="tt-divider"></span>
 <small class="references">
 Parallel Occurrences: Leviticus 26:11, 30, Psalm 119:163, Amos 6:8, Zechariah 11:8
 </small>
@@ -3136,16 +3655,16 @@ but "I am utterly disgusted by this.
 <span class="tooltip">
 <strong>Man of Bloodshed...</strong>
 <span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
 <span class="hebrew-text" dir="rtl">אִישׁ־דָּמִים</span> 
 <span class="transliteration">(Ish-Damim)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
 <span dir="rtl">אִישׁ</span> — (ish): man, person<br>
 <span dir="rtl">דָּמִים</span> — (damim): blood, bloodshed (plural of <span dir="rtl">דָּם</span>)<br>
-</div>
+</span>
 <p class="usage-note">Someone guilty of violence, murder, shedding innocent blood
-<hr>
+<span class="tt-divider"></span>
 <small class="references">
 Parallel Occurrences: 2 Samuel 16:7-8, Psalm 26:9, Psalm 55:23, Psalm 59:2, Proverbs 29:10
 </small>
@@ -3160,14 +3679,14 @@ This is habitual violence and the guilty killer has saturated their hands in blo
 <span class="tooltip">
 <strong>Deceit...</strong>
 <span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
 <span class="hebrew-text" dir="rtl">מִרְמָה</span> 
 <span class="transliteration">(Mirmah)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
 Root: <span dir="rtl">רָמָה</span> — (ramah): to deceive, betray, deal treacherously
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">
 Parallel Occurrences: Jeremiah 9:6, Psalm 10:7, Psalm 43:1, Proverbs 12:5, Proverbs 12:17
 </small>
@@ -3228,14 +3747,14 @@ Examples of both together:
 <span class="tooltip">
 <em>Way of the Path</em>
 <span class="tooltiptext">
-<div class="definition-list">
+<span class="definition-list">
 Sin is often described as a "Path" (derek). The momentum comes from the fact that paths are easy to follow and hard to leave once you’ve started running.
 
 <p><strong>"The way of the wicked is like deep darkness; they do not know what makes them stumble."</strong> 
 
 </p><p> The idea is that once you enter the "dark path," the momentum of your movement ensures you will hit the next obstacle because you’ve lost the ability to see clearly.
 
-</p></div><hr>
+</p></span><span class="tt-divider"></span>
 <small class="references">Proverbs 4:19</small>
 </span> </span>
 
@@ -3380,13 +3899,13 @@ These wicked people are barred from His prescence. These wicked people are arbor
 <div class="tooltip">
 <strong>But I,</strong>
 <span class="tooltiptext">	
-<div class="hebrew-row">
+<span class="hebrew-row">
 <span class="hebrew-text" dir="rtl">וַאֲנִי</span> 
 <span class="transliteration">(va'ani)</span>
-</div>		
-<div class="definition-list">
+</span>		
+<span class="definition-list">
 <span dir="rtl">אָבַד</span> — "But as for me / But I"<br>
-</div>
+</span>
 	<p class="usage-note"> וְ (v') = and, but / אֲנִי (ani) = I / Emphatic contrast - <em>"But I (in contrast to them)</em>"
 </div>				
 </span> 
@@ -3418,14 +3937,14 @@ David can enter the Lords presence when the wicked cannot. This is not because D
 <div class="tooltip">
 <strong>is in the Abundance</strong>
 <span class="tooltiptext">	
-<div class="hebrew-row">
+<span class="hebrew-row">
 <span class="hebrew-text" dir="rtl">בְּרֹב<span> 
 <span class="transliteration">(b'rov)</span>
-</div>		
-<div class="definition-list">
+</span>		
+<span class="definition-list">
 <span dir="rtl">בְּ</span> (b') — "in, through, by means of"
 <br> <span dir="rtl">רֹב</span> (rov) — "abundance, multitude, greatness, wealth"
-</div>
+</span>
 </div>				
 </span> 
 </span> 
@@ -3435,15 +3954,15 @@ David can enter the Lords presence when the wicked cannot. This is not because D
 <div class="tooltip">
 <strong>Steadfast Love.</strong>
 <span class="tooltiptext">	
-<div class="hebrew-row">
+<span class="hebrew-row">
 <span class="hebrew-text" dir="rtl">חֶסֶד<span> 
 <span class="transliteration">(Chesed)</span>
-</div>		
-<div class="definition-list">
+</span>		
+<span class="definition-list">
 <span dir="rtl">חֶסֶד</span> — "Steadfast Love" 
 <br>No single English word captures it fully.
 <br>Translation attempts: Steadfast love, Lovingkindness, Unfailing love, Covenant love, Loyal love, Mercy
-</div>
+</span>
 </div>				
 </span> 
 </span> 
@@ -3502,15 +4021,15 @@ I will
 <div class="tooltip">
 <strong>enter your house</strong>
 <span class="tooltiptext">	
-<div class="hebrew-row">
+<span class="hebrew-row">
 <span class="hebrew-text" dir="rtl">אָבוֹא בֵיתֶךָ<span> 
 <span class="transliteration">(bô' bayiṯ)</span>
-</div>		
-<div class="definition-list">
+</span>		
+<span class="definition-list">
 <span dir="rtl">בַּיִת</span> — (bayit) "house" 
 <br>In Davids time house possibly refered to: the tabernacle, the future temple in Davids vision, 
 or generically speaking as a term for "God's dwelling place"
-</div>
+</span>
 </div>				
 </span> 
 </span> 
@@ -3521,10 +4040,10 @@ or generically speaking as a term for "God's dwelling place"
 <div class="tooltip">
 the tabernacle
 <span class="tooltiptext">	
-<div class="definition-list">
+<span class="definition-list">
 The portable sanctuary where God's presence dwelt
 <br> In Jerusalem (eventually)
-</div>
+</span>
 </div>				
 </span> 
 </span>,  
@@ -3532,11 +4051,11 @@ The portable sanctuary where God's presence dwelt
 <div class="tooltip">
 the Future Temple in David's vision
 <span class="tooltiptext">		
-<div class="definition-list">
+<span class="definition-list">
 David wanted to build God's house (2 Samuel 7)
 <br> God said Solomon would build it
 <br> David may be speaking prophetically/anticipatorily
-</div>
+</span>
 </div>				
 </span> 
 </span>, or
@@ -3544,10 +4063,10 @@ David wanted to build God's house (2 Samuel 7)
 <div class="tooltip">
 generic term for "God's dwelling place"
 <span class="tooltiptext">		
-<div class="definition-list">
+<span class="definition-list">
 Wherever God meets with His people
 <br> The place of worship and sacrifice
-</div>
+</span>
 </div>				
 </span> 
 </span> 
@@ -3562,39 +4081,38 @@ David speaks of approaching God and entering His house confidently. David has ac
 <br>
 I will
 
-<div class="tooltip">
+<span class="tooltip">
     <strong> bow down </strong>
-    <div class="tooltiptext"> <div class="hebrew-row">
+    <span class="tooltiptext"> <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">אֶשְׁתַּחֲוֶה</span> <span class="transliteration">(Eshtachaveh)</span>
-        </div>    
-        <div class="definition-list">
-            <span dir="rtl">שָׁחָה </span> — (shachah) "Bow Down" 
+        </span>
+        <span class="definition-list">
+            <span dir="rtl">שָׁחָה </span> — (shachah) "Bow Down"
             <br>to bow down, to worship, to prostrate oneself
-            <p> 
+            <br>
                 Physical action: Falling on one's face, Full body prostration, Total submission, Reverence and humility
                 <br> Spiritual meaning: Worship, Submission to authority, Acknowledging God's supremacy, Honoring God's holiness
-            </p>
-            <hr> 
+            <span class="tt-divider"></span>
             <small>Genesis 18:2, Exodus 34:8, 1 Kings 1:31, Matthew 2:11</small>
-        </div>
-    </div> 
-</div>            
+        </span>
+    </span>
+</span>
 
-<div class="tooltip">
+<span class="tooltip">
     <strong> toward your holy temple </strong>
-    <div class="tooltiptext">
-        <div class="hebrew-row">
+    <span class="tooltiptext">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">אֶל־הֵיכַל־קָדְשְׁךָ</span> <span class="transliteration">(...)</span>
-        </div>        
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">הֵיכָל </span> — (heikhal) temple, palace, large/grand building
-            <div class="definition-list"> 
+            <span class="definition-list">
                 <span dir="rtl">קֹדֶשׁ </span> — (qodesh) holiness, holy, sanctuary
-                <p>Together: "Your holy temple"</p>
-            </div>
-        </div>                
-    </div> 
-</div>
+                <br>Together: "Your holy temple"
+            </span>
+        </span>
+    </span>
+</span>
 
 
 <p>
@@ -3612,10 +4130,10 @@ He got down on his knees three times a day and prayed and gave thanks before his
 
 <div class="tooltip">
     <strong> in the fear of you </strong>
-    <div class="tooltiptext"> <div class="hebrew-row">
+    <div class="tooltiptext"> <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">בְּיִרְאָתֶךָ</span> <span class="transliteration">(...)</span>
-        </div>    
-        <div class="definition-list">
+        </span>    
+        <span class="definition-list">
             <span dir="rtl">יִרְאָה </span> — (Yir'ah) "Fear" 
             <br>This word has a RANGE of meaning
             <ol>
@@ -3625,7 +4143,7 @@ He got down on his knees three times a day and prayed and gave thanks before his
             </ol>
             <hr> 
             <small>Proverbs 1:7, Proverbs 9:10, Psalm 111:10, Ecclesiastes 12:13</small>
-        </div>
+        </span>
     </div> 
 </div>  
 <p>
@@ -3710,12 +4228,12 @@ These request compliment each other because David is asking the Lord to guide hi
 <div class="tooltip">
 <strong>Lead me</strong>
 <span class="tooltiptext">	
-<div class="hebrew-row">
+<span class="hebrew-row">
 <span class="hebrew-text" dir="rtl"> נְחֵנִי </span> 
 <span class="transliteration"> (N'cheini) </span>
 <br> Root: <span class="hebrew-text" dir="rtl">נָחָה </span> 
  <span class="transliteration"> (nachah)</span> — to lead, guide, conduct (like a shepherd leading sheep)
-</div>		
+</span>		
 <p class="usage-note"> Imperative = urgent request/command
 <br> Picture: shepherd guiding sheep along the right path
 <hr>
@@ -3729,12 +4247,12 @@ Usage elsewhere: Exodus 15:13, Psalm 23:2-3, Psalm 31:3, Psalm 61:2, Psalm 139:2
 <div class="tooltip">
 <strong>in your righteousness</strong>
 <span class="tooltiptext">	
-<div class="hebrew-row">
+<span class="hebrew-row">
 <span class="hebrew-text" dir="rtl"> בְצִדְקָתֶךָ </span> 
 <span class="transliteration"> (B'tzidqatekha) </span>
 <br>Root: <span class="hebrew-text" dir="rtl"> צְדָקָה </span> 
 <span class="transliteration"> (Tzedaqah)</span> —  righteousness, justice, what is right
-</div>		
+</span>		
 <p class="usage-note"> This word has layers of meaning. 
 <ul>
 <li> Gods righteous charecter: moral perfection, justice, standards of right and wrongdoing
@@ -3759,17 +4277,17 @@ Also he speaks to the Lord as though the Lord is his shephard while he is a shee
 <span class="tooltip">
     <strong>because of my enemies</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">לְמַעַן שׁוֹרְרָי</span> 
             <span class="transliteration">(L'ma'an Shor'rai)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">לְמַעַן</span> — (l'ma'an): because of, for the sake of, on account of<br>
             <span dir="rtl">שׁוֹרְרָי</span> — (shor'rai): my enemies, those who watch me hostilely<br>
             <span dir="rtl">שָׁרַר</span> — (sharar): [Root] to watch, to lie in wait, to be hostile<br>
-        </div>
+        </span>
         <p class="usage-note">Specifically refers to enemies who are "watchers," lurking or lying in wait to catch one in a mistake or trap.
-        <hr>
+        <span class="tt-divider"></span>
         <small class="references">
             Parallel Occurrences: Psalm 5:8, Psalm 27:11, Psalm 54:5, Psalm 56:2, Psalm 59:10
         </small>
@@ -3792,15 +4310,15 @@ David mentions his enemies here because his enemies are watching him. David requ
 <span class="tooltip">
     <strong>make straight</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">הַיְשַׁר</span> 
             <span class="transliteration">(Hayeshar)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> יָשַׁר </span> — (yashar): [Root] to be straight, level, right, upright<br>
-        </div>
+        </span>
         <p class="usage-note"> Hiphil form (causative): "Cause to be straight / make straight / make level"
-        <hr>
+        <span class="tt-divider"></span>
         <small class="references">
             Parallel Occurrences: Proverbs 3:5-6, Proverbs 4:11-12, Isaiah 40:3-4
         </small>
@@ -3809,12 +4327,12 @@ David mentions his enemies here because his enemies are watching him. David requ
 <span class="tooltip">
     <strong>before me</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> לְפָנַי </span> 
             <span class="transliteration">(L'fanai)</span>
-        </div>
+        </span>
         <p class="usage-note"> Literally: "In front of me / before my face"
-        <hr>
+        <span class="tt-divider"></span>
         <small class="references">
             Parallel Occurrences: ...
         </small>
@@ -3824,14 +4342,14 @@ David mentions his enemies here because his enemies are watching him. David requ
 <span class="tooltip">
     <strong>your way</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">דַּרְכֶּךָ </span> 
             <span class="transliteration">(Dark'kha)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> ידֶּרֶךְ </span> — (Derekh): [Root] way, path, road, journey<br>
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Isaiah 55:8-9, Psalm 25:4, Psalm 86:11, Proverbs 14:12
         </small>
@@ -3916,11 +4434,11 @@ For their is
 <span class="tooltip">
     <strong>no truth</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">דאֵין נְכוֹנָה </span> 
             <span class="transliteration">(Ein N'khonah)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> נְכוֹנָה </span> — (N'khonah) from root <span dir="rtl"> כּוּן </span> (kun):  to be firm, established, fixed, reliable
 			<br> The causative form = to establish/direct firmly
 			<br>This word means MORE than just "truth". In different contexts it means:
@@ -3930,8 +4448,8 @@ For their is
 			<li> Sincerity (what is genuine)
 			<li> Reliability (what can be depended on)
 			<li> What is established/firm (opposite of shaky/uncertain)
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 51:6, Psalm 78:37
         </small>
@@ -3946,16 +4464,16 @@ their
 <span class="tooltip">
     <strong>inward self/part</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">קִרְבָּם הַוּוֹת </span> 
             <span class="transliteration">(Qirbam Havvot)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> קֶרֶב </span> — (Qerev) = midst, inward part, inner being, heart
 			<br> What's being described is not just their words (surface), but their heart/core (what's inside). 
 			<br> Their true nature (who they really are) and inner motivations (what drives them).
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 51:6, Psalm 78:37
         </small>
@@ -3965,15 +4483,15 @@ is
 <span class="tooltip">
     <strong>destruction;</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">הַוּוֹת </span> 
             <span class="transliteration">(Havvot)</span>: destructions, disasters, calamities, ruin (plural)
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> הַוָּה </span> — (havvah) = [Root] destruction, ruin, disaster, calamity
 		<br> This is strong language.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 38:12, Psalm 52:2, Proverbs 17:4, Micah 7:3
         </small>
@@ -3996,11 +4514,11 @@ Jesus teaches about the connection between a inward part and what comes out of a
 <span class="tooltip">
     <strong>their throat is an open grave;</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">קֶבֶר־פָּתוּחַ גְּרוֹנָם </span> 
             <span class="transliteration">(Qever-Patuach G'ronam)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> קֶבֶר </span> — (Qever) = grave, tomb, sepulcher
 			<br> place of death, containing corpses, associated with decay, corruption, stench
 			<span dir="rtl">פָּתוּחַ </span> — (Patuach) = open, opened
@@ -4008,8 +4526,8 @@ Jesus teaches about the connection between a inward part and what comes out of a
 			<span dir="rtl">פגָּרוֹן </span> — (Garon) = throat
 			<br> not mouth (פֶּה - peh), but throat which is deeper because it is the passage from mouth to stomach.
 			<br> Where things go down. 
-		</div>
-        <hr>
+		</span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: ...
         </small>
@@ -4045,15 +4563,15 @@ Paul quotes David in Romans 3:13 in his catalog of human sinfulness to demonstra
 <span class="tooltip">
     <strong>they flatter with their tongue;</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> לְשׁוֹנָם יַחֲלִיקוּן </span> 
             <span class="transliteration">(L'shonam Yachaliqu̇n)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> חָלַק </span> — (Chalaq) = to be smooth, slippery; to flatter with smooth words
 			<br> Hiphil form: "They make smooth" = they use smooth/flattering words
-		</div>
-        <hr>
+		</span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Proverbs 26:28, Proverbs 28:23, Proverbs 29:5, Psalm 12:2-3, Daniel 11:32
         </small>
@@ -4149,16 +4667,16 @@ His zeal for God's glory is evident in his phrasing: "they have rebelled against
 <span class="tooltip">
     <strong>Make them bear their guilt/Declare them guilty,</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">הַאֲשִׁימֵם</span> 
             <span class="transliteration">(Ha'ashimem)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> אָשַׁם </span> — (asham) Root:  to be guilty, to bear guilt, to incur guilt, to be held accountable 
 			<br> The causative form: "cause to be guilty" = declare guilty, pronounce guilty, condemn
 			<br> This is judicial language.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: 2 Samuel 14:13, Hosea 5:15, Ezekiel 22:4, Psalm 34:21-22
         </small>
@@ -4172,15 +4690,15 @@ David is requesting that God execute justice and pronounce the verdict that they
 <span class="tooltip">
     <strong>fall by their own counsels;</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">יִפְּלוּ מִמֹּעֲצוֹתֵיהֶם</span> 
             <span class="transliteration">(Yiplu Mimo'atzoteihem)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> נָפַל </span> — (Naphal) to fall, drop, collapse, be overthrown 
 			<br> <span dir="rtl"> מוֹעֵצָה </span> — (Mo'etzah) counsel, plan, scheme, purpose, advice
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm  7:15-16, Psalm 9:15-16, Psalm 35:7-8, Psalm 37:14-15, Psalm 57:6, Proverbs 26:27, Proverbs 28:10, Esther 7:10  
         </small>
@@ -4200,15 +4718,15 @@ This type of justice demonstrates God's wisdom and the self-destructive nature o
 <span class="tooltip">
     <strong>abundance of their transgressions...</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> בְּרֹב פִּשְׁעֵיהֶם </span> 
             <span class="transliteration">(B'rov Pish'eihem)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> רֹב </span> — (Rov) abundance, multitude, greatness
 			<br> <span dir="rtl"> פֶּשַׁע </span> — (Pesha) transgression, rebellion, revolt
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Isaiah 53:5, Isaiah 59:12-13, Ezekiel 18:31, Amos 5:12  
         </small>
@@ -4232,15 +4750,15 @@ Trangression is serious enough to require Christ's death. <sub> Isaiah 53:5 </su
 <span class="tooltip">
     <strong>...cast them out</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> הַדִּיחֵמוֹ </span> 
             <span class="transliteration">(Hadichemo)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> נָדַח </span> — (nadach) to drive out, thrust out, banish, cast away
 			<br> Hiphil form (causative): "cause to be driven out / thrust out forcefully"
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Deuteronomy 30:1, Jeremiah 8:3, Jeremiah 23:2-3
         </small>
@@ -4258,16 +4776,16 @@ David is asking that his enemies be removed from:
 <span class="tooltip">
     <strong>for they have rebelled against you.</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> כִּי־מָרוּ בָךְ  </span> 
             <span class="transliteration">(Ki-Maru Bakh)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> מָרָה </span> — (Marah)  to rebel, to be disobedient, to be contentious, to be bitter
 			<br> Marah implies willfull disobedience against authority, defiance against commands, contentious attitude, bitter opposition
 			<br> Marah often used for Israel's rebellion against God
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Numbers 20:24, Deuteronomy 1:26, 43, Deuteronomy 9:7, Psalm (78:8, 17, 40, 56), Isaiah 1:20, Lamentations 1:18, 20 
         </small>
@@ -4377,17 +4895,17 @@ In doing this he is pilling up joy vocabulary to show an abundance and overflowi
 <span class="tooltip">
     <strong>all who take refuge in you</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> כָל־חוֹסֵי בָךְ </span> 
             <span class="transliteration">(Kol-Chosei Bakh)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> חָסָה </span> — (chasah) [Root]  to take refuge, seek shelter, trust, flee for protection
 			<br> A Key word in the Psalms appearing 37 times!
 			<br> As an image: like running to a fortress when enemies attack or seeking shelter from a storm
 			<br> This is an active action like running to God
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 2:12, Psalm 7:1, Psalm 11:1, Psalm 16:1, Psalm 17:7, Psalm 18: (2, 30), Psalm 25:20, Psalm 31: (1, 19), Psalm 34: (8, 22), Psalm 36:7, Psalm 37:40, Psalm 57:1, Psalm 62:8, Psalm 64:10, Psalm 91: (2, 4, 9), Psalm 118: 8-9, Psalm 141:8, Psalm 144:2      
         </small>
@@ -4396,15 +4914,15 @@ In doing this he is pilling up joy vocabulary to show an abundance and overflowi
 <span class="tooltip">
     <strong>rejoice;</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> יִשְׂמְחוּ </span> 
             <span class="transliteration">(Yism'chu)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> שָׂמַח </span> — (samach) [Root]  to rejoice, be glad, be joyful, be merry
 			<br> general foundation of joy
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 32:11, Psalm 97:12, Philippians 4:4       
         </small>
@@ -4418,30 +4936,30 @@ David petitions for all these people to be full of joy.
 <span class="tooltip">
     <strong> ever/forever </strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> לְעוֹלָם </span> 
             <span class="transliteration">(L'olam)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> עוֹלָם </span> — (Olam) forever, eternity, perpetuity, always
-			</div>
+			</span>
     </span>
 </span>
 <span class="tooltip">
     <strong> sing for joy, </strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> יְרַנֵּנוּ </span> 
             <span class="transliteration">(Y'rannenu)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> רָנַן </span> — (ranan) to cry out, shout for joy, sing joyfully, give a ringing cry
 			<br> Louder and more exuberant than שָׂמַח (samach). An audible celebration.
-			<hr>
+			<span class="tt-divider"></span>
 			<small class="references">
             Biblical Usage- Psalm 33:11, 33:1, 35:27, 51:14, 81:1, 84:2, 92:4, 98:4, 132:(9,16), 145:7       
         </small>
-			</div>
+			</span>
     </span>
 </span>
 <p>
@@ -4452,18 +4970,18 @@ This petition is for a public glorification of God and communally expressed in s
 <span class="tooltip">
     <strong> spread your protection over them, </strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> וְתָסֵךְ עָלֵימוֹ </span> 
             <span class="transliteration">(V'tasekh Alemo)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> סָכַךְ </span> — (sakhakh) to cover, screen, shelter, protect
 			<br> As imagery a roof protecting from the sun/rain.
-			<hr>
+			<span class="tt-divider"></span>
 			<small class="references">
             Biblical Usage: Psalm 94:4, 104:7, Exodus 40:3       
         </small>
-			</div>
+			</span>
     </span>
 </span>
 <p>
@@ -4474,19 +4992,19 @@ This is the opposite fate of the wicked who are petitioned to be expelled. The r
 <span class="tooltip">
     <strong> those who love your name </strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> יַעְלְצוּ </span> 
             <span class="transliteration">(Ya'letzu)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> אֹהֲבֵי שְׁמֶךָ </span> — (Ohavei Shem'kha) 
 			<br> <span dir="rtl"> אָהַב </span> — (Ahav) to love
 			<br> <span dir="rtl"> שֵׁם </span> — (Shem) name
-			<hr>
+			<span class="tt-divider"></span>
 			<small class="references">
             Biblical Usage: Psalm 69:36, 119:132, Isaiah 56:6, Malachi 3:16       
         </small>
-			</div>
+			</span>
     </span>
 </span>
 <p>
@@ -4531,18 +5049,18 @@ Rather than just an intellectual belief it is a relational trust and affectionat
 <span class="tooltip">
     <strong> exult </strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl"> יַעְלְצוּ </span> 
             <span class="transliteration">(Ya'letzu)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl"> עָלַץ </span> — (alatz) to exult, rejoice, triumph
 			<br> Joy over victory/deliverance
-			<hr>
+			<span class="tt-divider"></span>
 			<small class="references">
             Biblical Usage: Psalm 9:2, 60:8, 68:3-4, 89:16, 96:12, Proverbs 11:10       
         </small>
-			</div>
+			</span>
     </span>
 </span>
 <strong> in you. </strong>
@@ -4676,46 +5194,46 @@ This verse establishes a theological foundation: the eternal destiny of the righ
 <span class="tooltip">
     <strong>For</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">כִּי</span>
             <span class="transliteration">(ki)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             for, because, since — causal conjunction
             <hr>
 			Closes the logical arc of the psalm: all of Psalm 5's prayer rests on this foundation.
-        </div>
+        </span>
     </span>
 </span>
 
 <span class="tooltip">
     <strong>you</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">אַתָּה</span>
             <span class="transliteration">(attah)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             You — emphatic independent pronoun
             <hr>
 			Fronted for emphasis in Hebrew word order. The stress is on the divine actor, not the human recipient.
-        </div>
+        </span>
     </span>
 </span>
 
 <span class="tooltip">
     <strong>LORD</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">יְהוָה</span>
             <span class="transliteration">(YHWH)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             The covenant name of God — I AM / He Who Is
             <hr>
 			David addresses his confidence specifically to the covenant God who made promises, not a generic deity.
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Exodus 3:14, Exodus 6:2-3, Isaiah 42:8
         </small>
@@ -4725,17 +5243,17 @@ This verse establishes a theological foundation: the eternal destiny of the righ
 <span class="tooltip">
     <strong>bless</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">תְּבָרֵךְ</span>
             <span class="transliteration">(t'varekh)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">בָּרַךְ</span> — (barak) to bless, bestow favor
             <hr>
 			Piel imperfect — intensive stem + ongoing/habitual action: God continuously and actively blesses
             <br>Piel indicates God's blessing is not passive or incidental — it is deliberate, intensive, directed
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 12:2-3, Numbers 6:24, Deuteronomy 28:3-6, Psalm 67:1, Psalm 128:5
         </small>
@@ -4754,18 +5272,18 @@ God's blessing of the righteous is not a new development; it is the fulfillment 
 <span class="tooltip">
     <strong>righteous</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">צַדִּיק</span>
             <span class="transliteration">(tzaddik)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">צָדַק</span> — (tzadak) righteous, just, one in right standing before God
             <hr>
 			Singular collective — referring to the class of people who are faithful to God by covenant
             <br>NOT sinlessness: David himself sinned greatly (Psalm 51) yet is called righteous
             <br>Righteousness = right relationship with God through faith in His covenant promises
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Genesis 15:6, Psalm 1:6, Psalm 37:16-17, Proverbs 10:3, Habakkuk 2:4
         </small>
@@ -4787,17 +5305,17 @@ The righteous is the one in right standing with God by <span class="tooltip">fai
 <span class="tooltip">
     <strong> shield</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">כַּצִּנָּה</span>
             <span class="transliteration">(katzinnah)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">צִנָּה</span> — (tzinnah) large body shield — covers the whole person
             <hr>
 			Distinguished from <span dir="rtl">מָגֵן</span> (magen) — small round shield held in one hand
             <br>Tzinnah is the large shield a soldier (or shieldbearer) carries to protect the entire body
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: 1 Samuel 17:7 (Goliath's shield), 1 Kings 10:16-17, Psalm 35:2, Ezekiel 23:24
         </small>
@@ -4814,17 +5332,17 @@ David uses this word because God's favor leaves no part of the righteous exposed
 <span class="tooltip">
     <strong>favor</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">רָצוֹן</span>
             <span class="transliteration">(ratzon)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">רָצָה</span> — (ratzah) favor, goodwill, delight, acceptance, pleasure
             <hr>
 			God's active disposition of delight and acceptance toward the recipient
             <br>Used in the Aaronic blessing and Levitical worship — the priest prayed for God's ratzon
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Numbers 6:25-26, Psalm 19:14, Psalm 30:5, Psalm 51:18, Proverbs 8:35
         </small>
@@ -4844,18 +5362,18 @@ The Aaronic blessing from Numbers 6:25-26 uses shine/face/gracious/peace — the
 <span class="tooltip">
     <strong>you crown/encircle him</strong>
     <span class="tooltiptext">
-        <div class="hebrew-row">
+        <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">תַּעְטְרֶנּוּ</span>
             <span class="transliteration">(ta'terenu)</span>
-        </div>
-        <div class="definition-list">
+        </span>
+        <span class="definition-list">
             <span dir="rtl">עָטַר</span> — (atar) to crown, to encircle, to surround
             <hr>
 			Piel (intensive) — active, thorough encircling
             <br>Used for crowning royalty AND for surrounding/encircling completely
             <br>The verb does double work: God crowns the righteous with favor AND encircles them with it
-        </div>
-        <hr>
+        </span>
+        <span class="tt-divider"></span>
         <small class="references">
             Biblical Usage: Psalm 8:5, Psalm 65:11, Psalm 103:4, Song of Songs 3:11
         </small>
@@ -5182,62 +5700,62 @@ David's opening petition is not a request to escape correction — he knows he d
 </p>
 <hr>
 <span class="tooltip"><strong>rebuke me</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">תוֹכִיחֵנִי</span>
   <span class="transliteration">(tokhikheni)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">יָכַח</span> — (yakach) to rebuke, reprove, correct, argue a case
   <br>Hiphil imperfect — causative: "cause me to be reproved"
   <br>Legal/forensic: presenting a case in court
   <br>Wisdom: parental correction that leads to growth
-</div>
+</span>
 <hr>
 <small><strong>LXX:</strong> ἐλέγξῃς (elencxeis) — same root in John 16:8 (Spirit "convicts" the world of sin), 2 Tim 3:16 (Scripture profitable for "reproof"), Hebrews 12:5 ("do not despise the Lord's discipline/reproof"). The LXX links David's petition directly to the Spirit's ongoing corrective work in believers.</small>
-<hr>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Job 13:3, Proverbs 3:12, Isaiah 1:18, Habakkuk 1:12</small>
 </span></span>
 
 <span class="tooltip"><strong>in your anger</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">בְּאַפְּךָ</span>
   <span class="transliteration">(b'appekha)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">אַף</span> — (af) nose, nostril; by extension anger — heavy breathing through the nose = rage
   <br>An anthropomorphism rooted in physical sensation
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Exodus 15:8, Numbers 11:1, Psalm 2:5, Isaiah 48:9</small>
 </span></span>
 
 <span class="tooltip"><strong>discipline me</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">תְיַסְּרֵנִי</span>
   <span class="transliteration">(t'yass'reni)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">יָסַר</span> — (yasar) to discipline, chasten, instruct, correct
   <br>Piel imperfect — intensive: thorough, formative discipline
   <br>Parental image: a father forming his child toward wisdom
   <br>Distinguished from punishment aimed at destruction
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Deuteronomy 8:5, Proverbs 3:12, 19:18, Psalm 94:12</small>
 </span></span>
 
 <span class="tooltip"><strong>in your wrath</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">בַּחֲמָתְךָ</span>
   <span class="transliteration">(bakhamatekha)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">חֵמָה</span> — (khemah) burning anger, wrath, heat
   <br>From <span dir="rtl">חָמַם</span> (khamam) = to be hot
   <br>More intense than אַף (af): not just anger but burning wrath
   <br>Together af and khemah cover the full spectrum of divine anger
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Deuteronomy 29:23, Psalm 38:1, Jeremiah 10:24, Ezekiel 5:13</small>
 </span></span>
 
@@ -5331,93 +5849,93 @@ David moves from appeal (v.1) to description and petition. He does not hide the 
 </p>
 <hr>
 <span class="tooltip"><strong>Be gracious to me</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">חָנֵּנִי</span>
   <span class="transliteration">(khanneni)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">חָנַן</span> — (khanan) to be gracious, show favor, grant grace
   <br>Qal imperative — direct, urgent appeal
   <br>Root of חֵן (khein) = grace; Hananiah, John (Yochanan) = "The LORD is gracious"
-</div>
+</span>
 <hr>
 <small><strong>LXX:</strong> ἐλέησόν με (eleison me) — "have mercy on me." This is the origin of the <em>Kyrie Eleison</em> (Lord, have mercy) of the Divine Service. Every time the congregation sings the Kyrie, they are praying Psalm 6:2 in the LXX's voice.</small>
-<hr>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Genesis 43:29, Numbers 6:25, Psalm 4:1, Psalm 51:1, Psalm 123:3</small>
 </span></span>
 
 <span class="tooltip"><strong>I am languishing</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">אֻמְלַל אָנִי</span>
   <span class="transliteration">(umlal ani)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">אָמַל</span> — (amal) to languish, wither, fade, grow feeble
   <br>Pulal perfect (passive intensive) — "I am being made to wither completely"
   <br>Used of dried plants, exhausted people, failing nations — total depletion of vitality
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Isaiah 16:8, 24:4, 33:9; Hosea 4:3; Joel 1:10</small>
 </span></span>
 
 <span class="tooltip"><strong>heal me</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">רְפָאֵנִי</span>
   <span class="transliteration">(r'fa'eni)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">רָפָא</span> — (rafa) to heal, cure, restore
   <br>Qal imperative — direct appeal for divine healing
   <br>Root of the name Raphael ("God heals")
   <br>OT does not sharply separate physical and spiritual healing — both are asked here
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Exodus 15:26, Numbers 12:13, Psalm 30:2, Psalm 41:4, Isaiah 53:5</small>
 </span></span>
 
 <span class="tooltip"><strong>my bones are troubled</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">נִבְהֲלוּ עֲצָמַי</span>
   <span class="transliteration">(niv'halu atzamai)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">בָּהַל</span> — (bahal) to be terrified, troubled, dismayed, thrown into panic
   <br>Niphal perfect — passive: "my bones have been thrown into terror"
   <br><span dir="rtl">עֶצֶם</span> — (etzem) bone; in Hebrew thought, bones = the deepest innermost self
   <br>The terror has reached to the core of his being
   <br>This root (bahal) will echo in v.10 — David's enemies will be "greatly troubled" with the same word
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Genesis 2:23, Job 4:14, Proverbs 12:4, Psalm 31:10</small>
 </span></span>
 
 <span class="tooltip"><strong>my soul</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">נַפְשִׁי</span>
   <span class="transliteration">(nafshi)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">נֶפֶשׁ</span> — (nefesh) soul, being, life, self, appetite
   <br>Not the immaterial soul of Greek philosophy that contrasts with body
   <br>In Hebrew: the whole living person — the self as an animated being
   <br>When nefesh is troubled, the whole person is troubled — body and soul inseparable
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Genesis 2:7, Deuteronomy 6:5, Psalm 42:5-6, Matthew 10:28</small>
 </span></span>
 
 <span class="tooltip"><strong>how long?</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">עַד מָתַי</span>
   <span class="transliteration">(ad matai)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   "Until when?" / "How long?"
   <br>Classic Hebrew lament formula — appears ~17 times in the Psalms alone
   <br>NOT an expression of despair but of active faith: you ask "how long?" only of someone you believe will act
   <br>The question implies: "I know You will — I'm asking when"
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Psalm 13:1-2, 35:17, 74:10, 79:5, 80:4, 89:46, 90:13; Revelation 6:10</small>
 </span></span>
 
@@ -5509,63 +6027,63 @@ David's petition sharpens to three imperatives: turn, deliver, save. The ground 
 </p>
 <hr>
 <span class="tooltip"><strong>Turn</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">שׁוּבָה</span>
   <span class="transliteration">(shuvah)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">שׁוּב</span> — (shuv) to turn, return, come back
   <br>Qal imperative — "Turn!" The same verb used for repentance
   <br>David asks God to turn His face back — not from sin, but from His apparent hiddenness
   <br>This root echoes in v.10: David's enemies will "turn back" (shuv) in shame — deliberate reversal
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Numbers 10:36, Psalm 80:3, Psalm 90:13, Lamentations 5:21, Zechariah 1:3</small>
 </span></span>
 
 <span class="tooltip"><strong>deliver my soul</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">חַלְּצָה נַפְשִׁי</span>
   <span class="transliteration">(khaltza nafshi)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">חָלַץ</span> — (khalatz) to draw out, pull free, rescue, deliver
   <br>Piel imperative — intensive: "draw me completely free"
   <br>Image: pulling someone out of a pit, a trap, a net — extraction from danger
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Psalm 18:19, 34:7, 60:5, 116:8; Isaiah 58:6</small>
 </span></span>
 
 <span class="tooltip"><strong>save me</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">הוֹשִׁיעֵנִי</span>
   <span class="transliteration">(hoshi'eni)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">יָשַׁע</span> — (yasha) to save, deliver, bring to safety
   <br>Hiphil imperative — causative: "cause me to be saved"
   <br>This is the exact root of the name <strong>יֵשׁוּעַ (Yeshua / Jesus)</strong> — "YHWH saves"
   <br>Every messianic "save me!" in the Psalms is already praying in the name of the One who would come
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Psalm 3:7, 7:1, 12:1; Matthew 1:21; Acts 4:12</small>
 </span></span>
 
 <span class="tooltip"><strong>for the sake of your steadfast love</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">לְמַעַן חַסְדֶּךָ</span>
   <span class="transliteration">(l'ma'an chasd'kha)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">חֶסֶד</span> — (chesed) steadfast love, covenantal loyalty, lovingkindness
   <br><span dir="rtl">לְמַעַן</span> — (l'ma'an) for the sake of, on account of
   <br>David grounds the entire petition NOT in his own righteousness but in God's covenant character
   <br>Not "I deserve this" but "You are this — and You have bound Yourself to me"
-</div>
+</span>
 <hr>
 <small><strong>LXX:</strong> ἕνεκεν τοῦ ἐλέους σου — "for the sake of your mercy/eleos." This is the same word used in "Blessed are the merciful" (Matthew 5:7) and "I desire mercy, not sacrifice" (Matthew 9:13 quoting Hosea 6:6). Chesed/eleos threads from David through Jesus' own teaching.</small>
-<hr>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Psalm 5:7, 25:7, 31:16, 44:26, 51:1; Exodus 34:6-7</small>
 </span></span>
 
@@ -5580,18 +6098,18 @@ Three imperatives — turn → deliver → save — describe a complete rescue o
 <hr>
 <p><strong>The Sheol Argument (v.5)</strong></p>
 <span class="tooltip"><strong>in Sheol</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">בִּשְׁאוֹל</span>
   <span class="transliteration">(bisheol)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   שְׁאוֹל — (Sheol) the realm of the dead; the underworld
   <br>In OT understanding: a place of shadowy existence, cut off from the living covenant community and temple worship
   <br>Not hell in the NT sense — the grave / realm of the dead before resurrection
-</div>
+</span>
 <hr>
 <small><strong>LXX:</strong> ἐν τῷ ᾍδῃ (in Hades) — the same word Peter uses in Acts 2:27 (quoting Psalm 16:10), and Jesus uses in Matthew 16:18 ("gates of Hades will not prevail"). Sheol/Hades is the domain Christ overcomes in His resurrection.</small>
-<hr>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Genesis 37:35, Psalm 16:10, 49:14-15, Isaiah 14:9-15, Acts 2:27</small>
 </span></span>
 
@@ -5687,71 +6205,71 @@ David now gives us a physical record of sustained grief: exhausted from groaning
 </p>
 <hr>
 <span class="tooltip"><strong>I am weary</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">יָגַעְתִּי</span>
   <span class="transliteration">(yaga'ti)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">יָגַע</span> — (yaga) to toil, labor, be exhausted
   <br>Qal perfect — "I have become exhausted" — not passing fatigue but a state of depletion
   <br>Used for the exhaustion of hard labor, soldiers after battle, travelers in the wilderness
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Genesis 19:11, Isaiah 40:28-31, Jeremiah 51:58, Habakkuk 2:13</small>
 </span></span>
 
 <span class="tooltip"><strong>my moaning</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">בְּאַנְחָתִי</span>
   <span class="transliteration">(b'ankhat)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">אַנְחָה</span> — (anakhah) groaning, sighing, moaning
   <br>From <span dir="rtl">אָנַח</span> (anakh) = to sigh, groan — an involuntary, sustained expression of pain
   <br>Not the articulate prayer of verses 1–4 but the pre-verbal sound that comes from deep anguish
   <br>Connects to Psalm 5:1 — the "groaning" (hagigi) beneath the words
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Psalm 5:1, 31:10, 38:9; Lamentations 1:22; Romans 8:26</small>
 </span></span>
 
 <span class="tooltip"><strong>I flood my bed</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">אַשְׂחֶה מִטָּתִי</span>
   <span class="transliteration">(ash'kheh mitati)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">שָׂחָה</span> — (sakhah) to swim, float — used here metaphorically for tears overflowing
   <br>"I cause my bed to swim" — the image of tears so plentiful the bed is soaked
   <br>A rare and vivid word; its rarity signals an extreme condition
-</div>
+</span>
 </span></span>
 
 <span class="tooltip"><strong>my eye wastes away</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">עָשְׁשָׁה עֵינִי</span>
   <span class="transliteration">(ashshah eini)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">עָשַׁשׁ</span> — (ashah) to waste away, be consumed — a rare word
   <br>Only a handful of occurrences in the Hebrew Bible; rarity emphasizes the extreme
   <br>Eyes grow dim, fail — physical sign of prolonged weeping and grief
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Psalm 31:9-10, Lamentations 5:17</small>
 </span></span>
 
 <span class="tooltip"><strong>because of grief</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">מִכַּעַס</span>
   <span class="transliteration">(mikka'as)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">כַּעַס</span> — (ka'as) grief, vexation, anger, emotional agitation
   <br>Not just sadness — a churning, turbulent inner state
   <br>Same root as Hannah's grief before she prayed for a son (1 Samuel 1:16)
-</div>
-<hr>
+</span>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: 1 Samuel 1:16, Ecclesiastes 1:18, 2:23; Proverbs 12:16</small>
 </span></span>
 
@@ -5847,59 +6365,59 @@ The resolution cascades across three verses:
 </ul>
 <hr>
 <span class="tooltip"><strong>Depart from me</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">סוּרוּ מִמֶּנִּי</span>
   <span class="transliteration">(suru mimmenni)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">סוּר</span> — (sur) to turn aside, depart, leave
   <br>Qal imperative plural — a direct command; David dismisses his enemies with authority
   <br>This authority comes entirely from v.8b: "for the LORD has heard"
   <br>The command is only possible because of the prior declaration of God's action
-</div>
+</span>
 <hr>
 <small><strong>LXX:</strong> ἀπόστητε ἀπ᾿ ἐμοῦ πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν — "Depart from me, all you workers of lawlessness." Jesus quotes this <strong>directly and verbatim</strong> in Matthew 7:23. See NT Connections.</small>
-<hr>
+<span class="tt-divider"></span>
 <small class="references">Biblical Usage: Matthew 7:23, Luke 13:27, Matthew 25:41</small>
 </span></span>
 
 <span class="tooltip"><strong>the sound of my weeping</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">קוֹל בְּכִיִּי</span>
   <span class="transliteration">(kol b'khiyi)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">קוֹל</span> — (kol) voice, sound
   <br><span dir="rtl">בְּכִי</span> — (bekhi) weeping
   <br>God heard the SOUND — not structured words but the cry of grief itself
   <br>God heard the crying before it was a formed prayer
-</div>
+</span>
 </span></span>
 
 <span class="tooltip"><strong>greatly troubled</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">יִבָּהֲלוּ מְאֹד</span>
   <span class="transliteration">(yivvahalu me'od)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">בָּהַל</span> — (bahal) to be terrified, troubled, dismayed
   <br>This is the <strong>same root</strong> used in verses 2–3: David's bones were "troubled" (bahal); his soul was "greatly troubled" (bahal me'od)
   <br>Now his enemies are "greatly troubled" (bahal me'od) — the word has turned back on them
   <br>What was done to David is now done by God to his enemies
-</div>
+</span>
 </span></span>
 
 <span class="tooltip"><strong>they shall turn back</strong><span class="tooltiptext">
-<div class="hebrew-row">
+<span class="hebrew-row">
   <span class="hebrew-text" dir="rtl">יָשֻׁבוּ</span>
   <span class="transliteration">(yashuvu)</span>
-</div>
-<div class="definition-list">
+</span>
+<span class="definition-list">
   <span dir="rtl">שׁוּב</span> — (shuv) to turn, return
   <br>Same root as "Turn" (shuvah) in v.4 — David asked God to turn toward him
   <br>Now his enemies turn back in shame — the shuv David asked of God now happens to his enemies
   <br>Deliberate echo: prayer answered in structural reversal
-</div>
+</span>
 </span></span>
 
 <p><strong>The Circular Structure of Psalm 6</strong></p>
