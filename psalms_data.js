@@ -684,7 +684,7 @@ The resources below extend the study beyond what these pages cover. Each one is 
             <span class="transliteration">(resha'im)</span>
         </span>
         <span class="definition-list">
-            plural of <span dir="rtl">רָשָׁע</span> (rasha) &#8212; the guilty one, under judgment
+            plural of <span dir="rtl">רָשָׁע</span> (rasha) &#8212; the guilty one, under judgment, cut off from Israel's worshiping community.
             <hr>
 			The direct opposite of <span dir="rtl">צַדִּיק</span> (tzaddik), the righteous &#8212; the same word Psalm 5:12 declares is blessed and crowned.
         </span>
@@ -1545,6 +1545,9 @@ Christ alone is this tree. <span id="cite-9" class="cite-anchor">He always did w
 Eden's promise and Ezekiel's vision both came before their fulfillment in Christ. Believers wait the same way now: Christ has already finished their restoration, but they do not yet experience it fully &#8212; that waits for their own death, or for His return when all things are raised and completed. <span id="cite-12" class="cite-anchor">Believers now carry only the firstfruits of the Spirit, groaning as they wait for the redemption of their own bodies.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> The Church already tastes God's kingdom now, in real fruit and real life &#8212; but the unceasing tree of Revelation 22 still waits for the resurrection.
 </p>
 <p>
+In Christ, real prosperity is often hidden inside suffering, not visible as comfort or reward. <span id="cite-13" class="cite-anchor">This is the same pattern as the cross itself: a single grain of wheat has to fall into the ground and die before it can bear any fruit at all.<sup class="ref"><a href="#ref-13">[13]</a></sup></span> Christ's own apparent defeat produced the greatest fruit there is &#8212; the salvation of the world. <span id="cite-14" class="cite-anchor">A believer persecuted for holding to God's Word can be genuinely prospering the whole time, even while the persecution looks like nothing but defeat.<sup class="ref"><a href="#ref-14">[14]</a></sup></span>
+</p>
+<p>
   <span class="selah-marker">
     <em>SELAH</em>
   </span>
@@ -1599,6 +1602,8 @@ Lord, I do not prosper in all that I do. Too often I strain for fruit under my o
     <li id="ref-10"><a href="#cite-10" class="ref-back">↩</a> John 17:4 &#8212; <em>"I glorified you on earth, having accomplished the work that you gave me to do."</em> Spoken the night before the cross &#8212; Christ could already call His work finished.</li>
     <li id="ref-11"><a href="#cite-11" class="ref-back">↩</a> John 15:1, 5 &#8212; <em>"I am the true vine, and my Father is the vinedresser... I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."</em> Christ applies the same fruit-bearing image to His followers directly, making abiding, not effort, the source of fruit.</li>
     <li id="ref-12"><a href="#cite-12" class="ref-back">↩</a> Romans 8:23 &#8212; <em>"We ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies."</em> The same firstfruits language applied to Christ's own resurrection (1 Corinthians 15:20, see Psalm 1:1) now describes what believers themselves carry now &#8212; a real but partial down payment, not yet the whole harvest.</li>
+    <li id="ref-13"><a href="#cite-13" class="ref-back">↩</a> John 12:24 &#8212; <em>"Truly, truly, I say to you, unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit."</em> Christ's own principle: apparent loss, in His hands, produces real fruit.</li>
+    <li id="ref-14"><a href="#cite-14" class="ref-back">↩</a> Martin Luther, <em>Luther's Works</em> (American Edition), 14:304: "Beware that prosperity is not understood as prosperity of the flesh. This prospering is hidden; it is so deep within the spirit that if you do not hold fast to it in faith, you might rather call it the greatest adversity&#8230; Thus God exalts His saints, that the height of misfortune becomes the height of prosperity."</li>
   </ol>
 </div>
 <p>
@@ -2546,7 +2551,7 @@ Verse 1 gives no explanation for their rage. Later in the psalm, God responds wi
 </p>
 
 <p>
-<span id="cite-3" class="cite-anchor">Nations raged against David too, before he ever wrote this verse. When he was anointed king over all Israel, the Philistines went up against him almost immediately &#8212; nations raging against God's chosen king, exactly as verse 1 describes.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
+<span id="cite-3" class="cite-anchor">The New Testament names David as this psalm's author, and Scripture shows him living out exactly this kind of rage: when he was anointed king over all Israel, the Philistines went up against him almost immediately &#8212; nations raging against God's chosen king, just as verse 1 describes.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
 </p>
 
 <p><em>The Nations Gather Against God's Anointed</em></p>
@@ -2623,6 +2628,197 @@ Lord, apart from Christ, I belong among the nations who rage against Your rule &
 </p>
 </details>
 `
+    },
+
+{   label: "Psalm 2:2",
+    title: "Against the LORD and His Anointed",
+    image: "lyre.png",
+    genre: "Royal",
+    parallelism: "Synonymous",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">2:2</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`The kings of the earth set themselves,<br>and the rulers take counsel together,<br>against the LORD and against his Anointed, saying,<br><small>(ESV)</small>`],
+      KJV: [`The kings of the earth set themselves,<br>and the rulers take counsel together,<br>against the LORD, and against his anointed, saying,<br><small>(KJV)</small>`],
+      NASB: [`The kings of the earth take their stand<br>And the rulers take counsel together<br>Against the LORD and against His Anointed, saying,<br><small>(NASB)</small>`],
+      NIV: [`The kings of the earth rise up<br>and the rulers band together<br>against the LORD and against his anointed, saying,<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">יִתְיַצְּבוּ מַלְכֵי־אֶרֶץ וְרוֹזְנִים נוֹסְדוּ־יָחַד עַל־יְהוָה וְעַל־מְשִׁיחוֹ</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+<strong>The </strong>
+<span class="tooltip">
+    <strong>kings</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">מַלְכֵי</span>
+            <span class="transliteration">(malkhei)</span>
+        </span>
+        <span class="definition-list">
+            Construct plural of <span dir="rtl">מֶלֶךְ</span> (melekh) &#8212; a sovereign ruler with authority over a people; from the root <span dir="rtl">מָלַךְ</span> (malakh), "to reign."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Genesis 17:6
+        </small>
+    </span>
+</span>
+
+<strong> of the earth </strong>
+<span class="tooltip">
+    <strong>set themselves</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יִתְיַצְּבוּ</span>
+            <span class="transliteration">(yityatzevu)</span>
+        </span>
+        <span class="definition-list">
+            Hitpael imperfect of <span dir="rtl">יָצַב</span> (yatsav) &#8212; to take one's stand, station oneself; the Hitpael's reflexive force pictures them planting themselves in place, of their own will.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Exodus 14:13
+        </small>
+    </span>
+</span>
+
+<p>
+The psalmist named the rebellion in general terms in verse 1 &#8212; nations, peoples &#8212; before narrowing here to its actual leaders: kings, not an anonymous crowd.
+</p>
+
+<hr>
+
+<strong>and the </strong>
+<span class="tooltip">
+    <strong>rulers</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">רוֹזְנִים</span>
+            <span class="transliteration">(rozenim)</span>
+        </span>
+        <span class="definition-list">
+            Participle of <span dir="rtl">רָזַן</span> (razan) &#8212; "to be weighty, judicious"; used substantively for those who hold authority and command respect.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Proverbs 8:15
+        </small>
+    </span>
+</span>
+
+<strong> </strong>
+<span class="tooltip">
+    <strong>take counsel together</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">נוֹסְדוּ</span>
+            <span class="transliteration">(nosdu)</span>
+        </span>
+        <span class="definition-list">
+            Niphal perfect of <span dir="rtl">יָסַד</span> (yasad) &#8212; literally "to found, establish"; of people, the Brown-Driver-Briggs Hebrew lexicon glosses the Niphal "sit in conclave" &#8212; fixed together, conspiring on one plan.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 31:13
+        </small>
+    </span>
+</span>
+
+<p>
+Kings, taking their stand &#8212; the posture of confrontation. Rulers, taking counsel together &#8212; the plan behind that stand. The same rebellion, seen from two angles.
+</p>
+
+<hr>
+
+<strong>against the </strong>
+<span class="tooltip">
+    <strong>LORD</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יְהוָה</span>
+            <span class="transliteration">(YHWH)</span>
+        </span>
+        <span class="definition-list">
+            The covenant name of God &#8212; I AM / He Who Is.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Exodus 3:14, Exodus 6:2-3, Isaiah 42:8
+        </small>
+    </span>
+</span>
+
+<strong> and against his </strong>
+<span class="tooltip">
+    <strong>Anointed</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">מְשִׁיחוֹ</span>
+            <span class="transliteration">(meshicho)</span>
+        </span>
+        <span class="definition-list">
+            "His anointed one" &#8212; one consecrated by having oil poured on his head; construct form of <span dir="rtl">מָשִׁיחַ</span> (mashiach) plus a third-person suffix, from <span dir="rtl">מָשַׁח</span> (mashach), "to anoint." The root behind the title "Messiah," translated into Greek as Χριστός (Christos), "Christ."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: 1 Samuel 16:13; 1 Samuel 24:6
+        </small>
+    </span>
+</span>
+
+<strong>, saying,</strong>
+
+<p>
+Their rebellion has two targets: the LORD Himself, and the king He has anointed. English supplies "saying" to introduce their words in verse 3 &#8212; the word has no Hebrew original here.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+<span id="cite-1" class="cite-anchor">Kings and rulers set themselves against the LORD and His Anointed both. The two cannot be separated: to rise against the king God has set in place is to rise against God Himself.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+</p>
+
+<p>
+One thing is still unsaid: what the rebels themselves say. Their own words come next &#8212; quoted directly in verse 3.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> 1 Samuel 8:7 (ESV): "Obey the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them."</li>
+  </ol>
+</div>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+`,
     },
 
 	/* --- PSALM 3 --- */

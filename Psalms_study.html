@@ -234,7 +234,8 @@
    */
   function renderVerse() {
     const v = psalmData[currentIndex];
-    
+    localStorage.setItem('pp_last_position', v.label);
+
     // Update Status Label
     statusText.innerText = v.label;
     statusText.style.display = '';
@@ -367,6 +368,11 @@
 
   // START EVERYTHING
   initNavigation();
+  const savedLabel = localStorage.getItem('pp_last_position');
+  if (savedLabel) {
+    const savedIndex = psalmData.findIndex(v => v.label === savedLabel);
+    if (savedIndex !== -1) currentIndex = savedIndex;
+  }
   renderVerse();
   applyReadingMode(localStorage.getItem('pp_reading_mode') === 'on');
 
