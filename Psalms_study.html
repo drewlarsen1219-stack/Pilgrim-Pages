@@ -367,6 +367,21 @@
   });
 
   // START EVERYTHING
+  // Guided-tour state must be initialized before the first renderVerse() call below,
+  // since renderVerse() calls endTour() whenever currentIndex isn't 0 (Introduction) —
+  // and position-persistence can restore a non-zero currentIndex on page load.
+  const tourSteps = [
+    { selector: '#verse-display-box', text: "This box shows the psalm or verse you're currently viewing — its Hebrew text, translation, and title." },
+    { selector: '#insight-fieldset', text: "Below it, this panel holds background notes and commentary, organized into collapsible sections you can open one at a time." },
+    { selector: '#nav-row', text: "Use these controls to jump to any psalm and verse, move forward and back, or switch to Reading Mode." },
+    { selector: '#condition-row', text: "This dropdown finds a psalm by what you're going through — grief, fear, guilt, and others — instead of by number." }
+  ];
+  let tourIndex = -1;
+  let tourHighlightEl = null;
+  const tourCaption = document.getElementById('tour-caption');
+  const tourStepLabel = document.getElementById('tour-step-label');
+  const tourText = document.getElementById('tour-text');
+  const tourNextBtn = document.getElementById('tour-next-btn');
   initNavigation();
   const savedLabel = localStorage.getItem('pp_last_position');
   if (savedLabel) {
@@ -395,18 +410,7 @@
   }
 
   // GUIDED TOUR — walks through the page's structural pieces (not the intro's topical content)
-  const tourSteps = [
-    { selector: '#verse-display-box', text: "This box shows the psalm or verse you're currently viewing — its Hebrew text, translation, and title." },
-    { selector: '#insight-fieldset', text: "Below it, this panel holds background notes and commentary, organized into collapsible sections you can open one at a time." },
-    { selector: '#nav-row', text: "Use these controls to jump to any psalm and verse, move forward and back, or switch to Reading Mode." },
-    { selector: '#condition-row', text: "This dropdown finds a psalm by what you're going through — grief, fear, guilt, and others — instead of by number." }
-  ];
-  let tourIndex = -1;
-  let tourHighlightEl = null;
-  const tourCaption = document.getElementById('tour-caption');
-  const tourStepLabel = document.getElementById('tour-step-label');
-  const tourText = document.getElementById('tour-text');
-  const tourNextBtn = document.getElementById('tour-next-btn');
+  // (state declared above, before START EVERYTHING — see comment there)
 
   function clearTourHighlight() {
     if (tourHighlightEl) {
