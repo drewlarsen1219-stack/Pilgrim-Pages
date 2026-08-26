@@ -32,6 +32,7 @@
 <p><strong>Scripture references</strong> &#8212; Inline citations mark the specific passage a claim depends on. For example: the Psalms are the prayer book of God&#8217;s people. <sub>Psalm 72:20; Luke 20:42</sub> &#8212; These are not decorative. Look them up.</p>
 <p><strong>Translation switcher</strong> &#8212; On verse study pages, a switcher lets you view the psalm text in ESV, KJV, NASB, or NIV. Comparing translations is one of the simplest ways to see where a word or phrase carries interpretive weight.</p>
 <p><strong>Reading mode</strong> &#8212; A toggle button on verse study pages switches the display to a warm parchment background with larger serif text and wider line spacing &#8212; designed for extended reading sessions. Your preference is saved and restored on your next visit.</p>
+<p><strong>Fulfillment headings</strong> &#8212; Within each verse&#8217;s Fulfillment section, the opening paragraphs are left untitled &#8212; they lay the historical groundwork the psalm was first written in. A heading appears only when the section reaches its Christological turn: the specific moment where Christ concretely fulfills what the verse describes. Not every paragraph gets a title; only that turn does.</p>
 <p><strong>Footnotes</strong> &#8212; Numbered markers in the text link to source citations in the References section below. The &#x21A9; arrow links back. Try it: <span id="howto-cite-1" class="cite-anchor">the Psalms have been central to Christian worship since the earliest Church.<sup><a href="#howto-ref-1">[1]</a></sup></span> The citation is in the References section below &#8212; click <sup>[1]</sup> to jump there, then &#x21A9; to return here.</p>
 <p><strong>Illustrations</strong> &#8212; Images appear throughout to make events, themes, and contexts from Scripture concrete. Each image is labeled and accompanied by explanatory text connecting it to the passage or concept being studied.</p>
 <p><strong>Find a psalm for...</strong> &#8212; A dropdown on this page lets you search by condition &#8212; grief, fear, guilt, and others &#8212; rather than by psalm number. Selecting one lists every psalm that addresses it; choosing a result also opens that psalm&#8217;s Prayer section, a short prayer in plain words drawing on the same psalm.</p>
@@ -847,10 +848,10 @@ Psalm 1 is the doorway to the whole Psalter &#8212; a Wisdom psalm placed first 
 The psalmist describes what the blessed man refuses in verse 1, in careful detail, before what he does next in verse 2. Turning from wickedness is the blessed life's first movement &#8212; before delight in God's Law, not after.
 </p>
 <p>
-The three verbs &#8212; walk, stand, sit &#8212; are not decoration. They trace a single life moving from casual proximity to settled identity, and the three groups &#8212; the wicked, sinners, scoffers &#8212; deepen in the same direction, from those merely under judgment to those who have grown openly contemptuous of correction. The psalmist describes a man who never took even the first step down that path.
+The three verbs &#8212; walk, stand, sit &#8212; are not decoration. The psalmist uses them to trace a single life moving from casual proximity to settled identity, and the three groups &#8212; the wicked, sinners, scoffers &#8212; deepen in the same direction, from those merely under judgment to those who have grown openly contemptuous of correction. He describes a man who never took even the first step down that path.
 </p>
 <p>
-Wisdom literature was <span class="tooltip">Israel<span class="tooltiptext">The covenant nation descended from Jacob, renamed Israel by God in Genesis 32:28 &#8212; the people among whom this Wisdom literature first took shape.</span></span>'s shared genre with the wider Ancient Near East &#8212; the same kind of instructional collection found in Egyptian and Mesopotamian texts, used to train the young and those who would lead. Like much of that tradition, it was very likely taught aloud long before it was ever gathered into writing <small>(cf. Proverbs 25:1)</small>. Psalm 1 and Psalm 2 together form the entrance to the Psalter: Psalm 1 in the personal <span class="tooltip">piety<span class="tooltiptext">Reverent devotion to God lived out in daily obedience &#8212; not outward religious performance, but a life ordered by His Word.</span></span> of the righteous individual, Psalm 2 in the corporate hope of the coming King. Like the rest of wisdom literature, Psalm 1 opens with an example to follow rather than a commandment to obey &#8212; the same pattern found in Psalm 32:1 (<em>&#8220;Blessed is the one whose transgression is forgiven&#8221;</em>) and Proverbs 3:13 (<em>&#8220;Blessed is the one who finds wisdom&#8221;</em>), unlike how the Ten Commandments open (<em>&#8220;You shall...&#8221;</em>).
+Wisdom literature was <span class="tooltip">Israel<span class="tooltiptext">The covenant nation descended from Jacob, renamed Israel by God in Genesis 32:28 &#8212; the people among whom this Wisdom literature first took shape.</span></span>'s shared genre with the wider Ancient Near East &#8212; the same kind of instructional collection found in Egyptian and Mesopotamian texts, used to train the young and those who would lead. Like much of that tradition, it was very likely taught aloud long before it was ever gathered into writing <small>(cf. Proverbs 25:1)</small>. Psalm 1 and Psalm 2 together form the entrance to the Psalter: Psalm 1 in the personal <span class="tooltip">piety<span class="tooltiptext">Reverent devotion to God lived out in daily obedience &#8212; not outward religious performance, but a life ordered by His Word.</span></span> of the righteous individual, Psalm 2 in the corporate hope of the coming King. Like the rest of wisdom literature, the psalmist opens with an example to follow rather than a commandment to obey &#8212; the same pattern found in Psalm 32:1 (<em>&#8220;Blessed is the one whose transgression is forgiven&#8221;</em>) and Proverbs 3:13 (<em>&#8220;Blessed is the one who finds wisdom&#8221;</em>), unlike how the Ten Commandments open (<em>&#8220;You shall...&#8221;</em>).
 </p>
 <p>
 <span class="tooltip">David<span class="tooltiptext">Israel&#8217;s most celebrated king (c. 1010&#8211;970 BC), military leader, and poet. Attributed with more psalms than any other author &#8212; 73 in the Hebrew tradition. His life provides the historical context for many lament and trust psalms.</span></span> is later called "righteous" not because he never sinned, but because &#8212; like the blessed man here &#8212; he did not belong to the company named in Psalm 1. <span id="cite-3" class="cite-anchor">Psalm 5 ends with him counted among "the righteous," crowned with favor.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
@@ -866,7 +867,7 @@ Wisdom literature was <span class="tooltip">Israel<span class="tooltiptext">The 
 <summary>Fulfillment</summary>
 
 <p>
-No descendant of Adam has ever matched this description of the blessed man. <span id="cite-4" class="cite-anchor">Even David, called righteous in Psalm 5:12, took up the wicked's own counsel: to cover his adultery with Bathsheba, he wrote orders for Joab to place Uriah at the front of the fiercest fighting, then withdraw and leave him to die. David confessed that same plan as sin himself.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">The apostle Paul reaches that same verdict &#8212; none is righteous, not one &#8212; quoting Psalm 14, but applying the very righteous/wicked framework this psalm lays down as the Psalter's own starting point.<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Apart from Christ, God holds every reader to this verse as Law &#8212; a standard no reader keeps by trying harder &#8212; exposing every reader's own failure before Christ is ever named as the one who kept it. No one had become this blessed man.
+No descendant of Adam has ever matched this description of the blessed man. <span id="cite-4" class="cite-anchor">Even David, called righteous in Psalm 5:12, took up the wicked's own counsel: to cover his adultery with Bathsheba, he wrote orders for Joab to place Uriah at the front of the fiercest fighting, then withdraw and leave him to die. David confessed that same plan as sin himself.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">The apostle Paul reaches that same verdict &#8212; none is righteous, not one &#8212; quoting Psalm 14, but applying the very righteous/wicked framework the psalmist lays down here as the Psalter's own starting point.<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Apart from Christ, God holds every reader to this verse as Law &#8212; a standard no reader keeps by trying harder &#8212; exposing every reader's own failure before Christ is ever named as the one who kept it. No one had become this blessed man.
 </p>
 <p><em>Christ as the Blessed Man</em></p>
 <p>
@@ -874,7 +875,7 @@ No descendant of Adam has ever matched this description of the blessed man. <spa
 Christ is the truly Blessed Man &#8212; the one who never walked in the wicked's counsel, never stood in sinners' way, never sat in scoffers' seat. God blesses believers only because He joins them to Christ, the true <span class="tooltip">firstfruits<span class="tooltiptext">The first portion of a harvest, set apart and offered to God as a pledge that the rest of the crop belongs to Him too (Leviticus 23:10). Paul uses the same image in 1 Corinthians 15:20 for Christ's resurrection guaranteeing believers' own.</span></span> &#8212; and what is true of Him becomes true of believers too.
 </p>
 <p>
-Luther also distinguished an <span class="tooltip">external blessedness<span class="tooltiptext">Visible favor and prosperity &#8212; land, health, success &#8212; the kind of blessing that can be seen by others and can also be entirely absent from a faithful life (cf. Job).</span></span> from an <span class="tooltip">internal blessedness<span class="tooltiptext">The state of the soul before God &#8212; right standing, peace with God, the assurance of His favor &#8212; which does not depend on visible circumstances.</span></span>, identifying the blessing named here as internal &#8212; found in Christ alone.
+<span id="cite-10" class="cite-anchor">Luther observed that every worldly search for blessedness fails &#8212; the philosophers who sought it in virtue, and the common people who sought it in pleasure, both wandered from it; only the one who loves God's Law has found it.<sup class="ref"><a href="#ref-10">[10]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -946,6 +947,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
     <li id="ref-7"><a href="#cite-7" class="ref-back">↩</a> Genesis 12:3 &#8212; <em>"...and in you all the families of the earth shall be blessed."</em> Galatians 3:16 &#8212; Paul reads that promised "offspring" as one descendant, not many: Christ. 2 Samuel 7:12-16 &#8212; God's promise to David that his throne would be established forever. Luke 1:32-33 &#8212; the angel Gabriel tells Mary that Christ will reign on David's throne forever, in a kingdom that will never end. Both promises stand behind the blessedness Psalm 1:1 describes &#8212; a bond God had already made.</li>
     <li id="ref-8"><a href="#cite-8" class="ref-back">↩</a> Acts 2:29-36 &#8212; Peter argues at Pentecost that David, though dead and buried, spoke of one of his own descendants whom God would seat on his throne; that descendant is Jesus, whom God raised and exalted. The promise to David is fulfilled in a living king, not a historical memory.</li>
     <li id="ref-9"><a href="#cite-9" class="ref-back">↩</a> Ezekiel 36:26; Jeremiah 31:33 &#8212; God's promise to remove the heart of stone and write His Law on the heart directly. Fulfilled not by human resolve but by God's own act in the one joined to Christ (cf. the <em>regeneration</em> tooltip, Psalm 5:12).</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">↩</a> Martin Luther, commentary on Psalm 1, from his second lecture series on the Psalms (Wittenberg, 1519): "There is a common inquiry among men concerning blessedness... yet all who have ever thus inquired have wandered from the knowledge of true blessedness... [the greatest philosophers] have placed true blessedness in virtue... whereas the common people... [made] blessedness to consist in carnal pleasure... This teacher... gives this only true definition of blessedness which is wholly unknown to men &#8212; that he is the &#8216;blessed&#8217; man who loves the law of God." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
   </ol>
 </div>
 <p>
@@ -1065,7 +1067,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 </span>
 
 <p>
-<span id="cite-1" class="cite-anchor">David uses this same phrase &#8212; <em>torat YHWH</em>, &#8220;the law of the LORD&#8221; &#8212; to open one of the Psalter's own most direct praises of it.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> This man's delight rests on the same law David elsewhere calls perfect.
+<span id="cite-1" class="cite-anchor">David uses this same phrase &#8212; <em>torat YHWH</em>, "the law of the LORD" &#8212; to open one of the Psalter's own most direct praises of it.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> This man's delight rests on the same law David elsewhere calls perfect.
 </p>
 <hr>
 
@@ -1148,13 +1150,13 @@ The psalmist named three things the blessed man refuses in verse 1 &#8212; the w
 <summary>Insight</summary>
 
 <p>
-In verse 1 the psalmist traces the man's progression across three verbs &#8212; walk, stand, sit &#8212; from casual proximity to settled identity: a Synonymous pairing. In verse 2, his delight names an actual desire, and his meditation, returned to day and night, names the action that desire produces &#8212; a Synthetic pairing, the second line specifying what the first only named.
+In verse 1 the psalmist traces the man's progression across three verbs &#8212; walk, stand, sit &#8212; from casual proximity to settled identity. In verse 2, his delight names an actual desire, and his meditation, returned to day and night, names the action that desire produces &#8212; the second line specifying what the first only named.
 </p>
 <p>
 In verse 1 the psalmist describes a man who already avoids wickedness &#8212; not one still learning to. In verse 2 he describes a man who returns to God's law whenever the chance comes, not only once.
 </p>
 <p>
-The psalmist points to what this delight and meditation produce, coming next in verse 3: <em>&#8220;He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither.&#8221;</em> What the blessed man delights in constantly in verse 2 becomes, in verse 3, a fruit that does not wither.
+The psalmist points to what this delight and meditation produce, coming next in verse 3: <em>"He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither."</em> What the blessed man delights in constantly in verse 2 becomes, in verse 3, a fruit that does not wither.
 </p>
 <p>
 Together, the psalmist lays out the psalm's whole choice across verses 1 and 2 &#8212; refusal, then devotion &#8212; before showing what either path produces.
@@ -1174,7 +1176,7 @@ Apart from Christ, God requires this same devotion from every reader &#8212; con
 </p>
 <p><em>Joshua's Charge, and a Greater Joshua</em></p>
 <p>
-God first gave this exact charge to Joshua alone: meditate on this Book of the Law day and night, and prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup> Where Joshua was charged to meditate on God's Law, Christ lived it perfectly: <span id="cite-4" class="cite-anchor">Christ speaks in Psalm 40 at His own incarnation, the same psalm where He says, "I delight to do your will, O my God; your law is within my heart."<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
+God first gave this exact charge to Joshua alone: meditate on this Book of the Law day and night, and prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup> Where Joshua was charged to meditate on God's Law, Christ lived it perfectly: <span id="cite-4" class="cite-anchor">Hebrews puts this same psalm's words in Christ's own mouth at His incarnation &#8212; "I have come to do your will, O God" &#8212; and the psalm itself continues, one verse later, "I delight to do your will, O my God; your law is within my heart."<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
 </p>
 <p>
 This same Joshua led Israel into the promised land <span id="cite-5" class="cite-anchor">&#8212; but the rest they found there was not the final rest God had promised<sup class="ref"><a href="#ref-5">[5]</a></sup></span>, and his own name, <em>Yehoshua</em>, "the LORD saves," remained only a promise as well. Christ fulfills both: He leads His people into the true rest Joshua's own conquest only foreshadowed, and carries that same name, in its later contracted form (<em>Yeshua</em>) &#8212; the LORD who saves, come in the flesh.
@@ -1539,7 +1541,7 @@ Across verses 1 through 3, the psalmist completes one whole portrait: a man who 
 Christ alone is this tree. <span id="cite-9" class="cite-anchor">He always did what pleased His Father,<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">and could say His work was accomplished even before the cross<sup class="ref"><a href="#ref-10">[10]</a></sup></span> &#8212; the one man for whom this verse was never Law, because He never once fell short of it.
 </p>
 <p>
-<span id="cite-11" class="cite-anchor">Christ Himself applies this same truth to His own followers: "I am the true vine... whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."<sup class="ref"><a href="#ref-11">[11]</a></sup></span> The fruit Psalm 1:3 promises was never produced by trying harder &#8212; it comes only to those who remain joined to Christ, the way a branch remains joined to its vine. Whatever <span class="tooltip">fruit<span class="tooltiptext">Not a literal harvest, but what a life joined to Christ actually produces: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control &#8212; what Paul calls "the fruit of the Spirit" (Galatians 5:22-23). The Spirit is its source, not the believer's own willpower alone &#8212; but the fight to "keep in step with the Spirit" (Galatians 5:25) is still real and active, not passive.</span></span> appears in a believer's life is not self-grown; it is His life, flowing through them.
+<span id="cite-11" class="cite-anchor">The fruit Psalm 1:3 promises was never produced by trying harder &#8212; it comes only to those who remain joined to Christ, the way a branch remains joined to its vine: "I am the true vine... whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."<sup class="ref"><a href="#ref-11">[11]</a></sup></span> Whatever <span class="tooltip">fruit<span class="tooltiptext">Not a literal harvest, but what a life joined to Christ actually produces: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control &#8212; what Paul calls "the fruit of the Spirit" (Galatians 5:22-23). The Spirit is its source, not the believer's own willpower alone &#8212; but the fight to "keep in step with the Spirit" (Galatians 5:25) is still real and active, not passive.</span></span> appears in a believer's life is not self-grown; it is His life, flowing through them.
 </p>
 <p>
 Eden's promise and Ezekiel's vision both came before their fulfillment in Christ. Believers wait the same way now: Christ has already finished their restoration, but they do not yet experience it fully &#8212; that waits for their own death, or for His return when all things are raised and completed. <span id="cite-12" class="cite-anchor">Believers now carry only the firstfruits of the Spirit, groaning as they wait for the redemption of their own bodies.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> The Church already tastes God's kingdom now, in real fruit and real life &#8212; but the unceasing tree of Revelation 22 still waits for the resurrection.
@@ -1774,10 +1776,10 @@ God gave this exact image to a real, historical people. <span id="cite-2" class=
 <hr>
 <p><em>Christ's Winnowing Fork, and Being Gathered In</em></p>
 <p>
-<span id="cite-3" class="cite-anchor">John the Baptist names Christ Himself as the one who finally executes this verse's judgment: "His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire."<sup class="ref"><a href="#ref-3">[3]</a></sup></span> What Psalm 1:4 pictures, Christ carries out &#8212; no longer poetry, but the actual last judgment.
+<span id="cite-3" class="cite-anchor">Christ Himself finally executes this verse's judgment: "His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire."<sup class="ref"><a href="#ref-3">[3]</a></sup></span> What Psalm 1:4 pictures, Christ carries out &#8212; no longer poetry, but the actual last judgment.
 </p>
 <p>
-<span id="cite-4" class="cite-anchor">Jesus describes this same separation with a different image, the one Psalm 1:3's own Fulfillment already introduced: "If anyone does not abide in me, he is thrown away like a branch and withers; and the branches are gathered, thrown into the fire, and burned."<sup class="ref"><a href="#ref-4">[4]</a></sup></span> Whoever does not abide meets the same end as the wicked: thrown away and burned like the branch, driven away and burned like the chaff.
+<span id="cite-4" class="cite-anchor">This same separation appears in a different image, the one Psalm 1:3's own Fulfillment already introduced: "If anyone does not abide in me, he is thrown away like a branch and withers; and the branches are gathered, thrown into the fire, and burned."<sup class="ref"><a href="#ref-4">[4]</a></sup></span> Whoever does not abide meets the same end as the wicked: thrown away and burned like the branch, driven away and burned like the chaff.
 </p>
 <p>
 <span id="cite-5" class="cite-anchor">But everyone joined to Christ is gathered in, not driven away: "you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God."<sup class="ref"><a href="#ref-5">[5]</a></sup></span> This answers Word Analysis's own word study directly &#8212; the wicked are "not established." God joins every believer to Christ, and that union is what makes a person established at last: no longer chaff at the mercy of the wind, but the very tree verse 3 already pictured, planted and rooted for good.
@@ -1802,7 +1804,7 @@ God gave this exact image to a real, historical people. <span id="cite-2" class=
 <em>You cannot escape this warning by trying harder.</em> Christ Himself carries out the very judgment this verse warns of &#8212; and He gathers everyone joined to Him in, not to burn them like chaff, but to keep them like wheat in His barn.
 </p>
 <p>
-<em>You are not chaff waiting for the wind to come.</em> By joining you to Christ, God has already made you what verse 3 pictures &#8212; planted, rooted, and safe for good, not because you found your own ground, but because He planted you in His.
+<em>You are not chaff waiting for the wind to come.</em> By joining you to Christ, God has already made you what verse 3 pictures &#8212; planted, rooted, and safe for good, not because you found your own ground, but because He planted you in ground of His own choosing.
 </p>
 <p>
   <span class="selah-marker">
@@ -1965,7 +1967,7 @@ In the judgment, the wicked have no case that holds together &#8212; nothing tru
 </span>
 
 <p>
-"Sinners" is the same word used in verse 1. The congregation of the righteous names a people bound together by covenant, not just a place &#8212; the wicked and sinners do not belong to it.
+"Sinners" is the same word used in verse 1. The congregation of the righteous names a people bound together by covenant, not just a place &#8212; the wicked and sinners do not belong to that congregation.
 </p>
 
 <p>
@@ -1998,11 +2000,11 @@ The psalmist ends the psalm in verse 6 by naming the righteous and the wicked si
 <summary>Fulfillment</summary>
 
 <p>
-Apart from Christ, God holds every reader to this verse as Law: no one is found innocent in the judgment by their own record, and no one has a place in the congregation of the righteous by right. <span id="cite-1" class="cite-anchor">Psalm 130 asks the same thing: "If you, O Lord, should mark iniquities, O Lord, who could stand?"<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">Paul answers it directly: "every mouth may be stopped, and the whole world may be held accountable to God... by works of the law no human being will be justified in his sight."<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+Apart from Christ, God holds every reader to this verse as Law: no one is found innocent in the judgment by their own record, and no one has a place in the congregation of the righteous by right. <span id="cite-1" class="cite-anchor">Psalm 130 asks the same thing: "If you, O LORD, should mark iniquities, O Lord, who could stand?"<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">Paul answers it directly: "every mouth may be stopped, and the whole world may be held accountable to God... by works of the law no human being will be justified in his sight."<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
 </p>
 <p><em>Korah's Congregation, and a Place That Cannot Be Seized</em></p>
 <p>
-This warning played out once already, inside Israel's own camp. <span id="cite-3" class="cite-anchor"><span class="tooltip">Korah<span class="tooltiptext">A Levite who led a rebellion against Moses and Aaron's God-appointed leadership in the wilderness (Numbers 16), claiming his own holiness already gave him an equal place in the congregation.</span></span> and his followers rose up against Moses and Aaron, claiming, "All in the congregation are holy... why then do you exalt yourselves above the assembly of the LORD?"<sup class="ref"><a href="#ref-3">[3]</a></sup></span> <span id="cite-4" class="cite-anchor">The ground opened and swallowed them, and they "perished from the midst of the assembly."<sup class="ref"><a href="#ref-4">[4]</a></sup></span> A place in the congregation of the righteous was never Korah's to seize &#8212; and it is not any reader's to seize either.
+This warning played out once already, inside Israel's own camp. <span id="cite-3" class="cite-anchor"><span class="tooltip">Korah<span class="tooltiptext">A Levite who led a rebellion against Moses and Aaron's God-appointed leadership in the wilderness (Numbers 16), claiming his own holiness already gave him an equal place in the congregation.</span></span> and his followers rose up against Moses and Aaron, claiming, "All in the congregation are holy... why then do you exalt yourselves above the assembly of the LORD?"<sup class="ref"><a href="#ref-3">[3]</a></sup></span> <span id="cite-4" class="cite-anchor">The ground opened and swallowed them, and they "perished from the midst of the assembly."<sup class="ref"><a href="#ref-4">[4]</a></sup></span> A place in the congregation of the righteous was never Korah's to seize &#8212; and that place is not any reader's to seize either.
 </p>
 <p>
   <span class="selah-marker">
@@ -2015,7 +2017,7 @@ This warning played out once already, inside Israel's own camp. <span id="cite-3
 <span id="cite-5" class="cite-anchor">Christ is the reply to Psalm 130's question: "Who is to condemn? Christ Jesus is the one who died &#8212; more than that, who was raised &#8212; who is at the right hand of God, who indeed is interceding for us."<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Christ already took the judgment in our place &#8212; everyone joined to Him is found innocent too, not by their own merit, but by His.
 </p>
 <p>
-<span id="cite-6" class="cite-anchor">And the congregation Korah tried to seize, Christ gives freely: "you have come to... the assembly of the firstborn who are enrolled in heaven... and to the spirits of the righteous made perfect."<sup class="ref"><a href="#ref-6">[6]</a></sup></span> No one is admitted to it by their own claim &#8212; only through Christ, the mediator who opens it.
+<span id="cite-6" class="cite-anchor">And the congregation Korah tried to seize, Christ gives freely: "you have come to... the assembly of the firstborn who are enrolled in heaven... and to the spirits of the righteous made perfect."<sup class="ref"><a href="#ref-6">[6]</a></sup></span> No one is admitted to that congregation by their own claim &#8212; only through Christ, the mediator who opens it to them.
 </p>
 <p>
   <span class="selah-marker">
@@ -2060,7 +2062,7 @@ Lord, apart from Christ, I have no case that holds together in the judgment, and
 <summary>References</summary>
 <div class="ref-list">
   <ol>
-    <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Psalm 130:3 &#8212; <em>"If you, O Lord, should mark iniquities, O Lord, who could stand?"</em> The same question this verse's declaration answers.</li>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Psalm 130:3 &#8212; <em>"If you, O LORD, should mark iniquities, O Lord, who could stand?"</em> The same question this verse's declaration answers.</li>
     <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Romans 3:19-20 &#8212; <em>"every mouth may be stopped, and the whole world may be held accountable to God... by works of the law no human being will be justified in his sight."</em> Paul's own conclusion from the whole Law.</li>
     <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Numbers 16:3 &#8212; <em>"All in the congregation are holy... why then do you exalt yourselves above the assembly of the LORD?"</em> Korah's own claim to a place in the congregation, made by demand rather than given.</li>
     <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Numbers 16:31-33 &#8212; <em>"they perished from the midst of the assembly."</em> The judgment that followed Korah's claim.</li>
@@ -2271,7 +2273,7 @@ The wicked are already guilty, and their way is unfolding into ruin.
 <summary>Insight</summary>
 
 <p>
-The psalmist never explains, back in verse 1, why the righteous man flourishes. <span id="cite-1" class="cite-anchor">Only at the very end of the psalm does the psalmist explain: the LORD <span class="tooltip">knows<span class="tooltiptext">Hebrew <span class="hebrew-text" dir="rtl">יָדַע</span> (yada) &#8212; more than information; the same relational sense is used of God's covenant people in Amos 3:2, "You only have I known of all the families of the earth" &#8212; election and care, not mere awareness.</span></span> his way.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+The psalmist never explains, back in verse 1, why the righteous man flourishes. <span id="cite-1" class="cite-anchor">Only at the very end of the psalm does the psalmist explain: the LORD <span class="tooltip">knows<span class="tooltiptext">Hebrew <span class="hebrew-text" dir="rtl">יָדַע</span> (yada) &#8212; more than information; the same relational sense is used of God's covenant people in Amos 3:2, "You only have I known of all the families of the earth" &#8212; election and care, not mere awareness.</span></span> the righteous man's way.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
 </p>
 
 <p>
@@ -2525,15 +2527,15 @@ Their plotting itself is named empty.
 <summary>Insight</summary>
 
 <p>
-Psalm 1 opened by describing a single blessed man who refuses the counsel of the wicked, the way of sinners, the seat of scoffers. Psalm 2 opens instead with a question &#8212; not one man, but whole nations and peoples, in open rage. The shift in scale, from one life to the whole world, marks the difference between these two psalms from their very first verse.
+The psalmist opened Psalm 1 by describing a single blessed man who refuses the counsel of the wicked, the way of sinners, the seat of scoffers. In Psalm 2 he opens instead with a question &#8212; not one man, but whole nations and peoples, in open rage. The shift in scale, from one life to the whole world, marks the difference between these two psalms from their very first verse.
 </p>
 
 <p>
-<span id="cite-1" class="cite-anchor">The same root &#8212; <span class="tooltip"><em>hagah</em><span class="tooltiptext"><span class="hebrew-row"><span class="hebrew-text" dir="rtl">יֶהְגּוּ</span><span class="transliteration">(yehgu)</span></span><span class="definition-list">Qal imperfect of <span dir="rtl">הָגָה</span> (hagah) &#8212; properly, to murmur, mutter, or growl, an internal, repeated sound, not a single utterance.</span><span class="tt-divider"></span><small class="references">Biblical Usage: Isaiah 31:4, Isaiah 38:14</small></span></span> &#8212; names both the righteous man's meditation on God's Law in Psalm 1:2 and the nations' plotting here: the same inward, repeated activity, aimed in opposite directions &#8212; toward God's Law there, in rebellion here.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+<span id="cite-1" class="cite-anchor">The same word &#8212; <span class="tooltip"><em>hagah</em><span class="tooltiptext"><span class="hebrew-row"><span class="hebrew-text" dir="rtl">יֶהְגּוּ</span><span class="transliteration">(yehgu)</span></span><span class="definition-list">Qal imperfect of <span dir="rtl">הָגָה</span> (hagah) &#8212; properly, to murmur, mutter, or growl, an internal, repeated sound, not a single utterance.</span><span class="tt-divider"></span><small class="references">Biblical Usage: Isaiah 31:4, Isaiah 38:14</small></span></span> &#8212; describes the righteous man's meditation on God's Law in Psalm 1:2, and the nations' plotting here.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
 </p>
 
 <p>
-Verse 1 gives no explanation for their rage. Later in the psalm, God responds with an action instead: He sets His own King on Zion despite their rebellion.
+The psalmist gives no explanation here for their rage. Later in the psalm, God responds with an action instead: He sets His own King on Zion despite their rebellion.
 </p>
 
 <p>
@@ -2551,7 +2553,7 @@ Verse 1 gives no explanation for their rage. Later in the psalm, God responds wi
 </p>
 
 <p>
-<span id="cite-3" class="cite-anchor">The New Testament names David as this psalm's author, and Scripture shows him living out exactly this kind of rage: when he was anointed king over all Israel, the Philistines went up against him almost immediately &#8212; nations raging against God's chosen king, just as verse 1 describes.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
+<span id="cite-3" class="cite-anchor">The New Testament names David as this psalm's author, and Scripture shows him living out exactly this kind of rage: when he was anointed king over all Israel, the Philistines went up against him almost immediately &#8212; nations raging against God's chosen king.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
 </p>
 
 <p><em>The Nations Gather Against God's Anointed</em></p>
@@ -2635,6 +2637,8 @@ Lord, apart from Christ, I belong among the nations who rage against Your rule &
     image: "lyre.png",
     genre: "Royal",
     parallelism: "Synonymous",
+    conditions: ["self-reliance", "repeated failure", "need for forgiveness"],
+    conditionAngle: "names the quiet, deliberate ways you set up your own authority over money, people, and time &#8212; and points to Christ, who bore that same calculated rebellion at the cross and prays forgiveness over you every time you fail again.",
     text: `
       <div class="verse-row">
         <div class="verse-num">2:2</div>
@@ -2791,11 +2795,15 @@ Their rebellion has two targets: the LORD Himself, and the king He has anointed.
 <summary>Insight</summary>
 
 <p>
-<span id="cite-1" class="cite-anchor">Kings and rulers set themselves against the LORD and His Anointed both. The two cannot be separated: to rise against the king God has set in place is to rise against God Himself.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+<span id="cite-1" class="cite-anchor">These kings and rulers hold real authority only by God's own permission.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> Their rebellion turns that authority against Him.
 </p>
 
 <p>
-One thing is still unsaid: what the rebels themselves say. Their own words come next &#8212; quoted directly in verse 3.
+<span id="cite-2" class="cite-anchor">To rise against God's own anointed king is to rise against God Himself.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+</p>
+
+<p>
+So far the psalmist has only described their rebellion. Now, in verse 3, their own voice breaks through: "Let us burst their bonds apart and cast away their cords from us."
 </p>
 
 <p>
@@ -2806,10 +2814,99 @@ One thing is still unsaid: what the rebels themselves say. Their own words come 
 </details>
 
 <details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+Apart from Christ, every reader does the same thing these kings and rulers do, only quieter &#8212; following their own judgment, not God's Word, in how they spend their money, treat other people, and use their time.
+</p>
+
+<p>
+<span id="cite-3" class="cite-anchor">David faced this exact opposition once already, in his own lifetime: when the Ammonites turned against him, they hired kings and rulers from the surrounding nations to join them against God's own anointed king. David's forces defeated the whole coalition, and the kings who had fought alongside the Ammonites made peace and submitted to Israel instead.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-4" class="cite-anchor">Centuries later, Jesus told a parable: He is the nobleman who goes away to receive a kingdom, then returns to reign; His own citizens reject Him, sending a delegation after Him &#8212; "We do not want this man to reign over us."<sup class="ref"><a href="#ref-4">[4]</a></sup></span> What the reader does quietly, those citizens said openly.
+</p>
+
+<p><em>Herod and Pilate: Enemies United Against God's Anointed</em></p>
+
+<p>
+<span id="cite-5" class="cite-anchor">Herod, a king, and Pontius Pilate, a Roman governor, had been enemies &#8212; until the day of Christ's trial, when they became friends, united by nothing but their shared opposition to Jesus.<sup class="ref"><a href="#ref-5">[5]</a></sup></span> <span id="cite-6" class="cite-anchor"><span class="tooltip">The early church<span class="tooltiptext">The first generation of Christians, in the years just after Christ's resurrection and Pentecost &#8212; including the believers who prayed this same psalm together in Acts 4:23-31, after Peter and John's release.</span></span> later recognized this alliance as this psalm's own <span class="tooltip">fulfillment<span class="tooltiptext">The moment a psalm's own prophetic words come true in history &#8212; not a new meaning added to the text, but the meaning the Holy Spirit placed there from the start, now visibly realized in Christ.</span></span>, naming Herod and Pontius Pilate as the "kings" of verse 2.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> <span id="cite-7" class="cite-anchor">The "rulers" were Israel's chief priests, who stirred up the crowd against Jesus before Pilate ever gave the order to crucify Him.<sup class="ref"><a href="#ref-7">[7]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<em>Test where you've quietly set yourself up as your own authority.</em> You already do this too, quietly &#8212; following your own judgment, not God's Word, in how you spend your money, treat other people, and use your time.
+</p>
+
+<p>
+<span id="cite-8" class="cite-anchor">With money, give &#8212; planned and cheerful, not squeezed out under pressure.<sup class="ref"><a href="#ref-8">[8]</a></sup></span> Set your own amount or percentage in advance, so you're never deciding in the moment &#8212; whether someone asks you or you go looking for someone to give to.
+</p>
+
+<p>
+<span id="cite-9" class="cite-anchor">With people, treat their needs as seriously as your own.<sup class="ref"><a href="#ref-9">[9]</a></sup></span> When someone shares a real need, ask what you'd want done if the need were yours &#8212; then do that for them.
+</p>
+
+<p>
+<span id="cite-10" class="cite-anchor">With time, act deliberately &#8212; the days you're given aren't unlimited.<sup class="ref"><a href="#ref-10">[10]</a></sup></span> <span id="cite-11" class="cite-anchor">When you have to choose how to spend your time &#8212; say, time with God in prayer and His Word, <span class="tooltip">faithful work<span class="tooltiptext">Whatever you've been given to do &#8212; a job, but also a chore, an assignment, or any task at all. Not work done to impress the people watching, or done grudgingly just to get it over with, but work given full, genuine effort &#8212; because it is Christ you are actually serving.</span></span> done as if for the Lord, or another few minutes of <span class="tooltip">idle distraction<span class="tooltiptext">Scrolling your phone, another show, browsing online, another round of a game &#8212; not recreation itself, which has its own place, but reaching for it without thinking, just to fill the time.</span></span>. Pick whichever one puts <span class="tooltip">God's kingdom<span class="tooltiptext">God's own reign as King, already present through Christ &#8212; not a place, but anything done in obedience to Him and for His purposes: honest work, generous giving, love for the people around you, and time with Him in prayer and His Word.</span></span> first. Instead of reaching for idle distraction, pray for someone by name, or open Scripture and read.<sup class="ref"><a href="#ref-11">[11]</a></sup></span>
+</p>
+
+<p>
+<em>When you're wronged, answer with restraint, not exaggeration.</em> <span id="cite-12" class="cite-anchor">Even describing kings and rulers who would later conspire to crucify Christ, the psalmist holds back &#8212; "set themselves" and "took counsel together" are far gentler words than the plot itself deserved.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> Restraint like that isn't weakness. <span id="cite-13" class="cite-anchor">Christ Himself showed the same kindness when He was reviled and did not revile in return.<sup class="ref"><a href="#ref-13">[13]</a></sup></span> The next time someone wrongs you, resist the urge to make them out to be worse than they actually are.
+</p>
+
+<p>
+<em>Don't let a crowd's pressure substitute for your own conviction.</em> <span id="cite-14" class="cite-anchor">The chief priests didn't just decide against Jesus themselves &#8212; they stirred up the crowd to demand Barabbas's release instead, and the crowd complied.<sup class="ref"><a href="#ref-14">[14]</a></sup></span> A manufactured crowd can still feel like a real consensus. Before adding your own voice to any crowd's demand, ask whether you actually believe the demand, or whether you're just following the crowd.
+</p>
+
+<p>
+<span id="cite-15" class="cite-anchor">You've already failed at every one of these &#8212; money, people, time, restraint, conviction &#8212; and you'll fail again.<sup class="ref"><a href="#ref-15">[15]</a></sup></span> The very kings and rulers this psalm describes crucified Christ &#8212; and from the cross, He prayed for them: <span id="cite-16" class="cite-anchor">"Father, forgive them, for they know not what they do."<sup class="ref"><a href="#ref-16">[16]</a></sup></span> That same forgiveness covers you too, every time you fail.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Prayer</summary>
+<p>
+Lord, I stand against Your rule too &#8212; quietly following my own judgment, not Your Word, in how I spend my money, treat other people, and use my time. Unlike rage that's loud and open, my rebellion is deliberate: decided in advance, calculated, hidden inside decisions that look completely ordinary. Christ, Your own Anointed, was the true target of that same calculated rebellion, taken all the way to the cross &#8212; and there He prayed for the very people who put Him there: <span id="cite-17" class="cite-anchor">"Father, forgive them, for they know not what they do."<sup class="ref"><a href="#ref-17">[17]</a></sup></span> Forgive me the same way, every time I fail again. Break my quiet self-rule, and bring me under Your rule instead.
+</p>
+</details>
+
+<details class="study-section">
 <summary>References</summary>
 <div class="ref-list">
   <ol>
-    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> 1 Samuel 8:7 (ESV): "Obey the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them."</li>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Romans 13:1 (ESV): "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God."</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> 1 Samuel 8:7 (ESV): "Obey the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them."</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> 2 Samuel 10:6, 19 (ESV): "...the Ammonites sent and hired the Syrians of Beth-rehob and the Syrians of Zobah... And when all the kings who were servants of Hadadezer saw that they had been defeated by Israel, they made peace with Israel and became subject to them." Cf. Psalm 48:4: "For behold, the kings assembled; they came on together."</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> Luke 19:11-12, 14 (ESV): "...because they supposed that the kingdom of God was to appear immediately... A nobleman went into a far country to receive for himself a kingdom and then return... But his citizens hated him and sent a delegation after him, saying, 'We do not want this man to reign over us.'"</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Luke 23:12 (ESV): "And Herod and Pilate became friends with each other that very day, for before this they had been at enmity with each other."</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> Acts 4:27 (ESV): "for truly in this city there were gathered together against your holy servant Jesus, whom you anointed, both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel."</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Mark 15:11 (ESV): "But the chief priests stirred up the crowd to have him release for them Barabbas instead." Cf. Martin Luther, <em>Operationes in Psalmos</em> (1519-21), on Psalm 2:2: "by 'rulers' are to be understood the heads of the priests" &#8212; verified fresh against the primary-source English translation (Henry Cole, <em>Luther's Commentary on the First Twenty-Two Psalms</em>).</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> 2 Corinthians 9:7 (ESV): "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver."</li>
+    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Philippians 2:3-4 (ESV): "Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others."</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Ephesians 5:15-16 (ESV): "Look carefully then how you walk, not as unwise but as wise, making the best use of the time, because the days are evil."</li>
+    <li id="ref-11"><a href="#cite-11" class="ref-back">&#8617;</a> Matthew 6:33 (ESV): "But seek first the kingdom of God and his righteousness, and all these things will be added to you." Cf. Colossians 3:23-24: "Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ." Cf. Mark 6:31: "Come away by yourselves to a desolate place and rest a while." Cf. Ecclesiastes 3:1, 4: "For everything there is a season, and a time for every matter under heaven... a time to weep, and a time to laugh."</li>
+    <li id="ref-12"><a href="#cite-12" class="ref-back">&#8617;</a> Martin Luther, <em>Operationes in Psalmos</em> (1519-21), on Psalm 2:2: "there is the same modesty also in the words 'rage,' 'stand up,' and 'take counsel together;' for the act itself was far more atrocious than the purport of these words would seem to indicate." Verified against the primary-source English translation (Henry Cole, <em>Luther's Commentary on the First Twenty-Two Psalms</em>). Cf. the Hebrew itself: "set themselves" (יִתְיַצְּבוּ, Hitpael imperfect of <em>yatsav</em>, "to take one's stand") and "took counsel together" (נוֹסְדוּ, Niphal perfect of <em>yasad</em>, "to sit down together, consult") are ordinary, administrative verbs &#8212; not words naming violence or conspiracy directly.</li>
+    <li id="ref-13"><a href="#cite-13" class="ref-back">&#8617;</a> 1 Peter 2:23 (ESV): "When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly."</li>
+    <li id="ref-14"><a href="#cite-14" class="ref-back">&#8617;</a> Mark 15:11 &#8212; see [7] above for the full quotation.</li>
+    <li id="ref-15"><a href="#cite-15" class="ref-back">&#8617;</a> Romans 3:23 (ESV): "for all have sinned and fall short of the glory of God." Cf. 1 John 1:8: "If we say we have no sin, we deceive ourselves, and the truth is not in us."</li>
+    <li id="ref-16"><a href="#cite-16" class="ref-back">&#8617;</a> Luke 23:34 (ESV): "Father, forgive them, for they know not what they do."</li>
+    <li id="ref-17"><a href="#cite-17" class="ref-back">&#8617;</a> Luke 23:34 &#8212; see [16] above for the full quotation.</li>
   </ol>
 </div>
 <p>

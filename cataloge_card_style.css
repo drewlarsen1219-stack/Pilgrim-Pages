@@ -266,6 +266,15 @@ body {
 }
 .hebrew-row, .definition-list { display: block; }
 
+/* Span-based divider for use inside .tooltiptext content — never use a literal
+   <hr>, <div>, or <p> inside a tooltip. Those are block-level tags that force an
+   implicit </p> close when the tooltip is nested inside a <p>-wrapped Insight/
+   Lessons/Fulfillment/Prayer paragraph, silently breaking the tooltip's span
+   nesting so its content renders as always-visible inline text instead of a
+   hidden hover box. Word Analysis tooltips (not inside a <p>) are unaffected
+   either way, but .tt-divider is the safe choice everywhere. */
+.tt-divider { display: block; border-top: 1px solid #808080; margin: 15px 0; }
+
 /* ── Tooltip internals ── */
 .usage-note {
   font-style: italic;
