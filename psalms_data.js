@@ -32,7 +32,7 @@
 <p><strong>Scripture references</strong> &#8212; Inline citations mark the specific passage a claim depends on. For example: the Psalms are the prayer book of God&#8217;s people. <sub>Psalm 72:20; Luke 20:42</sub> &#8212; These are not decorative. Look them up.</p>
 <p><strong>Translation switcher</strong> &#8212; On verse study pages, a switcher lets you view the psalm text in ESV, KJV, NASB, or NIV. Comparing translations is one of the simplest ways to see where a word or phrase carries interpretive weight.</p>
 <p><strong>Reading mode</strong> &#8212; A toggle button on verse study pages switches the display to a warm parchment background with larger serif text and wider line spacing &#8212; designed for extended reading sessions. Your preference is saved and restored on your next visit.</p>
-<p><strong>Fulfillment headings</strong> &#8212; Within each verse&#8217;s Fulfillment section, the opening paragraphs are left untitled &#8212; they lay the historical groundwork the psalm was first written in. A heading appears only when the section reaches its Christological turn: the specific moment where Christ concretely fulfills what the verse describes. Not every paragraph gets a title; only that turn does.</p>
+<p><strong>Fulfillment headings</strong> &#8212; Within each verse&#8217;s Fulfillment section, the opening paragraphs are left untitled &#8212; they lay out the reader&#8217;s own condition apart from Christ, and the historical setting the psalm first spoke into. A heading appears only when the section reaches its Christological turn: the specific moment where Christ concretely fulfills what the verse describes. Not every paragraph gets a title; only that turn does.</p>
 <p><strong>Footnotes</strong> &#8212; Numbered markers in the text link to source citations in the References section below. The &#x21A9; arrow links back. Try it: <span id="howto-cite-1" class="cite-anchor">the Psalms have been central to Christian worship since the earliest Church.<sup><a href="#howto-ref-1">[1]</a></sup></span> The citation is in the References section below &#8212; click <sup>[1]</sup> to jump there, then &#x21A9; to return here.</p>
 <p><strong>Illustrations</strong> &#8212; Images appear throughout to make events, themes, and contexts from Scripture concrete. Each image is labeled and accompanied by explanatory text connecting it to the passage or concept being studied.</p>
 <p><strong>Find a psalm for...</strong> &#8212; A dropdown on this page lets you search by condition &#8212; grief, fear, guilt, and others &#8212; rather than by psalm number. Selecting one lists every psalm that addresses it; choosing a result also opens that psalm&#8217;s Prayer section, a short prayer in plain words drawing on the same psalm.</p>
@@ -2916,6 +2916,219 @@ Lord, I stand against Your rule too &#8212; quietly following my own judgment, n
 </p>
 </details>
 `,
+    },
+
+{   label: "Psalm 2:3",
+    title: "Let Us Burst Their Bonds Apart",
+    image: "lyre.png",
+    genre: "Royal",
+    parallelism: "Synonymous",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">2:3</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`"Let us burst their bonds apart<br>and cast away their cords from us."<br><small>(ESV)</small>`],
+      KJV: [`"Let us break their bands asunder,<br>and cast away their cords from us."<br><small>(KJV)</small>`],
+      NASB: [`"Let's tear their shackles apart<br>And throw their ropes away from us!"<br><small>(NASB)</small>`],
+      NIV: [`"Let us break their chains<br>and throw off their shackles."<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">נְנַתְּקָה אֶת־מוֹסְרוֹתֵימוֹ וְנַשְׁלִיכָה מִמֶּנּוּ עֲבֹתֵימוֹ</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+<span class="tooltip">
+    <strong>Let us burst</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">נְנַתְּקָה</span>
+            <span class="transliteration">(nenattekah)</span>
+        </span>
+        <span class="definition-list">
+            Piel imperfect cohortative of <span dir="rtl">נָתַק</span> (natak) &#8212; to tear away, burst apart, forcibly separate. The cohortative form voices a group's own resolve &#8212; "let us" &#8212; a declared decision, not a request.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Jeremiah 5:5
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>their bonds</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">מוֹסְרוֹתֵימוֹ</span>
+            <span class="transliteration">(moseroteimo)</span>
+        </span>
+        <span class="definition-list">
+            Plural construct of <span dir="rtl">מוֹסֵר</span> (moser) &#8212; "bond, fetter, chain" &#8212; plus a third-person plural suffix.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 107:14, Psalm 116:16
+        </small>
+    </span>
+</span>
+
+<p>
+The kings and rulers of verse 2 speak here for the first time, in their own quoted words: they call God's rule over them a bondage to be torn off.
+</p>
+
+<hr>
+
+<span class="tooltip">
+    <strong>and cast away</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וְנַשְׁלִיכָה</span>
+            <span class="transliteration">(venashlikhah)</span>
+        </span>
+        <span class="definition-list">
+            Conjunctive Hifil imperfect cohortative of <span dir="rtl">שָׁלַךְ</span> (shalak) &#8212; "to throw, cast"; the Hifil intensifies the action into a forceful throwing-off.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 51:11
+        </small>
+    </span>
+</span>
+
+<strong> from us </strong>
+<span class="tooltip">
+    <strong>their cords</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">עֲבֹתֵימוֹ</span>
+            <span class="transliteration">(avoteimo)</span>
+        </span>
+        <span class="definition-list">
+            Plural construct of <span dir="rtl">עֲבוֹת</span> (avoth) &#8212; "cord, rope, twisted cordage" &#8212; plus a third-person plural suffix. The same word names God's own bond with His people in Hosea 11:4 &#8212; "cords of kindness," "the bands of love."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Hosea 11:4
+        </small>
+    </span>
+</span>
+
+<p>
+Tearing the bonds loose is not enough for them &#8212; they throw the cords away entirely, rejecting not just the restraint but any trace of it.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+<span id="cite-1" class="cite-anchor">This same phrase &#8212; "burst their bonds apart" &#8212; describes something very different elsewhere in the Psalter. Psalm 107 tells of people bound in hard labor because they had rebelled against God's words and spurned His counsel; only when they cried out to Him did the LORD Himself burst their bonds apart.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> The kings and rulers seize that same freedom-language for the opposite purpose: not calling out to God for release, but declaring their own release from Him.
+</p>
+
+<p>
+<span id="cite-2" class="cite-anchor">They have liberty and bondage backwards: God's rule is itself liberty; what they call freedom is the real bondage.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+<span id="cite-3" class="cite-anchor">Every reader can feel, or convince themselves, that God's rule is a burden to escape &#8212; even someone joined to Christ still feels that pull.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> Apart from Christ, though, that escape is the real bondage, and His rule remains the real liberty.
+</p>
+
+<p>
+<span id="cite-4" class="cite-anchor">When <span class="tooltip">Solomon<span class="tooltiptext">David's son and successor as king over all Israel &#8212; renowned for wisdom, but whose later turn to idolatry (1 Kings 11) set in motion the kingdom's eventual division.</span></span>'s son <span class="tooltip">Rehoboam<span class="tooltiptext">Solomon's son, who became king after him; his harsh response to Israel's plea for relief (1 Kings 12:1-15) triggered the kingdom's split into Judah and Israel.</span></span>'s rule felt like a "heavy yoke," the <span class="tooltip">ten tribes<span class="tooltiptext">The northern tribes of Israel &#8212; all but Judah and Benjamin &#8212; who broke away under Jeroboam to form a separate kingdom, ending centuries of united rule under David's line.</span></span> renounced the <span class="tooltip">house of David<span class="tooltiptext">David's royal dynasty &#8212; the line of kings God promised would rule Israel forever (2 Samuel 7:12-16).</span></span> outright &#8212; "What portion do we have in David?... To your tents, O Israel!" &#8212; rebellion against God's own chosen <span class="tooltip">royal line<span class="tooltiptext">The same Davidic royal line through which Christ, God's promised King, was to come (2 Samuel 7:12-16; Luke 1:32-33).</span></span>.<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
+</p>
+
+<p><em>"We Have No King but Caesar"</em></p>
+
+<p>
+<span id="cite-5" class="cite-anchor">At the cross, Pilate presented Jesus directly: "Behold your king!" The chief priests &#8212; the "rulers" of verse 2 &#8212; answered with this same declaration, spoken aloud at last: "We have no king but Caesar."<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Their own King stood in front of them, and they chose Caesar's rule instead.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<em>Name what you've stopped calling a command.</em> <span id="cite-6" class="cite-anchor">The kings and rulers cast off God's rule over them here &#8212; a rule that takes the form of command: turning from evil, and doing good.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> Is there a sin you've stopped calling sin? <span id="cite-7" class="cite-anchor">Repent and turn back from it &#8212; don't relabel it.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> Is there a good you know to do and keep leaving undone? <span id="cite-8" class="cite-anchor">Do it &#8212; leaving it undone is sin too, not something harmless.<sup class="ref"><a href="#ref-8">[8]</a></sup></span> <span id="cite-9" class="cite-anchor">Pray for the desire and the ability to follow through &#8212; both are God's to give, not yours to produce.<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">And when you fail &#8212; because you will &#8212; don't hide it or explain it away; look to Christ for forgiveness instead.<sup class="ref"><a href="#ref-10">[10]</a></sup></span>
+</p>
+
+<p>
+<em>Sincerity isn't proof.</em> <span id="cite-11" class="cite-anchor">These rebels rejected God's Anointed while believing they were acting for His own <span class="tooltip">glory<span class="tooltiptext">God's own honor and worth, rightly recognized. Honoring the Father can't be separated from honoring the Son He sent (John 5:23) &#8212; real devotion to one always includes the other.</span></span>.<sup class="ref"><a href="#ref-11">[11]</a></sup></span> You can sincerely believe you're serving Him and still be rejecting God. Ask whether some part of God's Word you don't keep is rejection, relabeled in your own mind as <span class="tooltip">devotion<span class="tooltiptext">Real devotion to God shows itself in obedience, not just in feeling: "If you love me, you will keep my commandments" (John 14:15).</span></span>.
+</p>
+
+<p>
+<em>Notice when a feeling becomes a choice.</em> The kings and rulers in this psalm move from a private resolve here in verse 3 to a spoken allegiance at the cross: "We have no king but Caesar." <span id="cite-12" class="cite-anchor">The same shift from private resolve to spoken allegiance can happen in your own life without you noticing &#8212; a private resentment toward one of God's commands hardening into a pattern, relationship, or habit built around avoiding that command.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> <span id="cite-13" class="cite-anchor">Ask God to search you and reveal what that is for you, if anything.<sup class="ref"><a href="#ref-13">[13]</a></sup></span>
+</p>
+
+<p>
+<em>Bring your failures to the King who frees.</em> Every one of these &#8212; the obedience left undone, the rejection relabeled as devotion, the private resentment becoming a habit &#8212; is exactly the bondage this psalm's rebels mistake for <span class="tooltip">freedom<span class="tooltiptext">Not permission to do as you please, but release from slavery to sin, given only by Christ.</span></span>. Christ, the very King these rebels rejected, is also the only one who frees anyone from that bondage: <span id="cite-14" class="cite-anchor">"if the Son sets you free, you will be free indeed."<sup class="ref"><a href="#ref-14">[14]</a></sup></span> Bring these to Him in prayer &#8212; freedom is His to give.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Prayer</summary>
+<p>
+Lord, I call Your rule a burden too, even when I never say so aloud &#8212; as if freedom meant escaping You, when escaping You is the only real bondage there is. A private resentment toward something You command can harden in me before I even notice. I have mistaken setting aside part of Your Word for devotion, when it was really rejection. Search me and show me where that is true right now. Christ, You are the very King I was born resisting, and yet You alone free me from this bondage I keep mistaking for freedom. Whatever You reveal in me, I bring to You now, trusting Your freedom over my own.
+</p>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Psalm 107:10-14 (ESV): "Some sat in darkness and in the shadow of death, prisoners in affliction and in irons, for they had rebelled against the words of God, and spurned the counsel of the Most High... Then they cried to the LORD in their trouble, and he delivered them from their distress. He brought them out of darkness and the shadow of death, and burst their bonds apart."</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> Martin Luther, <em>Operationes in Psalmos</em> (1519-21), on Psalm 2:3: "Thus they call the law of Christ, which is the law of liberty and sweetness, 'bands' and a 'yoke'... but, on the other hand, they believe their own law, which is in truth a bondage and state of labour, to be liberty and sweetness." Verified against the primary-source English translation (Henry Cole, <em>Luther's Commentary on the First Twenty-Two Psalms</em>). Cf. James 1:25 (ESV): "the perfect law, the law of liberty."</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> Galatians 5:16-17 (ESV): "But I say, walk by the Spirit, and you will not gratify the desires of the flesh. For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do." Even someone joined to Christ still feels the pull to escape His rule &#8212; the flesh's desire does not end at conversion, only its verdict.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> 1 Kings 12:4, 16, 19 (ESV): "Your father made our yoke heavy... 'What portion do we have in David? We have no inheritance in the son of Jesse. To your tents, O Israel!'... So Israel has been in rebellion against the house of David to this day."</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> John 19:14-15 (ESV): "He said to the Jews, 'Behold your King!' They cried out, 'Away with him, away with him, crucify him!' Pilate said to them, 'Shall I crucify your King?' The chief priests answered, 'We have no king but Caesar.'"</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> Martin Luther, <em>Operationes in Psalmos</em> (1519-21), on Psalm 2:3: "These 'bonds' are the commandments of Christ, by which we are taught how to walk in his way. And this 'yoke' or these 'cords' are his judgments, by which we are prohibited from doing evil." Same primary source as ref-2 (Henry Cole translation), a different passage.</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Acts 3:19 (ESV): "Repent therefore, and turn back, that your sins may be blotted out."</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> James 4:17 (ESV): "So whoever knows the right thing to do and fails to do it, for him it is sin."</li>
+    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Philippians 2:13 (ESV): "for it is God who works in you, both to will and to work for his good pleasure."</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> 1 John 1:8-9 (ESV): "If we say we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."</li>
+    <li id="ref-11"><a href="#cite-11" class="ref-back">&#8617;</a> Martin Luther, <em>Operationes in Psalmos</em> (1519-21), on Psalm 2:3: "...in rejecting Christ, they believed that they were acting for the glory of God and of his law." Same primary source as ref-2 and ref-6. Cf. John 16:2 (ESV): "...the hour is coming when whoever kills you will think he is offering service to God." Jesus predicts the same self-deceived opposition &#8212; believing themselves to serve God while acting against Him.</li>
+    <li id="ref-12"><a href="#cite-12" class="ref-back">&#8617;</a> Hebrews 3:12-13 (ESV): "Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God. But exhort one another every day, as long as it is called 'today,' that none of you may be hardened by the deceitfulness of sin."</li>
+    <li id="ref-13"><a href="#cite-13" class="ref-back">&#8617;</a> Psalm 139:23-24 (ESV): "Search me, O God, and know my heart! Try me and know my thoughts! And see if there be any grievous way in me, and lead me in the way everlasting!"</li>
+    <li id="ref-14"><a href="#cite-14" class="ref-back">&#8617;</a> John 8:34-36 (ESV): "Everyone who practices sin is a slave to sin. The slave does not remain in the house forever; the son remains forever. So if the Son sets you free, you will be free indeed."</li>
+  </ol>
+</div>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+`
     },
 
 	/* --- PSALM 3 --- */

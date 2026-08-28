@@ -39,16 +39,22 @@
     <div style="display: flex; gap: 8px;">
       <button id="prev-btn" class="retro-btn" disabled> Back </button>
       <button id="next-btn" class="retro-btn" > Next </button>
-      <button id="reading-mode-btn" class="retro-btn">Reading Mode: OFF</button>
     </div>
 
   </div>
 
-  <div id="condition-row" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 12px;">
-    <label style="font-size: 12px; font-weight: bold; font-family: monospace; letter-spacing: 0.15em;">Find a psalm for:</label>
-    <select id="condition-select" class="retro-select">
-      <option value="">Select a condition...</option>
-    </select>
+  <div id="condition-row" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-top: 12px;">
+    <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+      <label style="font-size: 12px; font-weight: bold; font-family: monospace; letter-spacing: 0.15em;">Find a psalm for:</label>
+      <select id="condition-select" class="retro-select">
+        <option value="">Select a condition...</option>
+      </select>
+    </div>
+
+    <div style="display: flex; gap: 8px;">
+      <button id="reading-mode-btn" class="retro-btn">Reading Mode: OFF</button>
+      <button id="night-mode-btn" class="retro-btn">Night Mode: OFF</button>
+    </div>
   </div>
   <ul id="condition-results" class="ref-list" style="display:none; margin-top: 8px;"></ul>
 
@@ -366,6 +372,19 @@
     applyReadingMode(!retroContainer.classList.contains('reading-mode'));
   });
 
+  /* NIGHT MODE TOGGLE */
+  const nightModeBtn = document.getElementById('night-mode-btn');
+
+  function applyNightMode(on) {
+    document.body.classList.toggle('night-mode', on);
+    nightModeBtn.textContent = on ? 'Night Mode: ON' : 'Night Mode: OFF';
+    localStorage.setItem('pp_night_mode', on ? 'on' : 'off');
+  }
+
+  nightModeBtn.addEventListener('click', () => {
+    applyNightMode(!document.body.classList.contains('night-mode'));
+  });
+
   // START EVERYTHING
   // Guided-tour state must be initialized before the first renderVerse() call below,
   // since renderVerse() calls endTour() whenever currentIndex isn't 0 (Introduction) —
@@ -373,8 +392,8 @@
   const tourSteps = [
     { selector: '#verse-display-box', text: "This box shows the psalm or verse you're currently viewing — its Hebrew text, translation, and title." },
     { selector: '#insight-fieldset', text: "Below it, this panel holds background notes and commentary, organized into collapsible sections you can open one at a time." },
-    { selector: '#nav-row', text: "Use these controls to jump to any psalm and verse, move forward and back, or switch to Reading Mode." },
-    { selector: '#condition-row', text: "This dropdown finds a psalm by what you're going through — grief, fear, guilt, and others — instead of by number." }
+    { selector: '#nav-row', text: "Use these controls to jump to any psalm and verse, or move forward and back." },
+    { selector: '#condition-row', text: "This dropdown finds a psalm by what you're going through — grief, fear, guilt, and others — instead of by number. The buttons on the right switch to Reading Mode or Night Mode." }
   ];
   let tourIndex = -1;
   let tourHighlightEl = null;
@@ -390,6 +409,7 @@
   }
   renderVerse();
   applyReadingMode(localStorage.getItem('pp_reading_mode') === 'on');
+  applyNightMode(localStorage.getItem('pp_night_mode') === 'on');
 
   // WELCOME MODAL
   function showWelcomeModal() { welcomeModal.style.display = 'flex'; }

@@ -676,6 +676,166 @@ blockquote.church-voice footer {
   color: #5a4a35;
 }
 
+/* ── Night Mode ── */
+body.night-mode {
+  background-color: #1a1a1a;
+  --cite-hl-bg: #4a4020;
+  --cite-hl-border: #8a7840;
+}
+
+body.night-mode .retro-container {
+  color: #dcdcdc;
+  background-color: #1a1a1a;
+}
+
+body.night-mode .retro-btn {
+  color: #ccc;
+  border-top-color: #4a4a4a;
+  border-left-color: #4a4a4a;
+  border-bottom-color: #000;
+  border-right-color: #000;
+}
+
+body.night-mode .retro-btn:hover:not(:disabled) {
+  color: #fff;
+  border-top-color: #6a6a6a;
+  border-left-color: #6a6a6a;
+  border-bottom-color: #000;
+  border-right-color: #000;
+}
+
+body.night-mode .retro-btn:active:not(:disabled) {
+  background: #333;
+  color: #fff;
+}
+
+body.night-mode .retro-btn:disabled {
+  border-color: #333;
+  color: #555;
+}
+
+body.night-mode .retro-select {
+  color: #ccc;
+  border-top-color: #000;
+  border-left-color: #000;
+  border-bottom-color: #4a4a4a;
+  border-right-color: #4a4a4a;
+}
+
+body.night-mode .retro-hr {
+  border-top-color: #444;
+  border-bottom-color: #000;
+}
+
+body.night-mode hr {
+  border-top-color: #444;
+}
+
+body.night-mode .verse-num { color: #aaa; }
+body.night-mode .genre-bar { color: #999; }
+
+body.night-mode .tooltip {
+  border-bottom-color: #999;
+}
+
+body.night-mode .tooltip .tooltiptext {
+  background-color: #3a3620;
+  color: #f0e8c0;
+  border-color: #555;
+  box-shadow: 0 0 0 1px #222;
+}
+
+body.night-mode .tooltip .tooltiptext::after {
+  border-color: #3a3620 transparent transparent transparent;
+}
+
+body.night-mode .tooltip-down .tooltiptext::after {
+  border-color: transparent transparent #3a3620 transparent;
+}
+
+body.night-mode .usage-note {
+  color: #aaa;
+  border-left-color: #666;
+}
+
+body.night-mode small.references { color: #999; }
+
+body.night-mode sup.ref { color: #999; }
+body.night-mode sup.ref a:hover { color: #fff; }
+
+body.night-mode .ref-list li { border-bottom-color: #444; }
+body.night-mode .ref-list li:target {
+  background: #4a4020;
+  border-left-color: #777;
+}
+
+body.night-mode .selah-marker { color: #999; }
+
+body.night-mode .ref-back { color: #aaa; }
+body.night-mode .ref-back:hover { color: #fff; }
+
+body.night-mode details.study-section > summary { color: #999; }
+body.night-mode details.study-section > summary:hover { color: #fff; }
+body.night-mode details.study-section[open] { border-bottom-color: #444; }
+
+body.night-mode details.group-accordion > summary {
+  color: #ccc;
+  border-bottom-color: #444;
+}
+body.night-mode details.group-accordion > summary:hover { color: #fff; }
+
+body.night-mode .section-group-label {
+  color: #999;
+  border-bottom-color: #444;
+}
+
+body.night-mode blockquote.church-voice { background: #2e2e2e; }
+body.night-mode blockquote.church-voice footer { color: #aaa; }
+
+body.night-mode #insight-fieldset legend {
+  background: #1a1a1a !important;
+  color: #ccc;
+}
+
+body.night-mode #welcome-info-btn,
+body.night-mode #pilgrim-pace-link,
+body.night-mode #accordion-demo-btn {
+  color: #999;
+}
+body.night-mode #welcome-info-btn:hover,
+body.night-mode #pilgrim-pace-link:hover,
+body.night-mode #accordion-demo-btn:hover {
+  color: #fff;
+}
+
+body.night-mode .modal-text-btn { color: #ccc; }
+body.night-mode .modal-text-btn:hover { color: #fff; }
+
+/* Night Mode + Reading Mode together: dark parchment instead of bright cream */
+body.night-mode .reading-mode {
+  --cite-hl-bg: #6b4020;
+  --cite-hl-border: #c07850;
+}
+
+body.night-mode .reading-mode #display-content,
+body.night-mode .reading-mode fieldset.inset-box {
+  background: #2a2420;
+}
+
+body.night-mode .reading-mode .insight-box,
+body.night-mode .reading-mode .verse-text-block,
+body.night-mode .reading-mode .verse-title {
+  color: #e8ddc7;
+}
+
+body.night-mode .reading-mode .ref-back { color: #b0906a; }
+body.night-mode .reading-mode .ref-back:hover { color: #e8b090; }
+
+body.night-mode .reading-mode .ref-list li:target {
+  background: #6b4020;
+  border-left-color: #c07850;
+}
+
 /* Touch-friendly tooltips: tap to toggle */
 .tooltip.tooltip-active .tooltiptext {
   visibility: visible;
