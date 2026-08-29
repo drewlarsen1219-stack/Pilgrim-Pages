@@ -1223,7 +1223,7 @@ This same Joshua led Israel into the promised land <span id="cite-5" class="cite
 <details class="study-section">
 <summary>Prayer</summary>
 <p>
-Lord, I have not delighted in Your Torah as I should. My time in Your Word is inconsistent, more duty than desire, and I return to it only when convenient, not whenever the chance comes. Christ alone delighted in Your will without wavering, Your law already within His heart before it was ever written on mine. At the cross, He bore the guilt of that very failure Himself. Forgive what is true of me for His sake, and give me His own delight by Your Spirit, not my own effort, so that Your Word planted in me bears fruit that does not wither.
+Lord, I have not delighted in Your Torah as I should. My time in Your Word is inconsistent, more duty than desire &#8212; I return only when convenient, not whenever the chance comes. Christ alone delighted in Your will without wavering, Your law already within His heart before it was ever written on mine. At the cross, He bore the guilt of that very failure Himself. Forgive what is true of me for His sake, and give me His own delight by Your Spirit, not my own effort, so that Your Word planted in me bears fruit that does not wither.
 </p>
   <span class="selah-marker">
     <em>AMEN</em>
@@ -1816,7 +1816,7 @@ God gave this exact image to a real, historical people. <span id="cite-2" class=
 <details class="study-section">
 <summary>Prayer</summary>
 <p>
-Lord, apart from Christ, I am exactly what this verse pictures &#8212; chaff with no root and no water of my own, driven wherever the wind blows. I have looked for stability in things that cannot hold: my circumstances, my reputation, my own strength. Christ alone never wavered like this; He is the tree already planted and rooted for good, and He is the One who gathers the wheat into His barn while the chaff is burned. Forgive what is true of me apart from Him, and do what I cannot do for myself: plant me in Christ, so that when the judgment comes, I stand among the righteous, not swept away with those who have no place there.
+Lord, apart from Christ, I am exactly what this verse pictures &#8212; chaff with no root and no water of my own, driven wherever the wind blows. I have looked for stability where none exists: my circumstances, my reputation, my own strength. Christ alone never wavered like this; He is the tree already planted and rooted for good, and He is the One who gathers the wheat into His barn while the chaff is burned. Forgive what is true of me apart from Him, and do what I cannot do for myself: plant me in Christ, so that when the judgment comes, I stand among the righteous, not swept away with those who have no place there.
 </p>
   <span class="selah-marker">
     <em>AMEN</em>
@@ -2882,7 +2882,7 @@ Apart from Christ, every reader does the same thing these kings and rulers do, o
 <details class="study-section">
 <summary>Prayer</summary>
 <p>
-Lord, I stand against Your rule too &#8212; quietly following my own judgment, not Your Word, in how I spend my money, treat other people, and use my time. Unlike rage that's loud and open, my rebellion is deliberate: decided in advance, calculated, hidden inside decisions that look completely ordinary. Christ, Your own Anointed, was the true target of that same calculated rebellion, taken all the way to the cross &#8212; and there He prayed for the very people who put Him there: <span id="cite-17" class="cite-anchor">"Father, forgive them, for they know not what they do."<sup class="ref"><a href="#ref-17">[17]</a></sup></span> Forgive me the same way, every time I fail again. Break my quiet self-rule, and bring me under Your rule instead.
+Lord, I stand against Your rule &#8212; quietly following my own judgment, not Your Word, in how I spend my money, treat other people, and use my time. Unlike rage that's loud and open, my rebellion is deliberate: decided in advance, calculated, hidden inside decisions that look completely ordinary. Christ, Your own Anointed, was the true target of that same calculated rebellion, taken all the way to the cross &#8212; and there He prayed for the very people who put Him there: <span id="cite-17" class="cite-anchor">"Father, forgive them, for they know not what they do."<sup class="ref"><a href="#ref-17">[17]</a></sup></span> Forgive me the same way, every time I fail again. Break my quiet self-rule, and bring me under Your rule instead.
 </p>
 </details>
 
@@ -2923,6 +2923,8 @@ Lord, I stand against Your rule too &#8212; quietly following my own judgment, n
     image: "lyre.png",
     genre: "Royal",
     parallelism: "Synonymous",
+    conditions: ["resentment toward authority", "self-deception", "hidden sin"],
+    conditionAngle: "names the private resentment you call devotion, hardening before you even notice &#8212; and points to Christ, the King you were born resisting, who alone frees you from the slavery to sin that feels like freedom.",
     text: `
       <div class="verse-row">
         <div class="verse-num">2:3</div>
@@ -3098,7 +3100,7 @@ Tearing the bonds loose is not enough for them &#8212; they throw the cords away
 <details class="study-section">
 <summary>Prayer</summary>
 <p>
-Lord, I call Your rule a burden too, even when I never say so aloud &#8212; as if freedom meant escaping You, when escaping You is the only real bondage there is. A private resentment toward something You command can harden in me before I even notice. I have mistaken setting aside part of Your Word for devotion, when it was really rejection. Search me and show me where that is true right now. Christ, You are the very King I was born resisting, and yet You alone free me from this bondage I keep mistaking for freedom. Whatever You reveal in me, I bring to You now, trusting Your freedom over my own.
+Lord, I call Your rule a burden, even when I never say so aloud &#8212; as if freedom meant escaping You, when escaping You is the <span class="tooltip">real bondage<span class="tooltiptext">Slavery to sin, not a lack of rules to follow &#8212; this is what escaping God's rule actually means, apart from Christ (John 8:34).</span></span>. A private resentment toward one of Your commands can <span class="tooltip">harden<span class="tooltiptext">Not a single decision, but a slow, often unnoticed process &#8212; Scripture calls this "the deceitfulness of sin" (Hebrews 3:13).</span></span> in me before I even notice. I have told myself that setting aside <span class="tooltip">part<span class="tooltiptext">You can sincerely believe you're devoted while quietly excusing one part &#8212; that's self-deception, not open rebellion. But before God, failing in one point makes you guilty of rejecting all of God's Word (James 2:10).</span></span> of Your Word is devotion. Excusing even one part rejects everything You have commanded. Search me and show me where that is true. Christ, You are the very King I was born resisting, and yet You alone free me from slavery to sin &#8212; the very bondage that feels like freedom to me. Whatever You reveal in me, I will bring to You. Give me Your freedom, not my own.
 </p>
 </details>
 
