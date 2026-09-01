@@ -596,7 +596,7 @@ The resources below extend the study beyond what these pages cover. Each one is 
         <span class="definition-list">
             plural construct &#8212; "the happinesses of," used as an interjection
             <hr>
-			From <span dir="rtl">אָשַׁר</span> (ashar) &#8212; to go straight, to advance rightly. The root pictures a life moving in the right direction, not a static feeling. Fixed permanently in this construct-plural form &#8212; Hebrew never predicates <em>ashrei</em> onto a subject the way "he is blessed" would in English; it only exclaims over someone already found walking that way.
+			From <span dir="rtl">אָשַׁר</span> (ashar) &#8212; to go straight, to advance rightly. The root pictures a life moving in the right direction, not a static feeling. Fixed permanently in this construct-plural form &#8212; Hebrew never predicates <em>ashrei</em> onto a subject the way "he is blessed" would in English; ashrei only exclaims over someone already found walking that way.
             <hr>
 			Distinct from <span dir="rtl">בָּרוּךְ</span> (barukh) &#8212; the word used when God Himself is the one doing the blessing (see Psalm 5:12). Ashrei instead names the resulting condition: the flourishing state of the one who lives this way.
         </span>
@@ -667,7 +667,7 @@ The resources below extend the study beyond what these pages cover. Each one is 
             construct of <span dir="rtl">עֵצָה</span> (etzah), from <span dir="rtl">יָעַץ</span> (ya'ats) &#8212; to advise, to plan, to purpose. Names deliberated counsel, not a careless remark.
             <hr>
 			Prefixed here with <span dir="rtl">בְּ</span> (in) &#8212; "in the counsel of."
-			<br>The same root names godly counsel elsewhere (Psalm 33:11) &#8212; it is marked wicked here by the noun it modifies, not by the word itself.
+			<br>The same root names godly counsel elsewhere (Psalm 33:11) &#8212; counsel is marked wicked here by the modifying noun, not by the word itself.
         </span>
         <span class="tt-divider"></span>
         <small class="references">
@@ -752,7 +752,7 @@ The "wicked" are not merely rule-breakers, but those who reason about right and 
         <span class="definition-list">
             intensive noun form of <span dir="rtl">חָטָא</span> (chata) &#8212; to sin, to miss the mark
             <hr>
-			Not an isolated lapse but a settled pattern: one whose habitual missing of the mark has become who he is, not just something he occasionally does.
+			Not an isolated lapse but a settled pattern: one whose habitual missing of the mark has become who he is, not just an occasional act.
         </span>
         <span class="tt-divider"></span>
         <small class="references">
@@ -762,7 +762,7 @@ The "wicked" are not merely rule-breakers, but those who reason about right and 
 </span>
 
 <p>
-A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, sin was already a precisely defined category, not an abstract idea. Torah had already named it as a violation of God's covenant standard, incurring real guilt and addressed through the sacrificial system (cf. Leviticus 4-5) &#8212; centuries before the New Testament exposes that standard's full weight and its answer in Christ. See Fulfillment below.</span></span>" is not defined by a single wrongdoing but by a repeated one &#8212; sin has become that person's ordinary way of life, not an exception to it. To "stand in the way of sinners" is to trade one's own direction for theirs &#8212; no longer just entertaining how they think, but committing to the same course they walk.
+A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, sin was already a precisely defined category, not an abstract idea. Torah had already named sin as a violation of God's covenant standard, incurring real guilt and addressed through the sacrificial system (cf. Leviticus 4-5) &#8212; centuries before the New Testament exposes that standard's full weight and its answer in Christ. See Fulfillment below.</span></span>" is not defined by a single wrongdoing but by a repeated one &#8212; sin has become that person's ordinary way of life, not an occasional exception. To "stand in the way of sinners" is to trade one's own direction for theirs &#8212; no longer just entertaining how they think, but committing to the same course they walk.
 </p>
 <hr>
 
@@ -829,7 +829,7 @@ A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, s
 </span>
 
 <p>
-"Scoffer" belongs to the vocabulary of Proverbs, which names the target of that contempt precisely: <span id="cite-1" class="cite-anchor">not merely ignoring correction, but hating the one who gives it.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">That same contempt extends even to God's own law.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> This is the last stop on a road the blessed man never takes. To "sit in the seat of scoffers" is the final exchange in this descent: no longer just sharing their reasoning or their direction, but becoming known as one of them — the difference between passing someone on the road and moving in with them.
+"Scoffer" belongs to the vocabulary of Proverbs, which names the target of that contempt precisely: <span id="cite-1" class="cite-anchor">not merely ignoring correction, but hating the one who gives correction.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">That same contempt extends even to God's own law.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> This is the last stop on a road the blessed man never takes. To "sit in the seat of scoffers" is the final exchange in this descent: no longer just sharing their reasoning or their direction, but becoming known as one of them — the difference between passing someone on the road and moving in with them.
 </p>
 <p>
   <span class="selah-marker">
@@ -851,7 +851,7 @@ The psalmist describes what the blessed man refuses in verse 1, in careful detai
 The three verbs &#8212; walk, stand, sit &#8212; are not decoration. The psalmist uses them to trace a single life moving from casual proximity to settled identity, and the three groups &#8212; the wicked, sinners, scoffers &#8212; deepen in the same direction, from those merely under judgment to those who have grown openly contemptuous of correction. He describes a man who never took even the first step down that path.
 </p>
 <p>
-Wisdom literature was <span class="tooltip">Israel<span class="tooltiptext">The covenant nation descended from Jacob, renamed Israel by God in Genesis 32:28 &#8212; the people among whom this Wisdom literature first took shape.</span></span>'s shared genre with the wider Ancient Near East &#8212; the same kind of instructional collection found in Egyptian and Mesopotamian texts, used to train the young and those who would lead. Like much of that tradition, it was very likely taught aloud long before it was ever gathered into writing <small>(cf. Proverbs 25:1)</small>. Psalm 1 and Psalm 2 together form the entrance to the Psalter: Psalm 1 in the personal <span class="tooltip">piety<span class="tooltiptext">Reverent devotion to God lived out in daily obedience &#8212; not outward religious performance, but a life ordered by His Word.</span></span> of the righteous individual, Psalm 2 in the corporate hope of the coming King. Like the rest of wisdom literature, the psalmist opens with an example to follow rather than a commandment to obey &#8212; the same pattern found in Psalm 32:1 (<em>&#8220;Blessed is the one whose transgression is forgiven&#8221;</em>) and Proverbs 3:13 (<em>&#8220;Blessed is the one who finds wisdom&#8221;</em>), unlike how the Ten Commandments open (<em>&#8220;You shall...&#8221;</em>).
+Wisdom literature was <span class="tooltip">Israel<span class="tooltiptext">The covenant nation descended from Jacob, renamed Israel by God in Genesis 32:28 &#8212; the people among whom this Wisdom literature first took shape.</span></span>'s shared genre with the wider Ancient Near East &#8212; the same kind of instructional collection found in Egyptian and Mesopotamian texts, used to train the young and those who would lead. Like much of that tradition, this literature was very likely taught aloud long before being gathered into writing <small>(cf. Proverbs 25:1)</small>. Psalm 1 and Psalm 2 together form the entrance to the Psalter: Psalm 1 in the personal <span class="tooltip">piety<span class="tooltiptext">Reverent devotion to God lived out in daily obedience &#8212; not outward religious performance, but a life ordered by His Word.</span></span> of the righteous individual, Psalm 2 in the corporate hope of the coming King. Like the rest of wisdom literature, the psalmist opens with an example to follow rather than a commandment to obey &#8212; the same pattern found in Psalm 32:1 (<em>&#8220;Blessed is the one whose transgression is forgiven&#8221;</em>) and Proverbs 3:13 (<em>&#8220;Blessed is the one who finds wisdom&#8221;</em>), unlike how the Ten Commandments open (<em>&#8220;You shall...&#8221;</em>).
 </p>
 <p>
 <span class="tooltip">David<span class="tooltiptext">Israel&#8217;s most celebrated king (c. 1010&#8211;970 BC), military leader, and poet. Attributed with more psalms than any other author &#8212; 73 in the Hebrew tradition. His life provides the historical context for many lament and trust psalms.</span></span> is later called "righteous" not because he never sinned, but because &#8212; like the blessed man here &#8212; he did not belong to the company named in Psalm 1. <span id="cite-3" class="cite-anchor">Psalm 5 ends with him counted among "the righteous," crowned with favor.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
@@ -867,7 +867,7 @@ Wisdom literature was <span class="tooltip">Israel<span class="tooltiptext">The 
 <summary>Fulfillment</summary>
 
 <p>
-No descendant of Adam has ever matched this description of the blessed man. <span id="cite-4" class="cite-anchor">Even David, called righteous in Psalm 5:12, took up the wicked's own counsel: to cover his adultery with Bathsheba, he wrote orders for Joab to place Uriah at the front of the fiercest fighting, then withdraw and leave him to die. David confessed that same plan as sin himself.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">The apostle Paul reaches that same verdict &#8212; none is righteous, not one &#8212; quoting Psalm 14, but applying the very righteous/wicked framework the psalmist lays down here as the Psalter's own starting point.<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Apart from Christ, God holds every reader to this verse as Law &#8212; a standard no reader keeps by trying harder &#8212; exposing every reader's own failure before Christ is ever named as the one who kept it. No one had become this blessed man.
+No descendant of Adam has ever matched this description of the blessed man. <span id="cite-4" class="cite-anchor">Even David, called righteous in Psalm 5:12, took up the wicked's own counsel: to cover his adultery with Bathsheba, he wrote orders for Joab to place Uriah at the front of the fiercest fighting, then withdraw and leave him to die. David confessed that same plan as sin himself.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">The apostle Paul reaches that same verdict &#8212; none is righteous, not one &#8212; quoting Psalm 14, but applying the very righteous/wicked framework the psalmist lays down here as the Psalter's own starting point.<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Apart from Christ, God holds every reader to this verse as Law &#8212; a standard no reader keeps by trying harder &#8212; exposing every reader's own failure before Christ is ever named as the one who kept that standard. No one had become this blessed man.
 </p>
 <p><em>Christ as the Blessed Man</em></p>
 <p>
@@ -875,7 +875,7 @@ No descendant of Adam has ever matched this description of the blessed man. <spa
 Christ is the truly Blessed Man &#8212; the one who never walked in the wicked's counsel, never stood in sinners' way, never sat in scoffers' seat. God blesses believers only because He joins them to Christ, the true <span class="tooltip">firstfruits<span class="tooltiptext">The first portion of a harvest, set apart and offered to God as a pledge that the rest of the crop belongs to Him too (Leviticus 23:10). Paul uses the same image in 1 Corinthians 15:20 for Christ's resurrection guaranteeing believers' own.</span></span> &#8212; and what is true of Him becomes true of believers too.
 </p>
 <p>
-<span id="cite-10" class="cite-anchor">Luther observed that every worldly search for blessedness fails &#8212; the philosophers who sought it in virtue, and the common people who sought it in pleasure, both wandered from it; only the one who loves God's Law has found it.<sup class="ref"><a href="#ref-10">[10]</a></sup></span>
+<span id="cite-10" class="cite-anchor">Luther observed that every worldly search for blessedness fails: the philosophers sought blessedness in virtue, the common people in pleasure, and neither found what they were looking for &#8212; only the one who loves God's Law has.<sup class="ref"><a href="#ref-10">[10]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -883,14 +883,14 @@ Christ is the truly Blessed Man &#8212; the one who never walked in the wicked's
   </span>
 </p>
 <hr>
-<p><em>A Promise Kept Before It Was Fully Understood</em></p>
+<p><em>A Promise Whose Meaning Came Later</em></p>
 <p>
 <span id="cite-7" class="cite-anchor">God had already bound Himself to specific promises behind this blessedness &#8212; to Abraham, that all the families of the earth would be blessed through Christ, his own descendant; to David, that his throne would stand forever in Christ's own eternal kingdom, the kingdom David's throne only foreshadowed.<sup class="ref"><a href="#ref-7">[7]</a></sup></span>
 Every one of them pointed toward a single Blessed Man who had not yet come.
 </p>
 <p>
 <span id="cite-8" class="cite-anchor">Christ, David's own descendant, now holds that throne &#8212; the promise made to David is not a memory but a present reality.<sup class="ref"><a href="#ref-8">[8]</a></sup></span>
-<span id="cite-9" class="cite-anchor">God fulfills that same promise &#8212; a new heart, His Law written within it &#8212; not through human effort, but through what He Himself does in the one joined to Christ.<sup class="ref"><a href="#ref-9">[9]</a></sup></span>
+<span id="cite-9" class="cite-anchor">God fulfills that same promise &#8212; a new heart, inscribed with His Law &#8212; not through human effort, but through what He Himself does in the one joined to Christ.<sup class="ref"><a href="#ref-9">[9]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -903,19 +903,19 @@ Every one of them pointed toward a single Blessed Man who had not yet come.
 <summary>Lessons</summary>
 
 <p>
-<em>Watch the small compromises, not just the big ones.</em> You rarely fall into scoffing in a single step. Notice when casual association with wickedness becomes a position you're comfortable defending, and when a defended position becomes a seat you no longer want to leave. The earlier you notice the walk, the easier it is to turn back.
+<em>Watch the small compromises, not just the big ones.</em> You rarely fall into scoffing in a single step. Notice when casual association with wickedness becomes a position you're comfortable defending, and when a defended position becomes a seat you no longer want to leave. The earlier you notice the walk, the easier turning back becomes.
 </p>
 <p>
 <em>Test every counsel against God's Word, not against a feeling or an experience.</em> Wicked counsel substitutes someone's own reasoning for God's instruction &#8212; and a strong feeling or a personal experience can do the same, quietly replacing Scripture with your own authority. When they conflict, trust the Word, not the feeling.
 </p>
 <p>
-<em>Correction from a person is only the first test &#8212; correction from God's own Word is the real one.</em> The scoffer's contempt starts with hating whoever reproves him, but it doesn't stop there: it reaches all the way to hating God's Word itself, the very thing the blessed man delights in instead (v. 2). When God's Word confronts you, that response &#8212; resentment or delight &#8212; is what actually separates a scoffer from the blessed man.
+<em>Correction from a person is only the first test &#8212; correction from God's own Word is the real one.</em> The scoffer's contempt does not end with hating whoever reproves him &#8212; that contempt reaches all the way to hating God's Word itself, which the blessed man delights in instead (v. 2). When God's Word confronts you, that response &#8212; resentment or delight &#8212; is what actually separates a scoffer from the blessed man.
 </p>
 <p>
-<em>You are not blessed because you have avoided every wicked counsel.</em> No one has. You are blessed because God has joined you to the One who did &#8212; giving you His path as if you had walked it yourself, just as He gives you His righteousness in Psalm 5:12.
+<em>You are not blessed because you have avoided every wicked counsel.</em> No one has. You are blessed because God has joined you to the One who did &#8212; giving you His path as if you had walked that path yourself, just as He gives you His righteousness in Psalm 5:12.
 </p>
 <p>
-<em>What you turn toward defines the blessed life as much as what you avoid.</em> Refusing bad company is the first movement, not the whole of it &#8212; delight in God's Law, taken up in the next verse, is where the blessed life actually lives.
+<em>What you turn toward defines the blessed life as much as what you avoid.</em> Refusing bad company is the first movement, not the whole of the blessed life &#8212; delight in God's Law, taken up in the next verse, is where the blessed life actually lives.
 </p>
 <p>
   <span class="selah-marker">
@@ -939,10 +939,10 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 <div class="ref-list">
   <ol>
     <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Proverbs 9:8 &#8212; <em>"Do not reprove a scoffer, or he will hate you; reprove a wise man, and he will love you."</em> The scoffer's contempt for correction is not passive disinterest but active hostility toward the one who corrects him.</li>
-    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Psalm 119:51 &#8212; <em>"The insolent utterly deride me, but I do not turn away from your law."</em> The scoffer's derision is not limited to personal rebuke &#8212; it reaches the one who keeps God's law simply for keeping it.</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Psalm 119:51 &#8212; <em>"The insolent utterly deride me, but I do not turn away from your law."</em> The scoffer's derision is not limited to personal rebuke &#8212; that derision reaches even the one who keeps God's law for its own sake.</li>
     <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Psalm 5:5, 11-12 &#8212; David distinguishes himself throughout the psalm from "the boastful" and "evildoers" (v. 5) and aligns himself with "those who take refuge" in God (v. 11); the psalm's closing declaration that God "bless[es] the righteous" and "cover[s] him with favor as with a shield" (v. 12) is David's own confident conclusion about himself, not a general statement about someone else.</li>
     <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> 2 Samuel 11 &#8212; David's adultery with Bathsheba, and the written order to Joab that placed Uriah at the front of the fiercest fighting so he would be killed. Psalm 51:1-4 &#8212; David's own confession of that same sin.</li>
-    <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Romans 3:10-12 &#8212; Paul's verdict that none is righteous quotes Psalm 14:1-3 (repeated in Psalm 53:1-3), not this psalm directly &#8212; but it applies the same righteous/wicked framework Psalm 1 establishes as the Psalter's own doorway category.</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Romans 3:10-12 &#8212; Paul's verdict that none is righteous quotes Psalm 14:1-3 (repeated in Psalm 53:1-3), not this psalm directly &#8212; but that verdict applies the same righteous/wicked framework Psalm 1 establishes as the Psalter's own doorway category.</li>
     <li id="ref-6"><a href="#cite-6" class="ref-back">↩</a> Martin Luther, commentary on Psalm 1, from his second lecture series on the Psalms (Wittenberg, 1519): "This Psalm is to be understood of Christ only. He is the mark and the goal to which the man that is 'blessed' is to direct all his aims." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
     <li id="ref-7"><a href="#cite-7" class="ref-back">↩</a> Genesis 12:3 &#8212; <em>"...and in you all the families of the earth shall be blessed."</em> Galatians 3:16 &#8212; Paul reads that promised "offspring" as one descendant, not many: Christ. 2 Samuel 7:12-16 &#8212; God's promise to David that his throne would be established forever. Luke 1:32-33 &#8212; the angel Gabriel tells Mary that Christ will reign on David's throne forever, in a kingdom that will never end. Both promises stand behind the blessedness Psalm 1:1 describes &#8212; a bond God had already made.</li>
     <li id="ref-8"><a href="#cite-8" class="ref-back">↩</a> Acts 2:29-36 &#8212; Peter argues at Pentecost that David, though dead and buried, spoke of one of his own descendants whom God would seat on his throne; that descendant is Jesus, whom God raised and exalted. The promise to David is fulfilled in a living king, not a historical memory.</li>
@@ -1022,7 +1022,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 </span>
 
 <p>
-"His delight" names an actual desire: this man wants God's instruction, rather than merely enduring it.
+"His delight" names an actual desire: this man wants God's instruction, rather than merely enduring the law.
 </p>
 <hr>
 
@@ -1067,7 +1067,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 </span>
 
 <p>
-<span id="cite-1" class="cite-anchor">David uses this same phrase &#8212; <em>torat YHWH</em>, "the law of the LORD" &#8212; to open one of the Psalter's own most direct praises of it.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> This man's delight rests on the same law David elsewhere calls perfect.
+<span id="cite-1" class="cite-anchor">David uses this same phrase &#8212; <em>torat YHWH</em>, "the law of the LORD" &#8212; to open one of the Psalter's own most direct praises of that law.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> This man's delight rests on the same law David elsewhere calls perfect.
 </p>
 <hr>
 
@@ -1112,7 +1112,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 </span>
 
 <p>
-<em>Torah</em> is named twice, framing this whole verse: what he delights in, he also meditates on. "Meditates" pictures reading this law out loud in a low murmur, not scanning it silently with the eyes &#8212; <span id="cite-2" class="cite-anchor">the same word and the same phrase <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on it day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span> was charged to keep in his own mouth.</span><sup class="ref"><a href="#ref-2">[2]</a></sup>
+<em>Torah</em> is named twice, framing this whole verse: what he delights in, he also meditates on. "Meditates" pictures reading this law out loud in a low murmur, not scanning this law silently with the eyes &#8212; <span id="cite-2" class="cite-anchor">the same word and the same phrase <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on that law day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span> was charged to keep in his own mouth.</span><sup class="ref"><a href="#ref-2">[2]</a></sup>
 </p>
 <hr>
 
@@ -1137,7 +1137,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 </span>
 
 <p>
-The psalmist named three things the blessed man refuses in verse 1 &#8212; the wicked's counsel, the sinners' way, the scoffers' seat. In verse 2 he names what actually fills that emptied space: delight in the LORD's own Torah, returned to day and night.
+In verse 1 the psalmist named what the blessed man refuses &#8212; the wicked's counsel, the sinners' way, the scoffers' seat. In verse 2 he names what actually fills that emptied space: delight in the LORD's own Torah, returned to day and night.
 </p>
 <p>
   <span class="selah-marker">
@@ -1172,11 +1172,11 @@ Together, the psalmist lays out the psalm's whole choice across verses 1 and 2 &
 <summary>Fulfillment</summary>
 
 <p>
-Apart from Christ, God requires this same devotion from every reader &#8212; constant, day and night &#8212; a standard no one sustains by their own strength. <span id="cite-3" class="cite-anchor">The apostle Paul confessed as much centuries after this psalm was written: he delighted in God's law in his inner being, yet found sin itself waging war against that very delight, holding him captive to sin's law instead.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> His delight was genuine, but it was not the constant, day and night devotion God requires.
+Apart from Christ, God requires this same devotion from every reader &#8212; constant, day and night &#8212; a standard no one sustains by their own strength. <span id="cite-3" class="cite-anchor">The apostle Paul confessed as much centuries after this psalm was written: he delighted in God's law in his inner being, yet found sin itself waging war against that very delight, holding him captive to sin's law instead.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> His delight was genuine, but that delight was not the constant, day and night devotion God requires.
 </p>
 <p><em>Joshua's Charge, and a Greater Joshua</em></p>
 <p>
-God first gave this exact charge to Joshua alone: meditate on this Book of the Law day and night, and prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup> Where Joshua was charged to meditate on God's Law, Christ lived it perfectly: <span id="cite-4" class="cite-anchor">Hebrews puts this same psalm's words in Christ's own mouth at His incarnation &#8212; "I have come to do your will, O God" &#8212; and the psalm itself continues, one verse later, "I delight to do your will, O my God; your law is within my heart."<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
+God first gave this exact charge to Joshua alone: meditate on this Book of the Law day and night, and prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup> Where Joshua was charged to meditate on God's Law, Christ lived that Law perfectly: <span id="cite-4" class="cite-anchor">Hebrews puts this same psalm's words in Christ's own mouth at His incarnation &#8212; "I have come to do your will, O God" &#8212; and the psalm itself continues, one verse later, "I delight to do your will, O my God; your law is within my heart."<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
 </p>
 <p>
 This same Joshua led Israel into the promised land <span id="cite-5" class="cite-anchor">&#8212; but the rest they found there was not the final rest God had promised<sup class="ref"><a href="#ref-5">[5]</a></sup></span>, and his own name, <em>Yehoshua</em>, "the LORD saves," remained only a promise as well. Christ fulfills both: He leads His people into the true rest Joshua's own conquest only foreshadowed, and carries that same name, in its later contracted form (<em>Yeshua</em>) &#8212; the LORD who saves, come in the flesh.
@@ -1189,7 +1189,7 @@ This same Joshua led Israel into the promised land <span id="cite-5" class="cite
 <hr>
 <p><em>The Spirit Gives What Effort Could Not</em></p>
 <p>
-<span id="cite-6" class="cite-anchor">Sin does not surrender the moment a believer comes to faith &#8212; it keeps waging the same war that held Paul captive. But a believer's righteousness before God was never determined by winning that war. What the law could not produce because human weakness stood in the way, God accomplished by sending His own Son. At the cross, He bore the guilt of every failure to delight in God's law Himself, so that the very righteousness this law requires is fulfilled in those who walk by the Spirit.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> This delight is not a debt believers still owe &#8212; it is given to those <span class="tooltip">joined to Christ<span class="tooltiptext">United to Christ through faith and baptism, so that what is true of Him becomes true of those united to Him as well (Romans 6:5).</span></span>, the fruit of His own Spirit at work in them.
+<span id="cite-6" class="cite-anchor">Sin does not surrender the moment a believer comes to faith &#8212; the same war that held Paul captive continues. But a believer's righteousness before God was never determined by winning that war. What the law could not produce because human weakness stood in the way, God accomplished by sending His own Son. At the cross, He bore the guilt of every failure to delight in God's law Himself, so that the very righteousness this law requires is fulfilled in those who walk by the Spirit.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> This delight is not a debt believers still owe, but a gift given to those <span class="tooltip">joined to Christ<span class="tooltiptext">United to Christ through faith and baptism, so that what is true of Him becomes true of those united to Him as well (Romans 6:5).</span></span>, the fruit of His own Spirit at work in them.
 </p>
 <p>
   <span class="selah-marker">
@@ -1202,16 +1202,16 @@ This same Joshua led Israel into the promised land <span id="cite-5" class="cite
 <summary>Lessons</summary>
 
 <p>
-<em>Notice whether God's Word feels like duty or delight.</em> Duty counts down the minutes; delight loses track of them. If your own time in God's Word feels mostly like a chore, name that gap honestly before God rather than covering over it.
+<em>Notice whether God's Word feels like duty or delight.</em> Duty counts down the minutes; delight loses track of them. If your own time in God's Word feels mostly like a chore, name that gap honestly before God rather than hiding from Him.
 </p>
 <p>
-<em>Delight shows itself in return, not in a single reading.</em> Delight held "day and night" is not one appointment kept each morning &#8212; it is a mind that comes back to God's Word again during the day: at a hard decision, at a temptation, at a sleepless hour. Meditation is repetition, not a single pass.
+<em>Delight shows itself in return, not in a single reading.</em> Delight held "day and night" is not one appointment kept each morning &#8212; that delight is a mind that comes back to God's Word again during the day: at a hard decision, at a temptation, at a sleepless hour. Meditation is repetition, not a single pass.
 </p>
 <p>
-<em>A thin or inconsistent delight is not fixed by trying harder.</em> Paul himself delighted in God's law and still lost the fight to live it out on his own strength <small>(cf. Romans 7:22-23)</small>. When you notice that same struggle, ask God instead &#8212; the same Spirit who produced this delight perfectly in Christ can produce it in you too.
+<em>A thin or inconsistent delight is not fixed by trying harder.</em> Paul himself delighted in God's law and still lost the fight to carry that delight into practice on his own strength <small>(cf. Romans 7:22-23)</small>. When you notice that same struggle, ask God instead &#8212; the same Spirit who produced this delight perfectly in Christ can give you that same delight too.
 </p>
 <p>
-<em>Rest in this delight instead of performing it.</em> The next time you doubt whether you love God's Word enough, remember: Christ bore the guilt of that very shortfall at the cross, and gives you His own delight as if you had lived it yourself &#8212; already complete, already given.
+<em>Rest in this delight, not performing devotion.</em> The next time you doubt whether you love God's Word enough, remember: Christ bore the guilt of that very shortfall at the cross, and gives you His own delight as if you had lived that delight yourself &#8212; already complete, already given.
 </p>
 <p>
   <span class="selah-marker">
@@ -1223,7 +1223,7 @@ This same Joshua led Israel into the promised land <span id="cite-5" class="cite
 <details class="study-section">
 <summary>Prayer</summary>
 <p>
-Lord, I have not delighted in Your Torah as I should. My time in Your Word is inconsistent, more duty than desire &#8212; I return only when convenient, not whenever the chance comes. Christ alone delighted in Your will without wavering, Your law already within His heart before it was ever written on mine. At the cross, He bore the guilt of that very failure Himself. Forgive what is true of me for His sake, and give me His own delight by Your Spirit, not my own effort, so that Your Word planted in me bears fruit that does not wither.
+Lord, I have not delighted in Your Torah as I should. My time in Your Word is inconsistent, more duty than desire &#8212; I return only when convenient, not whenever the chance comes. Christ alone delighted in Your will without wavering, Your law already within His heart before that law was ever written on mine. At the cross, He bore the guilt of that very failure Himself. Forgive what is true of me for His sake, and give me His own delight by Your Spirit, not my own effort, so that Your Word planted in me bears fruit that does not wither.
 </p>
   <span class="selah-marker">
     <em>AMEN</em>
@@ -1323,7 +1323,7 @@ Lord, I have not delighted in Your Torah as I should. My time in Your Word is in
         <span class="definition-list">
             Qal passive participle of <span dir="rtl">שָׁתַל</span> (shatal) &#8212; to transplant
             <hr>
-			Not a tree that grew up wild wherever it happened to find water &#8212; one someone else dug up and set there on purpose.
+			Not a tree that grew up wild and found water wherever chance allowed &#8212; one someone else dug up and set there on purpose.
         </span>
         <span class="tt-divider"></span>
         <small class="references">
@@ -1369,7 +1369,7 @@ An irrigation channel supplies water no matter the season &#8212; a wild streamb
             <span class="transliteration">(piryo)</span>
         </span>
         <span class="definition-list">
-            <span dir="rtl">פְּרִי</span> (peri) + 3ms suffix &#8212; produce, the yield a thing exists to give
+            <span dir="rtl">פְּרִי</span> (peri) + 3ms suffix &#8212; produce, the yield a tree exists to give
         </span>
         <span class="tt-divider"></span>
         <small class="references">
@@ -1389,7 +1389,7 @@ An irrigation channel supplies water no matter the season &#8212; a wild streamb
         <span class="definition-list">
             <span dir="rtl">עֵת</span> (et) + 3ms suffix &#8212; its appointed time
             <hr>
-			Not fruit on demand, and not fruit constantly &#8212; fruit when the season for it actually arrives.
+			Not fruit on demand, and not fruit constantly &#8212; fruit when its own season actually arrives.
         </span>
         <span class="tt-divider"></span>
         <small class="references">
@@ -1399,7 +1399,7 @@ An irrigation channel supplies water no matter the season &#8212; a wild streamb
 </span>
 
 <p>
-The fruit is not forced or hurried into being &#8212; it simply arrives, the natural outcome of everything already arranged for it.
+Not forced or hurried into being, the fruit simply arrives &#8212; the natural outcome of everything already arranged in advance.
 </p>
 <hr>
 
@@ -1473,7 +1473,7 @@ Fruit is what the tree produces; the leaf shows whether the tree itself is still
         <span class="definition-list">
             Hiphil imperfect of <span dir="rtl">צָלַח</span> (tsalach) &#8212; to succeed, to advance
             <hr>
-			Hiphil, not the plainer Qal the same root can take &#8212; the form used elsewhere for actively bringing something to success. Here it lands on the man himself: not prosperity that merely happens to him, but success that follows from what he does.
+			Hiphil, not the plainer Qal the same root can take &#8212; the form used elsewhere for actively bringing about success. Here the Hiphil lands on the man himself: not prosperity that merely happens to him, but success that follows from what he does.
         </span>
         <span class="tt-divider"></span>
         <small class="references">
@@ -1483,7 +1483,7 @@ Fruit is what the tree produces; the leaf shows whether the tree itself is still
 </span>
 
 <p>
-Having pictured this man as a fruitful, unwithering tree, the psalmist now says the same thing plainly: whatever he does succeeds. <span id="cite-2" class="cite-anchor">This is the same word used in God's charge to Joshua: meditate on this Book of the Law day and night, and you will make your own way prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+Having pictured this man as a fruitful, unwithering tree, the psalmist now says the same truth plainly: whatever he does succeeds. <span id="cite-2" class="cite-anchor">This is the same word used in God's charge to Joshua: meditate on this Book of the Law day and night, and you will make your own way prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -1499,7 +1499,7 @@ Having pictured this man as a fruitful, unwithering tree, the psalmist now says 
 The psalmist already named what this man refuses and what he loves in verses 1 and 2. In verse 3 he shows what that refusal and love actually produce: a tree, deliberately planted, reliably watered, fruitful in season, never withering.
 </p>
 <p>
-In verse 1 this man avoided wickedness completely. In verse 2 he returned to God's law constantly. In verse 3 he now succeeds completely &#8212; not in some of what he does, but in all of it. Whether total or constant, none of it is partial.
+In verse 1 this man avoided wickedness completely. In verse 2 he returned to God's law constantly. In verse 3 he now succeeds completely &#8212; not in some of what he does, but in everything he does. Whether total or constant, none of this is partial.
 </p>
 <p>
 The psalmist will directly contrast this picture in verse 4: <em>&#8220;The wicked are not so, but are like chaff that the wind drives away.&#8221;</em> This tree has a real planting and a real water source; the wicked have neither &#8212; only wind.
@@ -1518,14 +1518,14 @@ Across verses 1 through 3, the psalmist completes one whole portrait: a man who 
 <summary>Fulfillment</summary>
 
 <p>
-<span class="tooltip">Jeremiah<span class="tooltiptext">A major prophet of Judah (c. 627&#8211;586 BC), called by God from his youth to warn a nation that had abandoned Him of the judgment coming through Babylon (Jeremiah 1:4-10). Traditionally credited with Lamentations, his mourning over Jerusalem's eventual fall. He also prophesied a new covenant God would one day write on His people's hearts, forgiving their sin &#8212; the same covenant the New Testament identifies as fulfilled in Christ (Jeremiah 31:31-34; Hebrews 8:6-13).</span></span> wrote this same simile &#8212; a tree, planted, fruitful, never withering &#8212; and did not live it out himself. <span id="cite-3" class="cite-anchor">His own words pictured leaves that stay green and fruit that never stops coming &#8212; yet his own ministry brought him prison and rejection, and a grief so deep he cursed the day he was born.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> Apart from Christ, God holds every reader to this verse as Law: total fruitfulness, total success &#8212; a standard no circumstance guarantees and no effort secures.
+<span class="tooltip">Jeremiah<span class="tooltiptext">A major prophet of Judah (c. 627&#8211;586 BC), called by God from his youth to warn a nation that had abandoned Him of the judgment coming through Babylon (Jeremiah 1:4-10). Traditionally credited with Lamentations, his mourning over Jerusalem's eventual fall. He also prophesied a new covenant God would one day write on His people's hearts, forgiving their sin &#8212; the same covenant the New Testament identifies as fulfilled in Christ (Jeremiah 31:31-34; Hebrews 8:6-13).</span></span> wrote this same simile &#8212; a tree, planted, fruitful, never withering &#8212; and did not live that picture out himself. <span id="cite-3" class="cite-anchor">His own words pictured leaves that stay green and fruit that never stops coming &#8212; yet his own ministry brought him prison and rejection, and a grief so deep he cursed the day he was born.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> Apart from Christ, God holds every reader to this verse as Law: total fruitfulness, total success &#8212; a standard no circumstance guarantees and no effort secures.
 </p>
 <p><em>The Tree of Life, Lost and Restored</em></p>
 <p>
 <span id="cite-4" class="cite-anchor">Eden itself held a tree of life, planted in a garden watered by a river flowing out of Eden.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">That tree was lost to mankind at the Fall, guarded away by a cherub and a flaming sword.<sup class="ref"><a href="#ref-5">[5]</a></sup></span>
 </p>
 <p>
-<span id="cite-6" class="cite-anchor">Ezekiel later saw it promised again, multiplied and escalated: trees whose leaves never wither and whose fruit never fails, bearing fresh fruit every month, watered by a river flowing from God's own sanctuary, their leaves for healing.<sup class="ref"><a href="#ref-6">[6]</a></sup></span>
+<span id="cite-6" class="cite-anchor">Ezekiel later saw the tree of life promised again, multiplied and escalated: trees whose leaves never wither and whose fruit never fails, bearing fresh fruit every month, watered by a river flowing from God's own sanctuary, their leaves for healing.<sup class="ref"><a href="#ref-6">[6]</a></sup></span>
 </p>
 <p>
 <span id="cite-7" class="cite-anchor">That river flows still, from the throne of God and of the Lamb.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> <span id="cite-8" class="cite-anchor">The tree of life stands again in the <span class="tooltip">new creation<span class="tooltiptext">The renewed heavens and earth John saw in his vision &#8212; "a new heaven and a new earth," where God dwells with His people and death is no more (Revelation 21:1-4). Not a discarded world replaced by another, but this one made whole: everything the Fall broke, undone.</span></span> &#8212; fruit every month, leaves for the healing of the nations, the very tree Eden lost, its access now secured forever by the Lamb who was slain, never to be guarded away again.<sup class="ref"><a href="#ref-8">[8]</a></sup></span>
@@ -1538,16 +1538,16 @@ Across verses 1 through 3, the psalmist completes one whole portrait: a man who 
 <hr>
 <p><em>Fruit Comes from Abiding, Not Effort</em></p>
 <p>
-Christ alone is this tree. <span id="cite-9" class="cite-anchor">He always did what pleased His Father,<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">and could say His work was accomplished even before the cross<sup class="ref"><a href="#ref-10">[10]</a></sup></span> &#8212; the one man for whom this verse was never Law, because He never once fell short of it.
+Christ alone is this tree. <span id="cite-9" class="cite-anchor">He always did what pleased His Father,<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">and could say His work was accomplished even before the cross<sup class="ref"><a href="#ref-10">[10]</a></sup></span> &#8212; the one man for whom this verse was never Law, because He never once fell short of its demand.
 </p>
 <p>
-<span id="cite-11" class="cite-anchor">The fruit Psalm 1:3 promises was never produced by trying harder &#8212; it comes only to those who remain joined to Christ, the way a branch remains joined to its vine: "I am the true vine... whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."<sup class="ref"><a href="#ref-11">[11]</a></sup></span> Whatever <span class="tooltip">fruit<span class="tooltiptext">Not a literal harvest, but what a life joined to Christ actually produces: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control &#8212; what Paul calls "the fruit of the Spirit" (Galatians 5:22-23). The Spirit is its source, not the believer's own willpower alone &#8212; but the fight to "keep in step with the Spirit" (Galatians 5:25) is still real and active, not passive.</span></span> appears in a believer's life is not self-grown; it is His life, flowing through them.
+<span id="cite-11" class="cite-anchor">The fruit Psalm 1:3 promises was never produced by trying harder &#8212; that fruit comes only to those who remain joined to Christ, the way a branch remains joined to its vine: "I am the true vine... whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."<sup class="ref"><a href="#ref-11">[11]</a></sup></span> Whatever <span class="tooltip">fruit<span class="tooltiptext">Not a literal harvest, but what a life joined to Christ actually produces: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control &#8212; what Paul calls "the fruit of the Spirit" (Galatians 5:22-23). The Spirit is its source, not the believer's own willpower alone &#8212; but the fight to "keep in step with the Spirit" (Galatians 5:25) is still real and active, not passive.</span></span> appears in a believer's life is not self-grown, but His life, flowing through them.
 </p>
 <p>
-Eden's promise and Ezekiel's vision both came before their fulfillment in Christ. Believers wait the same way now: Christ has already finished their restoration, but they do not yet experience it fully &#8212; that waits for their own death, or for His return when all things are raised and completed. <span id="cite-12" class="cite-anchor">Believers now carry only the firstfruits of the Spirit, groaning as they wait for the redemption of their own bodies.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> The Church already tastes God's kingdom now, in real fruit and real life &#8212; but the unceasing tree of Revelation 22 still waits for the resurrection.
+Eden's promise and Ezekiel's vision both came before their fulfillment in Christ. Believers wait the same way now: Christ has already finished their restoration, but they do not yet experience that restoration fully &#8212; that waits for their own death, or for His return when everything is raised and completed. <span id="cite-12" class="cite-anchor">Believers now carry only the firstfruits of the Spirit, groaning as they wait for the redemption of their own bodies.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> The Church already tastes God's kingdom now, in real fruit and real life &#8212; but the unceasing tree of Revelation 22 still waits for the resurrection.
 </p>
 <p>
-In Christ, real prosperity is often hidden inside suffering, not visible as comfort or reward. <span id="cite-13" class="cite-anchor">This is the same pattern as the cross itself: a single grain of wheat has to fall into the ground and die before it can bear any fruit at all.<sup class="ref"><a href="#ref-13">[13]</a></sup></span> Christ's own apparent defeat produced the greatest fruit there is &#8212; the salvation of the world. <span id="cite-14" class="cite-anchor">A believer persecuted for holding to God's Word can be genuinely prospering the whole time, even while the persecution looks like nothing but defeat.<sup class="ref"><a href="#ref-14">[14]</a></sup></span>
+In Christ, real prosperity is often hidden inside suffering, not visible as comfort or reward. <span id="cite-13" class="cite-anchor">This is the same pattern as the cross itself: a single grain of wheat has to fall into the ground and die before that grain can bear any fruit at all.<sup class="ref"><a href="#ref-13">[13]</a></sup></span> Christ's own apparent defeat produced the greatest fruit there is &#8212; the salvation of the world. <span id="cite-14" class="cite-anchor">A believer persecuted for holding to God's Word can be genuinely prospering the whole time, even while the persecution looks like nothing but defeat.<sup class="ref"><a href="#ref-14">[14]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -1560,16 +1560,16 @@ In Christ, real prosperity is often hidden inside suffering, not visible as comf
 <summary>Lessons</summary>
 
 <p>
-<em>Ask where your fruit is actually coming from.</em> A tree doesn't bear fruit merely by trying harder &#8212; its fruit depends on who planted it and where its water comes from, and the same is true of you: real fruit still takes real effort, but its source is being joined to Christ, not your own willpower. If your effort leaves you anxious or quietly exhausted, that's usually a sign you're straining on your own strength instead of drawing on His strength, not evidence that you're doing well. When you notice that, stop straining and ask God instead to give you, by His Spirit, the same fruit He produced perfectly in Christ.
+<em>Ask where your fruit is actually coming from.</em> A tree doesn't bear fruit merely by trying harder &#8212; its fruit depends on who planted the tree and where its water comes from, and the same is true of you: real fruit still takes real effort, but its source is being joined to Christ, not your own willpower. If your effort leaves you anxious or quietly exhausted, that's usually a sign you're straining on your own strength instead of drawing on His strength, not evidence that you're doing well. When you notice that, stop straining and ask God instead to give you, by His Spirit, the same fruit He produced perfectly in Christ.
 </p>
 <p>
-<em>A fruitless season doesn't mean you're spiritually dead.</em> Fruit is not the only sign of life &#8212; the leaf is too, and it can stay green through a season with nothing yet to harvest. If you can't point to answered prayer, visible ministry, or a changed situation right now, ask instead: are you still opening God's Word? Still confessing your need to Him? Still trusting that He is at work even though you can't see it yet? If the answer is yes, that's the leaf, still green. Don't stop &#8212; only a dead tree stops leafing out completely, and the fruit still comes in its own season.
+<em>A fruitless season doesn't mean you're spiritually dead.</em> Fruit is not the only sign of life &#8212; the leaf is too, staying green through a season with nothing yet to harvest. If you can't point to answered prayer, visible ministry, or a changed situation right now, ask instead: are you still opening God's Word? Still confessing your need to Him? Still trusting that He is at work even though you can't see that work yet? If the answer is yes, that's the leaf, still green. Don't stop &#8212; only a dead tree stops leafing out completely, and the fruit still comes in its own season.
 </p>
 <p>
-<em>You were never meant to earn this on your own.</em> Even Jeremiah, who wrote this very picture, didn't live up to it &#8212; his own life brought him prison, rejection, and grief he never asked for. Christ alone earned that record of total fruitfulness, total success, and gives it &#8212; not to anyone who tries hard enough, but to everyone joined to Him, as if they had lived it themselves. That settles your standing before God; it doesn't mean the fruit He's still growing in you stops mattering.
+<em>You were never meant to earn this on your own.</em> Even Jeremiah, who wrote this very picture, didn't live up to that picture &#8212; his own life brought him prison, rejection, and grief he never asked for. Christ alone earned that total fruitfulness and total success, and gives that fruitfulness &#8212; not to anyone who tries hard enough, but to everyone joined to Him, as if they had lived that fruitfulness themselves. That settles your standing before God without erasing the fruit He is still growing in you.
 </p>
 <p>
-<em>What you have now is real, but it isn't everything.</em> What God is producing in your life right now is genuine &#8212; not a lesser version of the real thing. But it is still mixed with real sin and real struggle; it is not yet the complete, uninterrupted fruitfulness God has promised. This is only the firstfruits of what the Spirit is doing in you, not the finished harvest. When Christ returns, that struggle ends, and what is growing in you now will be complete and will never fail again.
+<em>What you have now is real, but not yet everything.</em> What God is producing in your life right now is genuine &#8212; not a lesser version of what is to come. But this fruit is still mixed with real sin and real struggle &#8212; not yet the complete, uninterrupted fruitfulness God has promised. This is only the firstfruits of what the Spirit is doing in you, not the finished harvest. When Christ returns, that struggle ends, and what is growing in you now will be complete and will never fail again.
 </p>
 <p>
   <span class="selah-marker">
@@ -1665,7 +1665,7 @@ Lord, I do not prosper in all that I do. Too often I strain for fruit under my o
 </span>
 
 <p>
-"The wicked" is the same word used in verse 1 &#8212; there it named counsel the blessed man refuses; here, for the first time, the psalmist turns to describe the wicked themselves. The wicked are not established at all: none of verse 1's settled avoidance, none of verse 2's constant devotion.
+"The wicked" is the same word used in verse 1 &#8212; there the word named counsel the blessed man refuses; here, for the first time, the psalmist turns to describe the wicked themselves. The wicked are not established at all: none of verse 1's settled avoidance, none of verse 2's constant devotion.
 </p>
 <hr>
 
@@ -1701,7 +1701,7 @@ Unlike the tree of verse 3, planted on purpose and bearing fruit in its season, 
             <span class="transliteration">(ruach)</span>
         </span>
         <span class="definition-list">
-            The same word Scripture also uses for breath and for Spirit, depending on context &#8212; here it names plainly ordinary wind, the one force chaff has no weight to resist.
+            The same word Scripture also uses for breath and for Spirit, depending on context &#8212; here the word names plainly ordinary wind, the one force chaff has no weight to resist.
         </span>
         <span class="tt-divider"></span>
         <small class="references">
@@ -1719,7 +1719,7 @@ Unlike the tree of verse 3, planted on purpose and bearing fruit in its season, 
             <span class="transliteration">(tiddefennu)</span>
         </span>
         <span class="definition-list">
-            Qal imperfect of <span dir="rtl">נָדַף</span> (nadaph) &#8212; to drive away, scatter, chase &#8212; agreeing with the feminine <em>ruach</em>, with a pronoun suffix, "drives it away." The imperfect pictures continuing action: not one gust, but chaff endlessly at the mercy of whatever wind happens to blow.
+            Qal imperfect of <span dir="rtl">נָדַף</span> (nadaph) &#8212; to drive away, scatter, chase &#8212; agreeing with the feminine <em>ruach</em>, with a pronoun suffix, translated literally as "drives the chaff away." The imperfect pictures continuing action: not one gust, but chaff endlessly at the mercy of whatever wind happens to blow.
         </span>
         <span class="tt-divider"></span>
         <small class="references">
@@ -1730,7 +1730,7 @@ Unlike the tree of verse 3, planted on purpose and bearing fruit in its season, 
 <strong>.</strong>
 
 <p>
-The wicked have no root, no water &#8212; only wind, carrying them wherever it blows.
+The wicked have no root, no water &#8212; only wind, carrying them with no direction of their own.
 </p>
 <p>
   <span class="selah-marker">
@@ -1749,7 +1749,7 @@ Across verses 1 through 3, the psalmist built one whole portrait: a man who refu
 "The wicked are not so" already says all there is to say about them; "they are like chaff" gives that emptiness a picture to be seen.
 </p>
 <p>
-The wicked's emptiness is only visible against everything already said about the blessed man in verses 1 through 3. The psalmist draws the same contrast again when the psalm closes in verse 6. But that verse names the righteous and the wicked side by side on its own &#8212; it doesn't need earlier verses the way verse 4 does.
+The wicked's emptiness is only visible against everything already said about the blessed man in verses 1 through 3. The psalmist draws the same contrast again when the psalm closes in verse 6. But that verse names the righteous and the wicked side by side on its own &#8212; verse 6 doesn't need earlier verses the way verse 4 does.
 </p>
 <p>
   <span class="selah-marker">
@@ -1762,11 +1762,11 @@ The wicked's emptiness is only visible against everything already said about the
 <summary>Fulfillment</summary>
 
 <p>
-Apart from Christ, God holds every reader to this warning as Law: no root, no water &#8212; only wind, carrying them wherever it blows. <span id="cite-1" class="cite-anchor">The very next verse names the verdict this brings: "the wicked will not stand in the judgment, nor sinners in the congregation of the righteous."<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+Apart from Christ, God holds every reader to this warning as Law: no root, no water &#8212; only wind, carrying them with no direction of their own. <span id="cite-1" class="cite-anchor">The very next verse names the verdict this brings: "the wicked will not stand in the judgment, nor sinners in the congregation of the righteous."<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
 </p>
 <p><em>Israel Blown Away Like Chaff</em></p>
 <p>
-God gave this exact image to a real, historical people. <span id="cite-2" class="cite-anchor">Unfaithful <span class="tooltip">Israel<span class="tooltiptext">The northern kingdom, called by God through the prophet Hosea (8th century BC) to return from idolatry before its fall to Assyria in 722 BC. Hosea's own marriage to an unfaithful wife pictured Israel's unfaithfulness to God (Hosea 1:2-3); he also promised God would one day heal their apostasy and love them freely again (Hosea 14:4).</span></span> would be scattered "like the chaff that swirls from the threshing floor."<sup class="ref"><a href="#ref-2">[2]</a></sup></span> For centuries Israel <span class="tooltip">broke covenant<span class="tooltiptext">The Sinai covenant bound Israel to the LORD alone, promising blessing for obedience and curses &#8212; including being scattered among the nations &#8212; for persistent unfaithfulness (Deuteronomy 28:15, 64). Idolatry was the breach Hosea confronted for decades before that curse came due.</span></span> &#8212; then was carried off into real <span class="tooltip">exile<span class="tooltiptext">Assyria captured Samaria and deported Israel's population to Halah, the Habor river region, and the cities of the Medes (2 Kings 17:6) &#8212; a judgment 2 Kings itself attributes directly to Israel's persistent idolatry (2 Kings 17:7).</span></span> by a wind it could not resist, just as Psalm 1:4 warns. Israel's exile foreshadows the final, complete separation still to come.
+God gave this exact image to a real, historical people. <span id="cite-2" class="cite-anchor">Unfaithful <span class="tooltip">Israel<span class="tooltiptext">The northern kingdom, called by God through the prophet Hosea (8th century BC) to return from idolatry before its fall to Assyria in 722 BC. Hosea's own marriage to an unfaithful wife pictured Israel's unfaithfulness to God (Hosea 1:2-3); he also promised God would one day heal their apostasy and love them freely again (Hosea 14:4).</span></span> would be scattered "like the chaff that swirls from the threshing floor."<sup class="ref"><a href="#ref-2">[2]</a></sup></span> For centuries Israel <span class="tooltip">broke covenant<span class="tooltiptext">The Sinai covenant bound Israel to the LORD alone, promising blessing for obedience and curses &#8212; including being scattered among the nations &#8212; for persistent unfaithfulness (Deuteronomy 28:15, 64). Idolatry was the breach Hosea confronted for decades before that curse came due.</span></span> &#8212; then was carried off into real <span class="tooltip">exile<span class="tooltiptext">Assyria captured Samaria and deported Israel's population to Halah, the Habor river region, and the cities of the Medes (2 Kings 17:6) &#8212; a judgment 2 Kings itself attributes directly to Israel's persistent idolatry (2 Kings 17:7).</span></span> by a wind Israel could not resist, just as Psalm 1:4 warns. Israel's exile foreshadows the final, complete separation still to come.
 </p>
 <p>
   <span class="selah-marker">
@@ -1795,10 +1795,10 @@ God gave this exact image to a real, historical people. <span id="cite-2" class=
 <summary>Lessons</summary>
 
 <p>
-<em>Ask what you're actually rooted in.</em> If your peace depends on your circumstances staying steady, your reputation holding up, or your own strength not running out, you have no more root than the chaff this verse pictures &#8212; nothing holding you in place once the wind comes. Ask God to plant you instead in something the wind can't touch: your standing in Christ.
+<em>Ask what you're actually rooted in.</em> If your peace depends on your circumstances staying steady, your reputation holding up, or your own strength not running out, you have no more root than the chaff this verse pictures &#8212; nothing holding you in place once the wind comes. Ask God to plant you instead in ground the wind can't touch: your standing in Christ.
 </p>
 <p>
-<em>Don't assume this verse is about someone else.</em> It's easy to read "the wicked" and quietly picture people who are obviously far from God, while assuming the verse has nothing to say about you. But apart from Christ, every reader stands exactly where the wicked stand &#8212; no root, no water, only wind. Ask yourself honestly, today, before moving on to the next verse: where do you actually stand?
+<em>Don't assume this verse is about someone else.</em> Reading "the wicked" can lead you to quietly picture people who are obviously far from God, while assuming the verse has nothing to say about you. But apart from Christ, every reader stands exactly where the wicked stand &#8212; no root, no water, only wind. Ask yourself honestly, today, before moving on to the next verse: where do you actually stand?
 </p>
 <p>
 <em>You cannot escape this warning by trying harder.</em> Christ Himself carries out the very judgment this verse warns of &#8212; and He gathers everyone joined to Him in, not to burn them like chaff, but to keep them like wheat in His barn.
@@ -1887,7 +1887,7 @@ Lord, apart from Christ, I am exactly what this verse pictures &#8212; chaff wit
 </span>
 
 <p>
-The psalmist draws this conclusion directly from the picture just given in verse 4: chaff has no root, no water, only wind to carry it away.
+The psalmist draws this conclusion directly from the picture just given in verse 4: chaff has no root, no water, only wind to carry the chaff away.
 </p>
 <hr>
 
@@ -1981,7 +1981,7 @@ In the judgment, the wicked have no case that holds together &#8212; nothing tru
 <summary>Insight</summary>
 
 <p>
-In verse 5, the psalmist turns the wicked's rootlessness in verse 4 into something formal: they will not stand, not in the judgment, not among a people bound together by covenant.
+In verse 5, the psalmist turns the wicked's rootlessness in verse 4 into a formal verdict: they will not stand, not in the judgment, not among a people bound together by covenant.
 </p>
 <p>
 In verse 1, the blessed man refuses to join the wicked. In verse 5, the wicked are refused a place among the righteous.
@@ -2000,7 +2000,7 @@ The psalmist ends the psalm in verse 6 by naming the righteous and the wicked si
 <summary>Fulfillment</summary>
 
 <p>
-Apart from Christ, God holds every reader to this verse as Law: no one is found innocent in the judgment by their own record, and no one has a place in the congregation of the righteous by right. <span id="cite-1" class="cite-anchor">Psalm 130 asks the same thing: "If you, O LORD, should mark iniquities, O Lord, who could stand?"<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">Paul answers it directly: "every mouth may be stopped, and the whole world may be held accountable to God... by works of the law no human being will be justified in his sight."<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+Apart from Christ, God holds every reader to this verse as Law: no one is found innocent in the judgment by their own record, and no one has a place in the congregation of the righteous by right. <span id="cite-1" class="cite-anchor">Psalm 130 asks the same question: "If you, O LORD, should mark iniquities, O Lord, who could stand?"<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">Paul answers the question directly: "every mouth may be stopped, and the whole world may be held accountable to God... by works of the law no human being will be justified in his sight."<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
 </p>
 <p><em>Korah's Congregation, and a Place That Cannot Be Seized</em></p>
 <p>
@@ -2017,7 +2017,7 @@ This warning played out once already, inside Israel's own camp. <span id="cite-3
 <span id="cite-5" class="cite-anchor">Christ is the reply to Psalm 130's question: "Who is to condemn? Christ Jesus is the one who died &#8212; more than that, who was raised &#8212; who is at the right hand of God, who indeed is interceding for us."<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Christ already took the judgment in our place &#8212; everyone joined to Him is found innocent too, not by their own merit, but by His.
 </p>
 <p>
-<span id="cite-6" class="cite-anchor">And the congregation Korah tried to seize, Christ gives freely: "you have come to... the assembly of the firstborn who are enrolled in heaven... and to the spirits of the righteous made perfect."<sup class="ref"><a href="#ref-6">[6]</a></sup></span> No one is admitted to that congregation by their own claim &#8212; only through Christ, the mediator who opens it to them.
+<span id="cite-6" class="cite-anchor">And the congregation Korah tried to seize, Christ gives freely: "you have come to... the assembly of the firstborn who are enrolled in heaven... and to the spirits of the righteous made perfect."<sup class="ref"><a href="#ref-6">[6]</a></sup></span> No one is admitted to that congregation by their own claim &#8212; only through Christ, the mediator who opens the congregation to them.
 </p>
 <p>
   <span class="selah-marker">
@@ -2033,13 +2033,13 @@ This warning played out once already, inside Israel's own camp. <span id="cite-3
 <em>Notice when you're building a defense.</em> When you picture your own judgment, do you find yourself listing what you've done right, or explaining away what you did wrong? That instinct &#8212; presenting your own case &#8212; is exactly what this verse rules out. Stop building the defense; the case was already decided in Christ.
 </p>
 <p>
-<em>Don't assume you belong because you've always been here.</em> Korah assumed his place among God's people was already secure &#8212; he was born into the calling, a Levite by birth. It is easy to assume the same: that growing up in the church, or simply being a decent person, already secures a place among the righteous. It doesn't. If you're not sure whether your peace comes from being near God's people or from being joined to Christ Himself, ask God to make it sure.
+<em>Don't assume you belong because you've always been here.</em> Korah assumed his place among God's people was already secure &#8212; he was born into the calling, a Levite by birth. The same assumption is easy to make: that growing up in the church, or simply being a decent person, already secures a place among the righteous. Neither does. If you're not sure whether your peace comes from being near God's people or from being joined to Christ Himself, ask God to make your peace sure.
 </p>
 <p>
-<em>Rest in a verdict already given.</em> Christ already settled the judgment for you &#8212; your status before God does not shift with your good days or your bad ones. You are not waiting for a verdict &#8212; you already have one, and it does not change.
+<em>Rest in a verdict already given.</em> Christ already settled the judgment for you &#8212; your status before God does not shift with your good days or your bad ones. You are not waiting for a verdict &#8212; the verdict you already have does not change.
 </p>
 <p>
-<em>Don't repeat Korah's mistake.</em> Korah didn't just claim a place for himself &#8212; he tried to seize it by force, refusing to accept that belonging is God's to give, not his to take. Watch for the same instinct turned toward others: deciding on your own who does or doesn't belong among God's people, instead of trusting God to do that work.
+<em>Don't repeat Korah's mistake.</em> Korah didn't just claim a place for himself &#8212; he tried to seize that place by force, refusing to accept that belonging is God's to give, not his to take. Watch for the same instinct turned toward others: deciding on your own who does or doesn't belong among God's people, instead of trusting God to do that work.
 </p>
 <p>
   <span class="selah-marker">
@@ -2301,7 +2301,7 @@ Apart from Christ, every reader's own way is the wicked's way, which perishes &#
 <p><em>Known by Faith, Not by Sight</em></p>
 
 <p>
-<span id="cite-4" class="cite-anchor">God alone knows <span class="tooltip">the righteous man's way<span class="tooltiptext">Not mere behavior, but the whole direction of a life &#8212; delight in God's law, meditated on day and night (verse 2). 'Righteous' means right standing before God through covenant faithfulness, not moral perfection.</span></span> with certainty &#8212; "man looks on the outward appearance, but the LORD looks on the heart." Real fruit can be seen in that life: prayer, delight in God's Word, a changed direction. But even that fruit cannot settle who truly stands right with God, and the righteous man cannot reason his way to certainty about his own standing either; only <span class="tooltip">faith<span class="tooltiptext">Faith (Hebrew: emunah אֱמוּנָה; Greek: pistis πίστις) &#8212; trust, reliance, and confidence in God. Not intellectual agreement alone, but clinging to God's promises and taking refuge in His mercy. It is the instrument by which righteousness is received, not earned &#8212; "Abraham believed God, and it was counted to him as righteousness" (Genesis 15:6). Faith is itself a gift, not a work (Ephesians 2:8-9).</span></span> grasps what sight and reason cannot.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> Judging only by what can be seen or reasoned out, people will misjudge who is righteous &#8212; and may reject the very one God calls righteous.
+<span id="cite-4" class="cite-anchor">God alone knows <span class="tooltip">the righteous man's way<span class="tooltiptext">Not mere behavior, but the whole direction of a life &#8212; delight in God's law, meditated on day and night (verse 2). 'Righteous' means right standing before God through covenant faithfulness, not moral perfection.</span></span> with certainty &#8212; "man looks on the outward appearance, but the LORD looks on the heart." Real fruit can be seen in that life: prayer, delight in God's Word, a changed direction. But even that fruit cannot settle who truly stands right with God, and the righteous man cannot reason his way to certainty about his own standing either; only <span class="tooltip">faith<span class="tooltiptext">Faith (Hebrew: emunah אֱמוּנָה; Greek: pistis πίστις) &#8212; trust, reliance, and confidence in God. Not intellectual agreement alone, but clinging to God's promises and taking refuge in His mercy. Faith is the instrument by which righteousness is received, not earned &#8212; "Abraham believed God, and it was counted to him as righteousness" (Genesis 15:6). Faith is itself a gift, not a work (Ephesians 2:8-9).</span></span> grasps what sight and reason cannot.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> Judging only by what can be seen or reasoned out, people will misjudge who is righteous &#8212; and may reject the very one God calls righteous.
 </p>
 
 <p>
@@ -2323,7 +2323,7 @@ He is the righteous man this verse names. Believers <span class="tooltip">joined
 <summary>Lessons</summary>
 
 <p>
-<em>Stop searching yourself for proof.</em> It's tempting to replay good days and explain away bad ones. But reasoning can't give you certainty about your own standing before God. Christ alone is the righteous man the LORD knows and calls secure &#8212; and if you are joined to Him, His way becomes yours too, as if you had walked that way yourself.
+<em>Stop searching yourself for proof.</em> Replaying good days and explaining away bad ones is tempting. But reasoning can't give you certainty about your own standing before God. Christ alone is the righteous man the LORD knows and calls secure &#8212; and if you are joined to Him, His way becomes yours too, as if you had walked that way yourself.
 </p>
 <p>
 <em>Don't judge someone else's way by what you can see.</em> A plain, ordinary life isn't necessarily far from God, and an impressive one isn't automatically secure &#8212; only the LORD knows a person's way with certainty, not you. Caring about someone's way isn't wrong; presuming you already know their standing before God is. Leave that to God, and keep loving the person in front of you.
@@ -2332,7 +2332,7 @@ He is the righteous man this verse names. Believers <span class="tooltip">joined
 <em>Ask about your direction, not just today.</em> The real question isn't whether today was a good day or a bad one, but which way you are actually walking. The wicked's way doesn't end in one dramatic collapse, but wanders off gradually, a little at a time. Don't wait for a bigger reckoning to turn back &#8212; turn toward God's law and away from your own counsel today.
 </p>
 <p>
-<em>Doing good works is not the same as being known by Him.</em> Good works are not just good deeds &#8212; they flow from already being known by God, through faith in Christ. The wicked can do outwardly good things too, but apart from that same union with Christ, their deeds are not good works; their way still perishes regardless. Ask Him honestly whether you are actually <span class="tooltip">known<span class="tooltiptext">Hebrew <span class="hebrew-text" dir="rtl">יָדַע</span> (yada) &#8212; more than information; the same relational sense is used of God's covenant people in Amos 3:2, "You only have I known of all the families of the earth" &#8212; election and care, not mere awareness.</span></span>, and bring that question to Him through Christ.
+<em>Doing good works is not the same as being known by Him.</em> Good works are not just good deeds &#8212; they flow from already being known by God, through faith in Christ. The wicked can do outwardly good deeds too, but apart from that same union with Christ, their deeds are not good works; their way still perishes regardless. Ask Him honestly whether you are actually <span class="tooltip">known<span class="tooltiptext">Hebrew <span class="hebrew-text" dir="rtl">יָדַע</span> (yada) &#8212; more than information; the same relational sense is used of God's covenant people in Amos 3:2, "You only have I known of all the families of the earth" &#8212; election and care, not mere awareness.</span></span>, and bring that question to Him through Christ.
 </p>
 
 <p>
@@ -2356,7 +2356,7 @@ Lord, apart from Christ, I am guilty, and my own way is unfolding into ruin. I s
 <summary>References</summary>
 <div class="ref-list">
   <ol>
-    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Psalm 37:18 &#8212; "The LORD knows the days of the blameless, and their heritage will remain forever." Same root (יָדַע, yada) and grammatical form (Qal participle) as this verse's own "knows." Keil and Delitzsch describe this kind of "knowing" as <em>nosse cum affectu et effectu</em> &#8212; knowledge "with affection and effect," a living, committed relationship rather than bare cognition, which is why it secures its object's outcome rather than merely observing it.</li>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Psalm 37:18 &#8212; "The LORD knows the days of the blameless, and their heritage will remain forever." Same root (יָדַע, yada) and grammatical form (Qal participle) as this verse's own "knows." Keil and Delitzsch describe this kind of "knowing" as <em>nosse cum affectu et effectu</em> &#8212; knowledge "with affection and effect," a living, committed relationship rather than bare cognition, which is why this knowing secures its object's outcome rather than merely observing that outcome.</li>
     <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> <em>The Lutheran Study Bible</em> (Concordia Publishing House), note on Psalm 1:6: "Not simply the behavior of these two types of people, but a particular disposition toward God and theology. The wicked hold God's Word in contempt and utter disregard. The righteous order their lives and view the world according to God's Word and wisdom."</li>
     <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> Romans 3:10-12 &#8212; Paul's own verdict that no one, left to himself, is righteous.</li>
     <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> 1 Samuel 16:7 &#8212; "man looks on the outward appearance, but the LORD looks on the heart." Martin Luther, commentary on Psalm 1:6, from his second lecture series on the Psalms (Wittenberg, 1519): "not of sense, nor of reason, but of faith only; even of that faith that sees in darkness, and beholds things that are invisible." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text. Cf. 2 Corinthians 5:7 &#8212; "for we walk by faith, not by sight."</li>
@@ -2549,7 +2549,7 @@ The psalmist gives no explanation here for their rage. Later in the psalm, God r
 <summary>Fulfillment</summary>
 
 <p>
-<span id="cite-2" class="cite-anchor">Apart from Christ, every reader belongs among these raging nations &#8212; hostile to God's rule, unable to submit to it. This is not a result of upbringing or circumstance; every person is sinful from conception and already stands under God's wrath before ever choosing to rebel.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+<span id="cite-2" class="cite-anchor">Apart from Christ, every reader belongs among these raging nations &#8212; hostile to God's rule, unable to submit. This is not a result of upbringing or circumstance; every person is sinful from conception and already stands under God's wrath before ever choosing to rebel.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
 </p>
 
 <p>
@@ -2587,7 +2587,7 @@ But this rage against God's anointed king reached beyond any single human corona
 <em>Don&#8217;t be surprised when the world opposes Christ &#8212; or you.</em> This rage against God&#8217;s Anointed didn&#8217;t end at the cross. <span id="cite-6" class="cite-anchor">Jesus told His followers to expect the same opposition: &#8220;If they persecuted me, they will also persecute you.&#8221;<sup class="ref"><a href="#ref-6">[6]</a></sup></span> <span id="cite-7" class="cite-anchor">The believers who prayed this verse back to God lived out exactly that &#8212; they were themselves being threatened when they did.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> This psalm names this opposition centuries in advance.
 </p>
 <p>
-<em>Rebellion against God, however deliberate, comes to nothing.</em> This verse already names their plotting as empty &#8212; doomed to fail no matter how deliberate. <span id="cite-8" class="cite-anchor">Even the plot Herod, Pilate, and Israel&#8217;s own leaders carried out against Jesus was already something God had <span class="tooltip">predestined<span class="tooltiptext"><span class="hebrew-row">&#960;&#961;&#959;&#974;&#961;&#953;&#963;&#949;&#957; (proōrisen)</span><span class="definition-list">Greek, aorist active of &#960;&#961;&#959;&#959;&#961;&#943;&#950;&#969; (proorizō) &#8212; to determine or decide beforehand, to mark out in advance.</span><span class="tt-divider"></span><small class="references">Biblical Usage: Romans 8:29-30; Ephesians 1:5, 11</small></span></span> to take place.<sup class="ref"><a href="#ref-8">[8]</a></sup></span> Any plan to stop God&#8217;s purposes, no matter how organized or powerful, comes to nothing &#8212; just as their plot against Jesus did.
+<em>Rebellion against God, however deliberate, comes to nothing.</em> This verse already names their plotting as empty &#8212; doomed to fail no matter how deliberate. <span id="cite-8" class="cite-anchor">Even the plot Herod, Pilate, and Israel&#8217;s own leaders carried out against Jesus was already part of God's own plan, <span class="tooltip">predestined<span class="tooltiptext"><span class="hebrew-row">&#960;&#961;&#959;&#974;&#961;&#953;&#963;&#949;&#957; (proōrisen)</span><span class="definition-list">Greek, aorist active of &#960;&#961;&#959;&#959;&#961;&#943;&#950;&#969; (proorizō) &#8212; to determine or decide beforehand, to mark out in advance.</span><span class="tt-divider"></span><small class="references">Biblical Usage: Romans 8:29-30; Ephesians 1:5, 11</small></span></span> to take place.<sup class="ref"><a href="#ref-8">[8]</a></sup></span> Any plan to stop God&#8217;s purposes, no matter how organized or powerful, comes to nothing &#8212; just as their plot against Jesus did.
 </p>
 <p>
 <em>Submit to the King now, rather than joining the rebellion.</em> <span id="cite-9" class="cite-anchor">Later in the psalm, an invitation comes: &#8220;Blessed are all who take refuge in him.&#8221;<sup class="ref"><a href="#ref-9">[9]</a></sup></span> Bow to Him now, and take refuge in Him yourself &#8212; <span id="cite-10" class="cite-anchor">&#8220;his wrath is quickly kindled,&#8221;<sup class="ref"><a href="#ref-10">[10]</a></sup> and to delay is to risk perishing.</span>
@@ -2817,7 +2817,7 @@ So far the psalmist has only described their rebellion. Now, in verse 3, their o
 <summary>Fulfillment</summary>
 
 <p>
-Apart from Christ, every reader does the same thing these kings and rulers do, only quieter &#8212; following their own judgment, not God's Word, in how they spend their money, treat other people, and use their time.
+Apart from Christ, every reader does what these kings and rulers do, only quieter &#8212; following their own judgment, not God's Word, in how they spend their money, treat other people, and use their time.
 </p>
 
 <p>
@@ -2857,7 +2857,7 @@ Apart from Christ, every reader does the same thing these kings and rulers do, o
 </p>
 
 <p>
-<span id="cite-10" class="cite-anchor">With time, act deliberately &#8212; the days you're given aren't unlimited.<sup class="ref"><a href="#ref-10">[10]</a></sup></span> <span id="cite-11" class="cite-anchor">When you have to choose how to spend your time &#8212; say, time with God in prayer and His Word, <span class="tooltip">faithful work<span class="tooltiptext">Whatever you've been given to do &#8212; a job, but also a chore, an assignment, or any task at all. Not work done to impress the people watching, or done grudgingly just to get it over with, but work given full, genuine effort &#8212; because it is Christ you are actually serving.</span></span> done as if for the Lord, or another few minutes of <span class="tooltip">idle distraction<span class="tooltiptext">Scrolling your phone, another show, browsing online, another round of a game &#8212; not recreation itself, which has its own place, but reaching for it without thinking, just to fill the time.</span></span>. Pick whichever one puts <span class="tooltip">God's kingdom<span class="tooltiptext">God's own reign as King, already present through Christ &#8212; not a place, but anything done in obedience to Him and for His purposes: honest work, generous giving, love for the people around you, and time with Him in prayer and His Word.</span></span> first. Instead of reaching for idle distraction, pray for someone by name, or open Scripture and read.<sup class="ref"><a href="#ref-11">[11]</a></sup></span>
+<span id="cite-10" class="cite-anchor">With time, act deliberately &#8212; the days you're given aren't unlimited.<sup class="ref"><a href="#ref-10">[10]</a></sup></span> <span id="cite-11" class="cite-anchor">When you have to choose how to spend your time &#8212; say, time with God in prayer and His Word, <span class="tooltip">faithful work<span class="tooltiptext">Whatever you've been given to do &#8212; a job, but also a chore, an assignment, or any task at all. Not work done to impress the people watching, or done grudgingly just to get the task over with, but work given full, genuine effort &#8212; because you are actually serving Christ.</span></span> done as if for the Lord, or another few minutes of <span class="tooltip">idle distraction<span class="tooltiptext">Scrolling your phone, another show, browsing online, another round of a game &#8212; not recreation itself, which has its own place, but doing any of that without thinking, just to fill the time.</span></span>. Pick whichever one puts <span class="tooltip">God's kingdom<span class="tooltiptext">God's own reign as King, already present through Christ &#8212; not a place, but anything done in obedience to Him and for His purposes: honest work, generous giving, love for the people around you, and time with Him in prayer and His Word.</span></span> first. Instead of reaching for idle distraction, pray for someone by name, or open Scripture and read.<sup class="ref"><a href="#ref-11">[11]</a></sup></span>
 </p>
 
 <p>
@@ -3075,7 +3075,7 @@ Tearing the bonds loose is not enough for them &#8212; they throw the cords away
 <summary>Lessons</summary>
 
 <p>
-<em>Name what you've stopped calling a command.</em> <span id="cite-6" class="cite-anchor">The kings and rulers cast off God's rule over them here &#8212; a rule that takes the form of command: turning from evil, and doing good.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> Is there a sin you've stopped calling sin? <span id="cite-7" class="cite-anchor">Repent and turn back from it &#8212; don't relabel it.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> Is there a good you know to do and keep leaving undone? <span id="cite-8" class="cite-anchor">Do it &#8212; leaving it undone is sin too, not something harmless.<sup class="ref"><a href="#ref-8">[8]</a></sup></span> <span id="cite-9" class="cite-anchor">Pray for the desire and the ability to follow through &#8212; both are God's to give, not yours to produce.<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">And when you fail &#8212; because you will &#8212; don't hide it or explain it away; look to Christ for forgiveness instead.<sup class="ref"><a href="#ref-10">[10]</a></sup></span>
+<em>Name what you've stopped calling a command.</em> <span id="cite-6" class="cite-anchor">The kings and rulers cast off God's rule over them here &#8212; a rule that takes the form of command: turning from evil, and doing good.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> Is there a sin you've stopped calling sin? <span id="cite-7" class="cite-anchor">Repent and turn back &#8212; a relabeled sin is still a sin.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> Is there a good you know to do and keep leaving undone? <span id="cite-8" class="cite-anchor">That delay is sin, not harmless at all &#8212; do what you know to do.<sup class="ref"><a href="#ref-8">[8]</a></sup></span> <span id="cite-9" class="cite-anchor">Pray for the desire and the ability to follow through &#8212; both are God's to give, not yours to produce.<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">And when you fail &#8212; because you will &#8212; don't hide or explain away that failure; look to Christ for forgiveness instead.<sup class="ref"><a href="#ref-10">[10]</a></sup></span>
 </p>
 
 <p>
