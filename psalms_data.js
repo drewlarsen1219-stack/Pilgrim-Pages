@@ -912,10 +912,10 @@ Every one of them pointed toward a single Blessed Man who had not yet come.
 <em>Correction from a person is only the first test &#8212; correction from God's own Word is the real one.</em> The scoffer's contempt does not end with hating whoever reproves him &#8212; that contempt reaches all the way to hating God's Word itself, which the blessed man delights in instead (v. 2). When God's Word confronts you, that response &#8212; resentment or delight &#8212; is what actually separates a scoffer from the blessed man.
 </p>
 <p>
-<em>You are not blessed because you have avoided every wicked counsel.</em> No one has. You are blessed because God has joined you to the One who did &#8212; giving you His path as if you had walked that path yourself, just as He gives you His righteousness in Psalm 5:12.
+<em>What you turn toward defines the blessed life as much as what you avoid.</em> Refusing bad company is the first movement, not the whole of the blessed life &#8212; delight in God's Law, taken up in the next verse, is where the blessed life actually lives.
 </p>
 <p>
-<em>What you turn toward defines the blessed life as much as what you avoid.</em> Refusing bad company is the first movement, not the whole of the blessed life &#8212; delight in God's Law, taken up in the next verse, is where the blessed life actually lives.
+<em>You are not blessed because you have avoided every wicked counsel.</em> No one has. You are blessed because God has joined you to the One who did &#8212; giving you His path as if you had walked that path yourself, just as He gives you His righteousness in Psalm 5:12.
 </p>
 <p>
   <span class="selah-marker">
@@ -2036,10 +2036,10 @@ This warning played out once already, inside Israel's own camp. <span id="cite-3
 <em>Don't assume you belong because you've always been here.</em> Korah assumed his place among God's people was already secure &#8212; he was born into the calling, a Levite by birth. The same assumption is easy to make: that growing up in the church, or simply being a decent person, already secures a place among the righteous. Neither does. If you're not sure whether your peace comes from being near God's people or from being joined to Christ Himself, ask God to make your peace sure.
 </p>
 <p>
-<em>Rest in a verdict already given.</em> Christ already settled the judgment for you &#8212; your status before God does not shift with your good days or your bad ones. You are not waiting for a verdict &#8212; the verdict you already have does not change.
+<em>Don't repeat Korah's mistake.</em> Korah didn't just claim a place for himself &#8212; he tried to seize that place by force, refusing to accept that belonging is God's to give, not his to take. Watch for the same instinct turned toward others: deciding on your own who does or doesn't belong among God's people, instead of trusting God to do that work.
 </p>
 <p>
-<em>Don't repeat Korah's mistake.</em> Korah didn't just claim a place for himself &#8212; he tried to seize that place by force, refusing to accept that belonging is God's to give, not his to take. Watch for the same instinct turned toward others: deciding on your own who does or doesn't belong among God's people, instead of trusting God to do that work.
+<em>Rest in a verdict already given.</em> Christ already settled the judgment for you &#8212; your status before God does not shift with your good days or your bad ones. You are not waiting for a verdict &#8212; the verdict you already have does not change.
 </p>
 <p>
   <span class="selah-marker">
