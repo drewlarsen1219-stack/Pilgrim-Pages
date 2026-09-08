@@ -538,7 +538,7 @@ The resources below extend the study beyond what these pages cover. Each one is 
     <li id="howto-ref-1"><a href="#howto-cite-1" class="ref-back">&#x21A9;</a> This is what a footnote source looks like &#8212; the numbered marker in the text jumped you here. Click the arrow to return.</li>
     <li id="ref-intro-2"><a href="#cite-intro-2" class="ref-back">&#x21A9;</a> 2 Samuel 7:12&#8211;16 &#8212; God&#8217;s oath to David: &#8220;Your house and your kingdom shall be made sure forever before me. Your throne shall be established forever.&#8221; This covenant does not simply promise a lasting dynasty; it promises a throne with a permanent occupant &#8212; one no mortal son of David could hold. Peter interprets the covenant directly in Acts 2:29&#8211;31: knowing God &#8220;had sworn with an oath to him that he would set one of his descendants on his throne,&#8221; David &#8220;foresaw and spoke about the resurrection of the Christ.&#8221; The Davidic office was always oriented toward Christ, not merely extended to him. <small>See also Psalm 132:11; Luke 1:32&#8211;33; Hebrews 1:5.</small></li>
     <li id="ref-intro-3"><a href="#cite-intro-3" class="ref-back">&#x21A9;</a> Luke 24:44&#8211;45 &#8212; <em>&#8220;Then he said to them, &#8216;These are my words that I spoke to you while I was still with you, that everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled.&#8217; Then he opened their minds to understand the Scriptures.&#8221;</em> Christ himself named the Psalms as a category of Scripture that had always spoken of him; the three-layer Christological reading is not a method imposed by the Church but the reading Christ taught and the apostles received. <small>See also Matthew 26:24; John 5:46.</small></li>
-    <li id="ref-intro-4"><a href="#cite-intro-4" class="ref-back">&#x21A9;</a> 2 Timothy 3:16&#8211;17 &#8212; &#8220;All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness.&#8221; 2 Peter 1:20&#8211;21 confirms the mechanism behind that claim: &#8220;no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit&#8221; &#8212; the Psalms, as prophetic Scripture, share this same divine origin. <small>See also Isaiah 40:8 &#8212; &#8220;The grass withers, the flower fades, but the word of our God will stand forever&#8221; &#8212; the ground for the claim that the Psalms endure across every generation.</small></li>
+    <li id="ref-intro-4"><a href="#cite-intro-4" class="ref-back">&#x21A9;</a> 2 Timothy 3:16&#8211;17 &#8212; &#8220;All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness.&#8221; 2 Peter 1:20&#8211;21 confirms the mechanism behind that claim: &#8220;no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit&#8221; &#8212; the Psalms, as prophetic Scripture, share this same divine origin. This inspiration does not require the human author to have witnessed a vision. Scripture itself distinguishes directly quoted divine speech from a human author&#8217;s own inspired description of God &#8212; Psalm 2:6, &#8220;I have set my King on Zion, my holy hill,&#8221; shifts into God&#8217;s own first-person words, while verse 4, &#8220;He who sits in the heavens laughs,&#8221; is the psalmist&#8217;s own description, not a quotation. Both carry the same Spirit-given authority. <small>See also Isaiah 40:8 &#8212; &#8220;The grass withers, the flower fades, but the word of our God will stand forever&#8221; &#8212; the ground for the claim that the Psalms endure across every generation.</small></li>
     <li id="ref-intro-5"><a href="#cite-intro-5" class="ref-back">&#x21A9;</a> Psalm 3&#8217;s own superscription: &#8220;A Psalm of David, when he fled from Absalom his son&#8221; &#8212; naming the exact historical crisis behind the psalm. Psalm 137:1: &#8220;By the waters of Babylon, there we sat down and wept, when we remembered Zion&#8221; &#8212; the psalm identifies its own setting as the Babylonian exile.</li>
     <li id="ref-intro-6"><a href="#cite-intro-6" class="ref-back">&#x21A9;</a> 1 Peter 1:10&#8211;12 &#8212; &#8220;Concerning this salvation, the prophets who prophesied about the grace that was to be yours searched and inquired carefully, inquiring what person or time the Spirit of Christ in them was indicating when he predicted the sufferings of Christ and the subsequent glories&#8230; It was revealed to them that they were serving not themselves but you.&#8221; Peter states directly that the prophets sometimes wrote of realities beyond their own understanding &#8212; the same gap this layer identifies between what David wrote in Psalm 22 and what David himself lived through.</li>
     <li id="ref-intro-7"><a href="#cite-intro-7" class="ref-back">&#x21A9;</a> Acts 2:25&#8211;31 &#8212; Peter&#8217;s full argument at Pentecost: quoting Psalm 16:8&#8211;11 (&#8220;you will not abandon my soul to Hades, or let your Holy One see corruption&#8221;), he notes that David &#8220;both died and was buried, and his tomb is with us to this day&#8221; &#8212; David&#8217;s own flesh saw corruption. Being a prophet, David &#8220;foresaw and spoke about the resurrection of the Christ, that he was not abandoned to Hades, nor did his flesh see corruption.&#8221;</li>
@@ -829,7 +829,7 @@ A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, s
 </span>
 
 <p>
-"Scoffer" belongs to the vocabulary of Proverbs, which names the target of that contempt precisely: <span id="cite-1" class="cite-anchor">not merely ignoring correction, but hating the one who gives correction.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">That same contempt extends even to God's own law.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> This is the last stop on a road the blessed man never takes. To "sit in the seat of scoffers" is the final exchange in this descent: no longer just sharing their reasoning or their direction, but becoming known as one of them — the difference between passing someone on the road and moving in with them.
+"Scoffer" belongs to the vocabulary of Proverbs, which names the target of that contempt precisely: <span id="cite-1" class="cite-anchor">not merely ignoring correction, but hating the one who gives correction.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">That same contempt extends even to God's own law.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -1112,7 +1112,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 </span>
 
 <p>
-<em>Torah</em> is named twice, framing this whole verse: what he delights in, he also meditates on. "Meditates" pictures reading this law out loud in a low murmur, not scanning this law silently with the eyes &#8212; <span id="cite-2" class="cite-anchor">the same word and the same phrase <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on that law day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span> was charged to keep in his own mouth.</span><sup class="ref"><a href="#ref-2">[2]</a></sup>
+"Meditates" pictures reading this law out loud in a low murmur, not scanning this law silently with the eyes &#8212; <span id="cite-2" class="cite-anchor">the same word and the same phrase <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on that law day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span> was charged to keep in his own mouth.</span><sup class="ref"><a href="#ref-2">[2]</a></sup>
 </p>
 <hr>
 
@@ -1136,9 +1136,6 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
     </span>
 </span>
 
-<p>
-In verse 1 the psalmist named what the blessed man refuses &#8212; the wicked's counsel, the sinners' way, the scoffers' seat. In verse 2 he names what actually fills that emptied space: delight in the LORD's own Torah, returned to day and night.
-</p>
 <p>
   <span class="selah-marker">
      <em>SELAH</em>
@@ -1483,7 +1480,7 @@ Fruit is what the tree produces; the leaf shows whether the tree itself is still
 </span>
 
 <p>
-Having pictured this man as a fruitful, unwithering tree, the psalmist now says the same truth plainly: whatever he does succeeds. <span id="cite-2" class="cite-anchor">This is the same word used in God's charge to Joshua: meditate on this Book of the Law day and night, and you will make your own way prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+<span id="cite-2" class="cite-anchor">This is the same word used in God's charge to Joshua: meditate on this Book of the Law day and night, and you will make your own way prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -1496,7 +1493,7 @@ Having pictured this man as a fruitful, unwithering tree, the psalmist now says 
 <summary>Insight</summary>
 
 <p>
-The psalmist already named what this man refuses and what he loves in verses 1 and 2. In verse 3 he shows what that refusal and love actually produce: a tree, deliberately planted, reliably watered, fruitful in season, never withering.
+The psalmist already named what this man refuses and what he loves in verses 1 and 2. In verse 3 he shows what that refusal and love actually produce: a tree, deliberately planted, reliably watered, fruitful in season, never withering. The psalmist then restates the same truth plainly: whatever this man does succeeds.
 </p>
 <p>
 In verse 1 this man avoided wickedness completely. In verse 2 he returned to God's law constantly. In verse 3 he now succeeds completely &#8212; not in some of what he does, but in everything he does. Whether total or constant, none of this is partial.
@@ -1664,9 +1661,6 @@ Lord, I do not prosper in all that I do. Too often I strain for fruit under my o
     </span>
 </span>
 
-<p>
-"The wicked" is the same word used in verse 1 &#8212; there the word named counsel the blessed man refuses; here, for the first time, the psalmist turns to describe the wicked themselves. The wicked are not established at all: none of verse 1's settled avoidance, none of verse 2's constant devotion.
-</p>
 <hr>
 
 <strong> but are like </strong>
@@ -1687,9 +1681,6 @@ Lord, I do not prosper in all that I do. Too often I strain for fruit under my o
     </span>
 </span>
 
-<p>
-Unlike the tree of verse 3, planted on purpose and bearing fruit in its season, the wicked have nothing of their own worth keeping &#8212; chaff is what threshing leaves behind once the grain itself is gone.
-</p>
 <hr>
 
 <strong> that the </strong>
@@ -1730,9 +1721,6 @@ Unlike the tree of verse 3, planted on purpose and bearing fruit in its season, 
 <strong>.</strong>
 
 <p>
-The wicked have no root, no water &#8212; only wind, carrying them with no direction of their own.
-</p>
-<p>
   <span class="selah-marker">
     <em>SELAH</em>
   </span>
@@ -1749,7 +1737,7 @@ Across verses 1 through 3, the psalmist built one whole portrait: a man who refu
 "The wicked are not so" already says all there is to say about them; "they are like chaff" gives that emptiness a picture to be seen.
 </p>
 <p>
-The wicked's emptiness is only visible against everything already said about the blessed man in verses 1 through 3. The psalmist draws the same contrast again when the psalm closes in verse 6. But that verse names the righteous and the wicked side by side on its own &#8212; verse 6 doesn't need earlier verses the way verse 4 does.
+The wicked's emptiness is only visible against everything already said about the blessed man in verses 1 through 3 &#8212; verse 3's tree was planted on purpose and bore fruit in its season, but the wicked here have nothing of their own worth keeping: chaff is what threshing leaves behind once the grain itself is gone. The psalmist draws the same contrast again when the psalm closes in verse 6. But that verse names the righteous and the wicked side by side on its own &#8212; verse 6 doesn't need earlier verses the way verse 4 does.
 </p>
 <p>
   <span class="selah-marker">
@@ -1886,9 +1874,6 @@ Lord, apart from Christ, I am exactly what this verse pictures &#8212; chaff wit
     </span>
 </span>
 
-<p>
-The psalmist draws this conclusion directly from the picture just given in verse 4: chaff has no root, no water, only wind to carry the chaff away.
-</p>
 <hr>
 
 <strong>the wicked will </strong>
@@ -2198,10 +2183,6 @@ Lord, apart from Christ, I have no case that holds together in the judgment, and
     </span>
 </span>
 
-<p>
-The word "way" named the wicked's path in verse 1 and now names the righteous man's own path instead &#8212; the same word, applied to someone very different. "Righteous" appeared just one verse ago, in verse 5. What is new is this: the LORD Himself knows the way of the righteous.
-</p>
-
 <hr>
 
 <strong>but the </strong>
@@ -2277,7 +2258,7 @@ The psalmist never explains, back in verse 1, why the righteous man flourishes. 
 </p>
 
 <p>
-Throughout this psalm, <span id="cite-2" class="cite-anchor">"the way" has never named mere behavior; the word names the whole direction of a life &#8212; what a person trusts and obeys.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> The wicked's way begins with their own counsel, in place of God's instruction (verse 1); the righteous man's way begins with delight in God's law, meditated on day and night (verse 2). One way trusts human judgment; the other trusts God's own word.
+Throughout this psalm, <span id="cite-2" class="cite-anchor">"the way" has never named mere behavior; the word names the whole direction of a life &#8212; what a person trusts and obeys.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> The wicked's way begins with their own counsel, in place of God's instruction (verse 1); the righteous man's way begins with delight in God's law, meditated on day and night (verse 2). One way trusts human judgment; the other trusts God's own word. The psalmist uses the word "way" in the psalm's opening verse to name the path of sinners, and again in its closing verse to name the righteous man's own path instead.
 </p>
 
 <p>
@@ -2694,10 +2675,6 @@ Lord, apart from Christ, I belong among the nations who rage against Your rule &
     </span>
 </span>
 
-<p>
-The psalmist named the rebellion in general terms in verse 1 &#8212; nations, peoples &#8212; before narrowing here to its actual leaders: kings, not an anonymous crowd.
-</p>
-
 <hr>
 
 <strong>and the </strong>
@@ -2735,10 +2712,6 @@ The psalmist named the rebellion in general terms in verse 1 &#8212; nations, pe
         </small>
     </span>
 </span>
-
-<p>
-Kings, taking their stand &#8212; the posture of confrontation. Rulers, taking counsel together &#8212; the plan behind that stand. The same rebellion, seen from two angles.
-</p>
 
 <hr>
 
@@ -2795,7 +2768,7 @@ Their rebellion has two targets: the LORD Himself, and the king He has anointed.
 <summary>Insight</summary>
 
 <p>
-<span id="cite-1" class="cite-anchor">These kings and rulers hold real authority only by God's own permission.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> Their rebellion turns that authority against Him.
+The psalmist named the rebellion in general terms in verse 1 &#8212; nations, peoples &#8212; before narrowing here to its actual leaders: kings, not an anonymous crowd. The kings set themselves against the LORD and His anointed king, entirely by their own will; the rulers meet and settle on one plan against them &#8212; this rebellion is both a stand they chose and a plan they settled together. <span id="cite-1" class="cite-anchor">These kings and rulers hold real authority only by God's own permission.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> Their rebellion turns that authority against Him.
 </p>
 
 <p>
@@ -3134,6 +3107,218 @@ Lord, I call Your rule a burden, even when I never say so aloud &#8212; as if fr
 `
     },
 
+{   label: "Psalm 2:4",
+    title: "He Who Sits in the Heavens Laughs",
+    image: "lyre.png",
+    genre: "Royal",
+    parallelism: "Synonymous",
+    conditions: ["fear", "discouragement", "self-reliance"],
+    conditionAngle: "speaks to feeling shaken or afraid when the world's rebellion against God looks like it's winning &#8212; and reminds you that apart from Christ you were part of that same rebellion, but through Him God now gives you His own unshaken confidence, not someday, but now.",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">2:4</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`He who sits in the heavens laughs;<br>the Lord holds them in derision.<br><small>(ESV)</small>`],
+      KJV: [`He that sitteth in the heavens shall laugh:<br>the Lord shall have them in derision.<br><small>(KJV)</small>`],
+      NASB: [`He who sits in the heavens laughs,<br>The Lord scoffs at them.<br><small>(NASB)</small>`],
+      NIV: [`The One enthroned in heaven laughs;<br>the Lord scoffs at them.<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">יוֹשֵׁב בַּשָּׁמַיִם יִשְׂחָק אֲדֹנָי יִלְעַג־לָמוֹ</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+<span class="tooltip">
+    <strong>He who sits</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יוֹשֵׁב</span>
+            <span class="transliteration">(yoshev)</span>
+        </span>
+        <span class="definition-list">
+            Qal participle of <span dir="rtl">יָשַׁב</span> (yashab) &#8212; "to sit, dwell, remain," with an established sense of sitting enthroned as king (cf. Psalm 29:10, Isaiah 40:22). The participle pictures continuous, settled action: not a single act of sitting down, but one who simply is seated, without interruption.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Isaiah 6:1
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>in the heavens</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">בַּשָּׁמַיִם</span>
+            <span class="transliteration">(bashamayim)</span>
+        </span>
+        <span class="definition-list">
+            Preposition <span dir="rtl">בְּ</span> ("in") plus the definite article and <span dir="rtl">שָׁמַיִם</span> (shamayim) &#8212; the ordinary Hebrew word for the sky, the heavens, plural in form. This pictures God's transcendence and rule, not a literal location in the sky &#8212; heaven itself cannot contain Him (1 Kings 8:27).
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 11:4
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>laughs</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יִשְׂחָק</span>
+            <span class="transliteration">(yischaq)</span>
+        </span>
+        <span class="definition-list">
+            Qal imperfect of <span dir="rtl">שָׂחַק</span> (sachaq) &#8212; a broad root covering laughter of pleasure, play, or scorn, together as much as separately. Here, confident and undisturbed.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Job 5:22
+        </small>
+    </span>
+</span>
+
+<p>
+God is pictured here as King, continuously seated in unshaken rule, and laughing from His throne.
+</p>
+
+<hr>
+
+<span class="tooltip">
+    <strong>the Lord</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">אֲדֹנָי</span>
+            <span class="transliteration">(Adonai)</span>
+        </span>
+        <span class="definition-list">
+            A "plural of majesty" &#8212; "Lord, Master," a title of sovereign authority. Grammatically and theologically distinct from <span dir="rtl">יְהוָה</span> (YHWH), the covenant name already used in verse 2.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Genesis 18:27
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>holds them in derision</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יִלְעַג־לָמוֹ</span>
+            <span class="transliteration">(yil'ag lamo)</span>
+        </span>
+        <span class="definition-list">
+            Qal imperfect of <span dir="rtl">לָעַג</span> (la'ag) &#8212; "to mock, deride" &#8212; plus <span dir="rtl">לָמוֹ</span> (lamo), an archaic poetic form of "to/at them," joined to the verb in the Masoretic text.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Proverbs 1:26
+        </small>
+    </span>
+</span>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+So far in this psalm, only the rebels have acted. Now, in verse 4, God Himself responds &#8212; with laughter, He answers the nations' raging, the kings' conspiring, and the rulers' declared independence. Their raging is restless, frantic commotion; His laughter is undisturbed calm. <span id="cite-1" class="cite-anchor">He sees precisely what they are attempting: "the audacity to circumvent His laws and plans as Creator."<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+</p>
+
+<p>
+In verse 3 the rebels call God's rule bondage, cords to be thrown off; here God replies both by naming Himself their Master and by answering first with laughter, then with a sharper, deliberate derision. <span id="cite-2" class="cite-anchor">This same sequence recurs elsewhere in Scripture, characteristic of how God meets rejection of His rule.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+Apart from Christ, every reader is counted among these rebels &#8212; the very ones God meets with laughter and derision. His laughter alone shows how little a rebellion this size threatens Him.
+</p>
+
+<p>
+<span id="cite-3" class="cite-anchor">David himself lived through this kind of rebellion once before: the Philistines rallied the moment he was anointed king. David asked the LORD whether to go up against them, and the LORD answered plainly: "Go up, for I will certainly give the Philistines into your hand." David then broke through them decisively and named the place for what had happened: "the LORD has broken through my enemies before me like a breaking flood."<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
+</p>
+
+<p><em>None of the Rulers of This Age Understood</em></p>
+
+<p>
+But this derision reached beyond David's own historical victory. <span id="cite-4" class="cite-anchor">The rulers &#8212; the same chief priests who would later choose Caesar over their own King<sup class="ref"><a href="#ref-4">[4]</a></sup></span> &#8212; believed they had won. <span id="cite-5" class="cite-anchor">They never grasped God's own <span class="tooltip">hidden wisdom<span class="tooltiptext">Paul's term for God's secret plan of salvation through the cross &#8212; decreed before the ages for our glory, hidden until it was fulfilled (1 Corinthians 2:7).</span></span>: "None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory."<sup class="ref"><a href="#ref-5">[5]</a></sup></span> Their own rebellion, carried out with full resolve, is exactly what God answers here &#8212; not with wrath yet, but with derision &#8212; and <span id="cite-6" class="cite-anchor">the empty tomb three days later was that derision made visible.<sup class="ref"><a href="#ref-6">[6]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<em>Because you belong to Christ, God gives you His own unshaken confidence.</em> Apart from Christ, this kind of unshaken confidence belongs to God alone. <span id="cite-7" class="cite-anchor">Yet because you <span class="tooltip">belong to Christ<span class="tooltiptext">Ephesians 2:6: God has already "seated us with him in the heavenly places in Christ Jesus" &#8212; not distant help, but Christ's own secure standing, given to believers through union with Him.</span></span>, God gives you that same confidence &#8212; not someday, but now.<sup class="ref"><a href="#ref-7">[7]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Prayer</summary>
+
+<p>
+Lord, apart from Christ, my resistance to You is nothing less than open rebellion. Rebellion like mine could never actually threaten You, so You would be right to meet me with mockery. This kind of unshaken confidence belongs to You alone. But because I belong to Christ, You give me that same confidence &#8212; not someday, but now. Make that confidence real in how I live: when the world's rebellion against You seems to be winning, let me stay as unshaken as You are, instead of afraid.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> <em>The Lutheran Study Bible</em> (Concordia Publishing House), note on Psalm 2:4: "God, in His infinite splendor, is not so far removed from creation that He is unaware of human deeds. Ever mindful of His creation, He mocks those who have the audacity to circumvent His laws and plans as Creator."</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> Psalm 59:8 (ESV): "But you, O LORD, laugh at them; you hold all the nations in derision." Proverbs 1:26 (ESV): "I also will laugh at your calamity; I will mock when terror strikes you." Wisdom personified in Proverbs 1&#8211;9 speaks these words, answering those who reject her instruction &#8212; the same two-verb sequence (laugh, then mock/deride) this verse uses.</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> 2 Samuel 5:17, 19&#8211;20 (ESV): "When the Philistines heard that David had been anointed king over Israel, all the Philistines went up to search for David... And David inquired of the LORD, 'Shall I go up against the Philistines? Will you give them into my hand?' And the LORD said to David, 'Go up, for I will certainly give the Philistines into your hand.' And David came to Baal-perazim, and David defeated them there. And he said, 'The LORD has broken through my enemies before me like a breaking flood.'" Same episode already cited at 2:1's ref-3, continued here to its resolution.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> John 19:15 (ESV): "They cried out, 'Away with him, away with him, crucify him!' Pilate said to them, 'Shall I crucify your King?' The chief priests answered, 'We have no king but Caesar.'"</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> 1 Corinthians 2:8 (ESV) &#8212; quoted in full above.</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> Colossians 2:15 (ESV): "He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him."</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Martin Luther, quoted in <em>The Lutheran Study Bible</em> (Concordia Publishing House), note on Psalm 2:4, from <em>Luther's Works</em> (AE) 12:25: "Let us laugh at raging Satan and the world (yes, even at sin and our conscience in us). Truly, because the punishment of the godless is delayed up to now, it is certain that God is also laughing, God, who is in heaven and cannot be driven from there by impious men. Therefore He rightly laughs at their vain attempts. We may think that we would also laugh if we were seated in such a high place and a fortress so fortified. . . . But these thoughts reveal our lack of faith. For all of us who believe in Christ are most truly in that same heaven in which the Lord dwells, if not in the flesh, nevertheless in faith and in the Word." Cf. Ephesians 2:6 (ESV): "and raised us up with him and seated us with him in the heavenly places in Christ Jesus."</li>
+  </ol>
+</div>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+`
+    },
 	/* --- PSALM 3 --- */
 { label: "Psalm 3:1",
       title: "David fled from Absalom his son",
