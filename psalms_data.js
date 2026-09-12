@@ -829,7 +829,7 @@ A "<span class="tooltip">sinner<span class="tooltiptext">In David's own world, s
 </span>
 
 <p>
-"Scoffer" belongs to the vocabulary of Proverbs, which names the target of that contempt precisely: <span id="cite-1" class="cite-anchor">not merely ignoring correction, but hating the one who gives correction.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">That same contempt extends even to God's own law.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+'Sits' names a settled state &#8212; belonging to the place. 'Seat' names a real place of authority &#8212; where judgment was rendered and opinion shaped. 'Scoffers' names someone actively, continually mocking. To take this seat is to judge and mock others from that same authority. "Scoffer" belongs to the vocabulary of Proverbs, which names the target of that contempt precisely: <span id="cite-1" class="cite-anchor">not merely ignoring correction, but hating the one who gives correction.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">That same contempt extends even to God's own law.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -991,9 +991,9 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
             <span class="transliteration">(ki im)</span>
         </span>
         <span class="definition-list">
-            two particles joined into one strong adversative &#8212; "but rather," "only," "except"
+            two Hebrew particles combined into a firmer form of the ordinary word for "but" &#8212; used after a negative clause to mean "but rather," "only," "except."
             <hr>
-			The sharpest contrast available in Hebrew, directly answering verse 1's three-fold "not... nor... nor."
+			Marks what happens instead of a refusal &#8212; here, replacing verse 1's threefold "not... nor... nor."
         </span>
         <span class="tt-divider"></span>
         <small class="references">
@@ -1022,7 +1022,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 </span>
 
 <p>
-"His delight" names an actual desire: this man wants God's instruction, rather than merely enduring the law.
+"But" introduces "his delight" as the answer to verse 1's threefold refusal &#8212; not one more refused behavior like walking, standing, or sitting, but actual desire for God's law.
 </p>
 <hr>
 
@@ -1112,7 +1112,7 @@ Lord, I have not walked as the blessed man walks. I have let my own reasoning re
 </span>
 
 <p>
-"Meditates" pictures reading this law out loud in a low murmur, not scanning this law silently with the eyes &#8212; <span id="cite-2" class="cite-anchor">the same word and the same phrase <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on that law day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span> was charged to keep in his own mouth.</span><sup class="ref"><a href="#ref-2">[2]</a></sup>
+This instruction is the blessed man's own, taken to heart. Reading this law aloud, in a low murmur, again and again, shows that internal reality. <span id="cite-2" class="cite-anchor">The same verb for "meditate" and the same phrase "day and night" come from the LORD's charge to <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on that law day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span>, once addressed to a single leader &#8212; a charge Psalm 1 now gives to every reader.</span><sup class="ref"><a href="#ref-2">[2]</a></sup>
 </p>
 <hr>
 
@@ -1470,7 +1470,7 @@ Fruit is what the tree produces; the leaf shows whether the tree itself is still
         <span class="definition-list">
             Hiphil imperfect of <span dir="rtl">צָלַח</span> (tsalach) &#8212; to succeed, to advance
             <hr>
-			Hiphil, not the plainer Qal the same root can take &#8212; the form used elsewhere for actively bringing about success. Here the Hiphil lands on the man himself: not prosperity that merely happens to him, but success that follows from what he does.
+			Hiphil, not the plainer Qal the same root can take &#8212; the form used elsewhere for actively bringing about success. Here the Hiphil marks this as no accident: not prosperity that merely happens to him by chance, but success actively given to him.
         </span>
         <span class="tt-divider"></span>
         <small class="references">
@@ -1480,7 +1480,7 @@ Fruit is what the tree produces; the leaf shows whether the tree itself is still
 </span>
 
 <p>
-<span id="cite-2" class="cite-anchor">This is the same word used in God's charge to Joshua: meditate on this Book of the Law day and night, and you will make your own way prosper.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+<span id="cite-2" class="cite-anchor">The pairing of both words &#8212; "does" and "prospers" &#8212; is a linguistic pattern within the same charge given to <span class="tooltip">Joshua<span class="tooltiptext">Moses' successor, who led Israel into the promised land and the conquest of Canaan (Joshua 1:1-2). God's charge to keep the Book of the Law in his mouth, meditating on that law day and night, was addressed to one leader &#8212; Psalm 1 opens that same charge to every reader.</span></span>: "so that you may be careful to do according to all that is written in it; for then you will make your way prosperous."<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
 </p>
 <p>
   <span class="selah-marker">
@@ -1502,7 +1502,7 @@ In verse 1 this man avoided wickedness completely. In verse 2 he returned to God
 The psalmist will directly contrast this picture in verse 4: <em>&#8220;The wicked are not so, but are like chaff that the wind drives away.&#8221;</em> This tree has a real planting and a real water source; the wicked have neither &#8212; only wind.
 </p>
 <p>
-Across verses 1 through 3, the psalmist completes one whole portrait: a man who refuses, a man who delights, and a man who prospers because of both.
+Across verses 1 through 3, the psalmist completes one whole portrait: a man who refuses, a man who delights, and a man who prospers.
 </p>
 <p>
   <span class="selah-marker">
@@ -1590,7 +1590,7 @@ Lord, I do not prosper in all that I do. Too often I strain for fruit under my o
 <div class="ref-list">
   <ol>
     <li id="ref-1"><a href="#cite-1" class="ref-back">↩</a> Jeremiah 17:8 &#8212; <em>"He is like a tree planted by water, that sends out its roots by the stream, and does not fear when heat comes, for its leaves remain green, and is not anxious in the year of drought, for it does not cease to bear fruit."</em> Opens with the identical Hebrew words <em>vehayah ke'ets shatul</em>, "he shall be like a tree, planted" &#8212; the same tree image, independently developed.</li>
-    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Joshua 1:8 &#8212; <em>"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night... for then you will make your way prosperous, and then you will have good success."</em> The same verse Psalm 1:2 already cites for "day and night" shares this same root, <span dir="rtl">צלח</span> (tsalach), in "you will make your way prosperous" &#8212; the charge and its promised outcome both echoed here.</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">↩</a> Joshua 1:8 &#8212; <em>"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it; for then you will make your way prosperous, and then you will have good success."</em> The same verse Psalm 1:2 already cites for "day and night" also contains both words paired here: <span dir="rtl">עָשָׂה</span> (asah) in "to do," and <span dir="rtl">צָלַח</span> (tsalach) in "you will make your way prosperous" &#8212; the charge and its promised outcome both echoed.</li>
     <li id="ref-3"><a href="#cite-3" class="ref-back">↩</a> Jeremiah 20:14-18 &#8212; <em>"Cursed be the day on which I was born... Why did I come out from the womb to see toil and sorrow, and spend my days in shame?"</em> The same prophet who pictured a tree with leaves that stay green and fruit that never stops coming (17:8) also wrote this lament. He was beaten and imprisoned (37:15-16), lowered into a mud-filled cistern (38:6), and his own townspeople plotted to kill him (11:19) &#8212; his own outward life did not match the image he wrote.</li>
     <li id="ref-4"><a href="#cite-4" class="ref-back">↩</a> Genesis 2:9-10 &#8212; <em>"The tree of life was in the midst of the garden... A river flowed out of Eden to water the garden."</em> The tree-planted-by-water image reaches back to Eden itself.</li>
     <li id="ref-5"><a href="#cite-5" class="ref-back">↩</a> Genesis 3:24 &#8212; <em>"He drove out the man, and at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life."</em> Access to the tree of life was lost at the Fall, not merely relocated.</li>
@@ -1731,7 +1731,7 @@ Lord, I do not prosper in all that I do. Too often I strain for fruit under my o
 <summary>Insight</summary>
 
 <p>
-Across verses 1 through 3, the psalmist built one whole portrait: a man who refuses, a man who delights, and a man who prospers because of both. Now, in verse 4, he turns to the wicked and needs only a single verse: they have nothing of their own to describe, only what they lack by comparison.
+Across verses 1 through 3, the psalmist built one whole portrait: a man who refuses, a man who delights, and a man who prospers. Now, in verse 4, he turns to the wicked and needs only a single verse: they have nothing of their own to describe, only what they lack by comparison.
 </p>
 <p>
 "The wicked are not so" already says all there is to say about them; "they are like chaff" gives that emptiness a picture to be seen.
@@ -3183,7 +3183,7 @@ Lord, I call Your rule a burden, even when I never say so aloud &#8212; as if fr
 </span>
 
 <p>
-God is pictured here as King, continuously seated in unshaken rule, and laughing from His throne.
+'He who sits' pictures an unbroken, continuous reign. 'In the heavens' names that reign as transcendent &#8212; heaven itself cannot contain Him. This settled, transcendent reign is what makes the laughter that follows confident and undisturbed.
 </p>
 
 <hr>
@@ -3319,6 +3319,170 @@ Lord, apart from Christ, my resistance to You is nothing less than open rebellio
 </details>
 `
     },
+
+{   label: "Psalm 2:5",
+    title: "Then He Will Speak to Them in His Wrath",
+    image: "lyre.png",
+    genre: "Royal",
+    parallelism: "Synonymous",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">2:5</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`Then he will speak to them in his wrath,<br>and terrify them in his fury, saying,<br><small>(ESV)</small>`],
+      KJV: [`Then shall he speak unto them in his wrath,<br>and vex them in his sore displeasure.<br><small>(KJV)</small>`],
+      NASB: [`Then He will speak to them in His anger<br>And terrify them in His fury, saying,<br><small>(NASB)</small>`],
+      NIV: [`He rebukes them in his anger<br>and terrifies them in his wrath, saying,<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">אָז יְדַבֵּר אֵלֵימוֹ בְאַפּוֹ וּבַחֲרוֹנוֹ יְבַהֲלֵמוֹ</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+<span class="tooltip">
+    <strong>Then</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">אָז</span>
+            <span class="transliteration">(az)</span>
+        </span>
+        <span class="definition-list">
+            Adverb, "then" &#8212; a temporal marker, not part of the verb that follows.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Exodus 15:1
+        </small>
+    </span>
+</span>
+He <span class="tooltip">
+    <strong>will speak</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יְדַבֵּר</span>
+            <span class="transliteration">(yedabber)</span>
+        </span>
+        <span class="definition-list">
+            Piel imperfect of <span dir="rtl">דָּבַר</span> (dabar) &#8212; "to speak, declare," third person masculine singular &#8212; the subject "he" is carried by the verb's own conjugation, not a separate word. Piel is this verb's own ordinary stem for speaking, not an intensive form here &#8212; the imperfect pictures this as sure, future action.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Exodus 20:1
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>to them</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">אֵלֵימוֹ</span>
+            <span class="transliteration">(elemo)</span>
+        </span>
+        <span class="definition-list">
+            An archaic poetic form of "to them," used only here in the entire Hebrew Bible &#8212; though the same archaic "-mo" suffix appears elsewhere on this card, in verse 4's own <span dir="rtl">לָמוֹ</span> (lamo).
+        </span>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>in his wrath</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">בְאַפּוֹ</span>
+            <span class="transliteration">(ve'appo)</span>
+        </span>
+        <span class="definition-list">
+            Preposition <span dir="rtl">בְּ</span> ("in") plus <span dir="rtl">אַף</span> (aph) &#8212; literally "nose, nostril." Anger pictured through the image of flared nostrils and quickened breath &#8212; a metonymy, where a physical symptom stands for the emotion itself. Applied to God, this is anthropopathism: human emotional language used to convey the weight of His action, not a claim that God has literal human passions.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Genesis 30:2
+        </small>
+    </span>
+</span>
+
+<p>
+'Then' marks this as certain to happen, and 'to them' names the rebels as the ones God now addresses. 'In his wrath' pictures flared nostrils and quickened breath &#8212; human emotional language applied to God, not a description of His own nature.
+</p>
+
+<hr>
+
+<span class="tooltip">
+    <strong>and in his fury</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וּבַחֲרוֹנוֹ</span>
+            <span class="transliteration">(uvacharono)</span>
+        </span>
+        <span class="definition-list">
+            Conjunction plus preposition plus <span dir="rtl">חָרוֹן</span> (charon), from <span dir="rtl">חָרָה</span> (charah) &#8212; "to burn." A burning, kindled anger &#8212; Scripture uses this word overwhelmingly for God's own wrath specifically. Applied to God, this too is anthropopathism &#8212; human emotional language describing God's anger, not a claim that God has literal human passions.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Exodus 32:12, which pairs this word with "wrath" together, as this verse does
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>terrify them</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יְבַהֲלֵמוֹ</span>
+            <span class="transliteration">(yevahalemo)</span>
+        </span>
+        <span class="definition-list">
+            Piel imperfect of <span dir="rtl">בָּהַל</span> (bahal). Qal means "to tremble, to be seized with sudden alarm"; Piel here is causative &#8212; not merely feeling afraid, but causing that fear in someone else.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 83:15
+        </small>
+    </span>
+</span>
+
+<p>
+'And in his fury' pictures a burning, kindled anger &#8212; human emotion applied to God, showing the reader what the rebels will feel when they face Him. 'Terrify them' names that feeling as the rebels' real response &#8212; caused by God Himself.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+God already responded to the rebels in verse 4, but only with laughter and derision &#8212; no words yet. Then, here in verse 5, marks the next stage of that same response: God will finally speak.
+</p>
+
+<p>
+What God is about to say will itself be the judgment. His actual words, in verse 6, are calm and declarative: "As for me, I have set my King on Zion, my holy hill."
+</p>
+
+<p>
+Because those words are calm, not angry, the wrath and fury of verse 5 are not found in the tone of what God says. The wrath is found instead in what God <span class="tooltip">decrees<span class="tooltiptext">Not merely announcing something, but making it so by the very act of declaring it &#8212; Martin Luther's own reading of this verse: "he shall speak, that is, he shall decree, command, and ordain by his word." Cf. Jeremiah 18:7, where the same kind of speech functions as decisive action, not mere announcement.</span></span>. The rebels made their own plan in verse 3. But God has already decreed His King's place on Zion &#8212; nothing they attempt can undo that decree. Facing that decree carries the same weight as facing someone in visible rage.
+</p>
+
+<p>
+The psalmist states this same reality twice, in two matching lines: "he will speak to them in his wrath, and terrify them in his fury." Both lines describe the same act, not two different ones &#8212; said twice so the reader cannot miss the point.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+`
+    },
+
 	/* --- PSALM 3 --- */
 { label: "Psalm 3:1",
       title: "David fled from Absalom his son",
