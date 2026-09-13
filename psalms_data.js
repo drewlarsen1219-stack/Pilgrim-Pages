@@ -3480,6 +3480,36 @@ The psalmist states this same reality twice, in two matching lines: "he will spe
   </span>
 </p>
 </details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+Apart from Christ, the confrontation this verse describes isn't reserved for the ancient nations and kings alone &#8212; every person carries out the same kind of rebellion, and already stands <span class="tooltip">by nature<span class="tooltiptext"><span class="definition-list">Reflects the doctrine of original sin: a condition every person is born into, not a status chosen individually. Ephesians 2:3 pairs this with humanity's own sinful conduct &#8212; "by nature children of wrath, like the rest of mankind."</span></span></span> under God's wrath. <span id="cite-1" class="cite-anchor">What these rebels face here &#8212; God Himself speaking directly against them, terrifying them in fury &#8212; is the same kind of confrontation every reader will one day face too, unless joined to Christ.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+</p>
+
+<p><em>The Wrath of the Lamb</em></p>
+
+<p>
+<span id="cite-2" class="cite-anchor">In Revelation 6:15-17, kings of the earth echo the same pattern, terrified and hiding from the face of the one on the throne and from "the wrath of the Lamb" &#8212; Christ's own &#8212; on the day of God's wrath.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Romans 2:8-9 (ESV): "but for those who are self-seeking and do not obey the truth, but obey unrighteousness, there will be wrath and fury. There will be tribulation and distress for every human being who does evil, the Jew first and also the Greek."</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> Revelation 6:15-17 (ESV): "Then the kings of the earth and the great ones and the generals and the rich and the powerful, and everyone, slave and free, hid themselves in the caves and among the rocks of the mountains, calling to the mountains and rocks, 'Fall on us and hide us from the face of him who is seated on the throne, and from the wrath of the Lamb, for the great day of their wrath has come, and who can stand?'"</li>
+  </ol>
+</div>
+</details>
 `
     },
 
