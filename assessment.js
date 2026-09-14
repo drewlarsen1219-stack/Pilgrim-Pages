@@ -702,10 +702,6 @@ function retreatTo(idx) {
 window.vpStartAssessment = function(mode) {
   const input = document.getElementById('vp-name-input');
   const name = input ? input.value.trim() : '';
-  if (!name) {
-    if (input) input.style.borderColor = 'darkred';
-    return;
-  }
   window.vpUserName = name;
   assessmentMode = mode || 'full';
   currentQuestionIndex = 0;
