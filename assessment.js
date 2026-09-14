@@ -470,7 +470,7 @@ const assessmentData = [
   { id: 370, section: "Time", text: "Do you often overcommit and feel stretched too thin?", type: "yn", weight: 7, reverse: true },
   { id: 371, section: "Time", text: "Do interruptions frequently derail your plans?", type: "yn", weight: 6, reverse: true },
 
-  { id: 372, section: "Time", text: "Do you practice Sabbath — regular rest from work?", type: "yn", weight: 8 },
+  { id: 372, section: "Time", text: "Do you take a regular day of rest from work each week?", type: "yn", weight: 8 },
   { id: 373, section: "Time", text: "Do you take breaks during work to maintain energy?", type: "yn", weight: 6 },
   { id: 374, section: "Time", text: "Do you have margin in your schedule — not every moment filled?", type: "yn", weight: 7 },
   { id: 375, section: "Time", text: "Do you feel rushed most of the time?", type: "yn", weight: 6, reverse: true },
