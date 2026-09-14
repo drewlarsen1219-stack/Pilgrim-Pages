@@ -45,7 +45,7 @@ const assessmentData = [
   { id: 36, section: "Body", text: "Do you eat highly processed foods (fast food, chips, packaged snacks, candy) daily?", type: "yn", weight: 7, reverse: true },
   { id: 37, section: "Body", text: "Do you drink sugary beverages (soda, juice, sweetened coffee or tea) daily?", type: "yn", weight: 5, reverse: true },
   { id: 38, section: "Body", text: "How many glasses of water do you drink daily?", type: "select", options: [1, 2, 3, 4, 5], optionLabels: ["1-2", "3-4", "5-6", "7-8", "8+"], weight: 6 },
-  { id: 39, section: "Body", text: "Do you eat breakfast or intentionally practice structured intermittent fasting?", type: "yn", weight: 4 },
+  { id: 39, section: "Body", text: "Do you eat breakfast, or intentionally practice structured intermittent fasting?", type: "select", options: [1, 1, 0], optionLabels: ["Eats breakfast", "Structured intermittent fasting", "Neither"], weight: 4 },
   { id: 40, section: "Body", text: "Do you eat mindfully — sitting down, not distracted, aware of hunger and fullness?", type: "yn", weight: 4 },
   { id: 41, section: "Body", text: "Do you frequently eat past the point of fullness?", type: "yn", weight: 5, reverse: true },
   { id: 42, section: "Body", text: "Do you use food to cope with stress or emotions regularly?", type: "yn", weight: 6, reverse: true },
