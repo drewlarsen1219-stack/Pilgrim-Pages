@@ -3325,6 +3325,8 @@ Lord, apart from Christ, my resistance to You is nothing less than open rebellio
     image: "lyre.png",
     genre: "Royal",
     parallelism: "Synonymous",
+    conditions: ["self-reliance", "fear of God's wrath"],
+    conditionAngle: "names relying on your own willpower, planning, or resourcefulness as though God's decree could still be avoided or reworked &#8212; and points you to Christ, the King already set in place, asking to be kept joined to Him so you escape God's wrath and find safety instead of terror.",
     text: `
       <div class="verse-row">
         <div class="verse-num">2:5</div>
@@ -3502,11 +3504,44 @@ Apart from Christ, the confrontation this verse describes isn't reserved for the
 </details>
 
 <details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+The rebels in verses 1-3 defy God outright, confident their own plotting can free them from His rule. Recognize the same instinct in yourself. The rebels raged against God's rule in public; you carry that same defiance into private, ordinary choices. Instead of repenting, you manage a known sin through willpower. You carry out a decision you know conflicts with God's Word, trusting your own planning instead. Instead of turning to God in prayer, you handle a real need yourself.
+</p>
+
+<p>
+<span id="cite-3" class="cite-anchor">God has already decreed His King's place on Zion, regardless of the rebels' efforts.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> When you are joined to that King, Jesus Christ, you escape God's wrath. Apart from that union with Christ, all you have is willpower, planning, and resourcefulness &#8212; none of which can undo what God has decreed.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Prayer</summary>
+
+<p>
+Lord, I confess that I have trusted my own willpower, planning, and resourcefulness instead of turning to You and submitting to what You have already decreed. Lord, I ask that You keep me joined to Christ, the King You have already set in place, so that I escape Your wrath and find safety in Him instead of terror.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
 <summary>References</summary>
 <div class="ref-list">
   <ol>
     <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Romans 2:8-9 (ESV): "but for those who are self-seeking and do not obey the truth, but obey unrighteousness, there will be wrath and fury. There will be tribulation and distress for every human being who does evil, the Jew first and also the Greek."</li>
     <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> Revelation 6:15-17 (ESV): "Then the kings of the earth and the great ones and the generals and the rich and the powerful, and everyone, slave and free, hid themselves in the caves and among the rocks of the mountains, calling to the mountains and rocks, 'Fall on us and hide us from the face of him who is seated on the throne, and from the wrath of the Lamb, for the great day of their wrath has come, and who can stand?'"</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> Proverbs 21:30 (ESV): "No wisdom, no understanding, no counsel can avail against the LORD."</li>
   </ol>
 </div>
 </details>
