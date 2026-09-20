@@ -3548,6 +3548,153 @@ Lord, I confess that I have trusted my own willpower, planning, and resourcefuln
 `
     },
 
+{   label: "Psalm 2:6",
+    title: "I Have Set My King on Zion",
+    image: "lyre.png",
+    genre: "Royal",
+    parallelism: "Synthetic",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">2:6</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`"As for me, I have set my King on Zion, my holy hill."<br><small>(ESV)</small>`],
+      KJV: [`"Yet have I set my king upon my holy hill of Zion."<br><small>(KJV)</small>`],
+      NASB: [`"But as for Me, I have installed My King Upon Zion, My holy mountain."<br><small>(NASB)</small>`],
+      NIV: [`"I have installed my king on Zion, my holy mountain."<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">וַאֲנִי נָסַכְתִּי מַלְכִּי עַל־צִיּוֹן הַר־קָדְשִׁי</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+<span class="tooltip">
+    <strong>As for me</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וַאֲנִי</span>
+            <span class="transliteration">(va'ani)</span>
+        </span>
+        <span class="definition-list">
+            Conjunction <span dir="rtl">וְ</span>, used here in a contrastive sense ("but") rather than plain "and," plus the independent pronoun <span dir="rtl">אֲנִי</span> ("I") &#8212; grammatically unnecessary, since Hebrew's own verb conjugation already marks the subject.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Genesis 6:17, the same construction for God's own decisive action
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>I have set</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">נָסַכְתִּי</span>
+            <span class="transliteration">(nasakti)</span>
+        </span>
+        <span class="definition-list">
+            Qal perfect of <span dir="rtl">נָסַךְ</span> (nasakh), first person singular &#8212; a separate, distinct verb from the far more common <span dir="rtl">נָסַךְ</span> meaning "to pour out" (a drink offering) or "to cast" (an idol); here this verb means "to install, to set in place."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Proverbs 8:23, "Ages ago I was set up" &#8212; same root and installation sense, though passive there (Niphal) rather than active
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>my King</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">מַלְכִּי</span>
+            <span class="transliteration">(malki)</span>
+        </span>
+        <span class="definition-list">
+            <span dir="rtl">מֶלֶךְ</span> (melek), "king," plus the first person singular possessive suffix, marking this king as belonging to God specifically.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 5:2
+        </small>
+    </span>
+</span>
+
+<p>
+Though Hebrew doesn't require a separate word for "I" here, God names Himself outright, making the statement emphatic: the king now installed, decisively and completely, is God's own.
+</p>
+
+<hr>
+
+<span class="tooltip">
+    <strong>on Zion</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">עַל־צִיּוֹן</span>
+            <span class="transliteration">(al-Tsiyon)</span>
+        </span>
+        <span class="definition-list">
+            Preposition <span dir="rtl">עַל</span> ("on, upon") plus <span dir="rtl">צִיּוֹן</span> (Tsiyon), the fortified hill David captured and made his own city (2 Samuel 5:7) &#8212; later the site of the temple, and the seat of the Davidic throne.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 132:13, "the LORD has chosen Zion; he has desired it for his dwelling place"
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>my holy hill</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">הַר־קָדְשִׁי</span>
+            <span class="transliteration">(har-qodshi)</span>
+        </span>
+        <span class="definition-list">
+            <span dir="rtl">הַר</span> ("mountain, hill") in construct with <span dir="rtl">קֹדֶשׁ</span> (qodesh, "holiness") plus the first person singular suffix &#8212; literally "the mountain of my holiness."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 3:4, "he answered me from his holy hill" &#8212; the same construct phrase, but there naming the hill as God's own ("his holiness"), since David is the one speaking of the LORD's hill, not claiming the hill as his own the way God does here
+        </small>
+    </span>
+</span>
+
+<p>
+God names this hill twice in one breath: first as the stronghold David once captured, then, through the suffix that means "mine," as a hill whose holiness comes directly from God.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+The nations rage; the peoples plot; the kings of the earth set themselves; the rulers take counsel together &#8212; four descriptions of the same rebellion. Verse 3 gives their words directly: "Let us burst their bonds apart and cast away their cords from us."
+</p>
+
+<p>
+In verse 6, God replies: "As for me, I have set my King on Zion, my holy hill."
+</p>
+
+<p>
+The rebels speak as "we" &#8212; their claim lasts only as long as they all keep agreeing. God speaks as "I" &#8212; His claim needs no support from outside Himself.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+`
+    },
+
 	/* --- PSALM 3 --- */
 { label: "Psalm 3:1",
       title: "David fled from Absalom his son",
