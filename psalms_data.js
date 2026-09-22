@@ -3560,10 +3560,10 @@ Lord, I confess that I have trusted my own willpower, planning, and resourcefuln
       </div>
     `,
     versions: {
-      ESV: [`"As for me, I have set my King on Zion, my holy hill."<br><small>(ESV)</small>`],
+      ESV: [`"As for me, I have set my King<br>on Zion, my holy hill."<br><small>(ESV)</small>`],
       KJV: [`"Yet have I set my king upon my holy hill of Zion."<br><small>(KJV)</small>`],
-      NASB: [`"But as for Me, I have installed My King Upon Zion, My holy mountain."<br><small>(NASB)</small>`],
-      NIV: [`"I have installed my king on Zion, my holy mountain."<br><small>(NIV)</small>`],
+      NASB: [`"But as for Me, I have installed My King<br>Upon Zion, My holy mountain."<br><small>(NASB)</small>`],
+      NIV: [`"I have installed my king<br>on Zion, my holy mountain."<br><small>(NIV)</small>`],
       MT: [`<span class="hebrew-text" dir="rtl">וַאֲנִי נָסַכְתִּי מַלְכִּי עַל־צִיּוֹן הַר־קָדְשִׁי</span><br><small>(MT &#8212; Masoretic Text)</small>`]
     },
 
@@ -3588,8 +3588,8 @@ Lord, I confess that I have trusted my own willpower, planning, and resourcefuln
         </small>
     </span>
 </span>
-<span class="tooltip">
-    <strong>I have set</strong>
+I <span class="tooltip">
+    <strong>have set</strong>
     <span class="tooltiptext">
         <span class="hebrew-row">
             <span class="hebrew-text" dir="rtl">נָסַכְתִּי</span>
@@ -3651,7 +3651,7 @@ Though Hebrew doesn't require a separate word for "I" here, God names Himself ou
             <span class="transliteration">(har-qodshi)</span>
         </span>
         <span class="definition-list">
-            <span dir="rtl">הַר</span> ("mountain, hill") in construct with <span dir="rtl">קֹדֶשׁ</span> (qodesh, "holiness") plus the first person singular suffix &#8212; literally "the mountain of my holiness."
+            <span dir="rtl">הַר</span> ("mountain, hill") in construct with <span dir="rtl">קֹדֶשׁ</span> (qodesh) &#8212; a status of being set apart for God alone, distinct from anything common &#8212; plus the first person singular suffix, literally "the mountain of my holiness."
         </span>
         <span class="tt-divider"></span>
         <small class="references">
@@ -3683,7 +3683,7 @@ In verse 6, God replies: "As for me, I have set my King on Zion, my holy hill."
 </p>
 
 <p>
-The rebels speak as "we" &#8212; their claim lasts only as long as they all keep agreeing. God speaks as "I" &#8212; His claim needs no support from outside Himself.
+The rebels speak as "us" &#8212; their claim lasts only as long as they all keep agreeing. God speaks as "I" &#8212; His claim needs no support from outside Himself.
 </p>
 
 <p>
@@ -3691,6 +3691,61 @@ The rebels speak as "we" &#8212; their claim lasts only as long as they all keep
     <em>SELAH</em>
   </span>
 </p>
+</details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+Apart from Christ, no reader can claim the security the LORD declares over His King in this verse. That same pattern secured David once before. <span id="cite-1" class="cite-anchor">The LORD rejected his oldest brother Eliab and chose David, the youngest, instead ("the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart").<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">David did not seize the throne himself &#8212; Israel's elders came to him at Hebron and made him king.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> <span id="cite-3" class="cite-anchor">Afterward, "David became greater and greater, for the LORD, the God of hosts, was with him."<sup class="ref"><a href="#ref-3">[3]</a></sup></span> The same LORD who secured David this way, not by birth order or by David's own effort, would go on to secure a King greater than David.
+</p>
+
+<p><em>A King Greater Than David</em></p>
+
+<p>
+<span id="cite-4" class="cite-anchor">"In the Psalms, Zion often describes the <span class="tooltip">Temple Mount<span class="tooltiptext">The hill in Jerusalem where Solomon built the Temple (1 Kings 6) &#8212; the center of Israelite worship and sacrifice.</span></span>, where God dwelt among His people and where they sought Him; by extension, it can include Jerusalem, Israel, and God's people here and in eternity (i.e., the Church)."<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">That wider reach works through a plain figure of speech: a place standing for the people gathered there &#8212; until Christ freed worship from any single place (John 4:21), and "Zion" came to reach everyone gathered to God, anywhere.<sup class="ref"><a href="#ref-5">[5]</a></sup></span> This same widening reach belongs to the King enthroned there too: <span id="cite-6" class="cite-anchor">that same pairing &#8212; a king installed at Zion &#8212; appears again in Psalm 110:2, reused for a king greater than David: "The LORD sends forth from Zion your mighty scepter. Rule in the midst of your enemies!"<sup class="ref"><a href="#ref-6">[6]</a></sup></span> That king remains unnamed there.
+</p>
+
+<p>
+<span id="cite-7" class="cite-anchor">That king speaks for himself in Psalm 2's own next verse: "I will tell of the decree: The LORD said to me, 'You are my Son; today I have begotten you.'" The author of Hebrews applies those same words to Christ's own priesthood: "Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, 'You are my Son, today I have begotten you.'"<sup class="ref"><a href="#ref-7">[7]</a></sup></span> <span id="cite-8" class="cite-anchor">The speaking voice already changed at verse 6 &#8212; no longer David narrating, but God's own voice<sup class="ref"><a href="#ref-8">[8]</a></sup></span> &#8212; so the King appointed in verse 7 is the King installed in verse 6.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+
+<hr>
+
+<p><em>A Conspiracy Overruled</em></p>
+
+<p>
+The rebels described in verses 1-3 carried their rebellion all the way to the crucifixion &#8212; yet the King God installed in verse 6 remained secure regardless. <span id="cite-9" class="cite-anchor">Paul preached that God fulfilled this decree by raising Jesus from the dead: "And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, 'You are my Son, today I have begotten you.'"<sup class="ref"><a href="#ref-9">[9]</a></sup></span> Not even a conspiracy that reached the cross could undo what God had already declared.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> 1 Samuel 16:7 (ESV): "But the LORD said to Samuel, 'Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart.'" David, the youngest of Jesse's sons (v.11), was chosen over his oldest brother Eliab (v.6; cf. 1 Samuel 17:13, "Eliab the firstborn").</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> 2 Samuel 5:1-3 (ESV): "Then all the tribes of Israel came to David at Hebron and said, 'Behold, we are your bone and flesh... And the LORD said to you, "You shall be shepherd of my people Israel, and you shall be prince over Israel."' So all the elders of Israel came to the king at Hebron, and King David made a covenant with them at Hebron before the LORD, and they anointed David king over Israel."</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> 2 Samuel 5:10 (ESV): "And David became greater and greater, for the LORD, the God of hosts, was with him."</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> The Lutheran Study Bible, study note on Psalm 2:6 ("Zion"): "In the Psalms, Zion often describes the Temple Mount, where God dwelt among His people and where they sought Him; by extension, it can include Jerusalem, Israel, and God's people here and in eternity (i.e., the Church)."</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 6: "Therefore the church is called Mount Zion by the figure of speech most common in the scriptures, synecdoche, which speaks of the containing for the contained, as, the city of Jerusalem for the people of that city." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text. Cf. John 4:21 (ESV): "Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father."</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> Psalm 110:2 (ESV): "The LORD sends forth from Zion your mighty scepter. Rule in the midst of your enemies!"</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Psalm 2:7 (ESV): "I will tell of the decree: The LORD said to me, 'You are my Son; today I have begotten you.'" Hebrews 5:4-5 (ESV): "And no one takes this honor for himself, but only when called by God, just as Aaron was. So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, 'You are my Son, today I have begotten you.'"</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 6: "Here the person is changed, for it is not David now speaking in his own person, but it is Christ that speaks. The Hebrew, however, rather makes it to be the Person of the Father speaking..." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
+    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Acts 13:32-33 (ESV): "And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, 'You are my Son, today I have begotten you.'"</li>
+  </ol>
+</div>
 </details>
 `
     },
