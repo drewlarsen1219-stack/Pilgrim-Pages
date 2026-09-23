@@ -3697,7 +3697,7 @@ The rebels speak as "us" &#8212; their claim lasts only as long as they all keep
 <summary>Fulfillment</summary>
 
 <p>
-Apart from Christ, no reader can claim the security the LORD declares over His King in this verse. That same pattern secured David once before. <span id="cite-1" class="cite-anchor">The LORD rejected his oldest brother Eliab and chose David, the youngest, instead ("the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart").<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">David did not seize the throne himself &#8212; Israel's elders came to him at Hebron and made him king.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> <span id="cite-3" class="cite-anchor">Afterward, "David became greater and greater, for the LORD, the God of hosts, was with him."<sup class="ref"><a href="#ref-3">[3]</a></sup></span> The same LORD who secured David this way, not by birth order or by David's own effort, would go on to secure a King greater than David.
+Apart from Christ, no reader can claim the security the LORD declares over His King in this verse. David's kingship came from the LORD too. <span id="cite-1" class="cite-anchor">The LORD rejected David's oldest brother Eliab and chose David, the youngest, instead ("the LORD sees not as man sees"), and at the LORD's command Samuel anointed David.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">Years later, after Saul's reign ended, all the tribes of Israel came to David at Hebron, recalling the LORD's promise to him: "You shall be shepherd of my people Israel." Their elders then anointed him king over Israel.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> <span id="cite-3" class="cite-anchor">David knew "that the LORD had established him king over Israel."<sup class="ref"><a href="#ref-3">[3]</a></sup></span> The LORD established David by His choice and His promise, not by birth order. The same LORD would go on to establish a King greater than David.
 </p>
 
 <p><em>A King Greater Than David</em></p>
@@ -3721,8 +3721,26 @@ Apart from Christ, no reader can claim the security the LORD declares over His K
 <p><em>A Conspiracy Overruled</em></p>
 
 <p>
-The rebels described in verses 1-3 carried their rebellion all the way to the crucifixion &#8212; yet the King God installed in verse 6 remained secure regardless. <span id="cite-9" class="cite-anchor">Paul preached that God fulfilled this decree by raising Jesus from the dead: "And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, 'You are my Son, today I have begotten you.'"<sup class="ref"><a href="#ref-9">[9]</a></sup></span> Not even a conspiracy that reached the cross could undo what God had already declared.
+The rebels described in verses 1-3 carried their rebellion all the way to the crucifixion &#8212; yet the King God installed in verse 6 remained secure regardless. <span id="cite-9" class="cite-anchor">Paul preached that God fulfilled this decree by raising Jesus from the dead: "And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, 'You are my Son, today I have begotten you.'"<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">"Today I have begotten you" does not mean Jesus first became God's Son when He rose. Paul writes of God's Son born into David's line, and says this same Son "was declared to be the Son of God in power... by his resurrection from the dead."<sup class="ref"><a href="#ref-10">[10]</a></sup></span> Not even a conspiracy that reached the cross could undo what God had already decreed.
 </p>
+
+<div class="fulfill-map" role="group" aria-label="How these passages connect">
+  <div class="map-step"><span class="map-text">David: chosen by the LORD, anointed by Samuel, later anointed king over Israel by its elders</span><span class="map-cite">1 Samuel 16; 2 Samuel 5</span></div>
+  <div class="map-arrow">&#9660;</div>
+  <div class="map-row">
+    <div class="map-step"><span class="map-text">God speaks: "I have set my King on Zion"</span><span class="map-cite">Psalm 2:6</span></div>
+    <div class="map-branch-arrow">&#9654;</div>
+    <div class="map-step map-branch"><span class="map-text">David calls this King "my Lord" but never names Him</span><span class="map-cite">Psalm 110:1-2</span></div>
+  </div>
+  <div class="map-arrow">&#9660;</div>
+  <div class="map-step"><span class="map-text">The King reports the LORD's words: "You are my Son"</span><span class="map-cite">Psalm 2:7</span></div>
+  <div class="map-divider"><span>Fulfilled in Jesus</span></div>
+  <div class="map-step"><span class="map-text">The rebels of Psalm 2 gather against Jesus</span><span class="map-cite">Acts 4:25-28</span></div>
+  <div class="map-arrow">&#9660;</div>
+  <div class="map-step"><span class="map-text">God raises Jesus, declaring Him the Son of God in power</span><span class="map-cite">Acts 13:33; Romans 1:4</span></div>
+  <div class="map-arrow">&#9660;</div>
+  <div class="map-step"><span class="map-text">Jesus does not exalt Himself; God appoints Him high priest</span><span class="map-cite">Hebrews 5:5</span></div>
+</div>
 
 <p>
   <span class="selah-marker">
@@ -3735,15 +3753,16 @@ The rebels described in verses 1-3 carried their rebellion all the way to the cr
 <summary>References</summary>
 <div class="ref-list">
   <ol>
-    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> 1 Samuel 16:7 (ESV): "But the LORD said to Samuel, 'Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart.'" David, the youngest of Jesse's sons (v.11), was chosen over his oldest brother Eliab (v.6; cf. 1 Samuel 17:13, "Eliab the firstborn").</li>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> 1 Samuel 16:7 (ESV): "But the LORD said to Samuel, 'Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart.'" David, the youngest of Jesse's sons (v.11), was chosen over his oldest brother Eliab (v.6; cf. 1 Samuel 17:13, "Eliab the firstborn"). 1 Samuel 16:12-13 (ESV): "And the LORD said, 'Arise, anoint him, for this is he.' Then Samuel took the horn of oil and anointed him in the midst of his brothers."</li>
     <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> 2 Samuel 5:1-3 (ESV): "Then all the tribes of Israel came to David at Hebron and said, 'Behold, we are your bone and flesh... And the LORD said to you, "You shall be shepherd of my people Israel, and you shall be prince over Israel."' So all the elders of Israel came to the king at Hebron, and King David made a covenant with them at Hebron before the LORD, and they anointed David king over Israel."</li>
-    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> 2 Samuel 5:10 (ESV): "And David became greater and greater, for the LORD, the God of hosts, was with him."</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> 2 Samuel 5:12 (ESV): "And David knew that the LORD had established him king over Israel, and that he had exalted his kingdom for the sake of his people Israel."</li>
     <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> The Lutheran Study Bible, study note on Psalm 2:6 ("Zion"): "In the Psalms, Zion often describes the Temple Mount, where God dwelt among His people and where they sought Him; by extension, it can include Jerusalem, Israel, and God's people here and in eternity (i.e., the Church)."</li>
     <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 6: "Therefore the church is called Mount Zion by the figure of speech most common in the scriptures, synecdoche, which speaks of the containing for the contained, as, the city of Jerusalem for the people of that city." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text. Cf. John 4:21 (ESV): "Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father."</li>
     <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> Psalm 110:2 (ESV): "The LORD sends forth from Zion your mighty scepter. Rule in the midst of your enemies!"</li>
     <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Psalm 2:7 (ESV): "I will tell of the decree: The LORD said to me, 'You are my Son; today I have begotten you.'" Hebrews 5:4-5 (ESV): "And no one takes this honor for himself, but only when called by God, just as Aaron was. So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, 'You are my Son, today I have begotten you.'"</li>
     <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 6: "Here the person is changed, for it is not David now speaking in his own person, but it is Christ that speaks. The Hebrew, however, rather makes it to be the Person of the Father speaking..." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
     <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Acts 13:32-33 (ESV): "And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, 'You are my Son, today I have begotten you.'"</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Romans 1:3-4 (ESV): "concerning his Son, who was descended from David according to the flesh and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord"</li>
   </ol>
 </div>
 </details>

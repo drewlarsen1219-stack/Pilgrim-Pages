@@ -836,6 +836,95 @@ body.night-mode .reading-mode .ref-list li:target {
   border-left-color: #c07850;
 }
 
+/* ── Fulfillment recap diagram (chain of passages) ── */
+.fulfill-map {
+  margin: 18px 0 8px;
+  font-size: 0.92em;
+  line-height: 1.45;
+}
+
+.map-step {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 2px 12px;
+  border: 1px solid #808080;
+  padding: 6px 10px;
+}
+
+.map-cite {
+  font-family: "Courier New", monospace;
+  font-size: 0.85em;
+  color: #555;
+  white-space: nowrap;
+}
+
+.map-arrow {
+  text-align: center;
+  color: #808080;
+  font-size: 11px;
+  line-height: 1;
+  margin: 3px 0;
+}
+
+.map-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.map-row > .map-step { flex: 1 1 0; }
+
+.map-branch { border-style: dashed; }
+
+.map-branch-arrow {
+  flex: 0 0 auto;
+  color: #808080;
+  font-size: 11px;
+}
+
+.map-divider {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 10px 0;
+  font-family: "Courier New", monospace;
+  font-size: 12px;
+  color: #808080;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.map-divider::before,
+.map-divider::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid #808080;
+}
+
+.reading-mode .map-step { border-color: #a08c6c; }
+.reading-mode .map-cite { color: #6b5a40; }
+
+body.night-mode .map-step { border-color: #666; }
+body.night-mode .map-cite,
+body.night-mode .map-arrow,
+body.night-mode .map-branch-arrow,
+body.night-mode .map-divider { color: #999; }
+body.night-mode .map-divider::before,
+body.night-mode .map-divider::after { border-top-color: #666; }
+
+@media (max-width: 600px) {
+  .map-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .map-branch-arrow {
+    align-self: center;
+    transform: rotate(90deg);
+  }
+}
+
 /* Touch-friendly tooltips: tap to toggle */
 .tooltip.tooltip-active .tooltiptext {
   visibility: visible;
