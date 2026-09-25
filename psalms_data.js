@@ -3553,6 +3553,8 @@ Lord, I confess that I have trusted my own willpower, planning, and resourcefuln
     image: "lyre.png",
     genre: "Royal",
     parallelism: "Synthetic",
+    conditions: ["people-pleasing", "pride", "gossip", "crude joking"],
+    conditionAngle: "names looking for security in people's approval by laughing along at crude jokes or joining gossip, or raising yourself above others &#8212; and points you to Christ, whom God installed as King on Zion, asking forgiveness and trusting that God, by His own will, accepts you for Christ's sake.",
     text: `
       <div class="verse-row">
         <div class="verse-num">2:6</div>
@@ -3750,6 +3752,42 @@ The rebels described in verses 1-3 carried their rebellion all the way to the cr
 </details>
 
 <details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<span id="cite-11" class="cite-anchor">In your <span class="tooltip">vocations<span class="tooltiptext">The life God has assigned you and called you to &#8212; at work, at home, in your church, and in your community (1 Corinthians 7:17).</span></span>, the approval of the people around you can come to feel like security. To keep that approval, you laugh along at a crude joke or join the <span class="tooltip">gossip<span class="tooltiptext">Telling someone a neighbor's faults, true or false, when that listener has no role in correcting those faults and no need to know. Eagerly asking to hear those faults, with no such need yourself, is part of gossip too. Luther's explanation of the Eighth Commandment calls you instead to "defend [your neighbor], speak well of him, and explain everything in the kindest way" (Small Catechism).</span></span> about a neighbor.<sup class="ref"><a href="#ref-11">[11]</a></sup></span> <span id="cite-12" class="cite-anchor">God's Word names crude joking and gossip as sins, and laughing along or joining the gossip makes those sins your own.<sup class="ref"><a href="#ref-12">[12]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-13" class="cite-anchor">You can also look for security by exalting yourself over others: taking credit for a coworker's work, or belittling someone to look better.<sup class="ref"><a href="#ref-13">[13]</a></sup></span> <span id="cite-14" class="cite-anchor">Humble yourself "under the mighty hand of God so that at the proper time he may exalt you."<sup class="ref"><a href="#ref-14">[14]</a></sup></span>
+</p>
+
+<p>
+Jesus Christ is the King God chose and installed on Zion. <span id="cite-15" class="cite-anchor">God needed no creature's approval to install Him as King, and Christ did not exalt Himself to be <span class="tooltip">high priest<span class="tooltiptext">The priest appointed to act on behalf of people in relation to God, offering gifts and sacrifices for sins (Hebrews 5:1).</span></span>; God appointed Him. Christ humbled Himself to the point of death on a cross for all of these sins, and God exalted Him.<sup class="ref"><a href="#ref-15">[15]</a></sup></span> <span id="cite-16" class="cite-anchor">Because of Christ's death, God forgives you and accepts you.<sup class="ref"><a href="#ref-16">[16]</a></sup></span> Losing the approval of the people around you may cost you their friendship. <span id="cite-17" class="cite-anchor">But your security before God comes from Christ, who is at God's right hand interceding for you.<sup class="ref"><a href="#ref-17">[17]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Prayer</summary>
+
+<p>
+Father, You installed Christ as King on Zion, and His kingship does not depend on the approval of people. I have looked for security in the approval of the people around me, and to keep that approval I have laughed along at crude jokes or joined in gossip about my neighbor. I have raised myself above others by claiming a coworker's work as my own or belittling someone so that people would admire me. Christ died on the cross for these sins; forgive me for His sake. Give me courage to stop laughing along at crude jokes and joining in gossip. Teach me to humble myself before You, to find my security in Your acceptance, to speak well of my neighbor instead of belittling him, and, when people praise me for a coworker's work, to tell them my coworker did the work. The approval I have sought depends on what I do to please people, but You accept me for Christ's sake by Your own will, the same will by which You installed Him as King on Zion.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
 <summary>References</summary>
 <div class="ref-list">
   <ol>
@@ -3763,6 +3801,13 @@ The rebels described in verses 1-3 carried their rebellion all the way to the cr
     <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 6: "Here the person is changed, for it is not David now speaking in his own person, but it is Christ that speaks. The Hebrew, however, rather makes it to be the Person of the Father speaking..." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
     <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Acts 13:32-33 (ESV): "And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, 'You are my Son, today I have begotten you.'"</li>
     <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Romans 1:3-4 (ESV): "concerning his Son, who was descended from David according to the flesh and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord"</li>
+    <li id="ref-11"><a href="#cite-11" class="ref-back">&#8617;</a> Galatians 1:10 (ESV): "For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ."</li>
+    <li id="ref-12"><a href="#cite-12" class="ref-back">&#8617;</a> Ephesians 5:4 (ESV): "Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving." Romans 1:29 (ESV): "...They are gossips, ..." Romans 1:32 (ESV): "Though they know God's righteous decree that those who practice such things deserve to die, they not only do them but give approval to those who practice them."</li>
+    <li id="ref-13"><a href="#cite-13" class="ref-back">&#8617;</a> 1 Peter 5:5 (ESV): "Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for 'God opposes the proud but gives grace to the humble.'"</li>
+    <li id="ref-14"><a href="#cite-14" class="ref-back">&#8617;</a> 1 Peter 5:6 (ESV): "Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you, ..."</li>
+    <li id="ref-15"><a href="#cite-15" class="ref-back">&#8617;</a> Hebrews 5:5 &#8212; see [7] above for the full quotation. Philippians 2:8-9 (ESV): "And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. Therefore God has highly exalted him and bestowed on him the name that is above every name." 1 Corinthians 15:3 (ESV): "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures."</li>
+    <li id="ref-16"><a href="#cite-16" class="ref-back">&#8617;</a> Romans 8:33-34 (ESV): "Who shall bring any charge against God's elect? It is God who justifies. Who is to condemn? Christ Jesus is the one who died&#8212;more than that, who was raised&#8212;who is at the right hand of God, who indeed is interceding for us."</li>
+    <li id="ref-17"><a href="#cite-17" class="ref-back">&#8617;</a> Romans 8:34 &#8212; see [16] above for the full quotation.</li>
   </ol>
 </div>
 </details>
