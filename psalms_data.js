@@ -3814,6 +3814,203 @@ Father, You installed Christ as King on Zion, and His kingship does not depend o
 `
     },
 
+{   label: "Psalm 2:7",
+    title: "You Are My Son",
+    image: "lyre.png",
+    genre: "Royal",
+    parallelism: "Synonymous",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">2:7</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`I will tell of the decree:<br>The LORD said to me, "You are my Son;<br>today I have begotten you.<br><small>(ESV)</small>`],
+      KJV: [`I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee.<br><small>(KJV)</small>`],
+      NASB: [`I will surely tell of the decree of the LORD:<br>He said to Me, 'You are My Son,<br>Today I have begotten You.<br><small>(NASB)</small>`],
+      NIV: [`I will proclaim the LORD's decree:<br>He said to me, "You are my son;<br>today I have become your father.<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">אֲסַפְּרָה אֶל חֹק יְהוָה אָמַר אֵלַי בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+
+I <span class="tooltip">
+    <strong>will tell</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">אֲסַפְּרָה</span>
+            <span class="transliteration">('asapperah)</span>
+        </span>
+        <span class="definition-list">
+            Piel cohortative of <span dir="rtl">סָפַר</span> (saphar), which in its basic stem means "to count." In this stem it means "to recount, to declare": to tell over to others. The cohortative form expresses the speaker's own resolve: "I will tell."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 22:22, "I will tell of your name to my brothers" &#8212; the same form
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>of the decree</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">אֶל חֹק</span>
+            <span class="transliteration">('el choq)</span>
+        </span>
+        <span class="definition-list">
+            Preposition <span dir="rtl">אֶל</span> ("to, concerning") plus <span dir="rtl">חֹק</span> (choq), a prescribed statute or decree, from the root <span dir="rtl">חָקַק</span> (chaqaq), "to engrave, inscribe."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 148:6, "he gave a decree, and it shall not pass away"
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>The LORD</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יְהוָה</span>
+            <span class="transliteration">(YHWH)</span>
+        </span>
+        <span class="definition-list">
+            The covenant name of God &#8212; I AM / He Who Is.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Exodus 3:14, Exodus 6:2-3, Isaiah 42:8
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>said to me</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">אָמַר אֵלַי</span>
+            <span class="transliteration">('amar 'elay)</span>
+        </span>
+        <span class="definition-list">
+            Qal perfect of <span dir="rtl">אָמַר</span> ('amar), "to say," third person singular, plus <span dir="rtl">אֵלַי</span> ("to me"). The perfect presents the saying as a completed act.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Deuteronomy 10:1, "At that time the LORD said to me" &#8212; the same words
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>You</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">אַתָּה</span>
+            <span class="transliteration">('attah)</span>
+        </span>
+        <span class="definition-list">
+            The independent pronoun "you." Hebrew uses no verb "are" here; the two words stand side by side, literally "My Son &#8212; you."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: 2 Samuel 12:7, "You are the man!" &#8212; the same construction, with no verb
+        </small>
+    </span>
+</span>
+are
+<span class="tooltip">
+    <strong>my Son</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">בְּנִי</span>
+            <span class="transliteration">(beni)</span>
+        </span>
+        <span class="definition-list">
+            <span dir="rtl">בֵּן</span> (ben), "son," plus the first person singular suffix, "my son."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Exodus 4:22, "Thus says the LORD, Israel is my firstborn son" &#8212; the same form, spoken by the LORD
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>today</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">הַיּוֹם</span>
+            <span class="transliteration">(hayyom)</span>
+        </span>
+        <span class="definition-list">
+            The article plus <span dir="rtl">יוֹם</span> (yom), "day" &#8212; literally "the day," the ordinary Hebrew way of saying "this day, today."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 95:7, "Today, if you hear his voice"
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>I</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">אֲנִי</span>
+            <span class="transliteration">('ani)</span>
+        </span>
+        <span class="definition-list">
+            The independent pronoun "I" &#8212; grammatically unnecessary, since the verb that follows already marks its subject.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 2:6, "As for me," the same pronoun
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>have begotten you</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">יְלִדְתִּיךָ</span>
+            <span class="transliteration">(yelidtikha)</span>
+        </span>
+        <span class="definition-list">
+            Qal perfect of <span dir="rtl">יָלַד</span> (yalad), first person singular, plus the suffix "you." The verb most often describes a mother bearing a child; said of a father, it means "to beget," to father a son.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Proverbs 23:22, "your father who gave you life" &#8212; the same verb, said of a father
+        </small>
+    </span>
+</span>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Insight</summary>
+
+<p>
+In verse 6 the LORD set His King on Zion. In verse 7 the LORD calls that King "my Son." In verse 8 the LORD offers the King an inheritance, and that inheritance is the nations raging in verse 1.
+</p>
+
+<p>
+The LORD also says the King will break those same nations with a rod of iron (verse 9).
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+`
+    },
+
 	/* --- PSALM 3 --- */
 { label: "Psalm 3:1",
       title: "David fled from Absalom his son",
