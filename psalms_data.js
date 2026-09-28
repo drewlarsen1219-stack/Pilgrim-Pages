@@ -3995,11 +3995,7 @@ are
 <summary>Insight</summary>
 
 <p>
-In verse 6 the LORD set His King on Zion. In verse 7 the LORD calls that King "my Son." In verse 8 the LORD offers the King an inheritance, and that inheritance is the nations raging in verse 1.
-</p>
-
-<p>
-The LORD also says the King will break those same nations with a rod of iron (verse 9).
+In verse 3 the rebels say, "Let us burst their bonds apart." In verse 7 the King says, "I will tell of the decree." Both speeches begin with what the speakers are determined to do. The rebels state their own plan. <span id="cite-1" class="cite-anchor">The King declares what the LORD said to him.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
 </p>
 
 <p>
@@ -4007,6 +4003,15 @@ The LORD also says the King will break those same nations with a rod of iron (ve
     <em>SELAH</em>
   </span>
 </p>
+</details>
+
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7: "he first introduces the Father as speaking unto him, in order that we may hear more the Father in the Son speaking of the Son, than the Son speaking of himself." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
+  </ol>
+</div>
 </details>
 `
     },
