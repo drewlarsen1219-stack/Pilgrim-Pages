@@ -3819,6 +3819,8 @@ Father, You installed Christ as King on Zion, and His kingship does not depend o
     image: "lyre.png",
     genre: "Royal",
     parallelism: "Synonymous",
+    conditions: ["comforting the grieving", "witnessing", "need for forgiveness"],
+    conditionAngle: "names keeping God's Son from a grieving neighbor, by never speaking of God or by speaking of God but never of His Son &#8212; and points to Christ, condemned for confessing that He is God's Son, who died bearing this sin; the prayer then asks God to forgive you and open your mouth so that your neighbor hears from you that Jesus died for their sins and rose again.",
     text: `
       <div class="verse-row">
         <div class="verse-num">2:7</div>
@@ -3995,7 +3997,63 @@ are
 <summary>Insight</summary>
 
 <p>
-In verse 3 the rebels say, "Let us burst their bonds apart." In verse 7 the King says, "I will tell of the decree." Both speeches begin with what the speakers are determined to do. The rebels state their own plan. <span id="cite-1" class="cite-anchor">The King declares what the LORD said to him.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+<span id="cite-1" class="cite-anchor">Earlier in the psalm the rebels say, "Let us burst their bonds apart."<sup class="ref"><a href="#ref-1">[1]</a></sup></span> Here the King says, "I will tell of the decree." Both speeches begin with what the speakers are determined to do. The rebels state their own plan. <span id="cite-2" class="cite-anchor">The King declares what the LORD said to him.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+<span id="cite-3" class="cite-anchor">The LORD said "You are my Son" only to the King He set on Zion.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> <span id="cite-4" class="cite-anchor">Apart from Christ, no reader is God's child;<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">every reader is accountable to God under His law.<sup class="ref"><a href="#ref-5">[5]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-6" class="cite-anchor">Through the prophet Nathan, the LORD promised David an offspring from his own body: "I will be to him a father, and he shall be to me a son."<sup class="ref"><a href="#ref-6">[6]</a></sup></span> In this psalm the LORD said that He had fathered His King: "today I have <span class="tooltip">begotten<span class="tooltiptext"><span class="definition-list">The Lutheran Study Bible's note on this verse quotes Martin Chemnitz: "In Hebrew the word is yalad . . . to beget from the essence" (<em>Loci Theologici</em> 1:101).</span></span></span> you." <span id="cite-7" class="cite-anchor">This Son is of the same divine nature as His Father and equal to Him as God; He is also true man, fully human, born of the Virgin Mary.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> <span id="cite-8" class="cite-anchor">David wrote this psalm by the Holy Spirit, recording the Son's own words centuries before that birth.<sup class="ref"><a href="#ref-8">[8]</a></sup></span>
+</p>
+
+<p><em>The Eternal Son, and Our Adoption as Sons</em></p>
+
+<p>
+<span id="cite-9" class="cite-anchor">Both the promise made to David through Nathan and the words of this verse belong to God's Son, Jesus Christ.<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">The "today" of this verse has no yesterday and no tomorrow: as God, Christ is "begotten of the Father from eternity."<sup class="ref"><a href="#ref-10">[10]</a></sup></span> <span id="cite-11" class="cite-anchor">God sent this eternal Son, "born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons." Christ is God's Son by being begotten; through faith in Him, you become God's child by adoption.<sup class="ref"><a href="#ref-11">[11]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+The Son the LORD speaks to in this verse is Jesus Christ. <span id="cite-12" class="cite-anchor">The chief teaching of the Christian faith is that this Son "died for our sins, and was raised again for our <span class="tooltip">justification<span class="tooltiptext"><span class="definition-list">God declaring a sinner not guilty and right with Him because of what Christ did. The sinner receives this declaration only by trusting Christ, not by doing good deeds (Romans 3:28).</span></span></span>."<sup class="ref"><a href="#ref-12">[12]</a></sup></span> The comfort God gives you is His Son, who died for your sins and rose again. <span id="cite-13" class="cite-anchor">God gives you that comfort "so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God."<sup class="ref"><a href="#ref-13">[13]</a></sup></span> <span id="cite-14" class="cite-anchor">God commands you to love your neighbor as yourself.<sup class="ref"><a href="#ref-14">[14]</a></sup></span> <span id="cite-15" class="cite-anchor">When your neighbor grieves, love may first mean sitting with them and weeping with them.<sup class="ref"><a href="#ref-15">[15]</a></sup></span> But love does not keep the comfort of God's Son from your neighbor. If you sit with them but never speak of God, or if you speak of God but never of His Son, they never hear from you that Jesus died for their sins and rose again.
+</p>
+
+<p>
+<span id="cite-16" class="cite-anchor">At Jesus' trial, the high priest put Him under oath: "tell us if you are the Christ, the Son of God." Jesus confessed that He is the Christ, the Son of God, and the Jewish council said, "He deserves death."<sup class="ref"><a href="#ref-16">[16]</a></sup></span> <span id="cite-17" class="cite-anchor">His accusers told Pilate that Jesus "ought to die because he has made himself the Son of God."<sup class="ref"><a href="#ref-17">[17]</a></sup></span> <span id="cite-18" class="cite-anchor">Jesus' confession that He is the Son the LORD speaks to in this verse "was what was brought against him at his crucifixion as a capital crime."<sup class="ref"><a href="#ref-18">[18]</a></sup></span> <span id="cite-19" class="cite-anchor">On the cross, Jesus died bearing your sins, including every way you kept God's Son from your neighbor, by never speaking to them about God or by speaking of God but never of His Son.<sup class="ref"><a href="#ref-19">[19]</a></sup></span> <span id="cite-20" class="cite-anchor">God counts Jesus' obedience to His Father, in His life and in His death, as yours, and forgives those sins for Jesus' sake.<sup class="ref"><a href="#ref-20">[20]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+
+<details class="study-section">
+<summary>Prayer</summary>
+
+<p>
+Father, You comforted me with Your Son, who died for my sins and rose again. I have sat with a grieving neighbor but never spoken of You. I have spoken of You but never of Your Son. So my neighbor never heard me tell of the comfort You gave me. Jesus confessed that He is Your Son, and He was condemned for that confession. He died bearing these sins. Count Jesus' obedience, in His life and in His death, as mine, and forgive me for Jesus' sake. When I sit and weep with a grieving neighbor, open my mouth, so that my neighbor hears from me that Jesus died for their sins and rose again.
 </p>
 
 <p>
@@ -4009,7 +4067,26 @@ In verse 3 the rebels say, "Let us burst their bonds apart." In verse 7 the King
 <summary>References</summary>
 <div class="ref-list">
   <ol>
-    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7: "he first introduces the Father as speaking unto him, in order that we may hear more the Father in the Son speaking of the Son, than the Son speaking of himself." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Psalm 2:3 (ESV): "Let us burst their bonds apart and cast away their cords from us."</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7: "he first introduces the Father as speaking unto him, in order that we may hear more the Father in the Son speaking of the Son, than the Son speaking of himself." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7: "Now every one will observe for himself that the words of the Father express an only begotten Son. 'He said unto me only, not unto many, Thou art my holy Son.'" Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> John 1:12 (ESV): "But to all who did receive him, who believed in his name, he gave the right to become children of God."</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Romans 3:19 (ESV): "Now we know that whatever the law says it speaks to those who are under the law, so that every mouth may be stopped, and the whole world may be held accountable to God." Cf. Romans 2:15 (ESV): "They show that the work of the law is written on their hearts, while their conscience also bears witness..."</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> 2 Samuel 7:4, 12, 14, 17 (ESV): "But that same night the word of the LORD came to Nathan... When your days are fulfilled and you lie down with your fathers, I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom... I will be to him a father, and he shall be to me a son... In accordance with all these words, and in accordance with all this vision, Nathan spoke to David."</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7: "...the words of the Son, declaring the words of the Father concerning himself, which is a holy and sacred diversity, commending unto us the nature and equality of the Godhead." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text. The Lutheran Study Bible's note on this verse also quotes Philip Melanchthon: "He is by nature the Son into whom the substance of the Father has been propagated" (as quoted in Chemnitz, <em>Loci Theologici</em> 1:88). The Small Catechism, Second Article: "Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary" (<em>Concordia Triglotta</em>, bookofconcord.org).</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Acts 4:25 (ESV): "who through the mouth of our father David, your servant, said by the Holy Spirit..." Cf. Galatians 4:4 (ESV): "But when the fullness of time had come, God sent forth his Son, born of woman." Luther reads the speaker of verse 7 as the Son: "the words of the Son, declaring the words of the Father concerning himself" (see note [7]).</li>
+    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Hebrews 1:5 (ESV): "For to which of the angels did God ever say, 'You are my Son, today I have begotten you'? Or again, 'I will be to him a father, and he shall be to me a son'?"</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, on verse 7: "And how discerningly and worthily have all the holy fathers interpreted this passage, 'This day have I begotten thee?' that is, in eternity... He is rightly said therefore to be begotten 'to-day,' that is, being always begotten. For 'to-day' implies neither a yesterday nor a to-morrow, but always a present time, a to-day." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text. Cf. John 8:58. The Small Catechism, Second Article: "I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord" (<em>Concordia Triglotta</em>, bookofconcord.org).</li>
+    <li id="ref-11"><a href="#cite-11" class="ref-back">&#8617;</a> Galatians 4:4-5 (ESV): "But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons." Cf. Galatians 3:26 (ESV): "for in Christ Jesus you are all sons of God, through faith."</li>
+    <li id="ref-12"><a href="#cite-12" class="ref-back">&#8617;</a> Smalcald Articles, Part II, Article I, "The First and Chief Article": "That Jesus Christ, our God and Lord, died for our sins, and was raised again for our justification, Rom. 4:25." (<em>Concordia Triglotta</em>, bookofconcord.org). Cf. Romans 4:25 (ESV): "who was delivered up for our trespasses and raised for our justification."</li>
+    <li id="ref-13"><a href="#cite-13" class="ref-back">&#8617;</a> 2 Corinthians 1:3-5 (ESV): "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God. For as we share abundantly in Christ's sufferings, so through Christ we share abundantly in comfort too."</li>
+    <li id="ref-14"><a href="#cite-14" class="ref-back">&#8617;</a> Matthew 22:39 (ESV): "And a second is like it: You shall love your neighbor as yourself."</li>
+    <li id="ref-15"><a href="#cite-15" class="ref-back">&#8617;</a> Romans 12:15 (ESV): "Rejoice with those who rejoice, weep with those who weep."</li>
+    <li id="ref-16"><a href="#cite-16" class="ref-back">&#8617;</a> Matthew 26:63-66 (ESV): "But Jesus remained silent. And the high priest said to him, 'I adjure you by the living God, tell us if you are the Christ, the Son of God.' Jesus said to him, 'You have said so. But I tell you, from now on you will see the Son of Man seated at the right hand of Power and coming on the clouds of heaven.' Then the high priest tore his robes and said, 'He has uttered blasphemy. What further witnesses do we need? You have now heard his blasphemy. What is your judgment?' They answered, 'He deserves death.'" Cf. Mark 14:61b-62 (ESV): "Again the high priest asked him, 'Are you the Christ, the Son of the Blessed?' And Jesus said, 'I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.'"</li>
+    <li id="ref-17"><a href="#cite-17" class="ref-back">&#8617;</a> John 19:7 (ESV): "The Jews answered him, 'We have a law, and according to that law he ought to die because he has made himself the Son of God.'"</li>
+    <li id="ref-18"><a href="#cite-18" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7: "And Christ himself throughout the whole Gospel of John does nothing else than manifest himself to be the Son of God, always speaking of God as his Father. And this was what was brought against him at his crucifixion as a capital crime." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
+    <li id="ref-19"><a href="#cite-19" class="ref-back">&#8617;</a> 1 Peter 2:24 (ESV): "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed." Formula of Concord, Solid Declaration III, "Of the Righteousness of Faith before God," 58: "Thus neither the divine nor the human nature of Christ by itself is imputed to us for righteousness, but only the obedience of the person who is at the same time God and man. And faith thus regards the person of Christ as it was made under the Law for us, bore our sins, and in His going to the Father offered to His heavenly Father for us poor sinners His entire, complete obedience, from His holy birth even unto death, and has thereby covered all our disobedience which inheres in our nature, and its thoughts, words, and works, so that it is not imputed to us for condemnation, but is pardoned and forgiven out of pure grace, alone for Christ's sake." (<em>Concordia Triglotta</em>, bookofconcord.org)</li>
+    <li id="ref-20"><a href="#cite-20" class="ref-back">&#8617;</a> Formula of Concord, Solid Declaration III, "Of the Righteousness of Faith before God," 15: "For since Christ is not man alone, but God and man in one undivided person, He was as little subject to the Law, because He is the Lord of the Law, as He had to suffer and die as far as His person is concerned. For this reason, then, His obedience, not only in suffering and dying, but also in this, that He in our stead was voluntarily made under the Law, and fulfilled it by this obedience, is imputed to us for righteousness, so that, on account of this complete obedience, which He rendered His heavenly Father for us, by doing and suffering, in living and dying, God forgives our sins, regards us as godly and righteous, and eternally saves us." (<em>Concordia Triglotta</em>, bookofconcord.org)</li>
   </ol>
 </div>
 </details>
