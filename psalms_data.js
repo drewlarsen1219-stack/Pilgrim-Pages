@@ -3699,17 +3699,21 @@ The rebels speak as "us" &#8212; their claim lasts only as long as they all keep
 <summary>Fulfillment</summary>
 
 <p>
-Apart from Christ, no reader can claim the security the LORD declares over His King in this verse. David's kingship came from the LORD too. <span id="cite-1" class="cite-anchor">The LORD rejected David's oldest brother Eliab and chose David, the youngest, instead ("the LORD sees not as man sees"), and at the LORD's command Samuel anointed David.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">Years later, after Saul's reign ended, all the tribes of Israel came to David at Hebron, recalling the LORD's promise to him: "You shall be shepherd of my people Israel." Their elders then anointed him king over Israel.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> <span id="cite-3" class="cite-anchor">David knew "that the LORD had established him king over Israel."<sup class="ref"><a href="#ref-3">[3]</a></sup></span> The LORD established David by His choice and His promise, not by birth order. The same LORD would go on to establish a King greater than David.
+<span id="cite-1" class="cite-anchor">By nature you would rather be ruled by your own judgment, a leader you admire, or your money than by the King God set on Zion. Israel did the same when it demanded a king, and God said that in demanding a king they had rejected Him as their king.<sup class="ref"><a href="#ref-1">[1]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-2" class="cite-anchor">God chose David Himself, passing over <span class="tooltip">Saul<span class="tooltiptext"><span class="definition-list">Israel's first king.</span></span></span>, the king Israel had demanded, and <span class="tooltip">Eliab<span class="tooltiptext"><span class="definition-list">Jesse's firstborn son.</span></span></span>, David's oldest brother. In this verse God sets His King on Zion the same way: no people picked Him.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-3" class="cite-anchor"><span class="tooltip">Samuel<span class="tooltiptext"><span class="definition-list">The prophet who anointed David at the LORD's command.</span></span></span> anointed David because the LORD commanded Samuel to do so.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> <span id="cite-4" class="cite-anchor">Years later, after Saul's reign ended, all the tribes of Israel came to David at <span class="tooltip">Hebron<span class="tooltiptext"><span class="definition-list">The town where David was first made king.</span></span></span>. The tribes told David that they were his own flesh and blood, that David had led Israel out to battle while Saul was king, and that the LORD had said David would shepherd Israel and be its leader. So Israel's elders anointed David king over Israel.<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
 </p>
 
 <p><em>A King Greater Than David</em></p>
 
 <p>
-<span id="cite-4" class="cite-anchor">"In the Psalms, Zion often describes the <span class="tooltip">Temple Mount<span class="tooltiptext">The hill in Jerusalem where Solomon built the Temple (1 Kings 6) &#8212; the center of Israelite worship and sacrifice.</span></span>, where God dwelt among His people and where they sought Him; by extension, it can include Jerusalem, Israel, and God's people here and in eternity (i.e., the Church)."<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">That wider reach works through a plain figure of speech: a place standing for the people gathered there &#8212; until Christ freed worship from any single place (John 4:21), and "Zion" came to reach everyone gathered to God, anywhere.<sup class="ref"><a href="#ref-5">[5]</a></sup></span> This same widening reach belongs to the King enthroned there too: <span id="cite-6" class="cite-anchor">that same pairing &#8212; a king installed at Zion &#8212; appears again in Psalm 110:2, reused for a king greater than David: "The LORD sends forth from Zion your mighty scepter. Rule in the midst of your enemies!"<sup class="ref"><a href="#ref-6">[6]</a></sup></span> That king remains unnamed there.
-</p>
-
-<p>
-<span id="cite-7" class="cite-anchor">That king speaks for himself in Psalm 2's own next verse: "I will tell of the decree: The LORD said to me, 'You are my Son; today I have begotten you.'" The author of Hebrews applies those same words to Christ's own priesthood: "Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, 'You are my Son, today I have begotten you.'"<sup class="ref"><a href="#ref-7">[7]</a></sup></span> <span id="cite-8" class="cite-anchor">The speaking voice already changed at verse 6 &#8212; no longer David narrating, but God's own voice<sup class="ref"><a href="#ref-8">[8]</a></sup></span> &#8212; so the King appointed in verse 7 is the King installed in verse 6.
+<span id="cite-5" class="cite-anchor">In Psalm 110, David calls the King who rules from <span class="tooltip">Zion<span class="tooltiptext"><span class="definition-list">The Temple Mount in Jerusalem, where God dwelt among His people.</span></span></span> "my Lord" and does not name Him.<sup class="ref"><a href="#ref-5">[5]</a></sup></span>
 </p>
 
 <p>
@@ -3720,28 +3724,30 @@ Apart from Christ, no reader can claim the security the LORD declares over His K
 
 <hr>
 
-<p><em>A Conspiracy Overruled</em></p>
+<p><em>The King at God's Right Hand</em></p>
 
 <p>
-The rebels described in verses 1-3 carried their rebellion all the way to the crucifixion &#8212; yet the King God installed in verse 6 remained secure regardless. <span id="cite-9" class="cite-anchor">Paul preached that God fulfilled this decree by raising Jesus from the dead: "And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, 'You are my Son, today I have begotten you.'"<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">"Today I have begotten you" does not mean Jesus first became God's Son when He rose. Paul writes of God's Son born into David's line, and says this same Son "was declared to be the Son of God in power... by his resurrection from the dead."<sup class="ref"><a href="#ref-10">[10]</a></sup></span> Not even a conspiracy that reached the cross could undo what God had already decreed.
+<span id="cite-6" class="cite-anchor">The apostle <span class="tooltip">Peter<span class="tooltiptext"><span class="definition-list">One of Jesus' twelve apostles and a witness that God raised Jesus from the dead.</span></span></span>, preaching to the crowd in Jerusalem, named the King David called his Lord: Jesus. Jesus is the King God set on Zion.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> <span id="cite-7" class="cite-anchor">God raised Jesus from the dead and seated Him at God's <span class="tooltip">right hand<span class="tooltiptext"><span class="definition-list">God's right hand is no fixed place in heaven but God's almighty power, in which Christ is installed according to His humanity (Formula of Concord, Solid Declaration VIII, 28).</span></span></span>.<sup class="ref"><a href="#ref-7">[7]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-8" class="cite-anchor">From there Jesus poured out the Holy Spirit at <span class="tooltip">Pentecost<span class="tooltiptext"><span class="definition-list">The Jewish festival fifty days after Passover, when the Holy Spirit came.</span></span></span>, and the crowd saw and heard what Jesus had poured out.<sup class="ref"><a href="#ref-8">[8]</a></sup></span> <span id="cite-9" class="cite-anchor">Peter called the crowd to repent and be baptized in Jesus' name for the forgiveness of sins, and Peter promised the crowd the <span class="tooltip">gift of the Holy Spirit<span class="tooltiptext"><span class="definition-list">The Holy Spirit Himself, whom God gives through the Word and Baptism.</span></span></span>. God gives you the forgiveness of sins in the name of Jesus, the King God set on Zion, in His Word and in Baptism.<sup class="ref"><a href="#ref-9">[9]</a></sup></span>
 </p>
 
 <div class="fulfill-map" role="group" aria-label="How these passages connect">
   <div class="map-step"><span class="map-text">David: chosen by the LORD, anointed by Samuel, later anointed king over Israel by its elders</span><span class="map-cite">1 Samuel 16; 2 Samuel 5</span></div>
   <div class="map-arrow">&#9660;</div>
   <div class="map-row">
-    <div class="map-step"><span class="map-text">God speaks: "I have set my King on Zion"</span><span class="map-cite">Psalm 2:6</span></div>
+    <div class="map-step"><span class="map-text">God, speaking through David by the Holy Spirit: "I have set my King on Zion"</span><span class="map-cite">Psalm 2:6; Acts 4:25</span></div>
     <div class="map-branch-arrow">&#9654;</div>
     <div class="map-step map-branch"><span class="map-text">David calls this King "my Lord" but never names Him</span><span class="map-cite">Psalm 110:1-2</span></div>
   </div>
-  <div class="map-arrow">&#9660;</div>
-  <div class="map-step"><span class="map-text">The King reports the LORD's words: "You are my Son"</span><span class="map-cite">Psalm 2:7</span></div>
   <div class="map-divider"><span>Fulfilled in Jesus</span></div>
-  <div class="map-step"><span class="map-text">The rebels of Psalm 2 gather against Jesus</span><span class="map-cite">Acts 4:25-28</span></div>
+  <div class="map-step"><span class="map-text">The rebels of Psalm 2 rage against God's King, and Peter's hearers crucified Jesus</span><span class="map-cite">Psalm 2:1-3; Acts 2:23, 36</span></div>
   <div class="map-arrow">&#9660;</div>
-  <div class="map-step"><span class="map-text">God raises Jesus, declaring Him the Son of God in power</span><span class="map-cite">Acts 13:33; Romans 1:4</span></div>
+  <div class="map-step"><span class="map-text">God raises Jesus and seats Him at His right hand</span><span class="map-cite">Acts 2:32-36</span></div>
   <div class="map-arrow">&#9660;</div>
-  <div class="map-step"><span class="map-text">Jesus does not exalt Himself; God appoints Him high priest</span><span class="map-cite">Hebrews 5:5</span></div>
+  <div class="map-step"><span class="map-text">From God's right hand Jesus pours out the Holy Spirit, and the forgiveness of sins is given to you</span><span class="map-cite">Acts 2:33, 38-39</span></div>
 </div>
 
 <p>
@@ -3751,19 +3757,20 @@ The rebels described in verses 1-3 carried their rebellion all the way to the cr
 </p>
 </details>
 
+
 <details class="study-section">
 <summary>Lessons</summary>
 
 <p>
-<span id="cite-11" class="cite-anchor">In your <span class="tooltip">vocations<span class="tooltiptext">The life God has assigned you and called you to &#8212; at work, at home, in your church, and in your community (1 Corinthians 7:17).</span></span>, the approval of the people around you can come to feel like security. To keep that approval, you laugh along at a crude joke or join the <span class="tooltip">gossip<span class="tooltiptext">Telling someone a neighbor's faults, true or false, when that listener has no role in correcting those faults and no need to know. Eagerly asking to hear those faults, with no such need yourself, is part of gossip too. Luther's explanation of the Eighth Commandment calls you instead to "defend [your neighbor], speak well of him, and explain everything in the kindest way" (Small Catechism).</span></span> about a neighbor.<sup class="ref"><a href="#ref-11">[11]</a></sup></span> <span id="cite-12" class="cite-anchor">God's Word names crude joking and gossip as sins, and laughing along or joining the gossip makes those sins your own.<sup class="ref"><a href="#ref-12">[12]</a></sup></span>
+<span id="cite-10" class="cite-anchor">In your <span class="tooltip">vocations<span class="tooltiptext">The life God has assigned you and called you to &#8212; at work, at home, in your church, and in your community (1 Corinthians 7:17).</span></span>, the approval of the people around you can come to feel like security. To keep that approval, you laugh along at a crude joke or join the <span class="tooltip">gossip<span class="tooltiptext">Telling someone a neighbor's faults, true or false, when that listener has no role in correcting those faults and no need to know. Eagerly asking to hear those faults, with no such need yourself, is part of gossip too. Luther's explanation of the Eighth Commandment calls you instead to "defend [your neighbor], speak well of him, and explain everything in the kindest way" (Small Catechism).</span></span> about a neighbor.<sup class="ref"><a href="#ref-10">[10]</a></sup></span> <span id="cite-11" class="cite-anchor">God's Word names crude joking and gossip as sins, and laughing along or joining the gossip makes those sins your own.<sup class="ref"><a href="#ref-11">[11]</a></sup></span>
 </p>
 
 <p>
-<span id="cite-13" class="cite-anchor">You can also look for security by exalting yourself over others: taking credit for a coworker's work, or belittling someone to look better.<sup class="ref"><a href="#ref-13">[13]</a></sup></span> <span id="cite-14" class="cite-anchor">Humble yourself "under the mighty hand of God so that at the proper time he may exalt you."<sup class="ref"><a href="#ref-14">[14]</a></sup></span>
+<span id="cite-12" class="cite-anchor">You can also look for security by exalting yourself over others: taking credit for a coworker's work, or belittling someone to look better.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> <span id="cite-13" class="cite-anchor">Humble yourself "under the mighty hand of God so that at the proper time he may exalt you."<sup class="ref"><a href="#ref-13">[13]</a></sup></span>
 </p>
 
 <p>
-Jesus Christ is the King God chose and installed on Zion. <span id="cite-15" class="cite-anchor">God needed no creature's approval to install Him as King, and Christ did not exalt Himself to be <span class="tooltip">high priest<span class="tooltiptext">The priest appointed to act on behalf of people in relation to God, offering gifts and sacrifices for sins (Hebrews 5:1).</span></span>; God appointed Him. Christ humbled Himself to the point of death on a cross for all of these sins, and God exalted Him.<sup class="ref"><a href="#ref-15">[15]</a></sup></span> <span id="cite-16" class="cite-anchor">Because of Christ's death, God forgives you and accepts you.<sup class="ref"><a href="#ref-16">[16]</a></sup></span> Losing the approval of the people around you may cost you their friendship. <span id="cite-17" class="cite-anchor">But your security before God comes from Christ, who is at God's right hand interceding for you.<sup class="ref"><a href="#ref-17">[17]</a></sup></span>
+Jesus Christ is the King God chose and installed on Zion. <span id="cite-14" class="cite-anchor">God needed no creature's approval to install Him as King, and Christ did not exalt Himself to be <span class="tooltip">high priest<span class="tooltiptext">The priest appointed to act on behalf of people in relation to God, offering gifts and sacrifices for sins (Hebrews 5:1).</span></span>; God appointed Him. Christ humbled Himself to the point of death on a cross for all of these sins, and God exalted Him.<sup class="ref"><a href="#ref-14">[14]</a></sup></span> <span id="cite-15" class="cite-anchor">Because of Christ's death, God forgives you and accepts you.<sup class="ref"><a href="#ref-15">[15]</a></sup></span> Losing the approval of the people around you may cost you their friendship. <span id="cite-16" class="cite-anchor">But your security before God comes from Christ, who is at God's right hand interceding for you.<sup class="ref"><a href="#ref-16">[16]</a></sup></span>
 </p>
 
 <p>
@@ -3791,23 +3798,22 @@ Father, You installed Christ as King on Zion, and His kingship does not depend o
 <summary>References</summary>
 <div class="ref-list">
   <ol>
-    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> 1 Samuel 16:7 (ESV): "But the LORD said to Samuel, 'Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart.'" David, the youngest of Jesse's sons (v.11), was chosen over his oldest brother Eliab (v.6; cf. 1 Samuel 17:13, "Eliab the firstborn"). 1 Samuel 16:12-13 (ESV): "And the LORD said, 'Arise, anoint him, for this is he.' Then Samuel took the horn of oil and anointed him in the midst of his brothers."</li>
-    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> 2 Samuel 5:1-3 (ESV): "Then all the tribes of Israel came to David at Hebron and said, 'Behold, we are your bone and flesh... And the LORD said to you, "You shall be shepherd of my people Israel, and you shall be prince over Israel."' So all the elders of Israel came to the king at Hebron, and King David made a covenant with them at Hebron before the LORD, and they anointed David king over Israel."</li>
-    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> 2 Samuel 5:12 (ESV): "And David knew that the LORD had established him king over Israel, and that he had exalted his kingdom for the sake of his people Israel."</li>
-    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> The Lutheran Study Bible, study note on Psalm 2:6 ("Zion"): "In the Psalms, Zion often describes the Temple Mount, where God dwelt among His people and where they sought Him; by extension, it can include Jerusalem, Israel, and God's people here and in eternity (i.e., the Church)."</li>
-    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 6: "Therefore the church is called Mount Zion by the figure of speech most common in the scriptures, synecdoche, which speaks of the containing for the contained, as, the city of Jerusalem for the people of that city." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text. Cf. John 4:21 (ESV): "Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father."</li>
-    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> Psalm 110:2 (ESV): "The LORD sends forth from Zion your mighty scepter. Rule in the midst of your enemies!"</li>
-    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Psalm 2:7 (ESV): "I will tell of the decree: The LORD said to me, 'You are my Son; today I have begotten you.'" Hebrews 5:4-5 (ESV): "And no one takes this honor for himself, but only when called by God, just as Aaron was. So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, 'You are my Son, today I have begotten you.'"</li>
-    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 6: "Here the person is changed, for it is not David now speaking in his own person, but it is Christ that speaks. The Hebrew, however, rather makes it to be the Person of the Father speaking..." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
-    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Acts 13:32-33 (ESV): "And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, 'You are my Son, today I have begotten you.'"</li>
-    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Romans 1:3-4 (ESV): "concerning his Son, who was descended from David according to the flesh and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord"</li>
-    <li id="ref-11"><a href="#cite-11" class="ref-back">&#8617;</a> Galatians 1:10 (ESV): "For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ."</li>
-    <li id="ref-12"><a href="#cite-12" class="ref-back">&#8617;</a> Ephesians 5:4 (ESV): "Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving." Romans 1:29 (ESV): "...They are gossips, ..." Romans 1:32 (ESV): "Though they know God's righteous decree that those who practice such things deserve to die, they not only do them but give approval to those who practice them."</li>
-    <li id="ref-13"><a href="#cite-13" class="ref-back">&#8617;</a> 1 Peter 5:5 (ESV): "Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for 'God opposes the proud but gives grace to the humble.'"</li>
-    <li id="ref-14"><a href="#cite-14" class="ref-back">&#8617;</a> 1 Peter 5:6 (ESV): "Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you, ..."</li>
-    <li id="ref-15"><a href="#cite-15" class="ref-back">&#8617;</a> Hebrews 5:5 &#8212; see [7] above for the full quotation. Philippians 2:8-9 (ESV): "And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. Therefore God has highly exalted him and bestowed on him the name that is above every name." 1 Corinthians 15:3 (ESV): "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures."</li>
-    <li id="ref-16"><a href="#cite-16" class="ref-back">&#8617;</a> Romans 8:33-34 (ESV): "Who shall bring any charge against God's elect? It is God who justifies. Who is to condemn? Christ Jesus is the one who died&#8212;more than that, who was raised&#8212;who is at the right hand of God, who indeed is interceding for us."</li>
-    <li id="ref-17"><a href="#cite-17" class="ref-back">&#8617;</a> Romans 8:34 &#8212; see [16] above for the full quotation.</li>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> 1 Samuel 8:5-7: "and said to him, 'Behold, you are old and your sons do not walk in your ways. Now appoint for us a king to judge us like all the nations.' But the thing displeased Samuel when they said, 'Give us a king to judge us.' And Samuel prayed to the LORD. And the LORD said to Samuel, 'Obey the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them.'" (ESV; the quotation in verse 7 continues into verse 8.) Large Catechism, Part I, First Commandment, 3: "That now, I say, upon which you set your heart and put your trust is properly your god." (bookofconcord.org, Triglot translation)</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> 1 Samuel 16:1: "The LORD said to Samuel, 'How long will you grieve over Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided for myself a king among his sons.'" 1 Samuel 16:6-7: "When they came, he looked on Eliab and thought, 'Surely the LORD's anointed is before him.' But the LORD said to Samuel, 'Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart.'" 1 Samuel 17:13: "The three oldest sons of Jesse had followed Saul to the battle. And the names of his three sons who went to the battle were Eliab the firstborn, and next to him Abinadab, and the third Shammah." 1 Samuel 12:13: "And now behold the king whom you have chosen, for whom you have asked; behold, the LORD has set a king over you." (ESV)</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> 1 Samuel 16:12-13: "And he sent and brought him in. Now he was ruddy and had beautiful eyes and was handsome. And the LORD said, 'Arise, anoint him, for this is he.' Then Samuel took the horn of oil and anointed him in the midst of his brothers. And the Spirit of the LORD rushed upon David from that day forward. And Samuel rose up and went to Ramah." (ESV)</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> 2 Samuel 5:1-3: "Then all the tribes of Israel came to David at Hebron and said, 'Behold, we are your bone and flesh. In times past, when Saul was king over us, it was you who led out and brought in Israel. And the LORD said to you, "You shall be shepherd of my people Israel, and you shall be prince over Israel."' So all the elders of Israel came to the king at Hebron, and King David made a covenant with them at Hebron before the LORD, and they anointed David king over Israel." 2 Samuel 2:4: "And the men of Judah came, and there they anointed David king over the house of Judah." (ESV)</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Psalm 110:1-2: "A Psalm of David. The LORD says to my Lord: 'Sit at my right hand, until I make your enemies your footstool.' The LORD sends forth from Zion your mighty scepter. Rule in the midst of your enemies!" (ESV)</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> Acts 2:34-36: "For David did not ascend into the heavens, but he himself says, ''The Lord said to my Lord, "Sit at my right hand, until I make your enemies your footstool."' Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified.'" Peter's hearers had crucified Jesus; see also Acts 2:23: "this Jesus, delivered up according to the definite plan and foreknowledge of God, you crucified and killed by the hands of lawless men." (ESV) See also Acts 4:25-28, the believers' prayer applying the psalm's opening verses to Herod, Pilate, the Gentiles and the peoples of Israel, gathered "against your holy servant Jesus, whom you anointed" (Acts 4:27).</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Acts 2:32-35: "This Jesus God raised up, and of that we all are witnesses. Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing. For David did not ascend into the heavens, but he himself says, ''The Lord said to my Lord, "Sit at my right hand, until I make your enemies your footstool."'" (ESV; Peter quoting Psalm 110:1; the quotation continues into verse 36.)</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Acts 2:33: "Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing." Acts 2:2-11: "And suddenly there came from heaven a sound like a mighty rushing wind, and it filled the entire house where they were sitting. And divided tongues as of fire appeared to them and rested on each one of them. And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance. Now there were dwelling in Jerusalem Jews, devout men from every nation under heaven. And at this sound the multitude came together, and they were bewildered, because each one was hearing them speak in his own language. And they were amazed and astonished, saying, 'Are not all these who are speaking Galileans? And how is it that we hear, each of us in his own native language? Parthians and Medes and Elamites and residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia, Phrygia and Pamphylia, Egypt and the parts of Libya belonging to Cyrene, and visitors from Rome, both Jews and proselytes, Cretans and Arabians&#8212;we hear them telling in our own tongues the mighty works of God.'" (ESV)</li>
+    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Acts 2:38-39: "And Peter said to them, 'Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. For the promise is for you and for your children and for all who are far off, everyone whom the Lord our God calls to himself.'" (ESV) Augsburg Confession V, 1-3: "For through the Word and Sacraments, as through instruments, the Holy Ghost is given, who works faith; where and when it pleases God, in them that hear the Gospel." Small Catechism, Baptism: "It works forgiveness of sins, delivers from death and the devil, and gives eternal salvation to all who believe this, as the words and promises of God declare." (bookofconcord.org)</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Galatians 1:10 (ESV): "For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ."</li>
+    <li id="ref-11"><a href="#cite-11" class="ref-back">&#8617;</a> Ephesians 5:4 (ESV): "Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving." Romans 1:29 (ESV): "...They are gossips, ..." Romans 1:32 (ESV): "Though they know God's righteous decree that those who practice such things deserve to die, they not only do them but give approval to those who practice them."</li>
+    <li id="ref-12"><a href="#cite-12" class="ref-back">&#8617;</a> 1 Peter 5:5 (ESV): "Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for 'God opposes the proud but gives grace to the humble.'"</li>
+    <li id="ref-13"><a href="#cite-13" class="ref-back">&#8617;</a> 1 Peter 5:6 (ESV): "Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you, ..."</li>
+    <li id="ref-14"><a href="#cite-14" class="ref-back">&#8617;</a> Hebrews 5:4-5 (ESV): "And no one takes this honor for himself, but only when called by God, just as Aaron was. So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, 'You are my Son, today I have begotten you.'" Philippians 2:8-9 (ESV): "And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. Therefore God has highly exalted him and bestowed on him the name that is above every name." 1 Corinthians 15:3 (ESV): "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures."</li>
+    <li id="ref-15"><a href="#cite-15" class="ref-back">&#8617;</a> Romans 8:33-34 (ESV): "Who shall bring any charge against God's elect? It is God who justifies. Who is to condemn? Christ Jesus is the one who died&#8212;more than that, who was raised&#8212;who is at the right hand of God, who indeed is interceding for us."</li>
+    <li id="ref-16"><a href="#cite-16" class="ref-back">&#8617;</a> Romans 8:34 &#8212; see [15] above for the full quotation.</li>
   </ol>
 </div>
 </details>
@@ -4011,18 +4017,31 @@ are
 <summary>Fulfillment</summary>
 
 <p>
-<span id="cite-3" class="cite-anchor">The LORD said "You are my Son" only to the King He set on Zion.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> <span id="cite-4" class="cite-anchor">Apart from Christ, no reader is God's child;<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">every reader is accountable to God under His law.<sup class="ref"><a href="#ref-5">[5]</a></sup></span>
+<span id="cite-3" class="cite-anchor">The LORD said "You are my Son" to the King He set on Zion, His <span class="tooltip">begotten<span class="tooltiptext"><span class="definition-list">Born of the Father from eternity, not made (Nicene Creed). God promised to make David His firstborn and promised to be a father to Solomon (Psalm 89:26-27; 1 Chronicles 22:10). Jesus did not become God's Son by any promise or appointment: He was God's Son from eternity, and His resurrection declared it (Romans 1:4).</span></span></span> Son.<sup class="ref"><a href="#ref-3">[3]</a></sup></span> <span id="cite-4" class="cite-anchor">Apart from Christ, no reader is God's child; by nature every reader is a <span class="tooltip">child of wrath<span class="tooltiptext"><span class="definition-list">Paul says that all people were 'by nature children of wrath' (Ephesians 2:3). In Hebrew, a person who deserves a punishment can be called a 'son of' that punishment: in 2 Samuel 12:5, David says a man is 'a son of death,' meaning the man deserves to die. Wrath is God's just anger against sin. God punishes sin with death, and after death with eternal punishment in hell (Romans 6:23; Matthew 25:46). A child of wrath is a person God is already angry with for sin, not only someone God will punish later (John 3:36). Every person is sinful from birth (Psalm 51:5; Romans 5:12).</span></span></span>, accountable to God under His law and guilty before Him.<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
 </p>
 
 <p>
-<span id="cite-6" class="cite-anchor">Through the prophet Nathan, the LORD promised David an offspring from his own body: "I will be to him a father, and he shall be to me a son."<sup class="ref"><a href="#ref-6">[6]</a></sup></span> In this psalm the LORD said that He had fathered His King: "today I have <span class="tooltip">begotten<span class="tooltiptext"><span class="definition-list">The Lutheran Study Bible's note on this verse quotes Martin Chemnitz: "In Hebrew the word is yalad . . . to beget from the essence" (<em>Loci Theologici</em> 1:101).</span></span></span> you." <span id="cite-7" class="cite-anchor">This Son is of the same divine nature as His Father and equal to Him as God; He is also true man, fully human, born of the Virgin Mary.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> <span id="cite-8" class="cite-anchor">David wrote this psalm by the Holy Spirit, recording the Son's own words centuries before that birth.<sup class="ref"><a href="#ref-8">[8]</a></sup></span>
+<span id="cite-5" class="cite-anchor">In a promise God gave King David through the prophet <span class="tooltip">Nathan<span class="tooltiptext"><span class="definition-list">A prophet in David's court.</span></span></span>, God called a son of David His son, as God calls the King His Son in this verse: a son from David's own body, whose throne God would establish forever, and to whom God would be a father.<sup class="ref"><a href="#ref-5">[5]</a></sup></span> <span id="cite-6" class="cite-anchor"><span class="tooltip">Solomon<span class="tooltiptext"><span class="definition-list">David's son, who reigned as king after David.</span></span></span> fulfilled God's promise to David in part and for a time: Solomon came from David's body, God called Solomon His son <span class="tooltip">by appointment<span class="tooltiptext"><span class="definition-list">God made Solomon king and called Solomon His son. Solomon was not God's son by nature.</span></span></span>, and Solomon reigned on David's throne, but Solomon died and the kingdom split apart.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> Solomon was a <span class="tooltip">preview<span class="tooltiptext"><span class="definition-list">Jesus said, 'something greater than Solomon is here' (Matthew 12:42).</span></span></span> of Jesus.
 </p>
 
-<p><em>The Eternal Son, and Our Adoption as Sons</em></p>
+<p><em>The Eternal Son, and Our Adoption as God's Children</em></p>
 
 <p>
-<span id="cite-9" class="cite-anchor">Both the promise made to David through Nathan and the words of this verse belong to God's Son, Jesus Christ.<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">The "today" of this verse has no yesterday and no tomorrow: as God, Christ is "begotten of the Father from eternity."<sup class="ref"><a href="#ref-10">[10]</a></sup></span> <span id="cite-11" class="cite-anchor">God sent this eternal Son, "born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons." Christ is God's Son by being begotten; through faith in Him, you become God's child by adoption.<sup class="ref"><a href="#ref-11">[11]</a></sup></span>
+<span id="cite-7" class="cite-anchor">Jesus completely and forever fulfills God's promise to David of a son whose throne would last forever: Jesus is descended from David according to the flesh, and Jesus was born of the virgin Mary. In the letter to the <span class="tooltip">Hebrews<span class="tooltiptext"><span class="definition-list">A letter in the New Testament.</span></span></span>, the words of this verse and God's promise to be a father to David's son are both quoted about Jesus.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> <span id="cite-8" class="cite-anchor">Jesus is God's Son by nature, of the same divine nature as His Father, from eternity.<sup class="ref"><a href="#ref-8">[8]</a></sup></span>
 </p>
+
+<p>
+<span id="cite-9" class="cite-anchor">God sent Jesus, His eternal Son, born under the law, to redeem those under the law, so that through faith in Jesus you, a child of wrath apart from Christ, become God's child by <span class="tooltip">adoption<span class="tooltiptext"><span class="definition-list">God receives you into His family as His child through faith in Jesus, by grace, not by nature.</span></span></span>.<sup class="ref"><a href="#ref-9">[9]</a></sup></span>
+</p>
+
+<div class="fulfill-map" role="group" aria-label="Who is called God's son?">
+  <div class="map-divider"><span>Who is called God's son?</span></div>
+  <div class="map-step"><span class="map-text">Kings of David's line (David, Solomon): God's son by appointment</span><span class="map-cite">Psalm 89:26-27; 1 Chronicles 22:10</span></div>
+  <div class="map-arrow">&nbsp;</div>
+  <div class="map-step"><span class="map-text">Jesus: God's Son by nature, begotten from eternity</span><span class="map-cite">Psalm 2:7; Hebrews 1:5</span></div>
+  <div class="map-arrow">&nbsp;</div>
+  <div class="map-step"><span class="map-text">You, through faith in Jesus: God's child by adoption</span><span class="map-cite">Galatians 4:4-5; John 1:12</span></div>
+</div>
 
 <p>
   <span class="selah-marker">
@@ -4031,15 +4050,16 @@ are
 </p>
 </details>
 
+
 <details class="study-section">
 <summary>Lessons</summary>
 
 <p>
-The Son the LORD speaks to in this verse is Jesus Christ. <span id="cite-12" class="cite-anchor">The chief teaching of the Christian faith is that this Son "died for our sins, and was raised again for our <span class="tooltip">justification<span class="tooltiptext"><span class="definition-list">God declaring a sinner not guilty and right with Him because of what Christ did. The sinner receives this declaration only by trusting Christ, not by doing good deeds (Romans 3:28).</span></span></span>."<sup class="ref"><a href="#ref-12">[12]</a></sup></span> The comfort God gives you is His Son, who died for your sins and rose again. <span id="cite-13" class="cite-anchor">God gives you that comfort "so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God."<sup class="ref"><a href="#ref-13">[13]</a></sup></span> <span id="cite-14" class="cite-anchor">God commands you to love your neighbor as yourself.<sup class="ref"><a href="#ref-14">[14]</a></sup></span> <span id="cite-15" class="cite-anchor">When your neighbor grieves, love may first mean sitting with them and weeping with them.<sup class="ref"><a href="#ref-15">[15]</a></sup></span> But love does not keep the comfort of God's Son from your neighbor. If you sit with them but never speak of God, or if you speak of God but never of His Son, they never hear from you that Jesus died for their sins and rose again.
+The Son the LORD speaks to in this verse is Jesus Christ. <span id="cite-10" class="cite-anchor">The chief teaching of the Christian faith is that this Son "died for our sins, and was raised again for our <span class="tooltip">justification<span class="tooltiptext"><span class="definition-list">God declaring a sinner not guilty and right with Him because of what Christ did. The sinner receives this declaration only by trusting Christ, not by doing good deeds (Romans 3:28).</span></span></span>."<sup class="ref"><a href="#ref-10">[10]</a></sup></span> The comfort God gives you is His Son, who died for your sins and rose again. <span id="cite-11" class="cite-anchor">God gives you that comfort "so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God."<sup class="ref"><a href="#ref-11">[11]</a></sup></span> <span id="cite-12" class="cite-anchor">God commands you to love your neighbor as yourself.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> <span id="cite-13" class="cite-anchor">When your neighbor grieves, love may first mean sitting with them and weeping with them.<sup class="ref"><a href="#ref-13">[13]</a></sup></span> But love does not keep the comfort of God's Son from your neighbor. If you sit with them but never speak of God, or if you speak of God but never of His Son, they never hear from you that Jesus died for their sins and rose again.
 </p>
 
 <p>
-<span id="cite-16" class="cite-anchor">At Jesus' trial, the high priest put Him under oath: "tell us if you are the Christ, the Son of God." Jesus confessed that He is the Christ, the Son of God, and the Jewish council said, "He deserves death."<sup class="ref"><a href="#ref-16">[16]</a></sup></span> <span id="cite-17" class="cite-anchor">His accusers told Pilate that Jesus "ought to die because he has made himself the Son of God."<sup class="ref"><a href="#ref-17">[17]</a></sup></span> <span id="cite-18" class="cite-anchor">Jesus' confession that He is the Son the LORD speaks to in this verse "was what was brought against him at his crucifixion as a capital crime."<sup class="ref"><a href="#ref-18">[18]</a></sup></span> <span id="cite-19" class="cite-anchor">On the cross, Jesus died bearing your sins, including every way you kept God's Son from your neighbor, by never speaking to them about God or by speaking of God but never of His Son.<sup class="ref"><a href="#ref-19">[19]</a></sup></span> <span id="cite-20" class="cite-anchor">God counts Jesus' obedience to His Father, in His life and in His death, as yours, and forgives those sins for Jesus' sake.<sup class="ref"><a href="#ref-20">[20]</a></sup></span>
+<span id="cite-14" class="cite-anchor">At Jesus' trial, the high priest put Him under oath: "tell us if you are the Christ, the Son of God." Jesus confessed that He is the Christ, the Son of God, and the Jewish council said, "He deserves death."<sup class="ref"><a href="#ref-14">[14]</a></sup></span> <span id="cite-15" class="cite-anchor">His accusers told Pilate that Jesus "ought to die because he has made himself the Son of God."<sup class="ref"><a href="#ref-15">[15]</a></sup></span> <span id="cite-16" class="cite-anchor">Jesus was condemned for confessing that He is the Son the LORD speaks to in this verse.<sup class="ref"><a href="#ref-16">[16]</a></sup></span> <span id="cite-17" class="cite-anchor">On the cross, Jesus died bearing your sins, including every way you kept God's Son from your neighbor, by never speaking to them about God or by speaking of God but never of His Son.<sup class="ref"><a href="#ref-17">[17]</a></sup></span> <span id="cite-18" class="cite-anchor">God counts Jesus' obedience to His Father, in His life and in His death, as yours, and forgives those sins for Jesus' sake.<sup class="ref"><a href="#ref-18">[18]</a></sup></span>
 </p>
 
 <p>
@@ -4069,24 +4089,265 @@ Father, You comforted me with Your Son, who died for my sins and rose again. I h
   <ol>
     <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Psalm 2:3 (ESV): "Let us burst their bonds apart and cast away their cords from us."</li>
     <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7: "he first introduces the Father as speaking unto him, in order that we may hear more the Father in the Son speaking of the Son, than the Son speaking of himself." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
-    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7: "Now every one will observe for himself that the words of the Father express an only begotten Son. 'He said unto me only, not unto many, Thou art my holy Son.'" Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
-    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> John 1:12 (ESV): "But to all who did receive him, who believed in his name, he gave the right to become children of God."</li>
-    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Romans 3:19 (ESV): "Now we know that whatever the law says it speaks to those who are under the law, so that every mouth may be stopped, and the whole world may be held accountable to God." Cf. Romans 2:15 (ESV): "They show that the work of the law is written on their hearts, while their conscience also bears witness..."</li>
-    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> 2 Samuel 7:4, 12, 14, 17 (ESV): "But that same night the word of the LORD came to Nathan... When your days are fulfilled and you lie down with your fathers, I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom... I will be to him a father, and he shall be to me a son... In accordance with all these words, and in accordance with all this vision, Nathan spoke to David."</li>
-    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7: "...the words of the Son, declaring the words of the Father concerning himself, which is a holy and sacred diversity, commending unto us the nature and equality of the Godhead." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text. The Lutheran Study Bible's note on this verse also quotes Philip Melanchthon: "He is by nature the Son into whom the substance of the Father has been propagated" (as quoted in Chemnitz, <em>Loci Theologici</em> 1:88). The Small Catechism, Second Article: "Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary" (<em>Concordia Triglotta</em>, bookofconcord.org).</li>
-    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Acts 4:25 (ESV): "who through the mouth of our father David, your servant, said by the Holy Spirit..." Cf. Galatians 4:4 (ESV): "But when the fullness of time had come, God sent forth his Son, born of woman." Luther reads the speaker of verse 7 as the Son: "the words of the Son, declaring the words of the Father concerning himself" (see note [7]).</li>
-    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Hebrews 1:5 (ESV): "For to which of the angels did God ever say, 'You are my Son, today I have begotten you'? Or again, 'I will be to him a father, and he shall be to me a son'?"</li>
-    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, on verse 7: "And how discerningly and worthily have all the holy fathers interpreted this passage, 'This day have I begotten thee?' that is, in eternity... He is rightly said therefore to be begotten 'to-day,' that is, being always begotten. For 'to-day' implies neither a yesterday nor a to-morrow, but always a present time, a to-day." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text. Cf. John 8:58. The Small Catechism, Second Article: "I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord" (<em>Concordia Triglotta</em>, bookofconcord.org).</li>
-    <li id="ref-11"><a href="#cite-11" class="ref-back">&#8617;</a> Galatians 4:4-5 (ESV): "But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons." Cf. Galatians 3:26 (ESV): "for in Christ Jesus you are all sons of God, through faith."</li>
-    <li id="ref-12"><a href="#cite-12" class="ref-back">&#8617;</a> Smalcald Articles, Part II, Article I, "The First and Chief Article": "That Jesus Christ, our God and Lord, died for our sins, and was raised again for our justification, Rom. 4:25." (<em>Concordia Triglotta</em>, bookofconcord.org). Cf. Romans 4:25 (ESV): "who was delivered up for our trespasses and raised for our justification."</li>
-    <li id="ref-13"><a href="#cite-13" class="ref-back">&#8617;</a> 2 Corinthians 1:3-5 (ESV): "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God. For as we share abundantly in Christ's sufferings, so through Christ we share abundantly in comfort too."</li>
-    <li id="ref-14"><a href="#cite-14" class="ref-back">&#8617;</a> Matthew 22:39 (ESV): "And a second is like it: You shall love your neighbor as yourself."</li>
-    <li id="ref-15"><a href="#cite-15" class="ref-back">&#8617;</a> Romans 12:15 (ESV): "Rejoice with those who rejoice, weep with those who weep."</li>
-    <li id="ref-16"><a href="#cite-16" class="ref-back">&#8617;</a> Matthew 26:63-66 (ESV): "But Jesus remained silent. And the high priest said to him, 'I adjure you by the living God, tell us if you are the Christ, the Son of God.' Jesus said to him, 'You have said so. But I tell you, from now on you will see the Son of Man seated at the right hand of Power and coming on the clouds of heaven.' Then the high priest tore his robes and said, 'He has uttered blasphemy. What further witnesses do we need? You have now heard his blasphemy. What is your judgment?' They answered, 'He deserves death.'" Cf. Mark 14:61b-62 (ESV): "Again the high priest asked him, 'Are you the Christ, the Son of the Blessed?' And Jesus said, 'I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.'"</li>
-    <li id="ref-17"><a href="#cite-17" class="ref-back">&#8617;</a> John 19:7 (ESV): "The Jews answered him, 'We have a law, and according to that law he ought to die because he has made himself the Son of God.'"</li>
-    <li id="ref-18"><a href="#cite-18" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7: "And Christ himself throughout the whole Gospel of John does nothing else than manifest himself to be the Son of God, always speaking of God as his Father. And this was what was brought against him at his crucifixion as a capital crime." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
-    <li id="ref-19"><a href="#cite-19" class="ref-back">&#8617;</a> 1 Peter 2:24 (ESV): "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed." Formula of Concord, Solid Declaration III, "Of the Righteousness of Faith before God," 58: "Thus neither the divine nor the human nature of Christ by itself is imputed to us for righteousness, but only the obedience of the person who is at the same time God and man. And faith thus regards the person of Christ as it was made under the Law for us, bore our sins, and in His going to the Father offered to His heavenly Father for us poor sinners His entire, complete obedience, from His holy birth even unto death, and has thereby covered all our disobedience which inheres in our nature, and its thoughts, words, and works, so that it is not imputed to us for condemnation, but is pardoned and forgiven out of pure grace, alone for Christ's sake." (<em>Concordia Triglotta</em>, bookofconcord.org)</li>
-    <li id="ref-20"><a href="#cite-20" class="ref-back">&#8617;</a> Formula of Concord, Solid Declaration III, "Of the Righteousness of Faith before God," 15: "For since Christ is not man alone, but God and man in one undivided person, He was as little subject to the Law, because He is the Lord of the Law, as He had to suffer and die as far as His person is concerned. For this reason, then, His obedience, not only in suffering and dying, but also in this, that He in our stead was voluntarily made under the Law, and fulfilled it by this obedience, is imputed to us for righteousness, so that, on account of this complete obedience, which He rendered His heavenly Father for us, by doing and suffering, in living and dying, God forgives our sins, regards us as godly and righteous, and eternally saves us." (<em>Concordia Triglotta</em>, bookofconcord.org)</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> Psalm 2:7 (ESV): "I will tell of the decree: The LORD said to me, 'You are my Son; today I have begotten you.'" Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7, reads the "me" of "The LORD said to me" as Christ: "the words of the Son, declaring the words of the Father concerning himself." Rev. Henry Cole's translation, Luther's Commentary on the First Twenty-Two Psalms (wording copied from the live card's verified note).</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> John 1:12 (ESV): "But to all who did receive him, who believed in his name, he gave the right to become children of God." Ephesians 2:3 (ESV): "among whom we all once lived in the passions of our flesh, carrying out the desires of the flesh and the mind, and were by nature children of wrath, like the rest of mankind." Romans 3:19 (ESV): "Now we know that whatever the law says it speaks to those who are under the law, so that every mouth may be stopped, and the whole world may be held accountable to God." Romans 3:23 (ESV): "for all have sinned and fall short of the glory of God."</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> 2 Samuel 7:4, 12-14, 17 (ESV): "But that same night the word of the LORD came to Nathan... When your days are fulfilled and you lie down with your fathers, I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom. He shall build a house for my name, and I will establish the throne of his kingdom forever. I will be to him a father, and he shall be to me a son... In accordance with all these words, and in accordance with all this vision, Nathan spoke to David."</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> 1 Chronicles 22:10 (ESV): "He shall build a house for my name. He shall be my son, and I will be his father, and I will establish his royal throne in Israel forever." Cf. Psalm 89:26-27 (ESV), of David: "He shall cry to me, 'You are my Father, my God, and the Rock of my salvation.' And I will make him the firstborn, the highest of the kings of the earth." After Solomon's death the kingdom split: 1 Kings 11:43-12:20 (ESV): "And Solomon slept with his fathers and was buried in the city of David his father. And Rehoboam his son reigned in his place... So Israel has been in rebellion against the house of David to this day."</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Romans 1:3 (ESV): "concerning his Son, who was descended from David according to the flesh." Luke 1:27 (ESV): "to a virgin betrothed to a man whose name was Joseph, of the house of David. And the virgin's name was Mary." Matthew 1:16 (ESV): "and Jacob the father of Joseph the husband of Mary, of whom Jesus was born, who is called Christ." Formula of Concord, Solid Declaration VIII, 6: "Christ Jesus is now in one person at the same time true, eternal God, born of the Father from eternity, and a true man, born of the most blessed Virgin Mary"; VIII, 37: "Thus the Son of God was born of the seed of David according to the flesh, Rom. 1:3." (Concordia Triglotta, bookofconcord.org). Hebrews 1:5 (ESV): "...'You are my Son, today I have begotten you'? Or again, 'I will be to him a father, and he shall be to me a son'?" Acts 13:33 (ESV): "this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, 'You are my Son, today I have begotten you.'" Luke 1:32-33 (ESV): "He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever, and of his kingdom there will be no end."</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, on verse 7: "And how discerningly and worthily have all the holy fathers interpreted this passage, 'This day have I begotten thee?' that is, in eternity... He is rightly said therefore to be begotten 'to-day,' that is, being always begotten. For 'to-day' implies neither a yesterday nor a to-morrow, but always a present time, a to-day." Also on verse 7: "...the words of the Son, declaring the words of the Father concerning himself, which is a holy and sacred diversity, commending unto us the nature and equality of the Godhead." Rev. Henry Cole's translation, Luther's Commentary on the First Twenty-Two Psalms (wording copied from the live card's verified notes). The Lutheran Study Bible's note on this verse quotes Philip Melanchthon: "He is by nature the Son into whom the substance of the Father has been propagated" (as quoted in Chemnitz, Loci Theologici 1:88), and Martin Chemnitz: "In Hebrew the word is yalad . . . to beget from the essence" (Loci Theologici 1:101). The Small Catechism, Second Article: "I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord" (Concordia Triglotta, bookofconcord.org). Romans 1:4 (ESV): "and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord." Cf. Formula of Concord, Solid Declaration VIII, 85, quoting Luther: "From eternity I have it of the Father, before I became man. But when I became man, I received it in time, according to humanity, and kept it concealed until My resurrection and ascension; when it was to be manifested and declared, as St. Paul says, Rom. 1:4" (Concordia Triglotta, bookofconcord.org).</li>
+    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Galatians 4:4-5 (ESV): "But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons." Cf. Galatians 3:26 (ESV): "for in Christ Jesus you are all sons of God, through faith." Cf. John 1:12 (note [4]).</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Smalcald Articles, Part II, Article I, "The First and Chief Article": "That Jesus Christ, our God and Lord, died for our sins, and was raised again for our justification, Rom. 4:25." (<em>Concordia Triglotta</em>, bookofconcord.org). Cf. Romans 4:25 (ESV): "who was delivered up for our trespasses and raised for our justification."</li>
+    <li id="ref-11"><a href="#cite-11" class="ref-back">&#8617;</a> 2 Corinthians 1:3-5 (ESV): "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God. For as we share abundantly in Christ's sufferings, so through Christ we share abundantly in comfort too."</li>
+    <li id="ref-12"><a href="#cite-12" class="ref-back">&#8617;</a> Matthew 22:39 (ESV): "And a second is like it: You shall love your neighbor as yourself."</li>
+    <li id="ref-13"><a href="#cite-13" class="ref-back">&#8617;</a> Romans 12:15 (ESV): "Rejoice with those who rejoice, weep with those who weep."</li>
+    <li id="ref-14"><a href="#cite-14" class="ref-back">&#8617;</a> Matthew 26:63-66 (ESV): "But Jesus remained silent. And the high priest said to him, 'I adjure you by the living God, tell us if you are the Christ, the Son of God.' Jesus said to him, 'You have said so. But I tell you, from now on you will see the Son of Man seated at the right hand of Power and coming on the clouds of heaven.' Then the high priest tore his robes and said, 'He has uttered blasphemy. What further witnesses do we need? You have now heard his blasphemy. What is your judgment?' They answered, 'He deserves death.'" Cf. Mark 14:61b-62 (ESV): "Again the high priest asked him, 'Are you the Christ, the Son of the Blessed?' And Jesus said, 'I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.'"</li>
+    <li id="ref-15"><a href="#cite-15" class="ref-back">&#8617;</a> John 19:7 (ESV): "The Jews answered him, 'We have a law, and according to that law he ought to die because he has made himself the Son of God.'"</li>
+    <li id="ref-16"><a href="#cite-16" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 7: "And Christ himself throughout the whole Gospel of John does nothing else than manifest himself to be the Son of God, always speaking of God as his Father. And this was what was brought against him at his crucifixion as a capital crime." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
+    <li id="ref-17"><a href="#cite-17" class="ref-back">&#8617;</a> 1 Peter 2:24 (ESV): "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed." Formula of Concord, Solid Declaration III, "Of the Righteousness of Faith before God," 58: "Thus neither the divine nor the human nature of Christ by itself is imputed to us for righteousness, but only the obedience of the person who is at the same time God and man. And faith thus regards the person of Christ as it was made under the Law for us, bore our sins, and in His going to the Father offered to His heavenly Father for us poor sinners His entire, complete obedience, from His holy birth even unto death, and has thereby covered all our disobedience which inheres in our nature, and its thoughts, words, and works, so that it is not imputed to us for condemnation, but is pardoned and forgiven out of pure grace, alone for Christ's sake." (<em>Concordia Triglotta</em>, bookofconcord.org)</li>
+    <li id="ref-18"><a href="#cite-18" class="ref-back">&#8617;</a> Formula of Concord, Solid Declaration III, "Of the Righteousness of Faith before God," 15: "For since Christ is not man alone, but God and man in one undivided person, He was as little subject to the Law, because He is the Lord of the Law, as He had to suffer and die as far as His person is concerned. For this reason, then, His obedience, not only in suffering and dying, but also in this, that He in our stead was voluntarily made under the Law, and fulfilled it by this obedience, is imputed to us for righteousness, so that, on account of this complete obedience, which He rendered His heavenly Father for us, by doing and suffering, in living and dying, God forgives our sins, regards us as godly and righteous, and eternally saves us." (<em>Concordia Triglotta</em>, bookofconcord.org)</li>
+  </ol>
+</div>
+</details>
+`
+    },
+{   label: "Psalm 2:8",
+    title: "Ask of Me",
+    image: "lyre.png",
+    genre: "Royal",
+    parallelism: "Synonymous",
+    conditions: ["intercession for others", "praying for unbelievers"],
+    conditionAngle: "names giving up on a person hostile to God, trusting what you see of that person more than God's promise to give His Son the nations &#8212; and points to Jesus, who died for that person and for you; the prayer then asks God to bring that person to faith through His Word.",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">2:8</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`Ask of me, and I will make the nations your heritage,<br>and the ends of the earth your possession.<br><small>(ESV)</small>`],
+      KJV: [`Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.<br><small>(KJV)</small>`],
+      NASB: [`Ask of Me, and I will surely give the nations as Your inheritance,<br>And the very ends of the earth as Your possession.<br><small>(NASB)</small>`],
+      NIV: [`Ask me,<br>and I will make the nations your inheritance,<br>the ends of the earth your possession.<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">שְׁאַל מִמֶּנִּי וְאֶתְּנָה גוֹיִם נַחֲלָתֶךָ וַאֲחֻזָּתְךָ אַפְסֵי־אָרֶץ</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+<span class="tooltip">
+    <strong>Ask of me</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">שְׁאַל מִמֶּנִּי</span>
+            <span class="transliteration">(she'al mimmenni)</span>
+        </span>
+        <span class="definition-list">
+            Qal imperative, masculine singular, of <span dir="rtl">שָׁאַל</span> (sha'al), "to ask, request," plus <span dir="rtl">מִמֶּנִּי</span> (mimmenni), "from me."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: 1 Kings 3:5, "Ask what I shall give you" &#8212; the same command, followed by <span dir="rtl">נָתַן</span>, "to give," the word translated "will make" here
+        </small>
+    </span>
+</span>
+and I
+<span class="tooltip">
+    <strong>will make</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וְאֶתְּנָה</span>
+            <span class="transliteration">(ve'ettenah)</span>
+        </span>
+        <span class="definition-list">
+            Qal cohortative of <span dir="rtl">נָתַן</span> (natan), "to give," first person singular, with the prefix <span dir="rtl">וְ</span>, "and." With two objects, as here, <span dir="rtl">נָתַן</span> means "to make into": "give the nations as your heritage" means "make the nations your heritage." The cohortative form expresses the speaker's own resolve: "I will give."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Genesis 17:5, "I have made you the father of a multitude of nations" &#8212; the same word, with two objects
+        </small>
+    </span>
+</span>
+the
+<span class="tooltip">
+    <strong>nations</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">גוֹיִם</span>
+            <span class="transliteration">(goyim)</span>
+        </span>
+        <span class="definition-list">
+            Plural of <span dir="rtl">גּוֹי</span> (goy) &#8212; usually the Gentile nations, the peoples outside Israel.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 2:1, "Why do the nations rage" &#8212; the same word
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>your heritage</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">נַחֲלָתֶךָ</span>
+            <span class="transliteration">(nachalatekha)</span>
+        </span>
+        <span class="definition-list">
+            <span dir="rtl">נַחֲלָה</span> (nachalah), from <span dir="rtl">נָחַל</span> (nachal), "to inherit," plus the suffix "your." An inheritance: property received as an heir's share.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 33:12, "the people whom he has chosen as his heritage" &#8212; the same word
+        </small>
+    </span>
+</span>
+and the
+<span class="tooltip">
+    <strong>ends of the earth</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">אַפְסֵי־אָרֶץ</span>
+            <span class="transliteration">('aphse 'arets)</span>
+        </span>
+        <span class="definition-list">
+            Construct plural of <span dir="rtl">אֶפֶס</span> ('ephes), "end, ceasing," from a root meaning "to come to an end," plus <span dir="rtl">אֶרֶץ</span> ('erets), "earth." The phrase names the earth's farthest limits.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: 1 Samuel 2:10, "The LORD will judge the ends of the earth" &#8212; the same phrase
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>your possession</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וַאֲחֻזָּתְךָ</span>
+            <span class="transliteration">(va'achuzzatekha)</span>
+        </span>
+        <span class="definition-list">
+            <span dir="rtl">אֲחֻזָּה</span> ('achuzzah), a noun from <span dir="rtl">אָחַז</span> ('achaz), "to grasp, take hold of," with the prefix "and" and the suffix "your." Property held by right, especially land. The Hebrew order is "and your possession, the ends of the earth."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Genesis 47:11, "and gave them a possession in the land of Egypt" &#8212; the same word
+        </small>
+    </span>
+</span>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>Insight</summary>
+<p>
+So far in the LORD's speech, He has spoken only of Himself and His King. Here He speaks of the nations and says to whom they will belong. <span id="cite-1" class="cite-anchor">Earlier in the psalm the nations rage, and the kings of the earth rise up. All of them plan to burst apart the bonds and cast away the cords of the LORD and His Anointed.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> The LORD promises to make those very nations, the ones trying to break free, His Anointed's own inheritance.
+</p>
+<p>
+<span id="cite-2" class="cite-anchor">The LORD has already set His King on Zion.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> <span id="cite-3" class="cite-anchor">But He has not yet given him the nations. He tells the King to ask for them first, and then He will give them.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+The Father tells His Son, Jesus, "Ask of me," and He promises Him <span class="tooltip">the nations<span class="tooltiptext"><span class="definition-list">The peoples outside Israel.</span></span></span>. <span id="cite-4" class="cite-anchor">If you are a <span class="tooltip">Gentile<span class="tooltiptext"><span class="definition-list">A person from one of the nations outside Israel.</span></span></span>, you come from those nations, and apart from Christ you were one of the "strangers to the <span class="tooltip">covenants<span class="tooltiptext"><span class="definition-list">Solemn promises God bound Himself to keep, made with Abraham and his family.</span></span></span> of promise."<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">The Gentiles had done nothing to earn a place among God's people, yet the Father gives them to His Son as a gift.<sup class="ref"><a href="#ref-5">[5]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-6" class="cite-anchor">Long before Jesus, the LORD made David, who wrote this psalm,<sup class="ref"><a href="#ref-6">[6]</a></sup></span> <span id="cite-7" class="cite-anchor">"the head of the nations."<sup class="ref"><a href="#ref-7">[7]</a></sup></span> <span id="cite-8" class="cite-anchor">Yet David's rule reached only the peoples near Israel, and the LORD subdued them under him through war.<sup class="ref"><a href="#ref-8">[8]</a></sup></span> <span id="cite-9" class="cite-anchor">This verse promises the Son far more: nations as far as "the ends of the earth."<sup class="ref"><a href="#ref-9">[9]</a></sup></span>
+</p>
+
+<p><em>The Nations Given to the Son</em></p>
+
+<p>
+<span id="cite-10" class="cite-anchor">Jesus, the Son of God made man, did what the Father tells Him in this verse: while He lived on earth He asked the Father for the nations, and now, reigning in heaven, He receives them.<sup class="ref"><a href="#ref-10">[10]</a></sup></span> <span id="cite-11" class="cite-anchor">The night before His death, He prayed for "those who will believe in me through their word," the word His apostles would preach.<sup class="ref"><a href="#ref-11">[11]</a></sup></span> <span id="cite-12" class="cite-anchor">Then, after He rose from the dead, He sent those apostles to "make disciples of all nations."<sup class="ref"><a href="#ref-12">[12]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-13" class="cite-anchor">As the apostles' preaching reached the Gentiles, Paul wrote that Christ came so that they would give glory to God for His mercy, and he quoted David's thanks to the LORD for subduing nations under him: "Therefore I will praise you among the Gentiles."<sup class="ref"><a href="#ref-13">[13]</a></sup></span> <span id="cite-14" class="cite-anchor">Now the Gentiles praise God together with Israel, God's people.<sup class="ref"><a href="#ref-14">[14]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-15" class="cite-anchor">So the Father answers His Son's asking: He gives Him people from every nation and brings them to faith through the apostles' preaching.<sup class="ref"><a href="#ref-15">[15]</a></sup></span> If you belong to Jesus, you are part of that gift.
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<span id="cite-16" class="cite-anchor">In this verse the LORD promises to give His King the nations that raged against the LORD and His Anointed.<sup class="ref"><a href="#ref-16">[16]</a></sup></span> <span id="cite-17" class="cite-anchor"><span class="tooltip">Paul<span class="tooltiptext"><span class="definition-list">An apostle of Jesus who wrote many of the New Testament letters.</span></span></span> raged against Jesus as the nations in this psalm did: Paul was hunting down Jesus' followers until Jesus spoke to Paul from heaven on the road to Damascus, and then Paul was baptized and proclaimed in the synagogues that Jesus is the Son of God.<sup class="ref"><a href="#ref-17">[17]</a></sup></span> Paul's story shows that the LORD can bring a person who is fighting against Jesus to faith in Jesus. But Paul's story does not promise that any particular person you pray for will come to faith. Yet Paul's story is a reason to keep praying for a person who is fighting against Jesus.
+</p>
+
+<p>
+<span id="cite-18" class="cite-anchor">Perhaps you have decided that someone hostile to God will never believe: a relative who has left the church, or a coworker who mocks the Christian faith. If you have stopped praying for that person, or have never prayed for that person, you are judging that person by their hostility to God, though God "desires all people to be saved."<sup class="ref"><a href="#ref-18">[18]</a></sup></span> <span id="cite-19" class="cite-anchor">So this week, when you pray "Your kingdom come" in the Lord's Prayer, name the person you gave up on and ask God to bring that person to faith.<sup class="ref"><a href="#ref-19">[19]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-20" class="cite-anchor">Long before you pray for the person you gave up on, Jesus, the King to whom the LORD promises the nations in this verse, gave His life for people from every nation.<sup class="ref"><a href="#ref-20">[20]</a></sup></span> <span id="cite-21" class="cite-anchor">Jesus died for all people. He died for the person hostile to God whom you decided would never believe, and He died for you.<sup class="ref"><a href="#ref-21">[21]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>Prayer</summary>
+
+<p>
+<span id="cite-22" class="cite-anchor">Father, the nations raged against You and against Your Son, the King You installed, yet You told Your Son to ask You for those same nations, and You promised to make them His inheritance.<sup class="ref"><a href="#ref-22">[22]</a></sup></span> But I have decided that a person hostile to You will never believe in Your Son, trusting what I see of that person more than Your promise to give Your Son the nations. <span id="cite-23" class="cite-anchor">I did nothing to earn my own place with You, and I am no more deserving than the person I gave up on.<sup class="ref"><a href="#ref-23">[23]</a></sup></span> <span id="cite-24" class="cite-anchor">Jesus <span class="tooltip">asked You<span class="tooltiptext"><span class="definition-list">Jesus' prayer to His Father the night before His death (John 17:20).</span></span></span> for those who would believe in Him through His apostles' word,<sup class="ref"><a href="#ref-24">[24]</a></sup></span> yet I have not prayed for the person I gave up on. <span id="cite-25" class="cite-anchor">Jesus died for the person I gave up on and for me.<sup class="ref"><a href="#ref-25">[25]</a></sup></span> Forgive me for giving up on that person, for Jesus' sake. Teach me to trust Your promise to Your Son more than what I see of a person. <span id="cite-26" class="cite-anchor">Bring the person I gave up on to faith through Your Word.<sup class="ref"><a href="#ref-26">[26]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Psalm 2:1-3 (ESV): "Why do the nations rage and the peoples plot in vain? The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against his Anointed, saying, 'Let us burst their bonds apart and cast away their cords from us.'"</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> Psalm 2:6 (ESV): "As for me, I have set my King on Zion, my holy hill."</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, from his second lecture series on the Psalms (Wittenberg, 1519-1521), on verse 8: "he is first commanded to ask, and it is promised unto him as that which shall be hereafter." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em> &#8212; verified directly against the primary-source text.</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> Ephesians 2:11-12 (ESV): "Therefore remember that at one time you Gentiles in the flesh... remember that you were at that time separated from Christ, alienated from the commonwealth of Israel and strangers to the covenants of promise, having no hope and without God in the world."</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, on verse 8: "the Gentiles are given to him for an inheritance upon his asking for them as a gift, as being those to whom the promise was not made." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em>, p. 83. Cf. Ephesians 2:8-9 (ESV): "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> Acts 4:25 (ESV): "who through the mouth of our father David, your servant, said by the Holy Spirit, 'Why did the Gentiles rage, and the peoples plot in vain?'"</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Psalm 18:43 (ESV), from David's song of thanks to the LORD (cf. 2 Samuel 22:44): "You delivered me from strife with the people; you made me the head of the nations; people whom I had not known served me."</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Psalm 18:39, 47 (ESV): "For you equipped me with strength for the battle; you made those who rise against me sink under me... the God who gave me vengeance and subdued peoples under me." David's wars were with the kingdoms around Israel (2 Samuel 8:1-14). 2 Samuel 8:14 (ESV): "Then he put garrisons in Edom; throughout all Edom he put garrisons, and all the Edomites became David's servants."</li>
+    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> Psalm 2:8 (ESV): "the ends of the earth your possession." Cf. Psalm 72:8 (ESV), a prayer for the king: "May he have dominion from sea to sea, and from the River to the ends of the earth!"</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Martin Luther, commentary on Psalm 2, on verse 8: "Christ, therefore, being now upon earth, appointed king upon Mount Zion, asks for the Gentiles, and when he reigns in heaven, he receives the Gentiles which were then promised unto him." Rev. Henry Cole's translation, <em>Luther's Commentary on the First Twenty-Two Psalms</em>, p. 83. Cf. John 17:6 (ESV): "Yours they were, and you gave them to me."</li>
+    <li id="ref-11"><a href="#cite-11" class="ref-back">&#8617;</a> John 17:20 (ESV): "I do not ask for these only, but also for those who will believe in me through their word."</li>
+    <li id="ref-12"><a href="#cite-12" class="ref-back">&#8617;</a> Matthew 28:19 (ESV): "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit." Cf. Acts 13:47 (ESV), where Paul and Barnabas take the Lord's words through Isaiah (Isaiah 49:6) as His command to them: "For so the Lord has commanded us, saying, 'I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth.'"</li>
+    <li id="ref-13"><a href="#cite-13" class="ref-back">&#8617;</a> Romans 15:8-9 (ESV): "For I tell you that Christ became a servant to the circumcised to show God's truthfulness, in order to confirm the promises given to the patriarchs, and in order that the Gentiles might glorify God for his mercy. As it is written, 'Therefore I will praise you among the Gentiles, and sing to your name.'" Paul is quoting the closing words of David's song of thanks, Psalm 18:49 (= 2 Samuel 22:50) (ESV): "For this I will praise you, O LORD, among the nations, and sing to your name."</li>
+    <li id="ref-14"><a href="#cite-14" class="ref-back">&#8617;</a> Romans 15:10 (ESV): "And again it says, 'Rejoice, O Gentiles, with his people.'" Paul quotes the song of Moses, Deuteronomy 32:43, in its Greek (Septuagint) form, not David. "His people" is Israel.</li>
+    <li id="ref-15"><a href="#cite-15" class="ref-back">&#8617;</a> John 6:37 (ESV): "All that the Father gives me will come to me, and whoever comes to me I will never cast out." Romans 10:17 (ESV): "So faith comes from hearing, and hearing through the word of Christ." Cf. John 17:6, 20.</li>
+    <li id="ref-16"><a href="#cite-16" class="ref-back">&#8617;</a> Psalm 2:1-2: "Why do the nations rage and the peoples plot in vain? The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against his Anointed, saying," In David's day the nations raged against David, the LORD's anointed king; when the apostles applied Psalm 2, the raging was against Jesus (Acts 4:25-27, especially 4:27).</li>
+    <li id="ref-17"><a href="#cite-17" class="ref-back">&#8617;</a> Acts 9:1-6: "But Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest and asked him for letters to the synagogues at Damascus, so that if he found any belonging to the Way, men or women, he might bring them bound to Jerusalem. Now as he went on his way, he approached Damascus, and suddenly a light from heaven shone around him. And falling to the ground, he heard a voice saying to him, 'Saul, Saul, why are you persecuting me?' And he said, 'Who are you, Lord?' And he said, 'I am Jesus, whom you are persecuting. But rise and enter the city, and you will be told what you are to do.'" Acts 13:9: "Saul, who was also called Paul." Acts 9:18-20: "And immediately something like scales fell from his eyes, and he regained his sight. Then he rose and was baptized; and taking food, he was strengthened. For some days he was with the disciples at Damascus. And immediately he proclaimed Jesus in the synagogues, saying, 'He is the Son of God.'" Acts 26:11: "And I punished them often in all the synagogues and tried to make them blaspheme, and in raging fury against them I persecuted them even to foreign cities." Acts 9:15: "But the Lord said to him, 'Go, for he is a chosen instrument of mine to carry my name before the Gentiles and kings and the children of Israel.'"</li>
+    <li id="ref-18"><a href="#cite-18" class="ref-back">&#8617;</a> 1 Timothy 2:4 (quoted in full at [19]). Luther, on verse 8 (Cole translation, p. 84): "Let us therefore, lest we should contract the inheritance of Christ, not accuse the word of this psalm of a lie..." And separately: "The authority of the Word is greater than all our capacity. How much greater, then, is it than all our suspicion and the phantom of external appearance?" Luther's own target was judging who belongs to the church now, not giving up on praying for a person. Large Catechism III, 53, on "Thy kingdom come": "Now we pray for both these things, that it may come to those who are not yet in it, and, by daily increase, to us who have received the same, and hereafter in eternal life."</li>
+    <li id="ref-19"><a href="#cite-19" class="ref-back">&#8617;</a> 1 Timothy 2:1-4: "First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way. This is good, and it is pleasing in the sight of God our Savior, who desires all people to be saved and to come to the knowledge of the truth." Matthew 6:10: "Your kingdom come, your will be done, on earth as it is in heaven." Formula of Concord, Solid Declaration XI, 28: "the promise of the Gospel is universalis (universal), that is, it pertains to all men."</li>
+    <li id="ref-20"><a href="#cite-20" class="ref-back">&#8617;</a> Revelation 5:9-10: "And they sang a new song, saying, 'Worthy are you to take the scroll and to open its seals, for you were slain, and by your blood you ransomed people for God from every tribe and language and people and nation, and you have made them a kingdom and priests to our God, and they shall reign on the earth.'"</li>
+    <li id="ref-21"><a href="#cite-21" class="ref-back">&#8617;</a> 1 Timothy 2:5-6: "For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all, which is the testimony given at the proper time." Augsburg Confession IV: men "are freely justified for Christ's sake, through faith, when they believe that they are received into favor, and that their sins are forgiven for Christ's sake, who, by His death, has made satisfaction for our sins."</li>
+    <li id="ref-22"><a href="#cite-22" class="ref-back">&#8617;</a> Psalm 2:1-2, 6-8 (ESV): "Why do the nations rage and the peoples plot in vain? The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against his Anointed, saying, ... As for me, I have set my King on Zion, my holy hill. I will tell of the decree: The LORD said to me, 'You are my Son; today I have begotten you. Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.'" Acts 4:24-27 (ESV): "And when they heard it, they lifted their voices together to God and said, 'Sovereign Lord, who made the heaven and the earth and the sea and everything in them, who through the mouth of our father David, your servant, said by the Holy Spirit, "Why did the Gentiles rage, and the peoples plot in vain? The kings of the earth set themselves, and the rulers were gathered together, against the Lord and against his Anointed"&#8212;for truly in this city there were gathered together against your holy servant Jesus, whom you anointed, both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel,'"</li>
+    <li id="ref-23"><a href="#cite-23" class="ref-back">&#8617;</a> Ephesians 2:8-9 (ESV): "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."</li>
+    <li id="ref-24"><a href="#cite-24" class="ref-back">&#8617;</a> John 17:20 (ESV): "I do not ask for these only, but also for those who will believe in me through their word."</li>
+    <li id="ref-25"><a href="#cite-25" class="ref-back">&#8617;</a> 1 Timothy 2:5-6 (ESV): "For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all, which is the testimony given at the proper time."</li>
+    <li id="ref-26"><a href="#cite-26" class="ref-back">&#8617;</a> 1 Timothy 2:4 (ESV): "who desires all people to be saved and to come to the knowledge of the truth." Romans 10:17 (ESV): "So faith comes from hearing, and hearing through the word of Christ."</li>
   </ol>
 </div>
 </details>
