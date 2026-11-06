@@ -2586,6 +2586,12 @@ But this rage against God's anointed king reached beyond any single human corona
 <p>
 Lord, apart from Christ, I belong among the nations who rage against Your rule &#8212; not with open rage, but quietly: a command I brush aside, an authority I resent, a plan I insist on running myself. My own plotting is empty, worthless, doomed to fail, no matter how deliberate. Christ is the King this rage ultimately opposed &#8212; the world gathered against Him too, some blindly, not knowing who they crucified, others deliberately plotting against Him. But You exalted Him despite their rebellion, because nothing could stop Your plan. At the cross, He bore the guilt of my own quiet rebellion. Forgive me for resisting Your rule, and do what I cannot do for myself: join me to Christ &#8212; and bring everyone who still rages against You to take refuge in Him too, before they perish in their rebellion.
 </p>
+
+<p>
+  <span class="selah-marker">
+    <em>AMEN</em>
+  </span>
+</p>
 </details>
 
 <details class="study-section">
@@ -2604,11 +2610,6 @@ Lord, apart from Christ, I belong among the nations who rage against Your rule &
     <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Psalm 2:12 &#8212; see [9] above for the full quotation.</li>
   </ol>
 </div>
-<p>
-  <span class="selah-marker">
-    <em>SELAH</em>
-  </span>
-</p>
 </details>
 `
     },
@@ -2857,6 +2858,12 @@ Apart from Christ, every reader does what these kings and rulers do, only quiete
 <p>
 Lord, I stand against Your rule &#8212; quietly following my own judgment, not Your Word, in how I spend my money, treat other people, and use my time. Unlike rage that's loud and open, my rebellion is deliberate: decided in advance, calculated, hidden inside decisions that look completely ordinary. Christ, Your own Anointed, was the true target of that same calculated rebellion, taken all the way to the cross &#8212; and there He prayed for the very people who put Him there: <span id="cite-17" class="cite-anchor">"Father, forgive them, for they know not what they do."<sup class="ref"><a href="#ref-17">[17]</a></sup></span> Forgive me the same way, every time I fail again. Break my quiet self-rule, and bring me under Your rule instead.
 </p>
+
+<p>
+  <span class="selah-marker">
+    <em>AMEN</em>
+  </span>
+</p>
 </details>
 
 <details class="study-section">
@@ -2882,11 +2889,6 @@ Lord, I stand against Your rule &#8212; quietly following my own judgment, not Y
     <li id="ref-17"><a href="#cite-17" class="ref-back">&#8617;</a> Luke 23:34 &#8212; see [16] above for the full quotation.</li>
   </ol>
 </div>
-<p>
-  <span class="selah-marker">
-    <em>SELAH</em>
-  </span>
-</p>
 </details>
 `,
     },
@@ -3075,6 +3077,12 @@ Tearing the bonds loose is not enough for them &#8212; they throw the cords away
 <p>
 Lord, I call Your rule a burden, even when I never say so aloud &#8212; as if freedom meant escaping You, when escaping You is the <span class="tooltip">real bondage<span class="tooltiptext">Slavery to sin, not a lack of rules to follow &#8212; this is what escaping God's rule actually means, apart from Christ (John 8:34).</span></span>. A private resentment toward one of Your commands can <span class="tooltip">harden<span class="tooltiptext">Not a single decision, but a slow, often unnoticed process &#8212; Scripture calls this "the deceitfulness of sin" (Hebrews 3:13).</span></span> in me before I even notice. I have told myself that setting aside <span class="tooltip">part<span class="tooltiptext">You can sincerely believe you're devoted while quietly excusing one part &#8212; that's self-deception, not open rebellion. But before God, failing in one point makes you guilty of rejecting all of God's Word (James 2:10).</span></span> of Your Word is devotion. Excusing even one part rejects everything You have commanded. Search me and show me where that is true. Christ, You are the very King I was born resisting, and yet You alone free me from slavery to sin &#8212; the very bondage that feels like freedom to me. Whatever You reveal in me, I will bring to You. Give me Your freedom, not my own.
 </p>
+
+<p>
+  <span class="selah-marker">
+    <em>AMEN</em>
+  </span>
+</p>
 </details>
 
 <details class="study-section">
@@ -3098,11 +3106,6 @@ Lord, I call Your rule a burden, even when I never say so aloud &#8212; as if fr
     <li id="ref-15"><a href="#cite-15" class="ref-back">&#8617;</a> John 8:34-36 (ESV): "Everyone who practices sin is a slave to sin. The slave does not remain in the house forever; the son remains forever. So if the Son sets you free, you will be free indeed."</li>
   </ol>
 </div>
-<p>
-  <span class="selah-marker">
-    <em>SELAH</em>
-  </span>
-</p>
 </details>
 `
     },
@@ -3293,7 +3296,7 @@ Lord, apart from Christ, my resistance to You is nothing less than open rebellio
 
 <p>
   <span class="selah-marker">
-    <em>SELAH</em>
+    <em>AMEN</em>
   </span>
 </p>
 </details>
@@ -3530,7 +3533,7 @@ Lord, I confess that I have trusted my own willpower, planning, and resourcefuln
 
 <p>
   <span class="selah-marker">
-    <em>SELAH</em>
+    <em>AMEN</em>
   </span>
 </p>
 </details>
@@ -3789,7 +3792,7 @@ Father, You installed Christ as King on Zion, and His kingship does not depend o
 
 <p>
   <span class="selah-marker">
-    <em>SELAH</em>
+    <em>AMEN</em>
   </span>
 </p>
 </details>
@@ -4078,7 +4081,7 @@ Father, You comforted me with Your Son, who died for my sins and rose again. I h
 
 <p>
   <span class="selah-marker">
-    <em>SELAH</em>
+    <em>AMEN</em>
   </span>
 </p>
 </details>
@@ -4314,7 +4317,7 @@ The Father tells His Son, Jesus, "Ask of me," and He promises Him <span class="t
 
 <p>
   <span class="selah-marker">
-    <em>SELAH</em>
+    <em>AMEN</em>
   </span>
 </p>
 </details>
@@ -4348,6 +4351,236 @@ The Father tells His Son, Jesus, "Ask of me," and He promises Him <span class="t
     <li id="ref-24"><a href="#cite-24" class="ref-back">&#8617;</a> John 17:20 (ESV): "I do not ask for these only, but also for those who will believe in me through their word."</li>
     <li id="ref-25"><a href="#cite-25" class="ref-back">&#8617;</a> 1 Timothy 2:5-6 (ESV): "For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all, which is the testimony given at the proper time."</li>
     <li id="ref-26"><a href="#cite-26" class="ref-back">&#8617;</a> 1 Timothy 2:4 (ESV): "who desires all people to be saved and to come to the knowledge of the truth." Romans 10:17 (ESV): "So faith comes from hearing, and hearing through the word of Christ."</li>
+  </ol>
+</div>
+</details>
+`
+    },
+
+{   label: "Psalm 2:9",
+    title: "A Rod of Iron",
+    image: "lyre.png",
+    genre: "Royal",
+    parallelism: "Synonymous",
+    conditions: ["pride", "resisting correction", "blaming others", "need for forgiveness"],
+    conditionAngle: "names arguing with God's Word when it names your sin, by giving reasons, blaming someone else, or thinking of other people who needed the rebuke &#8212; and points to Jesus, the King whose rod is His Word, who died for these sins; the prayer then asks God to forgive you and teach you to call your sin your own, and Jesus, your advocate, speaks to the Father for you.",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">2:9</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`You shall break them with a rod of iron<br>and dash them in pieces like a potter's vessel."<br><small>(ESV)</small>`],
+      KJV: [`Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter's vessel.<br><small>(KJV)</small>`],
+      NASB: [`You shall break them with a rod of iron,<br>You shall shatter them like earthenware.'<br><small>(NASB)</small>`],
+      NIV: [`You will break them with a rod of iron;<br>you will dash them to pieces like pottery."<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">תְּרֹעֵם בְּשֵׁבֶט בַּרְזֶל כִּכְלִי יוֹצֵר תְּנַפְּצֵם</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+You shall
+<span class="tooltip">
+    <strong>break them</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">תְּרֹעֵם</span>
+            <span class="transliteration">(tero'em)</span>
+        </span>
+        <span class="definition-list">
+            Qal imperfect, second person masculine singular, of <span dir="rtl">רָעַע</span> (ra'a'), "to break, shatter," plus the suffix "them." Hebrew was first written in consonants only; the vowel marks were added later. Read with the printed vowels, these consonants give "break them." Read with other vowels, as <span dir="rtl">תִּרְעֵם</span> (tir'em), the same consonants give "shepherd them," from a different word, <span dir="rtl">רָעָה</span> (ra'ah), "to shepherd," used of a ruler over a people. The "shepherd them" reading lies behind the ESV footnote "You shall rule." "Shepherd" is not a meaning of "break"; "shepherd them" is a second way to read the consonants of "break them."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Job 34:24, "He shatters the mighty" &#8212; the same word. Micah 7:14, "Shepherd your people with your staff" &#8212; <span dir="rtl">רָעָה</span>, "to shepherd," beside <span dir="rtl">שֵׁבֶט</span>, the word translated "rod" here
+        </small>
+    </span>
+</span>
+with a
+<span class="tooltip">
+    <strong>rod</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">בְּשֵׁבֶט</span>
+            <span class="transliteration">(beshevet)</span>
+        </span>
+        <span class="definition-list">
+            The prefix <span dir="rtl">בְּ</span>, "with," plus <span dir="rtl">שֵׁבֶט</span> (shevet), "rod, staff; scepter; tribe."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: a shepherd's rod (Psalm 23:4, "your rod"; Leviticus 27:32, "the herdsman's staff"), a rod for discipline (Proverbs 13:24, "spares the rod"), and a king's scepter (Genesis 49:10, "The scepter shall not depart from Judah") &#8212; the same word in each
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>of iron</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">בַּרְזֶל</span>
+            <span class="transliteration">(barzel)</span>
+        </span>
+        <span class="definition-list">
+            Noun, "iron."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Jeremiah 15:12, "Can one break iron" &#8212; the same word, beside <span dir="rtl">רָעַע</span>, the word translated "break" here
+        </small>
+    </span>
+</span>
+
+<p>
+Luther and the editors of <span class="tooltip"><em>The Lutheran Study Bible</em><span class="tooltiptext"><span class="definition-list">A study Bible published by Concordia Publishing House in 2009.</span></span></span> differ over whether "break" in this verse means to rule or to break in pieces. <span id="cite-1" class="cite-anchor">The editors of <em>The Lutheran Study Bible</em> read "break" in this verse as meaning to rule, because writers in <span class="tooltip">Mesopotamia<span class="tooltiptext"><span class="definition-list">The land of Assyria and Babylon, the great empires of Israel's world.</span></span></span> often compared a king's rule to smashing pottery, and the editors point to the ESV footnote on "break."<sup class="ref"><a href="#ref-1">[1]</a></sup></span> <span id="cite-2" class="cite-anchor">Luther prefers "break in pieces" to "rule" and to "feed," the word <span class="tooltip">Jerome<span class="tooltiptext"><span class="definition-list">A church father (died 420) who translated the Bible into Latin.</span></span></span> used for the "shepherd them" reading in his Latin translation from the Hebrew. Luther reasons that a rod of iron suits breaking in pieces better than ruling or feeding, and that the word "rod" alone would have been enough if "break" meant to rule.<sup class="ref"><a href="#ref-2">[2]</a></sup></span>
+</p>
+
+<hr>
+
+and
+<span class="tooltip">
+    <strong>dash them in pieces</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">תְּנַפְּצֵם</span>
+            <span class="transliteration">(tenappetsem)</span>
+        </span>
+        <span class="definition-list">
+            Piel imperfect, second person masculine singular, of <span dir="rtl">נָפַץ</span> (naphats), "to shatter," plus the suffix "them." In the Piel stem the word means "to dash to pieces."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Jeremiah 13:14, "I will dash them one against another" &#8212; the same word and stem
+        </small>
+    </span>
+</span>
+<span class="tooltip">
+    <strong>like a potter's vessel</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">כִּכְלִי יוֹצֵר</span>
+            <span class="transliteration">(kikhli yotser)</span>
+        </span>
+        <span class="definition-list">
+            The prefix <span dir="rtl">כְּ</span>, "like," plus <span dir="rtl">כְּלִי</span> (keli), "vessel, jar," and <span dir="rtl">יוֹצֵר</span> (yotser), Qal participle, masculine singular, of <span dir="rtl">יָצַר</span> (yatsar), "to form, fashion": "one who forms," a potter.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Jeremiah 19:11, "as one breaks a potter's vessel" &#8212; the same two words
+        </small>
+    </span>
+</span>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>Insight</summary>
+<p>
+In verse 8 the LORD promises to give the nations to His King, but here the LORD tells the King that he will break the nations with a rod of iron and dash them in pieces. <span id="cite-3" class="cite-anchor">The editors of The Lutheran Study Bible take the iron as a picture of strength and the <span class="tooltip">potter's vessel<span class="tooltiptext"><span class="definition-list">A clay pot or jar.</span></span></span> as a picture of weakness,<sup class="ref"><a href="#ref-3">[3]</a></sup></span> and in the LORD's words the nations are like the potter's vessel. <span id="cite-4" class="cite-anchor">The King began to report the LORD's decree in verse 7, and the decree ends here, with the King breaking the nations. The very next words, in verse 10, are spoken to the kings and rulers of the earth.<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
+</p>
+</details>
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+Earlier in the psalm the nations rage against the LORD and against His <span class="tooltip">Anointed<span class="tooltiptext"><span class="definition-list">The King the LORD chose and set apart by having oil poured on his head. From the Hebrew word for 'anointed' comes the title 'Messiah,' which is 'Christ' in Greek.</span></span></span>, and in this verse the King <span class="tooltip">breaks<span class="tooltiptext"><span class="definition-list">To defeat the nations completely.</span></span></span> those nations. <span id="cite-5" class="cite-anchor"><span class="tooltip">Paul<span class="tooltiptext"><span class="definition-list">An apostle of Jesus who wrote many of the New Testament letters.</span></span></span> says that <span class="tooltip">Jews<span class="tooltiptext"><span class="definition-list">A person from the people of Israel.</span></span></span> and <span class="tooltip">Gentiles<span class="tooltiptext"><span class="definition-list">A person from one of the nations outside Israel.</span></span></span> alike are under sin, so apart from Christ every reader is one of the rebels whom the King breaks with the <span class="tooltip">rod of iron<span class="tooltiptext"><span class="definition-list">A king's rod, or scepter, made of iron, a picture of the King's strength.</span></span></span> and dashes in pieces like a potter's vessel.<sup class="ref"><a href="#ref-5">[5]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-6" class="cite-anchor">In Psalm 89 the LORD warned that the punishment of rebels would reach even David's own children: if they forsook His law, He would discipline them with the rod.<sup class="ref"><a href="#ref-6">[6]</a></sup></span> <span id="cite-7" class="cite-anchor">But in the same warning the LORD swore that He would not take His steadfast love away from David.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> <span id="cite-8" class="cite-anchor">The kings of <span class="tooltip">Judah<span class="tooltiptext"><span class="definition-list">The southern kingdom, ruled from Jerusalem.</span></span></span>, who sat on David's throne, were David's children.<sup class="ref"><a href="#ref-8">[8]</a></sup></span> <span id="cite-9" class="cite-anchor">Centuries after David, the last kings of Judah did evil in the LORD's sight, and the people of Jerusalem turned from the LORD to other gods.<sup class="ref"><a href="#ref-9">[9]</a></sup></span> <span id="cite-10" class="cite-anchor">Because the people had forsaken the LORD, He said through the prophet <span class="tooltip">Jeremiah<span class="tooltiptext"><span class="definition-list">A prophet in Jerusalem in the last years of the kings who reigned there.</span></span></span> that He would break Jerusalem and its people like a potter's vessel, beyond mending. Later the forces of the king of Babylon burned Jerusalem and broke down its walls.<sup class="ref"><a href="#ref-10">[10]</a></sup></span> <span id="cite-11" class="cite-anchor">Judah's last kings came under the LORD's punishment, so none of those kings is the King of Psalm 2:9, who will break the nations.<sup class="ref"><a href="#ref-11">[11]</a></sup></span>
+</p>
+
+<p><em>The Son Who Rules with a Rod of Iron</em></p>
+
+<p>
+<span id="cite-12" class="cite-anchor">In his visions, the apostle <span class="tooltip">John<span class="tooltiptext"><span class="definition-list">One of Jesus' twelve apostles, who wrote down the visions in the Book of Revelation, the last book of the Bible.</span></span></span> saw a woman give birth to a male child who is to rule all the nations with a rod of iron. That child is Jesus, David's descendant, in whom the LORD keeps His oath not to take His steadfast love away from David.<sup class="ref"><a href="#ref-12">[12]</a></sup></span> <span id="cite-13" class="cite-anchor">Later in his visions, John saw a rider called <span class="tooltip">The Word of God<span class="tooltiptext"><span class="definition-list">A name for Jesus (John 1:1, 14).</span></span></span>. John writes that a sword comes from the rider's mouth to strike down the nations and that the rider will rule them with a rod of iron.<sup class="ref"><a href="#ref-13">[13]</a></sup></span> <span id="cite-14" class="cite-anchor"><span id="cite-15" class="cite-anchor">In John's vision of the rider, the sword and the rod of iron both picture judgment.<sup class="ref"><a href="#ref-14">[14]</a></sup><sup class="ref"><a href="#ref-15">[15]</a></sup></span></span> <span id="cite-16" class="cite-anchor">John took his picture of the rod of iron from Psalm 2:9, so Jesus is the King of that verse, who will break the nations in judgment.<sup class="ref"><a href="#ref-16">[16]</a></sup></span>
+</p>
+
+<p>
+Yet God rescues rebels from the rod of iron through Jesus. <span id="cite-17" class="cite-anchor">Paul says that God, by His grace, freely <span class="tooltip">justifies<span class="tooltiptext"><span class="definition-list">Declares sinners righteous for Christ's sake, through faith, forgiving their sins.</span></span></span> sinners through the <span class="tooltip">redemption<span class="tooltiptext"><span class="definition-list">Christ setting sinners free from sin and death by His death on the cross.</span></span></span> in Christ Jesus, and that God justifies all who believe in Jesus Christ, with no distinction.<sup class="ref"><a href="#ref-17">[17]</a></sup></span> <span id="cite-18" class="cite-anchor">In the letter Jesus sent to the church in <span class="tooltip">Thyatira<span class="tooltiptext"><span class="definition-list">A city in what is now western Turkey.</span></span></span>, He promises that the person who conquers through faith will receive authority over the nations and rule them with a rod of iron.<sup class="ref"><a href="#ref-18">[18]</a></sup></span> <span id="cite-19" class="cite-anchor">So a rebel whom God forgives through faith will <span class="tooltip">reign with Jesus<span class="tooltiptext"><span class="definition-list">Believers will share Christ's rule as King in the life to come. Paul writes, 'If we have died with him, we will also live with him; if we endure, we will also reign with him' (2 Timothy 2:11-12).</span></span></span>.<sup class="ref"><a href="#ref-19">[19]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+<span id="cite-20" class="cite-anchor">In <span class="tooltip">John's vision<span class="tooltiptext"><span class="definition-list">The vision the apostle John wrote down in Revelation 19.</span></span></span>, Jesus is the rider called the <span class="tooltip">Word of God<span class="tooltiptext"><span class="definition-list">A name for Jesus (John 1:1, 14).</span></span></span>, and He will rule the nations with the rod of iron from Psalm 2:9.<sup class="ref"><a href="#ref-20">[20]</a></sup></span> <span id="cite-21" class="cite-anchor">In that vision, the rod of iron pictures Christ the King as the final judge, who condemns everyone who does not <span class="tooltip">believe<span class="tooltiptext"><span class="definition-list">To believe in God's Son is to trust Jesus as your Savior and to rely on Him to be saved and to have eternal life (John 3:16-18).</span></span></span> in God's Son.<sup class="ref"><a href="#ref-21">[21]</a></sup></span> <span id="cite-22" class="cite-anchor">Luther reads the rod of iron as <span class="tooltip">Christ's Word<span class="tooltiptext"><span class="definition-list">Here, everything Christ says to you in Scripture: His Law, which shows you your sin, and His Gospel, through which God forgives your sin. The Holy Spirit speaks and works through this Word (Formula of Concord, Solid Declaration V.3-4, V.11).</span></span></span>, the <span class="tooltip">scepter<span class="tooltiptext"><span class="definition-list">A king's rod or staff, held as the sign of his royal rule.</span></span></span> by which Christ rules His kingdom without force of weapons.<sup class="ref"><a href="#ref-22">[22]</a></sup></span> <span id="cite-23" class="cite-anchor">Christ's Word is at work now, not only at the final judgment: by His Word, Christ the King <span class="tooltip">breaks the proud<span class="tooltiptext"><span class="definition-list">Luther's picture, taken from the rod of iron in Psalm 2:9: through His Word, Christ humbles proud sinners.</span></span></span> when He <span class="tooltip">terrifies<span class="tooltiptext"><span class="definition-list">Here, Christ shows sinners their sin and God's judgment on that sin, and they become afraid, as the crowd who heard Peter preach at Pentecost was "cut to the heart" (Acts 2:37).</span></span></span> and humbles them.<sup class="ref"><a href="#ref-23">[23]</a></sup></span> When God <span class="tooltip">rebukes<span class="tooltiptext"><span class="definition-list">Here, God names your sin plainly in His Word and tells you that the sin is wrong in His sight.</span></span></span> you in the Bible, Christ the King is humbling your pride with His rod. <span id="cite-24" class="cite-anchor">Through God's words of rebuke, the Holy Spirit shows you your sin and brings you to true sorrow over that sin, a sorrow you do not produce yourself.<sup class="ref"><a href="#ref-24">[24]</a></sup></span> <span id="cite-25" class="cite-anchor">Take God's rebuke exactly as written, without softening His words, because the Holy Spirit works through those very words. Ask God to create a <span class="tooltip">clean heart<span class="tooltiptext"><span class="definition-list">Here, a heart that God makes new: He forgives its sin and turns that heart to love what is right. David asks God for such a heart in Psalm 51, his prayer of repentance.</span></span></span> in you.<sup class="ref"><a href="#ref-25">[25]</a></sup></span>
+</p>
+
+<p>
+Yet God's rebuke of your pride is not the last work He does in you. <span id="cite-26" class="cite-anchor">The Lutheran theologians who wrote the <span class="tooltip">Formula of Concord<span class="tooltiptext"><span class="definition-list">A confession of faith of the Lutheran church.</span></span></span> call God's rebuke of sin His "<span class="tooltip">alien work<span class="tooltiptext"><span class="definition-list">God's strange work of rebuking and bringing down sinners, which is not His own work of comfort and grace (Isaiah 28:21).</span></span></span>." They teach that the Holy Spirit, the Spirit of Christ, rebukes sinners in order that He may then do His own work, comforting them with the Gospel.<sup class="ref"><a href="#ref-26">[26]</a></sup></span> <span id="cite-27" class="cite-anchor"><span id="cite-28" class="cite-anchor">Luther sees both the rebuke and the comfort in the one rod of iron. He calls the rod the holy <span class="tooltip">Gospel of Christ<span class="tooltiptext"><span class="definition-list">Here "Gospel" means the whole teaching of Christ: both His rebuke of sin and His forgiveness (Formula of Concord, Solid Declaration V.4).</span></span></span> and says that Christ's Word is harsh to the sinful flesh and sweet to your spirit as God <span class="tooltip">renews it<span class="tooltiptext"><span class="definition-list">Here, God makes your inner self new: through His Word, the Holy Spirit creates faith in you and a heart that delights in God's Word, and He keeps renewing you all your life (Psalm 1:2; Psalm 51:10).</span></span></span>.<sup class="ref"><a href="#ref-27">[27]</a></sup><sup class="ref"><a href="#ref-28">[28]</a></sup></span></span> <span id="cite-29" class="cite-anchor">The same Word of Christ that humbles your pride then comforts you with the Gospel, through which God forgives your sins for Jesus' sake.<sup class="ref"><a href="#ref-29">[29]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>Prayer</summary>
+
+<p>
+<span id="cite-30" class="cite-anchor">Father, You told Your Son, Jesus, the King, that He will <span class="tooltip">break<span class="tooltiptext"><span class="definition-list">To defeat the nations completely.</span></span></span> the raging nations with a rod of iron.<sup class="ref"><a href="#ref-30">[30]</a></sup></span> <span id="cite-31" class="cite-anchor">Even now Your Son humbles the proud with that rod of iron, which is His <span class="tooltip">Word<span class="tooltiptext"><span class="definition-list">Here, everything Jesus says in Scripture: His Law, which shows you your sin, and His Gospel, through which God forgives your sin.</span></span></span>.<sup class="ref"><a href="#ref-31">[31]</a></sup></span> <span id="cite-32" class="cite-anchor">He speaks His Word to me when I read or hear Scripture.<sup class="ref"><a href="#ref-32">[32]</a></sup></span> <span id="cite-33" class="cite-anchor">But when Your Son names my sin in His Word, I give reasons for what I did. I put the blame for my own sin on someone else. I hear a <span class="tooltip">rebuke<span class="tooltiptext"><span class="definition-list">Here, God names a person's sin plainly in His Word and says that the sin is wrong in His sight.</span></span></span> in a sermon and think of other people who needed that rebuke. Pride rises in me against Your Son's Word.<sup class="ref"><a href="#ref-33">[33]</a></sup></span> <span id="cite-34" class="cite-anchor">Yet Jesus, whose Word I argue with, died for these sins.<sup class="ref"><a href="#ref-34">[34]</a></sup></span> <span id="cite-35" class="cite-anchor">Forgive me <span class="tooltip">for Jesus' sake<span class="tooltiptext"><span class="definition-list">Because of what Jesus has done for you.</span></span></span>. When Your Son names my sin, teach me to call that sin mine and to hear His rebuke as spoken to me.<sup class="ref"><a href="#ref-35">[35]</a></sup></span> <span id="cite-36" class="cite-anchor">I need no defense of my own before You, because Jesus, the King whose rod is His Word, is my <span class="tooltip">advocate<span class="tooltiptext"><span class="definition-list">Here, the person who speaks for you to the Father: Jesus, who died as the sacrifice for our sins.</span></span></span>.<sup class="ref"><a href="#ref-36">[36]</a></sup></span> <span id="cite-37" class="cite-anchor">Jesus speaks to You for me now.<sup class="ref"><a href="#ref-37">[37]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>AMEN</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> <em>The Lutheran Study Bible</em> (Concordia Publishing House), note on Psalm 2:9: "'break': In Mesopotamian texts, a king's rule was often likened to the act of smashing pottery. Thus, 'break' here means to rule (see ESV note). iron . . . potter's vessel. Synonyms for strength and weakness."</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> Martin Luther, <em>Operationes in Psalmos</em> (1519-21), on Psalm 2:9, trans. Henry Cole, <em>Luther's Commentary on the First Twenty-Two Psalms</em>: "'Thou shalt rule them,' is, in Hebrew, throeim, which Jerome translates, 'Thou shalt feed them.' ... And this last signification, as far as I am capable of judging, is the most applicable to the present passage. First, because a 'rod of iron,' as every one knows, is more fit for bruising and breaking in pieces, than for ruling or feeding. And secondly, had ruling been signified, it would have been sufficient to have said 'rod' only." Luther supports this with Daniel 2:40: "For as much as iron breaketh in pieces and subdueth all things." Jerome, Psalms translated from the Hebrew (<em>Psalterium iuxta Hebraeos</em>), Psalm 2:9: "pasces eos in virga ferrea" ("you shall feed them with a rod of iron"). Brown-Driver-Briggs Hebrew lexicon, on Psalm 2:9, lists the ancient translations as reading tir'em, from ra'ah, "to shepherd": "read tir'em, see I. ra'ah [LXX, Syriac, Vulgate]."</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> <em>The Lutheran Study Bible</em> (Concordia Publishing House), note on Psalm 2:9: "iron . . . potter's vessel. Synonyms for strength and weakness." (Full note at [1] above.)</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> Psalm 2:7-10 (ESV). The LORD's quoted words open in verse 7 and close at the end of verse 9: "I will tell of the decree: The LORD said to me, 'You are my Son; today I have begotten you. Ask of me, and I will make the nations your heritage, and the ends of the earth your possession. You shall break them with a rod of iron and dash them in pieces like a potter's vessel.' Now therefore, O kings, . . . O rulers of the earth."</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Romans 3:9 (ESV): "What then? Are we Jews any better off? No, not at all. For we have already charged that all, both Jews and Greeks, are under sin." Psalm 2:1-3 (ESV): "Why do the nations rage and the peoples plot in vain? The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against his Anointed, saying, 'Let us burst their bonds apart and cast away their cords from us.'"</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> Psalm 89:30-32 (ESV): "If his children forsake my law and do not walk according to my rules, ... then I will punish their transgression with the rod and their iniquity with stripes." Psalm 89:32 uses the same Hebrew word for "rod" (shebet) as Psalm 2:9. <em>The Lutheran Study Bible</em> cross-references Psalm 89:23 on "break" in Psalm 2:9 (Psalm 89:23, ESV: "I will crush his foes before him and strike down those who hate him").</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Psalm 89:33-35 (ESV): "but I will not remove from him my steadfast love or be false to my faithfulness. I will not violate my covenant or alter the word that went forth from my lips. Once for all I have sworn by my holiness; I will not lie to David." Psalm 89, heading (ESV): "A Maskil of Ethan the Ezrahite." The psalm's lament follows in 89:38-51. For the LORD's promise to David, see the Psalm 2:7 Fulfillment.</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Jeremiah 22:2 (ESV): "Hear the word of the LORD, O king of Judah, who sits on the throne of David." That these kings are the "children" of Psalm 89:30 is the study's own conclusion.</li>
+    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> 2 Kings 23:32 (ESV), on Jehoahaz: "And he did what was evil in the sight of the LORD, according to all that his fathers had done." 2 Kings 23:37 (ESV), on Jehoiakim: "And he did what was evil in the sight of the LORD, according to all that his fathers had done." 2 Kings 24:9 (ESV), on Jehoiachin: "And he did what was evil in the sight of the LORD, according to all that his father had done." 2 Kings 24:19 (ESV), on Zedekiah: "And he did what was evil in the sight of the LORD, according to all that Jehoiakim had done." Tying these kings to the warning of Psalm 89:30-32 is the study's own conclusion. On the people, Jeremiah 19:4 (ESV): "Because the people have forsaken me and have profaned this place by making offerings in it to other gods."</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Jeremiah 19:1, 3, 10-11 (ESV): "Thus says the LORD, 'Go, buy a potter's earthenware flask ... and say, "Hear the word of the LORD, O kings of Judah and inhabitants of Jerusalem." ... Then you shall break the flask in the sight of the men who go with you, and shall say to them, "Thus says the LORD of hosts: So will I break this people and this city, as one breaks a potter's vessel, so that it can never be mended."'" <em>The Lutheran Study Bible</em> cross-references Jeremiah 19:11 on "a potter's vessel" in Psalm 2:9. 2 Kings 25:8-10: the forces of the king of Babylon burned the house of the LORD, the king's house and all the houses of Jerusalem, and "broke down the walls around Jerusalem." Jeremiah 1:2-3 dates Jeremiah's ministry from Josiah to Zedekiah.</li>
+    <li id="ref-11"><a href="#cite-11" class="ref-back">&#8617;</a> The LORD's punishment of Judah's last kings: Jehoahaz, bound by Pharaoh Neco and taken to Egypt (2 Kings 23:33-34); Jehoiakim, against whom the LORD sent raiding bands (2 Kings 24:2-3); Jehoiachin, taken to Babylon (2 Kings 24:12-15); Zedekiah, blinded and taken to Babylon (2 Kings 25:6-7). That these kings are therefore not the King of Psalm 2:9, who will break the nations, is the study's own conclusion from Psalm 2:9; Jeremiah 19:3, 10-11; 22:2; and 2 Kings 23-25.</li>
+    <li id="ref-12"><a href="#cite-12" class="ref-back">&#8617;</a> Revelation 12:5 (ESV): "She gave birth to a male child, one who is to rule all the nations with a rod of iron, but her child was caught up to God and to his throne." <em>The Lutheran Study Bible</em>, note on Revelation 12:5: "male child. Jesus, God come in the flesh. one who is to rule . . . with a rod of iron. Jesus describes Himself in these terms in His letter to Thyatira (2:27)." In Revelation 2:27, 12:5 and 19:15 the Greek word translated "rule" in the ESV is poimaino, "to shepherd," and at all three places the ESV prints the footnote "Greek shepherd." The ancient Greek translation of the Psalms (the Septuagint) uses the same word in Psalm 2:9: poimaneis autous en rhabdo sidera, hos skeuos kerameos syntripseis autous ("You shall shepherd them with a rod of iron; like a potter's vessel you shall shatter them"); cf. the ESV footnote on "break" in Psalm 2:9: "Revocalization yields (compare Septuagint) You shall rule." Revelation 2:27 (ESV) keeps the breaking: "as when earthen pots are broken in pieces." Revelation 22:16 (ESV): "I am the root and the descendant of David." For the LORD's oath to David, see [7] above.</li>
+    <li id="ref-13"><a href="#cite-13" class="ref-back">&#8617;</a> Revelation 19:11, 13, 15 (ESV): "Then I saw heaven opened, and behold, a white horse! The one sitting on it is called Faithful and True ... and the name by which he is called is The Word of God. ... From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron." <em>The Lutheran Study Bible</em>, note on Revelation 19:15: "rod of iron. See notes, 2:27; 12:5. ... Significantly, all the imagery in this verse involves judgment." Cf. Isaiah 11:4. On the name: John 1:1, 14 (ESV): "In the beginning was the Word, and the Word was with God, and the Word was God. ... And the Word became flesh and dwelt among us."</li>
+    <li id="ref-14"><a href="#cite-14" class="ref-back">&#8617;</a> See [13] above: <em>The Lutheran Study Bible</em>, note on Revelation 19:15: "Significantly, all the imagery in this verse involves judgment."</li>
+    <li id="ref-15"><a href="#cite-15" class="ref-back">&#8617;</a> Martin Luther, on Psalm 2:9 (1532), as quoted in <em>The Lutheran Study Bible</em>, note on Revelation 19:15: "The tyrants, heretics, and whatever opposes the Word are a potter's vessel. So when it comes to a contest between them, it is impossible for the earthen vessel to prevail over the iron. The iron will break it in small pieces and pound away the potsherds" (<em>Luther's Works</em>, American Edition, 12:66).</li>
+    <li id="ref-16"><a href="#cite-16" class="ref-back">&#8617;</a> That John's rod of iron comes from Psalm 2:9 follows <em>The Lutheran Study Bible</em>, note on Revelation 2:27 ("rod of iron. Imagery from Ps 2:8-9, a messianic passage"; see [19] below), and its note on Revelation 19:15 ("See notes, 2:27; 12:5"). That Jesus is therefore the King of Psalm 2:9, who will break the nations in judgment, is the study's own conclusion from the note on Revelation 12:5 (see [12] above).</li>
+    <li id="ref-17"><a href="#cite-17" class="ref-back">&#8617;</a> Romans 3:22-24 (ESV): "the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction: for all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus." Augsburg Confession IV: men "are freely justified for Christ's sake, through faith."</li>
+    <li id="ref-18"><a href="#cite-18" class="ref-back">&#8617;</a> Revelation 2:18, 26-27 (ESV): "And to the angel of the church in Thyatira write: 'The words of the Son of God ...' ... The one who conquers and who keeps my works until the end, to him I will give authority over the nations, and he will rule them with a rod of iron, as when earthen pots are broken in pieces, even as I myself have received authority from my Father." 1 John 5:4 (ESV): "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world&#8212;our faith." John's Greek word for "overcomes" (nikao) is the word the ESV translates "conquers" in Revelation 2:26.</li>
+    <li id="ref-19"><a href="#cite-19" class="ref-back">&#8617;</a> <em>The Lutheran Study Bible</em>, note on Revelation 2:27: "rod of iron. Imagery from Ps 2:8-9, a messianic passage. There, however, the Messiah is depicted crushing the disobedient nations. Here, it is His people that do so. Thus, this passage emphasizes that Christians will share in Christ's heavenly reign (cf 2Tm 2:12; Rv 5:10; 20:4, 6)." "A rebel whom God forgives" is the study's own conclusion from Romans 3:9 and Revelation 2:26: the people who will share the reign were once among the rebels the rod of iron breaks.</li>
+    <li id="ref-20"><a href="#cite-20" class="ref-back">&#8617;</a> Revelation 19:13, 15 (ESV): "and the name by which he is called is The Word of God. ... From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron." See the Fulfillment, [13]-[16]. Isaiah 11:4 (ESV): "and he shall strike the earth with the rod of his mouth, and with the breath of his lips he shall kill the wicked." <em>The Lutheran Study Bible</em> cross-references Isaiah 11:4 on "rod" in Psalm 2:9; both verses use the same Hebrew word for "rod" (shebet).</li>
+    <li id="ref-21"><a href="#cite-21" class="ref-back">&#8617;</a> <em>The Lutheran Study Bible</em>, note on Revelation 19:15: "Significantly, all the imagery in this verse involves judgment." John 3:18 (ESV): "Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God." That the judgment John's vision pictures falls on those who do not believe is the study's own conclusion from John 3:18 and Revelation 19:15. Mark 16:16 (ESV): "Whoever believes and is baptized will be saved, but whoever does not believe will be condemned." John 5:22 (ESV): "The Father judges no one, but has given all judgment to the Son."</li>
+    <li id="ref-22"><a href="#cite-22" class="ref-back">&#8617;</a> Martin Luther, <em>Operationes in Psalmos</em> (1519-21), on Psalm 2:9, trans. Henry Cole: "Here again the vain dreams of the flesh are to be removed out of the way that no one might imagine that the kingdom of Christ is either founded or preserved by iron or arms; because it is written, that he delighteth not in chariots, nor in horses, nor in the legs of a man, Ps. 20:7; 147:10. And the apostle saith, 2 Cor. 10:4, 'For the weapons of our warfare are not carnal.'" 2 Corinthians 10:4 (ESV): "For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds." That Luther's reading applies the same rod of iron to the Word's work now, beside the judgment John's vision pictures, is the study's own conclusion. Luther, on Psalm 2:9, trans. Cole: "This 'rod,' therefore, is the sacred, holy Gospel of Christ, for this is the sceptre of his kingdom" (see [27]).</li>
+    <li id="ref-23"><a href="#cite-23" class="ref-back">&#8617;</a> Luther, on Psalm 2:9, trans. Cole: "Each of these expressions signifies the humbling of the proud by the Word of God, because, he breaks and dashes in pieces when he terrifies and humbles." Luther cites Acts 2:37 here; Acts 2:37 (ESV): "Now when they heard this they were cut to the heart, and said to Peter and the rest of the apostles, 'Brothers, what shall we do?'"</li>
+    <li id="ref-24"><a href="#cite-24" class="ref-back">&#8617;</a> Smalcald Articles III.III.2: "This is the hammer, as Jeremiah 23:29 says: Is not My Word like a hammer that breaketh the rock in pieces? This is not activa contritio or manufactured repentance, but passiva contritio [torture of conscience], true sorrow of heart, suffering and sensation of death." Formula of Concord, Solid Declaration V.11: the Spirit of Christ must "through the office of the Law reprove the world of sin" (see [26]).</li>
+    <li id="ref-25"><a href="#cite-25" class="ref-back">&#8617;</a> Psalm 51:10 (ESV): "Create in me a clean heart, O God, and renew a right spirit within me." Luther charges false teachers who twist the Word with treating Scripture as "a nose of wax" (on Psalm 2:9, trans. Cole): "And as to some men attributing to the scriptures a nose of wax, and saying that it is a reed that is moveable and to be shaken, that all proceeds from the doings of those, who abuse the Holy Word of God to their own vain and unstable opinions and glosses, making the Word of God to suit all, and so to suit no one."</li>
+    <li id="ref-26"><a href="#cite-26" class="ref-back">&#8617;</a> Isaiah 28:21 (ESV): "to do his deed&#8212;strange is his deed! and to work his work&#8212;alien is his work!" Formula of Concord, Solid Declaration V.11: "Therefore the Spirit of Christ must not only comfort, but also through the office of the Law reprove the world of sin, John 16:8, and thus must do in the New Testament, as the prophet says, Is. 28:21, opus alienum, ut faciat opus proprium, that is, He must do the work of another (reprove), in order that He may [afterwards] do His own work, which is to comfort and preach of grace." Luther, on Psalm 2:9 (Cole), cites 1 Samuel 2:6-7 for the same work: "For wherever the carnal man is savingly touched by the Word of God, one thing is felt, and another is wrought, namely, that of 1 Sam. 2:6-7, 'Jehovah killeth and maketh alive; he bringeth down to the grave and bringeth up. He bringeth low, he also lifteth up.'" 1 Samuel 2:6 (ESV): "The LORD kills and brings to life; he brings down to Sheol and raises up."</li>
+    <li id="ref-27"><a href="#cite-27" class="ref-back">&#8617;</a> Luther, on Psalm 2:9, trans. Cole: "This 'rod,' therefore, is the sacred, holy Gospel of Christ, for this is the sceptre of his kingdom; as in Ps. 45:6, 'A sceptre of equity is the sceptre of thy kingdom.' And Ps. 110:2, 'Jehovah will send forth the rod of thy strength out of Zion.'" Formula of Concord, Solid Declaration V.3-4: "the term Gospel is not always employed and understood in one and the same sense, but in two ways ... For sometimes it is employed so that there is understood by it the entire doctrine of Christ, our Lord ... and hence comprised in it the explanation of the Law and the proclamation of the favor and grace of God."</li>
+    <li id="ref-28"><a href="#cite-28" class="ref-back">&#8617;</a> Luther, on Psalm 2:9, trans. Cole: "It is called 'of iron.' First, as I said, on account of the flesh, to which the law of Christ is most galling, though to the spirit it is most sweet." Luther's "law of Christ" here is the rod he has just called the Gospel of Christ (see [27]). Luther himself cites Isaiah 28:21 (God's strange work and proper work) and 1 Samuel 2:6 on this verse (see [26]), and says that the word of Christ "appears unto the flesh harder" than iron (Cole). Tying "the spirit" to the right spirit God renews (Psalm 51:10, see [25]), is the study's own conclusion.</li>
+    <li id="ref-29"><a href="#cite-29" class="ref-back">&#8617;</a> Romans 3:24 (ESV): "and are justified by his grace as a gift, through the redemption that is in Christ Jesus." That the same Word of Christ that humbles then comforts with the Gospel is the study's own conclusion from the Formula of Concord at [26] and Luther at [27]-[28].</li>
+    <li id="ref-30"><a href="#cite-30" class="ref-back">&#8617;</a> Psalm 2:1-2, 7, 9 (ESV): "Why do the nations rage and the peoples plot in vain? The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against his Anointed ... The LORD said to me, 'You are my Son; today I have begotten you ... You shall break them with a rod of iron and dash them in pieces like a potter's vessel.'"</li>
+    <li id="ref-31"><a href="#cite-31" class="ref-back">&#8617;</a> Luther, on Psalm 2:9, trans. Cole: "And what is the rod of the mouth of Christ but the Word of God"; "Each of these expressions signifies the humbling of the proud by the Word of God." See also [22], [23] and [27].</li>
+    <li id="ref-32"><a href="#cite-32" class="ref-back">&#8617;</a> Luther, on Psalm 2:9, trans. Cole: "But the flesh militates against the command, or Word of God, with the greatest indignation, and will not acknowledge it, because it is utterly and in all things contrary to it. And therefore, it receives the word as a rod, and as iron that breaks it in pieces." See also [23]. That Jesus speaks this Word to you now, when you read or hear Scripture, is the study's own conclusion from Luther.</li>
+    <li id="ref-33"><a href="#cite-33" class="ref-back">&#8617;</a> That giving reasons, blaming others and thinking of other people are pride against Christ's Word is the study's own conclusion from Luther at [31] and [32]. Luther does not name these acts.</li>
+    <li id="ref-34"><a href="#cite-34" class="ref-back">&#8617;</a> 1 Corinthians 15:3 (ESV): "that Christ died for our sins in accordance with the Scriptures"</li>
+    <li id="ref-35"><a href="#cite-35" class="ref-back">&#8617;</a> 1 John 1:9 (ESV): "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."</li>
+    <li id="ref-36"><a href="#cite-36" class="ref-back">&#8617;</a> 1 John 2:1-2 (ESV): "But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. He is the propitiation for our sins, and not for ours only but also for the sins of the whole world." <em>The Lutheran Study Bible</em> on Revelation 12:5 identifies the one who rules with the rod of iron: "male child. Jesus, God come in the flesh." That Jesus as advocate is the reason you need no defense of your own is the study's own conclusion. On the rod as His Word, see [31].</li>
+    <li id="ref-37"><a href="#cite-37" class="ref-back">&#8617;</a> Romans 8:34 (ESV): "Who is to condemn? Christ Jesus is the one who died&#8212;more than that, who was raised&#8212;who is at the right hand of God, who indeed is interceding for us."</li>
   </ol>
 </div>
 </details>
