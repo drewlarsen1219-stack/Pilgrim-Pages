@@ -4482,6 +4482,11 @@ and
 <p>
 In verse 8 the LORD promises to give the nations to His King, but here the LORD tells the King that he will break the nations with a rod of iron and dash them in pieces. <span id="cite-3" class="cite-anchor">The editors of The Lutheran Study Bible take the iron as a picture of strength and the <span class="tooltip">potter's vessel<span class="tooltiptext"><span class="definition-list">A clay pot or jar.</span></span></span> as a picture of weakness,<sup class="ref"><a href="#ref-3">[3]</a></sup></span> and in the LORD's words the nations are like the potter's vessel. <span id="cite-4" class="cite-anchor">The King began to report the LORD's decree in verse 7, and the decree ends here, with the King breaking the nations. The very next words, in verse 10, are spoken to the kings and rulers of the earth.<sup class="ref"><a href="#ref-4">[4]</a></sup></span>
 </p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
 </details>
 <details class="study-section">
 <summary>Fulfillment</summary>
@@ -4581,6 +4586,250 @@ Yet God's rebuke of your pride is not the last work He does in you. <span id="ci
     <li id="ref-35"><a href="#cite-35" class="ref-back">&#8617;</a> 1 John 1:9 (ESV): "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."</li>
     <li id="ref-36"><a href="#cite-36" class="ref-back">&#8617;</a> 1 John 2:1-2 (ESV): "But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. He is the propitiation for our sins, and not for ours only but also for the sins of the whole world." <em>The Lutheran Study Bible</em> on Revelation 12:5 identifies the one who rules with the rod of iron: "male child. Jesus, God come in the flesh." That Jesus as advocate is the reason you need no defense of your own is the study's own conclusion. On the rod as His Word, see [31].</li>
     <li id="ref-37"><a href="#cite-37" class="ref-back">&#8617;</a> Romans 8:34 (ESV): "Who is to condemn? Christ Jesus is the one who died&#8212;more than that, who was raised&#8212;who is at the right hand of God, who indeed is interceding for us."</li>
+  </ol>
+</div>
+</details>
+`
+    },
+{   label: "Psalm 2:10",
+    title: "Be Wise, O Kings",
+    image: "lyre.png",
+    genre: "Royal",
+    parallelism: "Synonymous",
+    conditions: ["leading others", "pride", "refusing to be taught"],
+    conditionAngle: "names three sins confessed together in one prayer, for anyone with authority at home or at work: wanting the people under you to honor you instead of God, leaving undone the duty to train the people in your care to honor God, and refusing to learn a truth from God's Word from someone under you &#8212; and points to Jesus, the crucified King on Zion who became a curse for you; the prayer then asks God to forgive you for Jesus' sake, keep and increase in you the wisdom of trusting that King, and make His glory your first care.",
+    text: `
+      <div class="verse-row">
+        <div class="verse-num">2:10</div>
+        <div class="verse-content"><div data-verse-swap="0"></div></div>
+      </div>
+    `,
+    versions: {
+      ESV: [`Now therefore, O kings, be wise;<br>be warned, O rulers of the earth.<br><small>(ESV)</small>`],
+      KJV: [`Be wise now therefore, O ye kings: be instructed, ye judges of the earth.<br><small>(KJV)</small>`],
+      NASB: [`Now therefore, O kings, show discernment;<br>Take warning, O judges of the earth.<br><small>(NASB)</small>`],
+      NIV: [`Therefore, you kings, be wise;<br>be warned, you rulers of the earth.<br><small>(NIV)</small>`],
+      MT: [`<span class="hebrew-text" dir="rtl">וְעַתָּה מְלָכִים הַשְׂכִּילוּ הִוָּסְרוּ שֹׁפְטֵי אָרֶץ</span><br><small>(MT &#8212; Masoretic Text)</small>`]
+    },
+    insight: `
+<details class="study-section">
+<summary>Word Analysis</summary>
+<br>
+<span class="tooltip">
+    <strong>Now therefore</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">וְעַתָּה</span>
+            <span class="transliteration">(we'attah)</span>
+        </span>
+        <span class="definition-list">
+            The prefix <span dir="rtl">וְ</span>, "and," plus <span dir="rtl">עַתָּה</span> ('attah), "now." The ESV's "Now therefore" renders this one Hebrew phrase. Here the phrase draws a practical conclusion from what the psalm has said before this verse.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Isaiah 5:3, "And now, O inhabitants of Jerusalem and men of Judah, judge" &#8212; the same word, followed by the people addressed and a command
+        </small>
+    </span>
+</span>,
+<span class="tooltip">
+    <strong>O kings</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">מְלָכִים</span>
+            <span class="transliteration">(melakhim)</span>
+        </span>
+        <span class="definition-list">
+            Noun, masculine plural, of <span dir="rtl">מֶלֶךְ</span> (melekh), "king," here addressing the kings directly.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Judges 5:3, "Hear, O kings" &#8212; the same plural word, used to address kings directly
+        </small>
+    </span>
+</span>,
+<span class="tooltip">
+    <strong>be wise</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">הַשְׂכִּילוּ</span>
+            <span class="transliteration">(haskilu)</span>
+        </span>
+        <span class="definition-list">
+            Hiphil imperative, masculine plural, of <span dir="rtl">שָׂכַל</span> (sakal). In the Hiphil stem, and here with no object, the word means "act circumspectly, prudently": to act wisely.
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 36:3, "he has ceased to act wisely and do good" &#8212; the same word and stem, again used with no object
+        </small>
+    </span>
+</span>;
+<span class="tooltip">
+    <strong>be warned</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">הִוָּסְרוּ</span>
+            <span class="transliteration">(hiwwaseru)</span>
+        </span>
+        <span class="definition-list">
+            Niphal imperative, masculine plural, of <span dir="rtl">יָסַר</span> (yasar), a word for correcting and instructing. In the Niphal stem the word means "let oneself be corrected, admonished." The KJV renders it "be instructed."
+        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Proverbs 29:19, "By mere words a servant is not disciplined" &#8212; the same word and stem
+        </small>
+    </span>
+</span>,
+
+
+O
+<span class="tooltip">
+    <strong>rulers of the earth</strong>
+    <span class="tooltiptext">
+        <span class="hebrew-row">
+            <span class="hebrew-text" dir="rtl">שֹׁפְטֵי אָרֶץ</span>
+            <span class="transliteration">(shophte 'arets)</span>
+        </span>
+        <span class="definition-list">
+            Qal participle, masculine plural construct, of <span dir="rtl">שָׁפַט</span> (shaphat), "to judge," plus <span dir="rtl">אֶרֶץ</span> ('erets), "earth": literally "judges of the earth," which the ESV renders "rulers of the earth." Here the participle carries the sense "act as law-giver, judge, governor."        </span>
+        <span class="tt-divider"></span>
+        <small class="references">
+            Biblical Usage: Psalm 148:11, "Kings of the earth ... and all rulers of the earth!" &#8212; the same two words, beside "kings of the earth"
+        </small>
+    </span>
+</span>.
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>Insight</summary>
+<p>
+<span id="cite-1" class="cite-anchor">Earlier in the psalm, the LORD tells the kings and rulers of the earth, who <span class="tooltip">rose against Him<span class="tooltiptext"><span class="definition-list">In verse 2 the kings of the earth set themselves, and the rulers take counsel together, against the LORD and His Anointed.</span></span></span>, that He has set His King on <span class="tooltip">Zion<span class="tooltiptext"><span class="definition-list">The hill in Jerusalem that the LORD calls His holy hill.</span></span></span>.<sup class="ref"><a href="#ref-1">[1]</a></sup></span> Then, in the <span class="tooltip">decree<span class="tooltiptext"><span class="definition-list">The LORD's words to His King, which the King reports in verses 7-9.</span></span></span>, the LORD promises His King the nations, which the King will break with a <span class="tooltip">rod of iron<span class="tooltiptext"><span class="definition-list">A picture of the strength with which the King will break the rebel nations.</span></span></span>. <span id="cite-2" class="cite-anchor">With the words "Now therefore," the LORD gives the rebellious kings and rulers two commands that follow from His decree about the King: to be wise and to be warned.<sup class="ref"><a href="#ref-2">[2]</a></sup></span> <span id="cite-3" class="cite-anchor">The LORD speaks these commands through the <span class="tooltip">psalmist<span class="tooltiptext"><span class="definition-list">The writer of Psalm 2, who speaks the words of verse 10.</span></span></span>.<sup class="ref"><a href="#ref-3">[3]</a></sup></span>
+</p>
+<p>
+<span id="cite-4" class="cite-anchor">Of the two commands, "be warned" in Hebrew is a command to accept correction and instruction.<sup class="ref"><a href="#ref-4">[4]</a></sup></span> <span id="cite-5" class="cite-anchor">The kings and the rulers, whom the psalmist calls in Hebrew the <span class="tooltip">judges of the earth<span class="tooltiptext"><span class="definition-list">The Hebrew words behind the ESV's "rulers of the earth": men who govern and give judgment over the peoples of the earth.</span></span></span>,<sup class="ref"><a href="#ref-5">[5]</a></sup> usually judge others.</span> <span id="cite-6" class="cite-anchor">Yet through the command to be warned, the LORD tells these kings and judges to take a <span class="tooltip">pupil's<span class="tooltiptext"><span class="definition-list">A learner who is taught by a teacher.</span></span></span> place under Him.<sup class="ref"><a href="#ref-6">[6]</a></sup></span>
+</p>
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>Fulfillment</summary>
+
+<p>
+<span id="cite-7" class="cite-anchor">With the words "be wise; be warned," the LORD answers the kings and rulers of the earth, who took counsel together against Him and against His <span class="tooltip">Anointed<span class="tooltiptext"><span class="definition-list">The King whom the LORD chose and set apart; the Christ.</span></span></span>.<sup class="ref"><a href="#ref-7">[7]</a></sup></span> <span id="cite-8" class="cite-anchor">The LORD addresses this warning to every reader, because apart from Christ every reader belongs with those plotting kings and rulers.<sup class="ref"><a href="#ref-8">[8]</a></sup></span> <span id="cite-9" class="cite-anchor">Yet no reader can <span class="tooltip">heed<span class="tooltiptext"><span class="definition-list">Listen to and obey.</span></span></span> the LORD's command to be wise by any power of his own, because without the Holy Spirit no person can accept or understand <span class="tooltip">the wisdom God gives<span class="tooltiptext"><span class="definition-list">The wisdom of trusting the crucified Christ as King.</span></span></span>.<sup class="ref"><a href="#ref-9">[9]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-10" class="cite-anchor">Even David, through whose mouth God spoke this psalm by the <span class="tooltip">Holy Spirit<span class="tooltiptext"><span class="definition-list">God the Holy Spirit, who gave David the words of this psalm.</span></span></span>,<sup class="ref"><a href="#ref-10">[10]</a></sup> needed the correction that the LORD commands the kings and rulers to accept with the words "be warned."</span> <span id="cite-11" class="cite-anchor">For David's sin against <span class="tooltip">Uriah<span class="tooltiptext"><span class="definition-list">A soldier in David's army.</span></span></span>, the LORD sent <span class="tooltip">Nathan<span class="tooltiptext"><span class="definition-list">A prophet in King David's court.</span></span></span> the prophet to correct David.<sup class="ref"><a href="#ref-11">[11]</a></sup></span> <span id="cite-12" class="cite-anchor">When David <span class="tooltip">confessed<span class="tooltiptext"><span class="definition-list">Admitted his sin before the LORD.</span></span></span>, the LORD <span class="tooltip">put away<span class="tooltiptext"><span class="definition-list">Forgave; the LORD no longer held the sin against David.</span></span></span> his sin.<sup class="ref"><a href="#ref-12">[12]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-13" class="cite-anchor">In Psalm 2 the LORD warns the kings of the earth, but the LORD gives no warning to His King on <span class="tooltip">Zion<span class="tooltiptext"><span class="definition-list">The holy hill in Jerusalem where the LORD set His King.</span></span></span>.<sup class="ref"><a href="#ref-13">[13]</a></sup></span> <span id="cite-14" class="cite-anchor">Because David needed the LORD's correction himself, David is one of the kings the LORD warns and not the King the LORD leaves unwarned.<sup class="ref"><a href="#ref-14">[14]</a></sup></span> <span id="cite-15" class="cite-anchor">The LORD says "Now therefore" right after His decree about the King on Zion. The LORD gives the commands to be wise and to be warned now that He has set that King on Zion. Because David is not the King on Zion, the LORD's "now" points past David to the reign of that King.<sup class="ref"><a href="#ref-15">[15]</a></sup></span>
+</p>
+
+<p><em>The Wisdom of the Crucified King</em></p>
+
+<p>
+<span id="cite-16" class="cite-anchor">That King on Zion is Christ, who now <span class="tooltip">reigns<span class="tooltiptext"><span class="definition-list">Rules with all authority.</span></span></span> as King over all.<sup class="ref"><a href="#ref-16">[16]</a></sup></span> <span id="cite-17" class="cite-anchor">Yet Christ died in disgrace on a cross, and no king is harder to <span class="tooltip">acknowledge<span class="tooltiptext"><span class="definition-list">Confess and receive as your own King.</span></span></span> than a King who was crucified.<sup class="ref"><a href="#ref-17">[17]</a></sup></span> <span id="cite-18" class="cite-anchor">The apostle Paul preached Christ crucified, a <span class="tooltip">stumbling block<span class="tooltiptext"><span class="definition-list">An offense that makes a person fall away from faith.</span></span></span> to Jews and <span class="tooltip">folly<span class="tooltiptext"><span class="definition-list">Foolishness.</span></span></span> to <span class="tooltip">Gentiles<span class="tooltiptext"><span class="definition-list">People who are not Jews.</span></span></span>.<sup class="ref"><a href="#ref-18">[18]</a></sup></span> <span id="cite-19" class="cite-anchor">Therefore the wisdom the LORD commands in Psalm 2:10 means <span class="tooltip">knowing<span class="tooltiptext"><span class="definition-list">Trusting, by the faith God gives.</span></span></span> that Jesus, who was crucified, is the King who reigns, although human <span class="tooltip">sense<span class="tooltiptext"><span class="definition-list">What a person sees and experiences.</span></span></span> and <span class="tooltip">reason<span class="tooltiptext"><span class="definition-list">Human judgment apart from faith.</span></span></span> resist that knowledge.<sup class="ref"><a href="#ref-19">[19]</a></sup></span>
+</p>
+
+<p>
+<span id="cite-20" class="cite-anchor">Yet to those whom God <span class="tooltip">calls<span class="tooltiptext"><span class="definition-list">Brings to faith in Christ through the Gospel.</span></span></span>, the crucified Christ is the wisdom of God, and Christ became that <span class="tooltip">wisdom from God<span class="tooltiptext"><span class="definition-list">God's own saving wisdom, given in Christ.</span></span></span> for you.<sup class="ref"><a href="#ref-20">[20]</a></sup></span> <span id="cite-21" class="cite-anchor">God gives you this wisdom of knowing the crucified Jesus as King through the <span class="tooltip">Scriptures<span class="tooltiptext"><span class="definition-list">The Bible, God's written Word.</span></span></span>, which are able to make you "wise for <span class="tooltip">salvation<span class="tooltiptext"><span class="definition-list">Rescue from sin and death through Christ.</span></span></span>" through faith in Christ Jesus.<sup class="ref"><a href="#ref-21">[21]</a></sup></span> <span id="cite-22" class="cite-anchor">The Holy Spirit creates that faith in you by <span class="tooltip">God's Word<span class="tooltiptext"><span class="definition-list">The Scriptures, read and preached.</span></span></span>.<sup class="ref"><a href="#ref-22">[22]</a></sup></span> <span id="cite-23" class="cite-anchor">As the LORD forgave David, God <span class="tooltip">forgives<span class="tooltiptext"><span class="definition-list">Takes away the guilt of sin and no longer holds it against the sinner.</span></span></span> your sins through <span class="tooltip">faith<span class="tooltiptext"><span class="definition-list">Trust in Christ and His promise.</span></span></span> in Christ.<sup class="ref"><a href="#ref-23">[23]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>Lessons</summary>
+
+<p>
+The LORD commands the kings and <span class="tooltip">judges of the earth<span class="tooltiptext"><span class="definition-list">The Hebrew words behind the ESV's "rulers of the earth": men who govern and give judgment over other people.</span></span></span> to <span class="tooltip">be warned<span class="tooltiptext"><span class="definition-list">To let themselves be corrected and taught.</span></span></span>. <span id="cite-24" class="cite-anchor">The LORD warns these leaders first, because the people under them follow them into error.<sup class="ref"><a href="#ref-24">[24]</a></sup></span> <span id="cite-25" class="cite-anchor">Parents, employers and teachers direct other people as kings do, and the people they direct can follow them into error; the LORD's warning to kings therefore reaches every one of those leaders.<sup class="ref"><a href="#ref-25">[25]</a></sup></span> <span id="cite-26" class="cite-anchor">Yet God's warning may reach a leader through one of the people that leader directs, when God teaches that person a truth from <span class="tooltip">His Word<span class="tooltiptext"><span class="definition-list">The Bible, God's written Word.</span></span></span>.<sup class="ref"><a href="#ref-26">[26]</a></sup></span> If someone you direct shows you from God's Word where you went wrong, test that correction by Scripture, even though you have authority over that person. Ask God to give you a heart that accepts His correction.
+</p>
+
+<p>
+<span id="cite-27" class="cite-anchor">In the <span class="tooltip">Lutheran Confessions<span class="tooltiptext"><span class="definition-list">The statements of faith gathered in the Book of Concord, which Confessional Lutheran churches hold as the true teaching of Scripture.</span></span></span>, the Lutheran reformers cite the LORD's command in Psalm 2:10 that kings and rulers be wise and be warned, and they teach that a king who obeys this command should make advancing <span class="tooltip">God's glory<span class="tooltiptext"><span class="definition-list">The honor due to God as people know, trust and praise Him.</span></span></span> his first care.<sup class="ref"><a href="#ref-27">[27]</a></sup></span> <span id="cite-28" class="cite-anchor">In the <span class="tooltip">Large Catechism<span class="tooltiptext"><span class="definition-list">Luther's longer explanation of the chief parts of the Christian faith, one of the Lutheran Confessions.</span></span></span>, <span class="tooltip">Martin Luther<span class="tooltiptext"><span class="definition-list">The teacher of the Reformation (1483-1546), who wrote both the Large and the Small Catechism.</span></span></span> gives everyone who governs others a duty like the king's duty to advance God's glory: most of all, to train the people in their care to <span class="tooltip">honor and praise God<span class="tooltiptext"><span class="definition-list">To know, trust and worship God and to speak well of Him.</span></span></span>, and God will call every one of those leaders to account.<sup class="ref"><a href="#ref-28">[28]</a></sup></span> <span id="cite-29" class="cite-anchor">Luther wrote the <span class="tooltip">Small Catechism<span class="tooltiptext"><span class="definition-list">Luther's short explanation of the chief parts of the Christian faith, in questions and answers.</span></span></span> to help the <span class="tooltip">head of a household<span class="tooltiptext"><span class="definition-list">The person who leads a home and is responsible for the people who live in it.</span></span></span> train that household to honor God, and teaching the Small Catechism is the duty of every head of a household.<sup class="ref"><a href="#ref-29">[29]</a></sup></span> <span id="cite-30" class="cite-anchor">If you lead a household and have never taught the people in your care the Small Catechism, you have left undone a duty God gives you.<sup class="ref"><a href="#ref-30">[30]</a></sup></span> <span id="cite-31" class="cite-anchor">When the people in your care sin, show them their sin from God's Word, because God gave His Word for correction.<sup class="ref"><a href="#ref-31">[31]</a></sup></span> Teach them one of the Ten Commandments with Luther's explanation of that commandment.
+</p>
+
+<p>
+<span id="cite-32" class="cite-anchor">Every leader has failed to keep God's command to train others to honor Him, and every such failure is sin.<sup class="ref"><a href="#ref-32">[32]</a></sup></span> <span id="cite-33" class="cite-anchor">Yet Jesus, the King on <span class="tooltip">Zion<span class="tooltiptext"><span class="definition-list">The holy hill in Jerusalem where the LORD set His King.</span></span></span>, carried our sins in His own body when He died on the cross.<sup class="ref"><a href="#ref-33">[33]</a></sup></span> God <span class="tooltip">forgives<span class="tooltiptext"><span class="definition-list">Takes away the guilt of sin and no longer holds it against the sinner.</span></span></span> your sins for Jesus' sake. <span id="cite-34" class="cite-anchor">You were straying like a sheep, but through <span class="tooltip">faith<span class="tooltiptext"><span class="definition-list">Trust in Christ and His promise.</span></span></span> you have returned to Jesus, the <span class="tooltip">Shepherd and Overseer<span class="tooltiptext"><span class="definition-list">The one who guards, guides and cares for your soul as a shepherd cares for his sheep.</span></span></span> of your soul.<sup class="ref"><a href="#ref-34">[34]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>SELAH</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>Prayer</summary>
+
+<p>
+<span id="cite-35" class="cite-anchor">Father, You set Your Son Jesus as King on <span class="tooltip">Zion<span class="tooltiptext"><span class="definition-list">The holy hill in Jerusalem where You set Your King.</span></span></span>, and now You command the kings and rulers of the earth to be wise and to <span class="tooltip">be warned<span class="tooltiptext"><span class="definition-list">To let themselves be corrected and taught.</span></span></span>.<sup class="ref"><a href="#ref-35">[35]</a></sup></span> <span id="cite-36" class="cite-anchor">You gave me authority over people at home or at work, as You gave the kings their authority.<sup class="ref"><a href="#ref-36">[36]</a></sup></span> <span id="cite-37" class="cite-anchor">Yet when the people under me obey me, I have wanted them to honor me instead of You.<sup class="ref"><a href="#ref-37">[37]</a></sup></span> <span id="cite-38" class="cite-anchor">I also have not trained the people under me to <span class="tooltip">honor and praise You<span class="tooltiptext"><span class="definition-list">To know, trust and worship You and to speak well of You.</span></span></span>.<sup class="ref"><a href="#ref-38">[38]</a></sup></span> <span id="cite-39" class="cite-anchor">And when someone under me showed me a truth from <span class="tooltip">Your Word<span class="tooltiptext"><span class="definition-list">The Bible, Your written Word.</span></span></span>, I would not learn that truth from that person, because I treated myself as a teacher who needs no teaching.<sup class="ref"><a href="#ref-39">[39]</a></sup></span> Therefore Your <span class="tooltip">Law<span class="tooltiptext"><span class="definition-list">Your commands, which show me my sin.</span></span></span> condemns me for all my sin, including my wish to be honored instead of You and my refusal to be taught. <span id="cite-40" class="cite-anchor">Yet Jesus, the King on Zion, became a <span class="tooltip">curse<span class="tooltiptext"><span class="definition-list">Your sentence of condemnation on the sinner.</span></span></span> for me on the cross and <span class="tooltip">redeemed<span class="tooltiptext"><span class="definition-list">Set free.</span></span></span> me from the curse of Your Law.<sup class="ref"><a href="#ref-40">[40]</a></sup></span> Forgive me <span class="tooltip">for Jesus' sake<span class="tooltiptext"><span class="definition-list">Because of what Jesus has done for me.</span></span></span>. <span id="cite-41" class="cite-anchor">You command the kings to be wise, and Christ Jesus became <span class="tooltip">wisdom from God<span class="tooltiptext"><span class="definition-list">The wisdom that saves me, which You give me in Christ.</span></span></span> for me.<sup class="ref"><a href="#ref-41">[41]</a></sup></span> <span id="cite-42" class="cite-anchor">Therefore, by Your Holy Spirit through Your Word, keep and increase in me the wisdom of trusting the crucified Jesus as my King.<sup class="ref"><a href="#ref-42">[42]</a></sup></span> <span id="cite-43" class="cite-anchor">Instead of my own honor, make Your glory my first care toward the people You placed under my authority at home or at work.<sup class="ref"><a href="#ref-43">[43]</a></sup></span> <span id="cite-44" class="cite-anchor">I would not be taught, yet You promise that Your people will all be taught by You, and everyone who has heard and learned from You comes to Jesus.<sup class="ref"><a href="#ref-44">[44]</a></sup></span>
+</p>
+
+<p>
+  <span class="selah-marker">
+    <em>AMEN</em>
+  </span>
+</p>
+</details>
+<details class="study-section">
+<summary>References</summary>
+<div class="ref-list">
+  <ol>
+    <li id="ref-1"><a href="#cite-1" class="ref-back">&#8617;</a> Psalm 2:5-6 (ESV): "Then he will speak to them in his wrath, and terrify them in his fury, saying, 'As for me, I have set my King on Zion, my holy hill.'"</li>
+    <li id="ref-2"><a href="#cite-2" class="ref-back">&#8617;</a> Psalm 2:10, Hebrew we'attah, "and now" (Strong's H6258). Brown-Driver-Briggs Hebrew lexicon, sense 2b: "drawing a conclusion, especially a practical one" (it cites Psalm 2:10).</li>
+    <li id="ref-3"><a href="#cite-3" class="ref-back">&#8617;</a> Treatise on the Power and Primacy of the Pope 54: "as God expressly exhorts kings, Ps. 2:10: Be wise, now, therefore, O ye kings; be instructed, ye judges of the earth." Martin Luther, <em>Operationes in Psalmos</em> (1519-21), on Psalm 2:10, trans. Henry Cole, <em>Luther's Commentary on the First Twenty-Two Psalms</em>, vol. 1, p. 92: "Having given a description of the kingdom of Christ, he now subjoins a faithful, holy, and wise exhortation." Ibid., p. 93: "the benign and blessed Spirit ... admonishes."</li>
+    <li id="ref-4"><a href="#cite-4" class="ref-back">&#8617;</a> Psalm 2:10, Hebrew hiwwaseru, from yasar (Strong's H3256), "to correct, instruct." Brown-Driver-Briggs Hebrew lexicon, Niphal: "let oneself be corrected, admonished." KJV: "be instructed."</li>
+    <li id="ref-5"><a href="#cite-5" class="ref-back">&#8617;</a> Psalm 2:10, Hebrew shophte 'arets, "judges of the earth": a participle of shaphat, "to judge, govern" (Strong's H8199); ESV "rulers of the earth." The "rulers" of verse 2 are rozenim (Strong's H7336), a different Hebrew word.</li>
+    <li id="ref-6"><a href="#cite-6" class="ref-back">&#8617;</a> Luther, on Psalm 2:10, trans. Cole, vol. 1, p. 92: "to bring them down to the rank of pupils, after such a long habit of ruling and teaching." That the kings and judges of the earth are told to take a pupil's place is the study's own conclusion from the Hebrew word at [4], the Hebrew title at [5], and Luther.</li>
+    <li id="ref-7"><a href="#cite-7" class="ref-back">&#8617;</a> Psalm 2:1-2 (ESV): "Why do the nations rage and the peoples plot in vain? The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against his Anointed, saying,"</li>
+    <li id="ref-8"><a href="#cite-8" class="ref-back">&#8617;</a> Romans 3:9 (ESV): "What then? Are we Jews any better off? No, not at all. For we have already charged that all, both Jews and Greeks, are under sin," That every reader apart from Christ belongs with the plotting kings and rulers of Psalm 2:1-2, and that the warning of Psalm 2:10 is therefore spoken to every reader, is the study's own conclusion from Psalm 2:1-2 and Romans 3:9.</li>
+    <li id="ref-9"><a href="#cite-9" class="ref-back">&#8617;</a> 1 Corinthians 2:12 (ESV): "Now we have received not the spirit of the world, but the Spirit who is from God, that we might understand the things freely given us by God." 1 Corinthians 2:14 (ESV): "The natural person does not accept the things of the Spirit of God, for they are folly to him, and he is not able to understand them because they are spiritually discerned." Martin Luther, <em>Operationes in Psalmos</em> (1519-21), on Psalm 2:10, trans. Henry Cole, <em>Luther's Commentary on the First Twenty-Two Psalms</em>, vol. 1, p. 96: "For the natural man understandeth not the things of God, 1 Cor. 2:14." Formula of Concord, Solid Declaration II 7: "in spiritual and divine things the intellect, heart, and will of the unregenerate man are utterly unable, by their own natural powers, to understand, believe, accept, think, will, begin, effect, do, work, or concur in working anything." SD II 9: even the most learned "cannot from their own powers perceive, apprehend, understand, or believe" the Gospel. SD II 12: "the Scriptures deny to the intellect, heart, and will of the natural man all aptness, skill, capacity, and ability to think, to understand ... anything good and right in spiritual things as of himself."</li>
+    <li id="ref-10"><a href="#cite-10" class="ref-back">&#8617;</a> Acts 4:24-25 (ESV): "And when they heard it, they lifted their voices together to God and said, 'Sovereign Lord, who made the heaven and the earth and the sea and everything in them, who through the mouth of our father David, your servant, said by the Holy Spirit, "Why did the Gentiles rage, and the peoples plot in vain?"'" On "be warned" (Hebrew hiwwaseru, from yasar), "let oneself be corrected, admonished": see the Word Analysis on "be warned."</li>
+    <li id="ref-11"><a href="#cite-11" class="ref-back">&#8617;</a> 2 Samuel 12:1, 7 (ESV): "And the LORD sent Nathan to David. ... Nathan said to David, 'You are the man! Thus says the LORD, the God of Israel ...'"</li>
+    <li id="ref-12"><a href="#cite-12" class="ref-back">&#8617;</a> 2 Samuel 12:13 (ESV): "David said to Nathan, 'I have sinned against the LORD.' And Nathan said to David, 'The LORD also has put away your sin; you shall not die.'"</li>
+    <li id="ref-13"><a href="#cite-13" class="ref-back">&#8617;</a> Psalm 2:6-8 (ESV): "As for me, I have set my King on Zion, my holy hill. I will tell of the decree: The LORD said to me, 'You are my Son; today I have begotten you. Ask of me, and I will make the nations your heritage ...'" Psalm 2:10 (ESV): "Now therefore, O kings, be wise; be warned, O rulers of the earth." Hebrews 4:15 (ESV), of Jesus: "one who in every respect has been tempted as we are, yet without sin."</li>
+    <li id="ref-14"><a href="#cite-14" class="ref-back">&#8617;</a> That David, a king whom the LORD corrected and forgave, is one of the kings the LORD warns and is not the King of Psalm 2:6 is the study's own conclusion from Psalm 2:6-10; 2 Samuel 12:1, 7, 13; and Acts 4:25.</li>
+    <li id="ref-15"><a href="#cite-15" class="ref-back">&#8617;</a> Luther, on Psalm 2:10, trans. Cole, vol. 1, p. 94: "And mark the force of the adverb 'now.' 'Now,' saith the prophet, that Christ is appointed king of all." Psalm 2:10, Hebrew we'attah, "and now": see the Word Analysis on "Now therefore." That the LORD gives the commands of Psalm 2:10 now that He has set His King on Zion, in a time after David, is the study's own conclusion from Luther and [13]-[14].</li>
+    <li id="ref-16"><a href="#cite-16" class="ref-back">&#8617;</a> Luther, on Psalm 2:10, trans. Cole, vol. 1, p. 94 (see [15]): "Christ is appointed king of all." For Jesus as the King the LORD set on Zion, see the Psalm 2:6 Fulfillment.</li>
+    <li id="ref-17"><a href="#cite-17" class="ref-back">&#8617;</a> Luther, on Psalm 2:10, trans. Cole, vol. 1, p. 94: "It will be the most difficult thing possible to acknowledge him King who died such a desperate and ignominious death." Luther names a second hindrance, p. 95: "He sets before you the cross and death."</li>
+    <li id="ref-18"><a href="#cite-18" class="ref-back">&#8617;</a> 1 Corinthians 1:23 (ESV): "but we preach Christ crucified, a stumbling block to Jews and folly to Gentiles," Luther cites the same text at the same place, trans. Cole, vol. 1, p. 94: "This is the height of foolishness to the Gentiles and a stumbling-block to the Jews." See also 1 Corinthians 2:8 (ESV): "None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory." Acts 13:27 (ESV): "For those who live in Jerusalem and their rulers, because they did not recognize him nor understand the utterances of the prophets, which are read every Sabbath, fulfilled them by condemning him."</li>
+    <li id="ref-19"><a href="#cite-19" class="ref-back">&#8617;</a> Luther, on Psalm 2:10, trans. Cole, vol. 1, p. 94: "For sense strongly resists such a faith, reason abhors it, experience denies it, and there is no example to support it." Luther, p. 95, on "be wise": "this understanding ... is faith itself." That the wisdom Psalm 2:10 commands is to know the crucified Jesus as the reigning King is the study's own conclusion from Luther at [15] and [17] and 1 Corinthians 1:23.</li>
+    <li id="ref-20"><a href="#cite-20" class="ref-back">&#8617;</a> 1 Corinthians 1:24 (ESV): "but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God." 1 Corinthians 1:30 (ESV): "And because of him you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption,"</li>
+    <li id="ref-21"><a href="#cite-21" class="ref-back">&#8617;</a> 2 Timothy 3:15 (ESV), Paul writing to Timothy: "and how from childhood you have been acquainted with the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus." The link between 2 Timothy 3:15 and Psalm 2:10 is the study's own; The Lutheran Study Bible gives no cross-references on Psalm 2:10.</li>
+    <li id="ref-22"><a href="#cite-22" class="ref-back">&#8617;</a> Formula of Concord, Solid Declaration II 26: the Holy Ghost "opens the understanding and heart to understand the Scriptures"; "He works faith ... Eph. 2:8: It is the gift of God." SD II 71: the Holy Ghost "through preaching and meditation upon His Word kindles in us faith."</li>
+    <li id="ref-23"><a href="#cite-23" class="ref-back">&#8617;</a> Ephesians 1:7 (ESV): "In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace," Ephesians 2:8 (ESV): "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God," For David, see [12].</li>
+    <li id="ref-24"><a href="#cite-24" class="ref-back">&#8617;</a> Luther, <em>Operationes in Psalmos</em> (1519-21), on Psalm 2:10, trans. Henry Cole, <em>Luther's Commentary on the First Twenty-Two Psalms</em>, vol. 1, p. 93: the Spirit "admonishes first these in a friendly and fatherly manner, that they follow not their own inclination but that they be more docile to be taught, since they direct not their own affairs, but those of their subjects, and because when they fall into error they bring all their people with them into misfortune." Matthew 15:14 (ESV): "Let them alone; they are blind guides. And if the blind lead the blind, both will fall into a pit."</li>
+    <li id="ref-25"><a href="#cite-25" class="ref-back">&#8617;</a> Large Catechism, Fourth Commandment 141: "For all authority flows and is propagated from the authority of parents." 142: "all whom we call masters are in the place of parents and must derive their power and authority to govern from them. Hence also they are all called fathers in the Scriptures." 142: "So also they called their national rulers and overlords patres patriae, that is, fathers of the entire country." 150: "obedience to civil government, which (as we have said) is all embraced in the estate of fatherhood and extends farthest of all relations." Luther, on Psalm 2:10, trans. Cole, vol. 1, p. 92: the prophet seeks "to bring down kings, judges of the earth, masters, rulers, teachers, and popes ... to the rank of pupils." The list of examples is illustrative. That the people under parents, employers and teachers follow them into error applies Luther's words at [24] to those leaders.</li>
+    <li id="ref-26"><a href="#cite-26" class="ref-back">&#8617;</a> Luther, on Psalm 2:10, trans. Cole, vol. 1, p. 94: "every lowest hearer be left free to judge what the higher person advances in those things which pertain unto faith, as far as the law of God will allow"; "God is wont to reveal unto the lowest what he does not deign to reveal unto the highest." Luther speaks of hearers and priests in the church; applying his words to households and workplaces is the study's own application. On the proud who refuse to be taught (p. 93), Luther cites John 9:34 (ESV): "They answered him, 'You were born in utter sin, and would you teach us?' And they cast him out."</li>
+    <li id="ref-27"><a href="#cite-27" class="ref-back">&#8617;</a> <em>The Lutheran Study Bible</em>, note on Psalm 2:10: "It should be the first care of kings to advance God's glory" (Tr 54). Treatise on the Power and Primacy of the Pope 54: kings and princes "ought to guard the interests of the Church, and to see to it that errors be removed and consciences be healed [rightly instructed], as God expressly exhorts kings, Ps. 2:10: Be wise, now, therefore, O ye kings; be instructed, ye judges of the earth. For it should be the first care of kings [and great lords] to advance the glory of God."</li>
+    <li id="ref-28"><a href="#cite-28" class="ref-back">&#8617;</a> Large Catechism, Fourth Commandment 168: "they should consider that they are under obligations of obedience to God; and that, first of all, they should earnestly and faithfully discharge their office, not only to support and provide for the bodily necessities of their children, servants, subjects, etc., but, most of all, to train them to the honor and praise of God." Large Catechism, Fourth Commandment 169: "Therefore do not think that this is left to your pleasure and arbitrary will, but that it is a strict command and injunction of God, to whom also you must give account for it."</li>
+    <li id="ref-29"><a href="#cite-29" class="ref-back">&#8617;</a> Small Catechism, headings to the Ten Commandments and the Creed: "As the head of the family should teach them in a simple way to his household"; "As the head of the family should teach it in a simple way to his household." Table of Duties, "For Parents": "Ye fathers, provoke not your children to wrath, but bring them up in the nurture and admonition of the Lord. Eph. 6:4." Large Catechism, Short Preface 4: "it is the duty of every father of a family to question and examine his children and servants at least once a week." Ephesians 6:4 (ESV): "Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord." See also Large Catechism 168-169 at [28].</li>
+    <li id="ref-30"><a href="#cite-30" class="ref-back">&#8617;</a> Large Catechism, Fourth Commandment 169: "Therefore do not think that this is left to your pleasure and arbitrary will, but that it is a strict command and injunction of God, to whom also you must give account for it." Small Catechism, heading to the Ten Commandments: "As the head of the family should teach them in a simple way to his household." That a head of a household who has never taught the Small Catechism has left this duty undone is the study's own application of these words. See also [28].</li>
+    <li id="ref-31"><a href="#cite-31" class="ref-back">&#8617;</a> 2 Timothy 3:16 (ESV): "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, . . ."</li>
+    <li id="ref-32"><a href="#cite-32" class="ref-back">&#8617;</a> Ecclesiastes 7:20 (ESV): "Surely there is not a righteous man on earth who does good and never sins." That every leader has failed to keep the duty of Large Catechism 168 (see [28]) is the study's own application of Ecclesiastes 7:20.</li>
+    <li id="ref-33"><a href="#cite-33" class="ref-back">&#8617;</a> 1 Peter 2:24 (ESV): "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed." Psalm 2:6 (ESV): "As for me, I have set my King on Zion, my holy hill."</li>
+    <li id="ref-34"><a href="#cite-34" class="ref-back">&#8617;</a> 1 Peter 2:25 (ESV): "For you were straying like sheep, but have now returned to the Shepherd and Overseer of your souls."</li>
+    <li id="ref-35"><a href="#cite-35" class="ref-back">&#8617;</a> Psalm 2:6 (ESV): "As for me, I have set my King on Zion, my holy hill." Psalm 2:7 (ESV): "... The LORD said to me, 'You are my Son; today I have begotten you.'" Psalm 2:10 (ESV): "Now therefore, O kings, be wise; be warned, O rulers of the earth." On "be warned" (Hebrew hiwwaseru, from yasar), "let oneself be corrected, admonished": see the Word Analysis on "be warned."</li>
+    <li id="ref-36"><a href="#cite-36" class="ref-back">&#8617;</a> Large Catechism, Fourth Commandment 141: "For all authority flows and is propagated from the authority of parents." 142: "all whom we call masters are in the place of parents and must derive their power and authority to govern from them." 150: "obedience to civil government, which (as we have said) is all embraced in the estate of fatherhood and extends farthest of all relations." 168 (see [37]): God assigns "to them this honor, that is, power and authority to govern." Luther, <em>Operationes in Psalmos</em> (1519-21), on Psalm 2:10, trans. Henry Cole, <em>Luther's Commentary on the First Twenty-Two Psalms</em>, vol. 1, p. 92: the prophet seeks "to bring down kings, judges of the earth, masters, rulers, teachers, and popes ... to the rank of pupils." Home and work are examples. That the LORD's warning to kings reaches the person praying is the study's own application of these words.</li>
+    <li id="ref-37"><a href="#cite-37" class="ref-back">&#8617;</a> Large Catechism, Fourth Commandment 168: "nor does He assign to them this honor, that is, power and authority to govern, that they should have themselves worshiped." Treatise on the Power and Primacy of the Pope 54: "For it should be the first care of kings [and great lords] to advance the glory of God."</li>
+    <li id="ref-38"><a href="#cite-38" class="ref-back">&#8617;</a> Large Catechism, Fourth Commandment 168: "but, most of all, to train them to the honor and praise of God." 169: "Therefore do not think that this is left to your pleasure and arbitrary will, but that it is a strict command and injunction of God, to whom also you must give account for it."</li>
+    <li id="ref-39"><a href="#cite-39" class="ref-back">&#8617;</a> Luther, on Psalm 2:10, trans. Cole, vol. 1, p. 92: kings "being inflated with both their title and their office to instruct the people ... considering all others fools, and ignorant, and standing in need of being taught and instructed themselves." p. 93: the proud "have always in their mouths that of John 9:34, 'Dost thou teach us?'" John 9:34 (ESV): "They answered him, 'You were born in utter sin, and would you teach us?' And they cast him out." p. 94: "God is wont to reveal unto the lowest what he does not deign to reveal unto the highest." Luther speaks of hearers and priests in the church; applying his words to homes and workplaces is the study's own application.</li>
+    <li id="ref-40"><a href="#cite-40" class="ref-back">&#8617;</a> Galatians 3:13 (ESV): "Christ redeemed us from the curse of the law by becoming a curse for us&#8212;for it is written, 'Cursed is everyone who is hanged on a tree'&#8212;" Luther, on Psalm 2:10, trans. Cole, vol. 1, p. 94: "Christ, who was crucified by you, who died and was condemned, and even accursed, according to the law of Moses." The sins the prayer names here, the wish to be honored instead of God and the refusal to be taught, are examples of the sin the Law condemns.</li>
+    <li id="ref-41"><a href="#cite-41" class="ref-back">&#8617;</a> 1 Corinthians 1:30 (ESV): "And because of him you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption,"</li>
+    <li id="ref-42"><a href="#cite-42" class="ref-back">&#8617;</a> Luther, on Psalm 2:10, trans. Cole, vol. 1, p. 95: "this understanding is not that concerning which philosophers dispute, but is faith itself." p. 94: "It will be the most difficult thing possible to acknowledge him King who died such a desperate and ignominious death." 2 Timothy 3:15 (ESV): the sacred writings "are able to make you wise for salvation through faith in Christ Jesus." Formula of Concord, Solid Declaration II 71: the Holy Ghost "through preaching and meditation upon His Word kindles in us faith." SD II 16: "we should pray Him without ceasing that through the same spirit and His grace, by means of the daily exercise of reading and practising God's Word, He would preserve in us faith and His heavenly gifts, strengthen us from day to day, and keep us to the end."</li>
+    <li id="ref-43"><a href="#cite-43" class="ref-back">&#8617;</a> Treatise 54 (see [37]): "it should be the first care of kings [and great lords] to advance the glory of God." Large Catechism, Fourth Commandment 168 (see [38]) gives everyone who governs others a duty like the king's. Asking for this first care toward the people under the person praying is the study's own application.</li>
+    <li id="ref-44"><a href="#cite-44" class="ref-back">&#8617;</a> John 6:45 (ESV): "It is written in the Prophets, 'And they will all be taught by God.' Everyone who has heard and learned from the Father comes to me&#8212;" Isaiah 54:13 (ESV), the prophet's words that John 6:45 cites, and which Luther also cites on Psalm 2:10 (trans. Cole, vol. 1, p. 94): "All your children shall be taught by the LORD, and great shall be the peace of your children."</li>
   </ol>
 </div>
 </details>
